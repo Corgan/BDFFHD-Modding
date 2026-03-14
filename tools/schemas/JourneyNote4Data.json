@@ -1,0 +1,49 @@
+{
+  "name": "JourneyNote4Data",
+  "description": "8 int32s, 32 bytes per record, 8 string fields",
+  "files": [
+    "JourneyNote4Data.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pSubTitle",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "type",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "pText",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "pArchiveName",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "pTextureName",
+      "index": 6,
+      "string": "ascii"
+    },
+    {
+      "name": "pOverwrapTextureName",
+      "index": 7,
+      "string": "ascii"
+    }
+  ]
+}

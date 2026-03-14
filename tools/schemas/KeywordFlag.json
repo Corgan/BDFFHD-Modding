@@ -1,0 +1,17 @@
+{
+  "name": "KeywordFlag",
+  "description": "Keyword/glossary discovery flag (2 int32s per record)",
+  "files": [
+    "KeywordFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "flag",
+      "index": 1
+    }
+  ]
+}

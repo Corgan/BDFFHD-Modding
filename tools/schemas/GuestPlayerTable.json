@@ -1,0 +1,75 @@
+{
+  "name": "GuestPlayerTable",
+  "description": "35 int32s, 140 bytes per record, 2 string fields",
+  "files": [
+    "GuestPlayerTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "NO",
+      "index": 0
+    },
+    {
+      "name": "PATTERN",
+      "index": 1
+    },
+    {
+      "name": "MII",
+      "index": 2
+    },
+    {
+      "name": "NAME_USER",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "DECORATION_ID",
+      "index": 4
+    },
+    {
+      "name": "COMMENT",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "PLAYTIME",
+      "index": 6
+    },
+    {
+      "name": "MAXPOWER",
+      "index": 7
+    },
+    {
+      "name": "JOB_COUNT",
+      "index": 8
+    },
+    {
+      "name": "ABILITY_COUNT",
+      "index": 9
+    },
+    {
+      "name": "VILLAGER_COUNT",
+      "index": 10
+    },
+    {
+      "name": "CHARACTER",
+      "index": 12,
+      "count": 2
+    },
+    {
+      "name": "CHARACTER",
+      "index": 14,
+      "count": 2
+    },
+    {
+      "name": "FRIEND_SOMMONER",
+      "index": 16,
+      "count": 10
+    },
+    {
+      "name": "PARAM",
+      "index": 26,
+      "count": 9
+    }
+  ]
+}

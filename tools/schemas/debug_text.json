@@ -1,0 +1,19 @@
+{
+  "name": "debug_text",
+  "description": "Debug menu text labels (ascii label + utf16 display text)",
+  "files": [
+    "debug_text.btb"
+  ],
+  "fields": [
+    {
+      "name": "label",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "text",
+      "index": 1,
+      "string": "utf16"
+    }
+  ]
+}

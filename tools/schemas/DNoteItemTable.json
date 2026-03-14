@@ -1,0 +1,17 @@
+{
+  "name": "DNoteItemTable",
+  "description": "2 int32s, 8 bytes per record",
+  "files": [
+    "DNoteItemTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "INDEX",
+      "index": 1
+    }
+  ]
+}

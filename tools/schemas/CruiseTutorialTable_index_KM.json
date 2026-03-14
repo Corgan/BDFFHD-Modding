@@ -1,0 +1,22 @@
+{
+  "name": "CruiseTutorialTable_index_KM",
+  "description": "3 int32s, 12 bytes per record, 1 string fields",
+  "files": [
+    "CruiseTutorialTable_index_KM.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pageCount",
+      "index": 1
+    },
+    {
+      "name": "pTitle",
+      "index": 2,
+      "string": "utf16"
+    }
+  ]
+}

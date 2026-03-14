@@ -1,6 +1,9 @@
 {
   "name": "PcTable",
   "description": "Player character base parameters (48 int32s, 192 bytes)",
+  "files": [
+    "PcTable.btb"
+  ],
   "fields": [
     {
       "name": "NO",

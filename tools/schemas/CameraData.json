@@ -1,0 +1,37 @@
+{
+  "name": "CameraData",
+  "description": "7 int32s, 28 bytes per record",
+  "files": [
+    "CameraData.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "isAttachChara",
+      "index": 1
+    },
+    {
+      "name": "isCharaRot",
+      "index": 2
+    },
+    {
+      "name": "existSideChange",
+      "index": 3
+    },
+    {
+      "name": "existBiggestType",
+      "index": 4
+    },
+    {
+      "name": "depthLevel",
+      "index": 5
+    },
+    {
+      "name": "isOffset",
+      "index": 6
+    }
+  ]
+}

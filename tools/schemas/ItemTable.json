@@ -1,6 +1,9 @@
 {
   "name": "ItemTable",
   "description": "Equipment and consumable items (163 int32s, 652 bytes)",
+  "files": [
+    "ItemTable.btb"
+  ],
   "fields": [
     {
       "name": "ITEM_ID",

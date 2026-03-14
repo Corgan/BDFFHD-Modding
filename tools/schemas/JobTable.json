@@ -1,6 +1,9 @@
 {
   "name": "JobTable",
   "description": "Job class definitions",
+  "files": [
+    "JobTable.btb"
+  ],
   "fields": [
     {
       "name": "NO",

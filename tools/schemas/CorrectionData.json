@@ -1,0 +1,121 @@
+{
+  "name": "CorrectionData",
+  "description": "28 int32s, 112 bytes per record",
+  "files": [
+    "CorrectionData.btb"
+  ],
+  "fields": [
+    {
+      "name": "criticalDamagePercent",
+      "index": 0
+    },
+    {
+      "name": "elementRegistCoeffFatal",
+      "index": 1
+    },
+    {
+      "name": "elementRegistCoeffWeak",
+      "index": 2
+    },
+    {
+      "name": "elementRegistCoeffHalfDamage",
+      "index": 3
+    },
+    {
+      "name": "elementRegistCoeffNoDamage",
+      "index": 4
+    },
+    {
+      "name": "berserkDamagePercent",
+      "index": 5
+    },
+    {
+      "name": "guardDamagePercent",
+      "index": 6
+    },
+    {
+      "name": "speciesAtkRate",
+      "index": 7
+    },
+    {
+      "name": "footGripAtkRate",
+      "index": 8
+    },
+    {
+      "name": "footGripDefRate",
+      "index": 9
+    },
+    {
+      "name": "revenge_0",
+      "index": 10
+    },
+    {
+      "name": "revenge_1",
+      "index": 11
+    },
+    {
+      "name": "revenge_2",
+      "index": 12
+    },
+    {
+      "name": "riskHeadgeRate",
+      "index": 13
+    },
+    {
+      "name": "aspilRate",
+      "index": 14
+    },
+    {
+      "name": "magSympathy_0",
+      "index": 15
+    },
+    {
+      "name": "magSympathy_1",
+      "index": 16
+    },
+    {
+      "name": "magSympathy_2",
+      "index": 17
+    },
+    {
+      "name": "magSympathy_3",
+      "index": 18
+    },
+    {
+      "name": "robRate",
+      "index": 19
+    },
+    {
+      "name": "spiritBarrierRate",
+      "index": 20
+    },
+    {
+      "name": "deadCountRate",
+      "index": 21
+    },
+    {
+      "name": "buffUp",
+      "index": 22
+    },
+    {
+      "name": "guardDefaultRate",
+      "index": 23
+    },
+    {
+      "name": "statusBuff",
+      "index": 24
+    },
+    {
+      "name": "statusShort",
+      "index": 25
+    },
+    {
+      "name": "shadowCopyRate",
+      "index": 26
+    },
+    {
+      "name": "poisonRatio",
+      "index": 27
+    }
+  ]
+}

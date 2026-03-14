@@ -1,0 +1,14 @@
+{
+  "name": "ReverseEffect",
+  "description": "1 int32s, 4 bytes per record, 1 string fields",
+  "files": [
+    "ReverseEffect.btb"
+  ],
+  "fields": [
+    {
+      "name": "pReverseHitEffectName",
+      "index": 0,
+      "string": "ascii"
+    }
+  ]
+}

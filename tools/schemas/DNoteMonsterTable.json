@@ -1,0 +1,30 @@
+{
+  "name": "DNoteMonsterTable",
+  "description": "5 int32s, 20 bytes per record, 1 string fields",
+  "files": [
+    "DNoteMonsterTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "ECID",
+      "index": 0
+    },
+    {
+      "name": "NAME",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "INDEX",
+      "index": 2
+    },
+    {
+      "name": "CATEGORY",
+      "index": 3
+    },
+    {
+      "name": "NOENTRY",
+      "index": 4
+    }
+  ]
+}

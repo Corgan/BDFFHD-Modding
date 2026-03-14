@@ -1,6 +1,9 @@
 {
   "name": "BtlDifficult",
   "description": "Battle difficulty stat multipliers (13 int32s, 52 bytes)",
+  "files": [
+    "BtlDifficult.btb"
+  ],
   "fields": [
     {
       "name": "ATK",

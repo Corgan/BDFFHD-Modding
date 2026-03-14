@@ -1,0 +1,26 @@
+{
+  "name": "JourneyNote2Index",
+  "description": "4 int32s, 16 bytes per record, 1 string fields",
+  "files": [
+    "JourneyNote2Index.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "id",
+      "index": 2
+    },
+    {
+      "name": "page",
+      "index": 3
+    }
+  ]
+}

@@ -68,7 +68,7 @@ class BTBFile:
         if byte_offset < 0 or byte_offset >= len(self.ascii_strings):
             return ""
         end = self.ascii_strings.index(0, byte_offset) if 0 in self.ascii_strings[byte_offset:] else len(self.ascii_strings)
-        return self.ascii_strings[byte_offset:end].decode("ascii", errors="replace")
+        return self.ascii_strings[byte_offset:end].decode("cp932", errors="replace")
 
     def get_utf16(self, byte_offset: int) -> str:
         """Get null-terminated UTF-16LE string at byte offset in UTF-16 table."""
@@ -88,7 +88,7 @@ class BTBFile:
         pos = 0
         while pos < len(self.ascii_strings):
             end = self.ascii_strings.index(0, pos) if 0 in self.ascii_strings[pos:] else len(self.ascii_strings)
-            s = self.ascii_strings[pos:end].decode("ascii", errors="replace")
+            s = self.ascii_strings[pos:end].decode("cp932", errors="replace")
             result.append((pos, s))
             pos = end + 1
         return result
@@ -246,14 +246,17 @@ def _load_schemas() -> dict:
 
 SCHEMAS = _load_schemas()
 
+# Build reverse lookup: filename → schema
+_FILE_TO_SCHEMA = {}
+for _schema in SCHEMAS.values():
+    for _fname in _schema.get("files", []):
+        _FILE_TO_SCHEMA[_fname] = _schema
+
 
 def auto_detect_schema(filepath: str) -> dict | None:
     """Try to detect the schema from the filename."""
-    name = Path(filepath).stem
-    for key in SCHEMAS:
-        if name.startswith(key) or name == key:
-            return SCHEMAS[key]
-    return None
+    name = Path(filepath).name
+    return _FILE_TO_SCHEMA.get(name)
 
 
 def cmd_info(args):

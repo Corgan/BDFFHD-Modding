@@ -1,0 +1,17 @@
+{
+  "name": "ReinforceList",
+  "description": "2 int32s, 8 bytes per record",
+  "files": [
+    "ReinforceList.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "charaID",
+      "index": 1
+    }
+  ]
+}

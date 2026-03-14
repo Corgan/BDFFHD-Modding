@@ -1,0 +1,35 @@
+{
+  "name": "KeywordIndex",
+  "description": "6 int32s, 24 bytes per record, 2 string fields",
+  "files": [
+    "KeywordIndex.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "id",
+      "index": 2
+    },
+    {
+      "name": "pSubTitle",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "pageDataIndex",
+      "index": 4
+    },
+    {
+      "name": "gameFlag",
+      "index": 5
+    }
+  ]
+}

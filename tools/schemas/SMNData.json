@@ -1,0 +1,129 @@
+{
+  "name": "SMNData",
+  "description": "30 int32s, 120 bytes per record",
+  "files": [
+    "SMNData.btb"
+  ],
+  "fields": [
+    {
+      "name": "data_0",
+      "index": 0
+    },
+    {
+      "name": "data_1",
+      "index": 1
+    },
+    {
+      "name": "data_2",
+      "index": 2
+    },
+    {
+      "name": "data_3",
+      "index": 3
+    },
+    {
+      "name": "data_4",
+      "index": 4
+    },
+    {
+      "name": "data_5",
+      "index": 5
+    },
+    {
+      "name": "data_6",
+      "index": 6
+    },
+    {
+      "name": "data_7",
+      "index": 7
+    },
+    {
+      "name": "data_8",
+      "index": 8
+    },
+    {
+      "name": "data_9",
+      "index": 9
+    },
+    {
+      "name": "data_10",
+      "index": 10
+    },
+    {
+      "name": "data_11",
+      "index": 11
+    },
+    {
+      "name": "data_12",
+      "index": 12
+    },
+    {
+      "name": "data_13",
+      "index": 13
+    },
+    {
+      "name": "data_14",
+      "index": 14
+    },
+    {
+      "name": "data_15",
+      "index": 15
+    },
+    {
+      "name": "data_16",
+      "index": 16
+    },
+    {
+      "name": "data_17",
+      "index": 17
+    },
+    {
+      "name": "data_18",
+      "index": 18
+    },
+    {
+      "name": "data_19",
+      "index": 19
+    },
+    {
+      "name": "data_20",
+      "index": 20
+    },
+    {
+      "name": "data_21",
+      "index": 21
+    },
+    {
+      "name": "data_22",
+      "index": 22
+    },
+    {
+      "name": "data_23",
+      "index": 23
+    },
+    {
+      "name": "data_24",
+      "index": 24
+    },
+    {
+      "name": "data_25",
+      "index": 25
+    },
+    {
+      "name": "data_26",
+      "index": 26
+    },
+    {
+      "name": "data_27",
+      "index": 27
+    },
+    {
+      "name": "data_28",
+      "index": 28
+    },
+    {
+      "name": "data_29",
+      "index": 29
+    }
+  ]
+}

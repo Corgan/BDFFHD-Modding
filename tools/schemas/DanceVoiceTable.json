@@ -1,0 +1,22 @@
+{
+  "name": "DanceVoiceTable",
+  "description": "3 int32s, 12 bytes per record, 1 string fields",
+  "files": [
+    "DanceVoiceTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "m_type",
+      "index": 0
+    },
+    {
+      "name": "m_id",
+      "index": 1
+    },
+    {
+      "name": "m_name",
+      "index": 2,
+      "string": "ascii"
+    }
+  ]
+}

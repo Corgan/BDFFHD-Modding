@@ -1,0 +1,22 @@
+{
+  "name": "ColonyPlantParameter",
+  "description": "46 int32s, 184 bytes per record",
+  "files": [
+    "PlantParameter.btb"
+  ],
+  "fields": [
+    {
+      "name": "details",
+      "index": 0,
+      "count": 2
+    },
+    {
+      "name": "presentInterval",
+      "index": 2
+    },
+    {
+      "name": "sortKey",
+      "index": 3
+    }
+  ]
+}

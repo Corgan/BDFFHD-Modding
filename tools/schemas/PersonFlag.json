@@ -1,0 +1,17 @@
+{
+  "name": "PersonFlag",
+  "description": "Person/NPC encounter flag (2 int32s per record)",
+  "files": [
+    "PersonFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "flag",
+      "index": 1
+    }
+  ]
+}

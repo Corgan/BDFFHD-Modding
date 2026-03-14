@@ -1,0 +1,35 @@
+{
+  "name": "BalloonMessage",
+  "description": "6 int32s, 24 bytes per record, 2 string fields",
+  "files": [
+    "BalloonMessage.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "friendship",
+      "index": 1
+    },
+    {
+      "name": "window1",
+      "index": 2
+    },
+    {
+      "name": "text1",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "window2",
+      "index": 4
+    },
+    {
+      "name": "text2",
+      "index": 5,
+      "string": "utf16"
+    }
+  ]
+}

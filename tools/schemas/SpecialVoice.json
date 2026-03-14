@@ -1,0 +1,22 @@
+{
+  "name": "SpecialVoice",
+  "description": "3 int32s, 12 bytes per record, 1 string fields",
+  "files": [
+    "SpecialVoice.btb"
+  ],
+  "fields": [
+    {
+      "name": "charaID",
+      "index": 0
+    },
+    {
+      "name": "pVoiceName",
+      "index": 1,
+      "string": "ascii"
+    },
+    {
+      "name": "specialType",
+      "index": 2
+    }
+  ]
+}

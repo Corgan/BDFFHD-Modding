@@ -1,0 +1,18 @@
+{
+  "name": "GuestPlayerJob",
+  "description": "25 int32s, 100 bytes per record",
+  "files": [
+    "GuestPlayerJob.btb"
+  ],
+  "fields": [
+    {
+      "name": "JOBID",
+      "index": 0
+    },
+    {
+      "name": "JOB",
+      "index": 2,
+      "count": 23
+    }
+  ]
+}

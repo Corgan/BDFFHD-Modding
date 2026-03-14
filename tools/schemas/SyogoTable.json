@@ -1,6 +1,9 @@
 {
   "name": "SyogoTable",
   "description": "Job title/epithet table (5 int32s, 20 bytes)",
+  "files": [
+    "SyogoTable.btb"
+  ],
   "fields": [
     {
       "name": "jobID",

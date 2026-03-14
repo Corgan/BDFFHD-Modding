@@ -1,0 +1,22 @@
+{
+  "name": "DTableItemData",
+  "description": "3 int32s, 12 bytes per record, 1 string fields",
+  "files": [
+    "DTableItemData.btb"
+  ],
+  "fields": [
+    {
+      "name": "PARAM_0",
+      "index": 0
+    },
+    {
+      "name": "PARAM_1",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "PARAM_2",
+      "index": 2
+    }
+  ]
+}

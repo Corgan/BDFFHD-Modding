@@ -1,6 +1,9 @@
 {
   "name": "EncountDungeonTable",
   "description": "Dungeon encounter revision table (11 int32s, 44 bytes)",
+  "files": [
+    "EncountDungeonTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

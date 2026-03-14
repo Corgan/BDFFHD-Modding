@@ -1,6 +1,9 @@
 {
   "name": "DrugCombine",
   "description": "Drug/compounding recipe combinations (3 int32s, 12 bytes)",
+  "files": [
+    "DrugCombine.btb"
+  ],
   "fields": [
     {
       "name": "ITEM1_ID",

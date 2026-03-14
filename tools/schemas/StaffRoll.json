@@ -1,0 +1,38 @@
+{
+  "name": "StaffRoll",
+  "description": "7 int32s, 28 bytes per record, 1 string fields",
+  "files": [
+    "StaffRoll.btb"
+  ],
+  "fields": [
+    {
+      "name": "a_begin",
+      "index": 0
+    },
+    {
+      "name": "a_left",
+      "index": 1
+    },
+    {
+      "name": "o_begin",
+      "index": 2
+    },
+    {
+      "name": "o_left",
+      "index": 3
+    },
+    {
+      "name": "pos",
+      "index": 4
+    },
+    {
+      "name": "type",
+      "index": 5
+    },
+    {
+      "name": "staff",
+      "index": 6,
+      "string": "utf16"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FriendShip",
+  "description": "4 int32s, 16 bytes per record",
+  "files": [
+    "FriendShip.btb"
+  ],
+  "fields": [
+    {
+      "name": "levelExp",
+      "index": 0
+    },
+    {
+      "name": "damageRate",
+      "index": 1
+    },
+    {
+      "name": "statusRate",
+      "index": 2
+    },
+    {
+      "name": "buffTurn",
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "name": "BMABlurData",
+  "description": "47 int32s, 188 bytes per record, 1 string fields",
+  "files": [
+    "BMABlurData.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "blurType",
+      "index": 1
+    },
+    {
+      "name": "pNode",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "attachType",
+      "index": 3
+    },
+    {
+      "name": "arrangePoint",
+      "index": 4
+    },
+    {
+      "name": "screenX",
+      "index": 5
+    },
+    {
+      "name": "screenY",
+      "index": 6
+    },
+    {
+      "name": "info0_start",
+      "index": 7
+    },
+    {
+      "name": "info0_time",
+      "index": 8
+    },
+    {
+      "name": "info0_alpha",
+      "index": 9
+    },
+    {
+      "name": "info0_scale",
+      "index": 10
+    },
+    {
+      "name": "info1_start",
+      "index": 11
+    },
+    {
+      "name": "info1_time",
+      "index": 12
+    },
+    {
+      "name": "info1_alpha",
+      "index": 13
+    },
+    {
+      "name": "info1_scale",
+      "index": 14
+    },
+    {
+      "name": "info2_start",
+      "index": 15
+    },
+    {
+      "name": "info2_time",
+      "index": 16
+    },
+    {
+      "name": "info2_alpha",
+      "index": 17
+    },
+    {
+      "name": "info2_scale",
+      "index": 18
+    },
+    {
+      "name": "info3_start",
+      "index": 19
+    },
+    {
+      "name": "info3_time",
+      "index": 20
+    },
+    {
+      "name": "info3_alpha",
+      "index": 21
+    },
+    {
+      "name": "info3_scale",
+      "index": 22
+    },
+    {
+      "name": "info4_start",
+      "index": 23
+    },
+    {
+      "name": "info4_time",
+      "index": 24
+    },
+    {
+      "name": "info4_alpha",
+      "index": 25
+    },
+    {
+      "name": "info4_scale",
+      "index": 26
+    },
+    {
+      "name": "info5_start",
+      "index": 27
+    },
+    {
+      "name": "info5_time",
+      "index": 28
+    },
+    {
+      "name": "info5_alpha",
+      "index": 29
+    },
+    {
+      "name": "info5_scale",
+      "index": 30
+    },
+    {
+      "name": "info6_start",
+      "index": 31
+    },
+    {
+      "name": "info6_time",
+      "index": 32
+    },
+    {
+      "name": "info6_alpha",
+      "index": 33
+    },
+    {
+      "name": "info6_scale",
+      "index": 34
+    },
+    {
+      "name": "info7_start",
+      "index": 35
+    },
+    {
+      "name": "info7_time",
+      "index": 36
+    },
+    {
+      "name": "info7_alpha",
+      "index": 37
+    },
+    {
+      "name": "info7_scale",
+      "index": 38
+    },
+    {
+      "name": "info8_start",
+      "index": 39
+    },
+    {
+      "name": "info8_time",
+      "index": 40
+    },
+    {
+      "name": "info8_alpha",
+      "index": 41
+    },
+    {
+      "name": "info8_scale",
+      "index": 42
+    },
+    {
+      "name": "info9_start",
+      "index": 43
+    },
+    {
+      "name": "info9_time",
+      "index": 44
+    },
+    {
+      "name": "info9_alpha",
+      "index": 45
+    },
+    {
+      "name": "info9_scale",
+      "index": 46
+    }
+  ]
+}

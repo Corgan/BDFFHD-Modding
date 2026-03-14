@@ -1,0 +1,17 @@
+{
+  "name": "BtlGameFlagDefine",
+  "description": "Battle game flag definitions — maps indices to game flag indices",
+  "files": [
+    "BtlGameFlagDefine.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "gameFlagIndex",
+      "index": 1
+    }
+  ]
+}

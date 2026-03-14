@@ -1,0 +1,17 @@
+{
+  "name": "GeographyFlag",
+  "description": "Geography discovery flag (2 int32s per record)",
+  "files": [
+    "GeographyFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "flag",
+      "index": 1
+    }
+  ]
+}

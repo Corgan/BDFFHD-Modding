@@ -1,0 +1,39 @@
+{
+  "name": "PartyChatTable",
+  "description": "12 int32s, 48 bytes per record",
+  "files": [
+    "PartyChatTable0.btb",
+    "PartyChatTable1.btb",
+    "PartyChatTable2.btb",
+    "PartyChatTable3.btb",
+    "PartyChatTable4.btb",
+    "PartyChatTable5.btb",
+    "PartyChatTable6.btb",
+    "PartyChatTable7.btb",
+    "PartyChatTable8.btb"
+  ],
+  "fields": [
+    {
+      "name": "SCRIPT_ID",
+      "index": 0
+    },
+    {
+      "name": "PRI",
+      "index": 1
+    },
+    {
+      "name": "TABLEINDEX",
+      "index": 2
+    },
+    {
+      "name": "ENABLE_REQUEST",
+      "index": 3,
+      "count": 5
+    },
+    {
+      "name": "DISABLE_REQUEST",
+      "index": 8,
+      "count": 4
+    }
+  ]
+}

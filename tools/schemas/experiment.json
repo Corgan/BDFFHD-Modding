@@ -1,0 +1,37 @@
+{
+  "name": "experiment",
+  "description": "7 int32s, 28 bytes per record",
+  "files": [
+    "experiment.btb"
+  ],
+  "fields": [
+    {
+      "name": "selectitem",
+      "index": 0
+    },
+    {
+      "name": "firstitem",
+      "index": 1
+    },
+    {
+      "name": "firstitemprobability",
+      "index": 2
+    },
+    {
+      "name": "seconditem",
+      "index": 3
+    },
+    {
+      "name": "seconditemprobability",
+      "index": 4
+    },
+    {
+      "name": "thirditem",
+      "index": 5
+    },
+    {
+      "name": "thirditemprobability",
+      "index": 6
+    }
+  ]
+}

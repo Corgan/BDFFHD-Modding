@@ -1,0 +1,23 @@
+{
+  "name": "MenuMagicInfoData",
+  "description": "3 int32s, 12 bytes per record, 2 string fields",
+  "files": [
+    "DetailInfoMagicTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "itID",
+      "index": 0
+    },
+    {
+      "name": "pName",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pInfo",
+      "index": 2,
+      "string": "utf16"
+    }
+  ]
+}

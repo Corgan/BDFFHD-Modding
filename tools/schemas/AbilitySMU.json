@@ -1,0 +1,21 @@
+{
+  "name": "AbilitySMU",
+  "description": "3 int32s, 12 bytes per record",
+  "files": [
+    "AbilitySMU.btb"
+  ],
+  "fields": [
+    {
+      "name": "MAGIC_LV",
+      "index": 0
+    },
+    {
+      "name": "ABILITY_ID",
+      "index": 1
+    },
+    {
+      "name": "ITEM_ID",
+      "index": 2
+    }
+  ]
+}

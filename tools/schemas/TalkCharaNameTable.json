@@ -1,0 +1,19 @@
+{
+  "name": "TalkCharaNameTable",
+  "description": "2 int32s, 8 bytes per record, 2 string fields",
+  "files": [
+    "TalkChara.btb"
+  ],
+  "fields": [
+    {
+      "name": "m_pPlateName",
+      "index": 0,
+      "string": "utf16"
+    },
+    {
+      "name": "m_pNameLabel",
+      "index": 1,
+      "string": "ascii"
+    }
+  ]
+}

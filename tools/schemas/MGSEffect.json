@@ -1,0 +1,34 @@
+{
+  "name": "MGSEffect",
+  "description": "5 int32s, 20 bytes per record, 5 string fields",
+  "files": [
+    "MGSEffect.btb"
+  ],
+  "fields": [
+    {
+      "name": "pWepEffectName",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "pHitEffectName1",
+      "index": 1,
+      "string": "ascii"
+    },
+    {
+      "name": "pHitEffectName2",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "pRingEffectName",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "pRingSEName",
+      "index": 4,
+      "string": "ascii"
+    }
+  ]
+}

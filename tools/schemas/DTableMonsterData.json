@@ -1,0 +1,28 @@
+{
+  "name": "DTableMonsterData",
+  "description": "4 int32s, 16 bytes per record, 3 string fields",
+  "files": [
+    "DTableMonsterData.btb"
+  ],
+  "fields": [
+    {
+      "name": "PARAM_0",
+      "index": 0
+    },
+    {
+      "name": "PARAM_1",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "PARAM_2",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_3",
+      "index": 3,
+      "string": "ascii"
+    }
+  ]
+}

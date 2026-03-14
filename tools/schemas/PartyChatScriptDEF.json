@@ -1,0 +1,107 @@
+{
+  "name": "PartyChatScriptDEF",
+  "description": "21 int32s, 84 bytes per record, 14 string fields",
+  "files": [
+    "PartyChatScriptDEF.btb"
+  ],
+  "fields": [
+    {
+      "name": "m_Index",
+      "index": 0
+    },
+    {
+      "name": "m_ScriptId",
+      "index": 1,
+      "string": "ascii"
+    },
+    {
+      "name": "m_WindowType",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "m_pTalker",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "m_mpTalkExprId",
+      "index": 4
+    },
+    {
+      "name": "m_mpTalkEndExprId",
+      "index": 5
+    },
+    {
+      "name": "m_mUnUseExprLoopFile",
+      "index": 6
+    },
+    {
+      "name": "m_pCharacter_0",
+      "index": 7,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_0",
+      "index": 8
+    },
+    {
+      "name": "m_pCharacter_1",
+      "index": 9,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_1",
+      "index": 10
+    },
+    {
+      "name": "m_pCharacter_2",
+      "index": 11,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_2",
+      "index": 12,
+      "string": "ascii"
+    },
+    {
+      "name": "m_pCharacter_3",
+      "index": 13,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_3",
+      "index": 14,
+      "string": "ascii"
+    },
+    {
+      "name": "m_pCharacter_4",
+      "index": 15,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_4",
+      "index": 16,
+      "string": "ascii"
+    },
+    {
+      "name": "m_pCharacter_5",
+      "index": 17,
+      "string": "ascii"
+    },
+    {
+      "name": "m_AnimType_5",
+      "index": 18,
+      "string": "ascii"
+    },
+    {
+      "name": "m_Time",
+      "index": 19
+    },
+    {
+      "name": "m_pText",
+      "index": 20,
+      "string": "utf16"
+    }
+  ]
+}

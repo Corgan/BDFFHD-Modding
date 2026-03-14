@@ -1,0 +1,53 @@
+{
+  "name": "gather",
+  "description": "11 int32s, 44 bytes per record",
+  "files": [
+    "gather.btb"
+  ],
+  "fields": [
+    {
+      "name": "mapID",
+      "index": 0
+    },
+    {
+      "name": "dropItem0_id",
+      "index": 1
+    },
+    {
+      "name": "dropItem0_rate",
+      "index": 2
+    },
+    {
+      "name": "dropItem1_id",
+      "index": 3
+    },
+    {
+      "name": "dropItem1_rate",
+      "index": 4
+    },
+    {
+      "name": "dropItem2_id",
+      "index": 5
+    },
+    {
+      "name": "dropItem2_rate",
+      "index": 6
+    },
+    {
+      "name": "dropItem3_id",
+      "index": 7
+    },
+    {
+      "name": "dropItem3_rate",
+      "index": 8
+    },
+    {
+      "name": "dropItem4_id",
+      "index": 9
+    },
+    {
+      "name": "dropItem4_rate",
+      "index": 10
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 {
   "name": "RocationTable",
   "description": "Location rotation/cycle table (13 int32s, 52 bytes)",
+  "files": [
+    "RocationTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

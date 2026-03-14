@@ -1,6 +1,9 @@
 {
   "name": "StatusTable",
   "description": "Status effect name table (2 int32s, 8 bytes)",
+  "files": [
+    "StatusTable.btb"
+  ],
   "fields": [
     {
       "name": "NO",

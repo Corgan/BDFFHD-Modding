@@ -1,0 +1,17 @@
+{
+  "name": "AllOneAbilityTable",
+  "description": "2 int32s, 8 bytes per record",
+  "files": [
+    "AllOneAbilityTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "all",
+      "index": 0
+    },
+    {
+      "name": "one",
+      "index": 1
+    }
+  ]
+}

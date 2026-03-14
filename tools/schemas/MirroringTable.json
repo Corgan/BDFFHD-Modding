@@ -1,0 +1,25 @@
+{
+  "name": "MirroringTable",
+  "description": "4 int32s, 16 bytes per record",
+  "files": [
+    "MirroringTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "jobID",
+      "index": 0
+    },
+    {
+      "name": "abilityID",
+      "index": 1
+    },
+    {
+      "name": "executeCondition",
+      "index": 2
+    },
+    {
+      "name": "targetCondition",
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MenuMessageData",
+  "description": "2 int32s, 8 bytes per record",
+  "files": [
+    "AdventurerMessageData.btb",
+    "BtlTransactionMessage.btb",
+    "DanceLyricsOfCrossfire.btb",
+    "MenuMessageData.btb"
+  ],
+  "fields": [
+    {
+      "name": "pMessage",
+      "index": 0
+    }
+  ]
+}

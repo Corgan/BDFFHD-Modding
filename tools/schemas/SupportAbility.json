@@ -1,6 +1,10 @@
 {
   "name": "SupportAbility",
   "description": "Support ability definitions (67 int32s, 268 bytes)",
+  "files": [
+    "SupportAbility.btb",
+    "SupportAbilityAL.btb"
+  ],
   "fields": [
     {
       "name": "ABILITY_ID",

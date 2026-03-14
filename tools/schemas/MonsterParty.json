@@ -1,6 +1,9 @@
 {
   "name": "MonsterParty",
   "description": "Monster encounter party formations (37 int32s, 148 bytes)",
+  "files": [
+    "MonsterParty.btb"
+  ],
   "fields": [
     {
       "name": "ECPT_ID",

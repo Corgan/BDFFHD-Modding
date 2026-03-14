@@ -1,0 +1,119 @@
+{
+  "name": "MP_UcaTable",
+  "description": "27 int32s, 108 bytes per record, 2 string fields",
+  "files": [
+    "MP_UcaTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "PARAM_0",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_1",
+      "index": 1
+    },
+    {
+      "name": "PARAM_2",
+      "index": 2
+    },
+    {
+      "name": "PARAM_3",
+      "index": 3
+    },
+    {
+      "name": "PARAM_4",
+      "index": 4
+    },
+    {
+      "name": "PARAM_5",
+      "index": 5
+    },
+    {
+      "name": "PARAM_6",
+      "index": 6
+    },
+    {
+      "name": "PARAM_7",
+      "index": 7
+    },
+    {
+      "name": "PARAM_8",
+      "index": 8
+    },
+    {
+      "name": "PARAM_9",
+      "index": 9
+    },
+    {
+      "name": "PARAM_10",
+      "index": 10
+    },
+    {
+      "name": "PARAM_11",
+      "index": 11,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_12",
+      "index": 12
+    },
+    {
+      "name": "PARAM_13",
+      "index": 13
+    },
+    {
+      "name": "PARAM_14",
+      "index": 14
+    },
+    {
+      "name": "PARAM_15",
+      "index": 15
+    },
+    {
+      "name": "PARAM_16",
+      "index": 16
+    },
+    {
+      "name": "PARAM_17",
+      "index": 17
+    },
+    {
+      "name": "PARAM_18",
+      "index": 18
+    },
+    {
+      "name": "PARAM_19",
+      "index": 19
+    },
+    {
+      "name": "PARAM_20",
+      "index": 20
+    },
+    {
+      "name": "PARAM_21",
+      "index": 21
+    },
+    {
+      "name": "PARAM_22",
+      "index": 22
+    },
+    {
+      "name": "PARAM_23",
+      "index": 23
+    },
+    {
+      "name": "PARAM_24",
+      "index": 24
+    },
+    {
+      "name": "PARAM_25",
+      "index": 25
+    },
+    {
+      "name": "PARAM_26",
+      "index": 26
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "AttrTable",
+  "description": "3 int32s, 12 bytes per record",
+  "files": [
+    "AttrTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "attr",
+      "index": 0
+    },
+    {
+      "name": "regi",
+      "index": 1
+    },
+    {
+      "name": "id",
+      "index": 2
+    }
+  ]
+}

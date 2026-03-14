@@ -1,0 +1,407 @@
+{
+  "name": "BMAData",
+  "description": "95 int32s, 380 bytes per record, 18 string fields",
+  "files": [
+    "BMAData.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "subIndex",
+      "index": 1
+    },
+    {
+      "name": "startCamera",
+      "index": 2
+    },
+    {
+      "name": "isStartCameraOffset",
+      "index": 3
+    },
+    {
+      "name": "startCameraOffsetX",
+      "index": 4
+    },
+    {
+      "name": "startCameraOffsetY",
+      "index": 5
+    },
+    {
+      "name": "startCameraOffsetZ",
+      "index": 6
+    },
+    {
+      "name": "startDisp",
+      "index": 7
+    },
+    {
+      "name": "startAnimDelay",
+      "index": 8
+    },
+    {
+      "name": "startAnimIndex",
+      "index": 9
+    },
+    {
+      "name": "loopAnimIndex",
+      "index": 10
+    },
+    {
+      "name": "endAnimIndex",
+      "index": 11
+    },
+    {
+      "name": "startEffectDelay",
+      "index": 12
+    },
+    {
+      "name": "pStartEffectName",
+      "index": 13,
+      "string": "ascii"
+    },
+    {
+      "name": "pStartEffectNodeName",
+      "index": 14,
+      "string": "ascii"
+    },
+    {
+      "name": "isStartEffectScale",
+      "index": 15
+    },
+    {
+      "name": "pStartSEName",
+      "index": 16,
+      "string": "ascii"
+    },
+    {
+      "name": "startSEDelay",
+      "index": 17
+    },
+    {
+      "name": "isStartDyeingUp",
+      "index": 18
+    },
+    {
+      "name": "startDyeingUpColorR",
+      "index": 19
+    },
+    {
+      "name": "startDyeingUpColorG",
+      "index": 20
+    },
+    {
+      "name": "startDyeingUpColorB",
+      "index": 21
+    },
+    {
+      "name": "startDyeingUpColorA",
+      "index": 22
+    },
+    {
+      "name": "startDyeingUpFrame",
+      "index": 23
+    },
+    {
+      "name": "attackEffectDelay",
+      "index": 24
+    },
+    {
+      "name": "pAttackEffectName",
+      "index": 25,
+      "string": "ascii"
+    },
+    {
+      "name": "pAttackEffectNodeName",
+      "index": 26,
+      "string": "ascii"
+    },
+    {
+      "name": "isAttackEffectScale",
+      "index": 27
+    },
+    {
+      "name": "isAttackEffectFollow",
+      "index": 28
+    },
+    {
+      "name": "attackEffectDelay2",
+      "index": 29
+    },
+    {
+      "name": "pAttackEffectName2",
+      "index": 30,
+      "string": "ascii"
+    },
+    {
+      "name": "pAttackEffectNodeName2",
+      "index": 31,
+      "string": "ascii"
+    },
+    {
+      "name": "isAttackEffectScale2",
+      "index": 32
+    },
+    {
+      "name": "isAttackEffectFollow2",
+      "index": 33
+    },
+    {
+      "name": "attackWepEffectDelay",
+      "index": 34
+    },
+    {
+      "name": "pAttackWepEffectName",
+      "index": 35,
+      "string": "ascii"
+    },
+    {
+      "name": "isAttackWepEffectScale",
+      "index": 36
+    },
+    {
+      "name": "pAttackSEName",
+      "index": 37,
+      "string": "ascii"
+    },
+    {
+      "name": "attackSEDelay",
+      "index": 38
+    },
+    {
+      "name": "attackBlurIndex",
+      "index": 39,
+      "string": "utf16"
+    },
+    {
+      "name": "wakeupWait",
+      "index": 40
+    },
+    {
+      "name": "isMove",
+      "index": 41
+    },
+    {
+      "name": "isHitStartDyeingUp",
+      "index": 42
+    },
+    {
+      "name": "hitDyeingUpColorR",
+      "index": 43
+    },
+    {
+      "name": "hitDyeingUpColorG",
+      "index": 44
+    },
+    {
+      "name": "hitDyeingUpColorB",
+      "index": 45
+    },
+    {
+      "name": "hitDyeingUpColorA",
+      "index": 46
+    },
+    {
+      "name": "hitDyeingUpFrame",
+      "index": 47
+    },
+    {
+      "name": "hitCamera",
+      "index": 48
+    },
+    {
+      "name": "hitDisp",
+      "index": 49
+    },
+    {
+      "name": "pHitEffectName",
+      "index": 50,
+      "string": "ascii"
+    },
+    {
+      "name": "pHitEffectNodeName",
+      "index": 51,
+      "string": "ascii"
+    },
+    {
+      "name": "isHitEffectOffset",
+      "index": 52
+    },
+    {
+      "name": "hitEffectRotX",
+      "index": 53
+    },
+    {
+      "name": "hitEffectRotY",
+      "index": 54
+    },
+    {
+      "name": "hitEffectRotZ",
+      "index": 55
+    },
+    {
+      "name": "hitEffectMoveType",
+      "index": 56
+    },
+    {
+      "name": "hitEffectStartFrame",
+      "index": 57
+    },
+    {
+      "name": "pHitSEName",
+      "index": 58,
+      "string": "ascii"
+    },
+    {
+      "name": "hitSEDelay",
+      "index": 59
+    },
+    {
+      "name": "isHitShake",
+      "index": 60
+    },
+    {
+      "name": "hitShakeX",
+      "index": 61
+    },
+    {
+      "name": "hitShakeY",
+      "index": 62
+    },
+    {
+      "name": "hitShakeZ",
+      "index": 63
+    },
+    {
+      "name": "hitShakeCicleA",
+      "index": 64
+    },
+    {
+      "name": "hitShakeCicleB",
+      "index": 65
+    },
+    {
+      "name": "hitShakeX2",
+      "index": 66
+    },
+    {
+      "name": "hitShakeY2",
+      "index": 67
+    },
+    {
+      "name": "hitShakeZ2",
+      "index": 68
+    },
+    {
+      "name": "hitShakeCicle2A",
+      "index": 69
+    },
+    {
+      "name": "hitShakeCicle2B",
+      "index": 70
+    },
+    {
+      "name": "hitShakeDuration",
+      "index": 71
+    },
+    {
+      "name": "hitShakeWait",
+      "index": 72
+    },
+    {
+      "name": "hitMessageWait",
+      "index": 73
+    },
+    {
+      "name": "hitMessageTime",
+      "index": 74
+    },
+    {
+      "name": "pHitMessage",
+      "index": 75,
+      "string": "utf16"
+    },
+    {
+      "name": "hitDelay",
+      "index": 76
+    },
+    {
+      "name": "hitBlurIndex",
+      "index": 77
+    },
+    {
+      "name": "returnCamera",
+      "index": 78
+    },
+    {
+      "name": "returnDisp",
+      "index": 79
+    },
+    {
+      "name": "returnDelay",
+      "index": 80
+    },
+    {
+      "name": "pReturnEffectName",
+      "index": 81,
+      "string": "ascii"
+    },
+    {
+      "name": "pReturnEffectNodeName",
+      "index": 82,
+      "string": "ascii"
+    },
+    {
+      "name": "isReturnEffectScale",
+      "index": 83
+    },
+    {
+      "name": "pReturnSEName",
+      "index": 84,
+      "string": "ascii"
+    },
+    {
+      "name": "returnSEDelay",
+      "index": 85
+    },
+    {
+      "name": "returnMessageWait",
+      "index": 86
+    },
+    {
+      "name": "returnMessageTime",
+      "index": 87
+    },
+    {
+      "name": "pReturnMessage",
+      "index": 88,
+      "string": "utf16"
+    },
+    {
+      "name": "returnWait",
+      "index": 89
+    },
+    {
+      "name": "endWait",
+      "index": 90
+    },
+    {
+      "name": "allType",
+      "index": 91
+    },
+    {
+      "name": "allWait",
+      "index": 92
+    },
+    {
+      "name": "allCamera",
+      "index": 93
+    },
+    {
+      "name": "allDisp",
+      "index": 94
+    }
+  ]
+}

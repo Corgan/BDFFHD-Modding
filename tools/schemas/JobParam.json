@@ -1,0 +1,93 @@
+{
+  "name": "JobParam",
+  "description": "Per-job level-up parameters (17 int32s, 68 bytes). Used by JobTable00-23.btb",
+  "files": [
+    "JobTable00.btb",
+    "JobTable01.btb",
+    "JobTable02.btb",
+    "JobTable03.btb",
+    "JobTable04.btb",
+    "JobTable05.btb",
+    "JobTable06.btb",
+    "JobTable07.btb",
+    "JobTable08.btb",
+    "JobTable09.btb",
+    "JobTable10.btb",
+    "JobTable11.btb",
+    "JobTable12.btb",
+    "JobTable13.btb",
+    "JobTable14.btb",
+    "JobTable15.btb",
+    "JobTable16.btb",
+    "JobTable17.btb",
+    "JobTable18.btb",
+    "JobTable19.btb",
+    "JobTable20.btb",
+    "JobTable21.btb",
+    "JobTable22.btb",
+    "JobTable23.btb"
+  ],
+  "fields": [
+    {
+      "name": "LV",
+      "index": 0
+    },
+    {
+      "name": "TARGET_EXP",
+      "index": 1
+    },
+    {
+      "name": "DIFF_EXP",
+      "index": 2
+    },
+    {
+      "name": "CR",
+      "index": 3
+    },
+    {
+      "name": "RATE_HP",
+      "index": 4
+    },
+    {
+      "name": "RATE_MP",
+      "index": 5
+    },
+    {
+      "name": "RATE_STR",
+      "index": 6
+    },
+    {
+      "name": "RATE_VIT",
+      "index": 7
+    },
+    {
+      "name": "RATE_INT",
+      "index": 8
+    },
+    {
+      "name": "RATE_MND",
+      "index": 9
+    },
+    {
+      "name": "RATE_AGI",
+      "index": 10
+    },
+    {
+      "name": "RATE_DEX",
+      "index": 11
+    },
+    {
+      "name": "TRA",
+      "index": 12
+    },
+    {
+      "name": "ABI",
+      "index": 14,
+      "count": 3
+    },
+    {
+      "name": "CMD",
+      "index": 16
+    }
+  ]
+}

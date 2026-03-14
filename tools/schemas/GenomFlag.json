@@ -1,0 +1,13 @@
+{
+  "name": "GenomFlag",
+  "description": "Genome/enemy skill collection flag (1 int32 per record)",
+  "files": [
+    "GenomFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "flag",
+      "index": 0
+    }
+  ]
+}

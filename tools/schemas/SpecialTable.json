@@ -1,6 +1,9 @@
 {
   "name": "SpecialTable",
   "description": "Special move definitions (81 int32s, 324 bytes)",
+  "files": [
+    "SpecialTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

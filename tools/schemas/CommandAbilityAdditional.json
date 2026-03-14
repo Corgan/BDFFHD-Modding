@@ -1,0 +1,21 @@
+{
+  "name": "CommandAbilityAdditional",
+  "description": "3 int32s, 12 bytes per record",
+  "files": [
+    "CommandAbilityAdditional.btb"
+  ],
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "NO_REGIST",
+      "index": 1
+    },
+    {
+      "name": "CATEGORY_ICON",
+      "index": 2
+    }
+  ]
+}

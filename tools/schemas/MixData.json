@@ -1,0 +1,18 @@
+{
+  "name": "MixData",
+  "description": "2 int32s, 8 bytes per record, 1 string fields",
+  "files": [
+    "MixData.btb"
+  ],
+  "fields": [
+    {
+      "name": "item1",
+      "index": 0
+    },
+    {
+      "name": "item2",
+      "index": 1,
+      "string": "utf16"
+    }
+  ]
+}

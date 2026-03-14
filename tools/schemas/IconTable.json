@@ -1,6 +1,9 @@
 {
   "name": "IconTable",
   "description": "Icon name lookup table (2 int32s, 8 bytes)",
+  "files": [
+    "IconTable.btb"
+  ],
   "fields": [
     {
       "name": "NO",

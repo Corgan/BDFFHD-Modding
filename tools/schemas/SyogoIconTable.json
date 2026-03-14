@@ -1,6 +1,9 @@
 {
   "name": "SyogoIconTable",
   "description": "Job title icon table (3 int32s, 12 bytes)",
+  "files": [
+    "SyogoIconTable.btb"
+  ],
   "fields": [
     {
       "name": "NO",

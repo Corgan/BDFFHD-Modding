@@ -1,6 +1,9 @@
 {
   "name": "EncountTable",
   "description": "Encounter rate tables",
+  "files": [
+    "EncountTable.btb"
+  ],
   "fields": [
     {
       "name": "EC_ID",

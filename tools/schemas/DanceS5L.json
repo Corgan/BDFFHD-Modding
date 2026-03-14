@@ -1,0 +1,40 @@
+{
+  "name": "DanceS5L",
+  "description": "7 int32s, 28 bytes per record, 1 string fields",
+  "files": [
+    "DanceS5L1.btb",
+    "DanceS5L2.btb",
+    "DanceS5L3.btb"
+  ],
+  "fields": [
+    {
+      "name": "m_command",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "m_notesSecond",
+      "index": 1
+    },
+    {
+      "name": "m_position",
+      "index": 2
+    },
+    {
+      "name": "m_notesDispSecond",
+      "index": 3
+    },
+    {
+      "name": "m_data0",
+      "index": 4
+    },
+    {
+      "name": "m_data1",
+      "index": 5
+    },
+    {
+      "name": "m_data2",
+      "index": 6
+    }
+  ]
+}

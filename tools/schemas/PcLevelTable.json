@@ -1,6 +1,12 @@
 {
   "name": "PcLevelTable",
   "description": "Player character level-up stat growth",
+  "files": [
+    "PcLevelTable001.btb",
+    "PcLevelTable002.btb",
+    "PcLevelTable003.btb",
+    "PcLevelTable004.btb"
+  ],
   "fields": [
     {
       "name": "LV",

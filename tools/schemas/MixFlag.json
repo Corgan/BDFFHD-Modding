@@ -1,0 +1,13 @@
+{
+  "name": "MixFlag",
+  "description": "Compounding/mix recipe discovery flag (1 int32 per record)",
+  "files": [
+    "MixFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "flag",
+      "index": 0
+    }
+  ]
+}

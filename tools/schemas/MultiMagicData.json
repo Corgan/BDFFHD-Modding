@@ -1,0 +1,41 @@
+{
+  "name": "MultiMagicData",
+  "description": "8 int32s, 32 bytes per record",
+  "files": [
+    "MultiMagicData.btb"
+  ],
+  "fields": [
+    {
+      "name": "rate_0",
+      "index": 0
+    },
+    {
+      "name": "rate_1",
+      "index": 1
+    },
+    {
+      "name": "rate_2",
+      "index": 2
+    },
+    {
+      "name": "rate_3",
+      "index": 3
+    },
+    {
+      "name": "rate_4",
+      "index": 4
+    },
+    {
+      "name": "rate_5",
+      "index": 5
+    },
+    {
+      "name": "rate_6",
+      "index": 6
+    },
+    {
+      "name": "rate_7",
+      "index": 7
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 {
   "name": "ParameterUpItemTable",
   "description": "Stat-boosting item parameters (7 int32s, 28 bytes)",
+  "files": [
+    "ParameterUpItemTable.btb"
+  ],
   "fields": [
     {
       "name": "m_ItemId",

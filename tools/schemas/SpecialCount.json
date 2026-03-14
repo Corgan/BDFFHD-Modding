@@ -1,0 +1,25 @@
+{
+  "name": "SpecialCount",
+  "description": "4 int32s, 16 bytes per record",
+  "files": [
+    "SpecialCount.btb"
+  ],
+  "fields": [
+    {
+      "name": "wepType",
+      "index": 0
+    },
+    {
+      "name": "count_0",
+      "index": 1
+    },
+    {
+      "name": "count_1",
+      "index": 2
+    },
+    {
+      "name": "count_2",
+      "index": 3
+    }
+  ]
+}

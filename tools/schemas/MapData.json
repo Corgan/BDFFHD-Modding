@@ -1,0 +1,49 @@
+{
+  "name": "MapData",
+  "description": "10 int32s, 40 bytes per record",
+  "files": [
+    "MapData.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "useAntialias",
+      "index": 1
+    },
+    {
+      "name": "useBloom",
+      "index": 2
+    },
+    {
+      "name": "bloomThreshold",
+      "index": 3
+    },
+    {
+      "name": "bloomIntensity",
+      "index": 4
+    },
+    {
+      "name": "bloomExpansion",
+      "index": 5
+    },
+    {
+      "name": "shadowColorR",
+      "index": 6
+    },
+    {
+      "name": "shadowColorG",
+      "index": 7
+    },
+    {
+      "name": "shadowColorB",
+      "index": 8
+    },
+    {
+      "name": "shadowColorA",
+      "index": 9
+    }
+  ]
+}

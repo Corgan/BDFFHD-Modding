@@ -1,0 +1,47 @@
+{
+  "name": "KeywordData",
+  "description": "8 int32s, 32 bytes per record, 6 string fields",
+  "files": [
+    "KeywordData.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pSubTitle",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "type",
+      "index": 3
+    },
+    {
+      "name": "pText",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "pArchiveName",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "pTextureName",
+      "index": 6,
+      "string": "ascii"
+    },
+    {
+      "name": "pOverwrapTextureName",
+      "index": 7,
+      "string": "ascii"
+    }
+  ]
+}

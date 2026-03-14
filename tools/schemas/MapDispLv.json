@@ -1,0 +1,53 @@
+{
+  "name": "MapDispLv",
+  "description": "11 int32s, 44 bytes per record",
+  "files": [
+    "MapDispLv.btb"
+  ],
+  "fields": [
+    {
+      "name": "ENCOUNTID",
+      "index": 0
+    },
+    {
+      "name": "DISP_LVS_0",
+      "index": 1
+    },
+    {
+      "name": "DISP_LVS_1",
+      "index": 2
+    },
+    {
+      "name": "DISP_LVS_2",
+      "index": 3
+    },
+    {
+      "name": "DISP_LVS_3",
+      "index": 4
+    },
+    {
+      "name": "DISP_LVS_4",
+      "index": 5
+    },
+    {
+      "name": "DISP_LVS_5",
+      "index": 6
+    },
+    {
+      "name": "DISP_LVS_6",
+      "index": 7
+    },
+    {
+      "name": "DISP_LVS_7",
+      "index": 8
+    },
+    {
+      "name": "DISP_LVS_8",
+      "index": 9
+    },
+    {
+      "name": "DISP_LVS_9",
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "AIData",
+  "description": "8 int32s, 32 bytes per record",
+  "files": [
+    "AIData.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "subIndex",
+      "index": 1
+    },
+    {
+      "name": "abilityID",
+      "index": 2
+    },
+    {
+      "name": "rate",
+      "index": 3
+    },
+    {
+      "name": "useConfuse",
+      "index": 4
+    },
+    {
+      "name": "useCharm",
+      "index": 5
+    },
+    {
+      "name": "executeCondition",
+      "index": 6
+    },
+    {
+      "name": "targetCondition",
+      "index": 7
+    }
+  ]
+}

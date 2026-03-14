@@ -1,0 +1,17 @@
+{
+  "name": "ColonyFenceParameter",
+  "description": "2 int32s, 8 bytes per record",
+  "files": [
+    "FenceParameter.btb"
+  ],
+  "fields": [
+    {
+      "name": "minutes",
+      "index": 0
+    },
+    {
+      "name": "sortKey",
+      "index": 1
+    }
+  ]
+}

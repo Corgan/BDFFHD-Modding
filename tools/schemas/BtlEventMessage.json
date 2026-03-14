@@ -1,0 +1,31 @@
+{
+  "name": "BtlEventMessage",
+  "description": "5 int32s, 20 bytes per record, 2 string fields",
+  "files": [
+    "BtlEventMessage.btb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pVoice",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "wait",
+      "index": 3
+    },
+    {
+      "name": "depth",
+      "index": 4
+    }
+  ]
+}

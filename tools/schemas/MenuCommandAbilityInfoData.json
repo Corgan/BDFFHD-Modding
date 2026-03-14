@@ -1,0 +1,27 @@
+{
+  "name": "MenuCommandAbilityInfoData",
+  "description": "4 int32s, 16 bytes per record, 2 string fields",
+  "files": [
+    "DetailInfoCommandTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "itID",
+      "index": 0
+    },
+    {
+      "name": "itSubID",
+      "index": 1
+    },
+    {
+      "name": "pName",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "pInfo",
+      "index": 3,
+      "string": "utf16"
+    }
+  ]
+}

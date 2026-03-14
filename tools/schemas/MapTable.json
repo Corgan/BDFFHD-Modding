@@ -1,6 +1,9 @@
 {
   "name": "MapTable",
   "description": "Map/area definitions (10 int32s, 40 bytes)",
+  "files": [
+    "MapTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

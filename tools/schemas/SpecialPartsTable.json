@@ -1,6 +1,9 @@
 {
   "name": "SpecialPartsTable",
   "description": "Special move part definitions (56 int32s, 224 bytes)",
+  "files": [
+    "SpecialPartsTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

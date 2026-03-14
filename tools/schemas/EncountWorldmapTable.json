@@ -1,6 +1,9 @@
 {
   "name": "EncountWorldmapTable",
   "description": "Worldmap encounter revision table with day/night (21 int32s, 84 bytes)",
+  "files": [
+    "EncountWorldmapTable.btb"
+  ],
   "fields": [
     {
       "name": "ID",

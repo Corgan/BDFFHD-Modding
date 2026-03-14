@@ -1,0 +1,65 @@
+{
+  "name": "BtlEvent",
+  "description": "14 int32s, 56 bytes per record",
+  "files": [
+    "BtlEvent.btb"
+  ],
+  "fields": [
+    {
+      "name": "scriptID",
+      "index": 0
+    },
+    {
+      "name": "eventID",
+      "index": 1
+    },
+    {
+      "name": "conditionIdx",
+      "index": 2
+    },
+    {
+      "name": "assist",
+      "index": 3
+    },
+    {
+      "name": "target_0",
+      "index": 4
+    },
+    {
+      "name": "target_1",
+      "index": 5
+    },
+    {
+      "name": "target_2",
+      "index": 6
+    },
+    {
+      "name": "target_3",
+      "index": 7
+    },
+    {
+      "name": "abilityID",
+      "index": 8
+    },
+    {
+      "name": "isNoChangeBGM",
+      "index": 9
+    },
+    {
+      "name": "limitNo_0",
+      "index": 10
+    },
+    {
+      "name": "limitNo_1",
+      "index": 11
+    },
+    {
+      "name": "limitNo_2",
+      "index": 12
+    },
+    {
+      "name": "limitNo_3",
+      "index": 13
+    }
+  ]
+}

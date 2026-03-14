@@ -1,0 +1,14 @@
+{
+  "name": "MinigameRewards",
+  "description": "13 int32s, 52 bytes per record",
+  "files": [
+    "Rewards.btb"
+  ],
+  "fields": [
+    {
+      "name": "ints",
+      "index": 0,
+      "count": 13
+    }
+  ]
+}

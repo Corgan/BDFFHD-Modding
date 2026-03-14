@@ -1,0 +1,23 @@
+{
+  "name": "TutorialMessage",
+  "description": "3 int32s, 12 bytes per record, 2 string fields",
+  "files": [
+    "TutorialMessage.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "message",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "dialogtag",
+      "index": 2,
+      "string": "ascii"
+    }
+  ]
+}

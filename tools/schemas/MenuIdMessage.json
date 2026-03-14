@@ -1,0 +1,33 @@
+{
+  "name": "MenuIdMessage",
+  "description": "2 int32s, 8 bytes per record, 1 string fields",
+  "files": [
+    "CommonMessageData.btb",
+    "CruiseTextTable.btb",
+    "CruiseTextTable_CATLEXS.btb",
+    "DanceTextTable.btb",
+    "DanceTextTable_CATLEXS.btb",
+    "EventViewerMessageData.btb",
+    "MembersMessageData.btb",
+    "NoteMessageData.btb",
+    "QuestMenuMessageData.btb",
+    "ShopMessageData.btb",
+    "ShopMessageData_CATLEXS.btb",
+    "TitleMessageData.btb",
+    "TitleMessageData_CATLEXS.btb",
+    "TomodachiMessageData.btb",
+    "UnarrangedMessageData.btb",
+    "UnarrangedMessageData_CATLEXS.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
+    }
+  ]
+}

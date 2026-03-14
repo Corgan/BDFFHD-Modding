@@ -1,0 +1,17 @@
+{
+  "name": "NoteFlag",
+  "description": "D-Report note discovery flag (2 int32s per record)",
+  "files": [
+    "NoteFlag.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "flag",
+      "index": 1
+    }
+  ]
+}

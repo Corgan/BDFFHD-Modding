@@ -1,0 +1,182 @@
+{
+  "name": "CruiseOrderTbl",
+  "description": "40 int32s, 160 bytes per record, 13 string fields",
+  "files": [
+    "CruiseOrderTbl.btb"
+  ],
+  "fields": [
+    {
+      "name": "type",
+      "index": 0
+    },
+    {
+      "name": "pat",
+      "index": 1
+    },
+    {
+      "name": "ship",
+      "index": 2
+    },
+    {
+      "name": "limitTime",
+      "index": 3
+    },
+    {
+      "name": "chara",
+      "index": 4
+    },
+    {
+      "name": "msgId",
+      "index": 5
+    },
+    {
+      "name": "msg_vo",
+      "index": 6,
+      "string": "utf16"
+    },
+    {
+      "name": "sucMsgId",
+      "index": 7
+    },
+    {
+      "name": "sucMsg_vo",
+      "index": 8,
+      "string": "utf16"
+    },
+    {
+      "name": "sucWait",
+      "index": 9
+    },
+    {
+      "name": "sucRingVoice",
+      "index": 10,
+      "string": "utf16"
+    },
+    {
+      "name": "failMsgId",
+      "index": 11
+    },
+    {
+      "name": "failMsg_vo",
+      "index": 12,
+      "string": "utf16"
+    },
+    {
+      "name": "failWait",
+      "index": 13
+    },
+    {
+      "name": "failRingVoice",
+      "index": 14,
+      "string": "utf16"
+    },
+    {
+      "name": "preCutinChara",
+      "index": 15
+    },
+    {
+      "name": "preCutinMotName",
+      "index": 16,
+      "string": "utf16"
+    },
+    {
+      "name": "preCutinEyeId",
+      "index": 17
+    },
+    {
+      "name": "preCutinMouthId",
+      "index": 18
+    },
+    {
+      "name": "preCutinMsgId",
+      "index": 19
+    },
+    {
+      "name": "preCutinVoice",
+      "index": 20,
+      "string": "utf16"
+    },
+    {
+      "name": "preCutinWait",
+      "index": 21
+    },
+    {
+      "name": "postCutinSucPreWait",
+      "index": 22
+    },
+    {
+      "name": "postCutinSucChara",
+      "index": 23
+    },
+    {
+      "name": "postCutinSucMotName",
+      "index": 24,
+      "string": "utf16"
+    },
+    {
+      "name": "postCutinSucEyeId",
+      "index": 25
+    },
+    {
+      "name": "postCutinSucMouthId",
+      "index": 26
+    },
+    {
+      "name": "postCutinSucMsgId",
+      "index": 27
+    },
+    {
+      "name": "postCutinSucVoice",
+      "index": 28,
+      "string": "utf16"
+    },
+    {
+      "name": "postCutinSucWait",
+      "index": 29
+    },
+    {
+      "name": "postCutinSucRingVoice",
+      "index": 30,
+      "string": "utf16"
+    },
+    {
+      "name": "postCutinFailPreWait",
+      "index": 31
+    },
+    {
+      "name": "postCutinFailChara",
+      "index": 32
+    },
+    {
+      "name": "postCutinFailMotName",
+      "index": 33,
+      "string": "utf16"
+    },
+    {
+      "name": "postCutinFailEyeId",
+      "index": 34
+    },
+    {
+      "name": "postCutinFailMouthId",
+      "index": 35
+    },
+    {
+      "name": "postCutinFailMsgId",
+      "index": 36
+    },
+    {
+      "name": "postCutinFailVoice",
+      "index": 37,
+      "string": "utf16"
+    },
+    {
+      "name": "postCutinFailWait",
+      "index": 38
+    },
+    {
+      "name": "postCutinFailRingVoice",
+      "index": 39,
+      "string": "utf16"
+    }
+  ]
+}

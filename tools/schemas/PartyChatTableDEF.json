@@ -1,0 +1,57 @@
+{
+  "name": "PartyChatTableDEF",
+  "description": "12 int32s, 48 bytes per record",
+  "files": [
+    "PartyChatTableDEF.btb"
+  ],
+  "fields": [
+    {
+      "name": "SCRIPT_ID",
+      "index": 0
+    },
+    {
+      "name": "PRI",
+      "index": 1
+    },
+    {
+      "name": "TABLEINDEX",
+      "index": 2
+    },
+    {
+      "name": "ENABLE_DIRECT",
+      "index": 3
+    },
+    {
+      "name": "ENABLE_GAMEFLG_ID",
+      "index": 4
+    },
+    {
+      "name": "ENABLE_WORLD_NO",
+      "index": 5
+    },
+    {
+      "name": "ENABLE_ROCATION_ID",
+      "index": 6
+    },
+    {
+      "name": "ENABLE_ROCATION_TYPE",
+      "index": 7
+    },
+    {
+      "name": "DISABLE_DIRECT",
+      "index": 8
+    },
+    {
+      "name": "DISABLE_GAMEFLG_ID",
+      "index": 9
+    },
+    {
+      "name": "DISABLE_ROCATION_ID",
+      "index": 10
+    },
+    {
+      "name": "DISABLE_ROCATION_TYPE",
+      "index": 11
+    }
+  ]
+}

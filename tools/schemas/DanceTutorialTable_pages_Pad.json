@@ -1,0 +1,36 @@
+{
+  "name": "DanceTutorialTable_pages_Pad",
+  "description": "6 int32s, 24 bytes per record, 3 string fields",
+  "files": [
+    "DanceTutorialTable_pages_Pad.btb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pImage",
+      "index": 1
+    },
+    {
+      "name": "pageType",
+      "index": 2
+    },
+    {
+      "name": "pTitle",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "pText",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "pSubImage",
+      "index": 5,
+      "string": "ascii"
+    }
+  ]
+}

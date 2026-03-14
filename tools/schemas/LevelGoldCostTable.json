@@ -1,0 +1,13 @@
+{
+  "name": "LevelGoldCostTable",
+  "description": "1 int32s, 4 bytes per record",
+  "files": [
+    "LevelGoldCostTable.btb"
+  ],
+  "fields": [
+    {
+      "name": "goldcost",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "DTableBonusData",
+  "description": "7 int32s, 28 bytes per record, 7 string fields",
+  "files": [
+    "DTableBonusData.btb"
+  ],
+  "fields": [
+    {
+      "name": "PARAM_0",
+      "index": 0,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_1",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "PARAM_2",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "PARAM_3",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_4",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "PARAM_5",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "PARAM_6",
+      "index": 6,
+      "string": "ascii"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PointBias",
+  "description": "Point bias value (1 int32 per record)",
+  "files": [
+    "PointBias.btb"
+  ],
+  "fields": [
+    {
+      "name": "bias",
+      "index": 0
+    }
+  ]
+}

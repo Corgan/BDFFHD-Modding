@@ -1,6 +1,10 @@
 {
   "name": "CommandAbility",
   "description": "Command ability definitions (106 int32s, 424 bytes)",
+  "files": [
+    "CommandAbility.btb",
+    "CommandAbilityAL.btb"
+  ],
   "fields": [
     {
       "name": "ABILITY_ID",

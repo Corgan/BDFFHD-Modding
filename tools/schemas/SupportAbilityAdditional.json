@@ -1,0 +1,21 @@
+{
+  "name": "SupportAbilityAdditional",
+  "description": "3 int32s, 12 bytes per record",
+  "files": [
+    "SupportAbilityAdditional.btb"
+  ],
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "CATEGORY_SORT",
+      "index": 1
+    },
+    {
+      "name": "CATEGORY_ICON",
+      "index": 2
+    }
+  ]
+}
