@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -17,7 +18,11 @@ namespace HelloWorld.Patches;
 [HarmonyPatch]
 internal static class UnwrapIl2CppCallPatch
 {
+    internal const string GuardKey = "InjectorFix.Applied";
     public static bool Enable { get; set; }
+
+    [HarmonyPrepare]
+    private static bool Prepare() => AppDomain.CurrentDomain.GetData(GuardKey) == null;
 
     [HarmonyTargetMethod]
     private static MethodInfo TargetMethod() =>
@@ -27,13 +32,27 @@ internal static class UnwrapIl2CppCallPatch
     private static void Postfix(ref nint __result)
     {
         if (!Enable) return;
-        __result = XrefScannerLowLevel.JumpTargets(__result).ElementAt(1);
+        var targets = XrefScannerLowLevel.JumpTargets(__result).ToList();
+        if (targets.Count > 1)
+            __result = targets[1];
+        else if (targets.Count == 1)
+            __result = targets[0];
+        // else: leave __result unchanged
     }
 }
 
 [HarmonyPatch]
 internal static class InjectorHookFixPatch
 {
+    [HarmonyPrepare]
+    private static bool Prepare()
+    {
+        if (AppDomain.CurrentDomain.GetData(UnwrapIl2CppCallPatch.GuardKey) != null)
+            return false;
+        AppDomain.CurrentDomain.SetData(UnwrapIl2CppCallPatch.GuardKey, true);
+        return true;
+    }
+
     [HarmonyTargetMethods]
     private static IEnumerable<MethodBase> TargetMethods()
     {
