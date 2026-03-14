@@ -1,0 +1,2996 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 69846,
+    "data_one_size": 12,
+    "data_num": 597,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "itID": 10000,
+      "pName": "Broadsword",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10001,
+      "pName": "Long Sword",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10002,
+      "pName": "Zweihander",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10003,
+      "pName": "Scimitar",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10004,
+      "pName": "Claymore",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10005,
+      "pName": "Defender",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10006,
+      "pName": "Mythril Sword",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10007,
+      "pName": "Flametongue",
+      "pInfo": "Weapon attacks deal fire damage."
+    },
+    {
+      "itID": 10008,
+      "pName": "Ice Brand",
+      "pInfo": "Weapon attacks deal water damage."
+    },
+    {
+      "itID": 10009,
+      "pName": "Blood Blade",
+      "pInfo": "Triggers the sword magic drain when used as\nan item."
+    },
+    {
+      "itID": 10010,
+      "pName": "Sleep Blade",
+      "pInfo": "Has a 25% chance to put the attack target\nto sleep."
+    },
+    {
+      "itID": 10011,
+      "pName": "Rune Blade",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10012,
+      "pName": "Excalibur",
+      "pInfo": "Weapon attacks deal light damage."
+    },
+    {
+      "itID": 10013,
+      "pName": "Chaos Blade",
+      "pInfo": "Has a 25% chance to confuse the attack\ntarget."
+    },
+    {
+      "itID": 10014,
+      "pName": "Durandal",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10015,
+      "pName": "Night Emperor",
+      "pInfo": "Has a 25% chance to charm the attack\ntarget."
+    },
+    {
+      "itID": 10016,
+      "pName": "Silver Sword",
+      "pInfo": "Does 50% more damage to undead\nmonsters."
+    },
+    {
+      "itID": 10017,
+      "pName": "Golden Sword",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10018,
+      "pName": "Sword Dummy 1",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10019,
+      "pName": "Sword Dummy 2",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10020,
+      "pName": "Sword Dummy 3",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10100,
+      "pName": "Tomahawk",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10101,
+      "pName": "Mythril Axe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10102,
+      "pName": "Viking Axe",
+      "pInfo": "Does 50% more damage to aquatic\nmonsters."
+    },
+    {
+      "itID": 10103,
+      "pName": "War Axe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10104,
+      "pName": "Heavy Axe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10105,
+      "pName": "Flare Hatchet",
+      "pInfo": "Weapon attacks deal fire damage."
+    },
+    {
+      "itID": 10106,
+      "pName": "Death Axe",
+      "pInfo": "Triggers the kill effect when used as an item."
+    },
+    {
+      "itID": 10107,
+      "pName": "Cross Axe",
+      "pInfo": "Does 50% more damage to demonkind\nmonsters."
+    },
+    {
+      "itID": 10108,
+      "pName": "Giant Axe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10109,
+      "pName": "Earthbreaker",
+      "pInfo": "Weapon attacks deal earth damage."
+    },
+    {
+      "itID": 10110,
+      "pName": "Grinder Axe",
+      "pInfo": "Has a 25% chance to instill dread in the attack\ntarget."
+    },
+    {
+      "itID": 10111,
+      "pName": "Silver Axe",
+      "pInfo": "Raises the wielder’s mind by 10."
+    },
+    {
+      "itID": 10112,
+      "pName": "Golden Axe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10113,
+      "pName": "Axe Dummy 4",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10114,
+      "pName": "Labrys",
+      "pInfo": "Does 50% more damage to beast monsters."
+    },
+    {
+      "itID": 10115,
+      "pName": "Axe Dummy 5",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10200,
+      "pName": "Spear",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10201,
+      "pName": "Glaive",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10202,
+      "pName": "Halberd",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10203,
+      "pName": "Valkyrie Halberd",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10204,
+      "pName": "Mythril Spear",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10205,
+      "pName": "Holy Lance",
+      "pInfo": "Weapon attacks deal light damage. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10206,
+      "pName": "Cross Spear",
+      "pInfo": "Does 50% more damage to undead\nmonsters. Also does 25% more damage\nwhen attacking multiple enemies at once."
+    },
+    {
+      "itID": 10207,
+      "pName": "Crimson Spear",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10208,
+      "pName": "Trident",
+      "pInfo": "Weapon attacks deal lightning damage. Does\n25% more damage when attacking multiple\nenemies at once."
+    },
+    {
+      "itID": 10209,
+      "pName": "Longinus",
+      "pInfo": "Does 50% more damage to aquatic\nmonsters. Also does 25% more damage\nwhen attacking multiple enemies at once."
+    },
+    {
+      "itID": 10210,
+      "pName": "Gungnir",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10211,
+      "pName": "Lü Bu’s Spear",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10212,
+      "pName": "Silver Lance",
+      "pInfo": "Does 50% more damage to aquatic\nmonsters. Also does 25% more damage\nwhen attacking multiple enemies at once."
+    },
+    {
+      "itID": 10213,
+      "pName": "Golden Spear",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10214,
+      "pName": "Spear Dummy 1",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10215,
+      "pName": "Silver Glaive",
+      "pInfo": "Raises the wielder’s magic defense by 19.\nDoes 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10300,
+      "pName": "Rod",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10301,
+      "pName": "Wizard’s Rod",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10302,
+      "pName": "Mythril Rod",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10303,
+      "pName": "Rod of Fire",
+      "pInfo": "Enhances the wielder’s fire attacks to do\n10% more damage."
+    },
+    {
+      "itID": 10304,
+      "pName": "Rod of Ice",
+      "pInfo": "Enhances the wielder’s water attacks to do\n10% more damage."
+    },
+    {
+      "itID": 10305,
+      "pName": "Demon’s Rod",
+      "pInfo": "Enhances the wielder’s dark attacks to do\n10% more damage."
+    },
+    {
+      "itID": 10306,
+      "pName": "Lilith’s Rod",
+      "pInfo": "Triggers the aspir effect when used as an\nitem."
+    },
+    {
+      "itID": 10307,
+      "pName": "Poison Rod",
+      "pInfo": "Has a 50% chance to poison the attack target."
+    },
+    {
+      "itID": 10308,
+      "pName": "Wonder Rod",
+      "pInfo": "Casts random black magic when used as an\nitem."
+    },
+    {
+      "itID": 10309,
+      "pName": "Mace",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10310,
+      "pName": "Battle Mace",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10311,
+      "pName": "Hammer Mace",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10312,
+      "pName": "Ogre’s Club",
+      "pInfo": "Enhances the wielder’s lightning attacks to do\n10% more damage."
+    },
+    {
+      "itID": 10313,
+      "pName": "Silver Rod",
+      "pInfo": "Enhances the wielder’s lightning attacks to do\n10% more damage."
+    },
+    {
+      "itID": 10314,
+      "pName": "Golden Rod",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10315,
+      "pName": "Rod Dummy 3",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10316,
+      "pName": "Rod Dummy 4",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10317,
+      "pName": "Rod Dummy 5",
+      "pInfo": "Dammy"
+    },
+    {
+      "itID": 10400,
+      "pName": "Staff",
+      "pInfo": "Raises the wielder’s mind by 1. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10401,
+      "pName": "Mythril Staff",
+      "pInfo": "Raises the wielder’s mind by 2. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10402,
+      "pName": "Jade Crosier",
+      "pInfo": "Raises the wielder’s mind by 3. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10403,
+      "pName": "Staff of Life",
+      "pInfo": "Raises the wielder’s mind by 5. Triggers\nthe cure effect when used as an item. Does\n25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10404,
+      "pName": "Gale Staff",
+      "pInfo": "Raises the wielder’s mind by 6. Enhances\nthe wielder’s wind attacks to do 20% more\ndamage. Does 25% more damage when\nattacking multiple enemies at once."
+    },
+    {
+      "itID": 10405,
+      "pName": "Yggdrasil Staff",
+      "pInfo": "Raises the wielder’s mind by 7. Triggers the\nesuna effect when used as an item. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10406,
+      "pName": "Sage’s Staff",
+      "pInfo": "Raises the wielder’s mind by 4. Triggers the\nraise effect when used as an item. Does 25%\nmore damage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10407,
+      "pName": "Demon’s Staff",
+      "pInfo": "Raises the wielder’s mind by 8. Weapon\nattacks deal dark damage. Does 25% more\ndamage when attacking multiple enemies\nat once."
+    },
+    {
+      "itID": 10408,
+      "pName": "Oaken Pole",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10409,
+      "pName": "Iron Pole",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10410,
+      "pName": "Diamond Staff",
+      "pInfo": "Does 25% more damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10411,
+      "pName": "Simian Staff",
+      "pInfo": "Does double damage when attacking\nmultiple enemies at once."
+    },
+    {
+      "itID": 10412,
+      "pName": "Silver Staff",
+      "pInfo": "Raises the wielder’s mind by 3. Does 25%\nmore damage when attacking multiple\nenemies at once."
+    },
+    {
+      "itID": 10413,
+      "pName": "Golden Staff",
+      "pInfo": "Raises the wielder’s mind by 6. Does 25%\nmore damage when attacking multiple\nenemies at once."
+    },
+    {
+      "itID": 10414,
+      "pName": "Staff Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10415,
+      "pName": "Staff Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10416,
+      "pName": "Staff Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10500,
+      "pName": "Dagger",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10501,
+      "pName": "Mage Masher",
+      "pInfo": "Has a 25% chance to silence the attack target."
+    },
+    {
+      "itID": 10502,
+      "pName": "Kukri",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10503,
+      "pName": "Frenzy Dagger",
+      "pInfo": "Has a 25% chance to drive the attack target\nberserk."
+    },
+    {
+      "itID": 10504,
+      "pName": "Mythril Dagger",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10505,
+      "pName": "Orichal Dagger",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10506,
+      "pName": "Main-Gauche",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10507,
+      "pName": "Thief’s Knife",
+      "pInfo": "Triggers the Mug effect when used as an item."
+    },
+    {
+      "itID": 10508,
+      "pName": "Ripper",
+      "pInfo": "Does 50% more damage to humanoid\nmonsters."
+    },
+    {
+      "itID": 10509,
+      "pName": "Assassin Dagger",
+      "pInfo": "Has a 25% chance to inflict death on the\nattack target."
+    },
+    {
+      "itID": 10510,
+      "pName": "Gladius",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10511,
+      "pName": "Kunai",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10512,
+      "pName": "Air Knife",
+      "pInfo": "Weapon attacks deal wind damage."
+    },
+    {
+      "itID": 10513,
+      "pName": "Yatagarasu",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10514,
+      "pName": "Carving Knife",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10515,
+      "pName": "Silver Dagger",
+      "pInfo": "Does 50% more damage to beast monsters."
+    },
+    {
+      "itID": 10516,
+      "pName": "Golden Dagger",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10517,
+      "pName": "Falcon Knife",
+      "pInfo": "Raises the wielder’s agility by 20."
+    },
+    {
+      "itID": 10518,
+      "pName": "Magic Knife",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10519,
+      "pName": "Dagger Dummy 1",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10600,
+      "pName": "Birch Bow",
+      "pInfo": "Deals 50% more damage to demonkind and\nflier monsters."
+    },
+    {
+      "itID": 10601,
+      "pName": "Iron Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10602,
+      "pName": "Composite Bow",
+      "pInfo": "Has a 30% chance to poison the attack target.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10603,
+      "pName": "Ancient Bow",
+      "pInfo": "Has a 25% chance to paralyze the attack target.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10604,
+      "pName": "Mythril Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10605,
+      "pName": "Aeolian Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10606,
+      "pName": "Gale Bow",
+      "pInfo": "Triggers the haste effect when used as an item.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10607,
+      "pName": "Killer Bow",
+      "pInfo": "Has a 25% chance to inflict death on the attack\ntarget. Deals 50% more damage to flier\nmonsters."
+    },
+    {
+      "itID": 10608,
+      "pName": "Yoichi’s Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10609,
+      "pName": "Elven Bow",
+      "pInfo": "Has a 25% chance to confuse the attack target.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10610,
+      "pName": "Artemis’s Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10611,
+      "pName": "Angel’s Bow",
+      "pInfo": "Has a 25% chance to charm the attack target.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10612,
+      "pName": "Silver Bow",
+      "pInfo": "Has a 25% chance to silence the attack target.\nDeals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10613,
+      "pName": "Golden Bow",
+      "pInfo": "Deals 50% more damage to flier monsters."
+    },
+    {
+      "itID": 10614,
+      "pName": "Bow Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10615,
+      "pName": "Bow Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10616,
+      "pName": "Bow Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10700,
+      "pName": "Nodachi",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10701,
+      "pName": "Osafune",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10702,
+      "pName": "Kotetsu",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10703,
+      "pName": "Kiku-Ichimonji",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10704,
+      "pName": "Masamune",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10705,
+      "pName": "Raikiri",
+      "pInfo": "Weapon attacks deal lightning damage. Makes\nthe wielder immune to lightning damage."
+    },
+    {
+      "itID": 10706,
+      "pName": "Muramasa",
+      "pInfo": "Triggers the Defang effect when used as an\nitem."
+    },
+    {
+      "itID": 10707,
+      "pName": "Mutsu-no-Kami",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10708,
+      "pName": "Ama-no-Murakumo",
+      "pInfo": "Deals 50% more damage to dragonkind\nmonsters."
+    },
+    {
+      "itID": 10709,
+      "pName": "Ise-no-Kami",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10710,
+      "pName": "Silver Katana",
+      "pInfo": "Protects the wielder by reducing dark damage by\nhalf."
+    },
+    {
+      "itID": 10711,
+      "pName": "Golden Katana",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10712,
+      "pName": "Katana of Victory",
+      "pInfo": "Deals 50% more damage when jumping."
+    },
+    {
+      "itID": 10713,
+      "pName": "Katana Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10714,
+      "pName": "Katana Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10800,
+      "pName": "Iron Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10801,
+      "pName": "Spiked Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10802,
+      "pName": "Hammer Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10803,
+      "pName": "Mythril Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10804,
+      "pName": "Divine Fists",
+      "pInfo": "Weapon attacks deal light damage."
+    },
+    {
+      "itID": 10805,
+      "pName": "Hadean Claws",
+      "pInfo": "Weapon attacks deal dark damage."
+    },
+    {
+      "itID": 10806,
+      "pName": "Toxic Claws",
+      "pInfo": "Has a 40% chance to poison the attack target."
+    },
+    {
+      "itID": 10807,
+      "pName": "Thumbing Claws",
+      "pInfo": "Has a 40% chance to inflict blind on the\nattack target."
+    },
+    {
+      "itID": 10808,
+      "pName": "Kaiser Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10809,
+      "pName": "Bastet Claws",
+      "pInfo": "Does 50% more damage to beast monsters."
+    },
+    {
+      "itID": 10810,
+      "pName": "Silver Knuckles",
+      "pInfo": "Does 50% more damage to dragonkind\nmonsters."
+    },
+    {
+      "itID": 10811,
+      "pName": "Golden Knuckles",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 10812,
+      "pName": "Knuckle Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10813,
+      "pName": "Knuckle Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 10814,
+      "pName": "Knuckle Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 20000,
+      "pName": "Buckler",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20001,
+      "pName": "Round Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20002,
+      "pName": "Large Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20003,
+      "pName": "Spiked Shield",
+      "pInfo": "Raises the wearer’s strength by 5."
+    },
+    {
+      "itID": 20004,
+      "pName": "Cross Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20005,
+      "pName": "Mythril Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20006,
+      "pName": "Adamant Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20007,
+      "pName": "Iceflame Shield",
+      "pInfo": "Makes the wearer immune to fire and water\ndamage."
+    },
+    {
+      "itID": 20008,
+      "pName": "Lustrous Shield",
+      "pInfo": "Makes the wearer immune to light damage."
+    },
+    {
+      "itID": 20009,
+      "pName": "Dark Shield",
+      "pInfo": "Makes the wearer immune to dark damage."
+    },
+    {
+      "itID": 20010,
+      "pName": "Blessed Shield",
+      "pInfo": "Triggers the cura effect when used as an item."
+    },
+    {
+      "itID": 20011,
+      "pName": "Aegis Shield",
+      "pInfo": "Makes the wearer immune to dread."
+    },
+    {
+      "itID": 20012,
+      "pName": "Bloody Shield",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 20013,
+      "pName": "Shield Dummy 1",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 20014,
+      "pName": "Shield Dummy 2",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 20015,
+      "pName": "Shield Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 20016,
+      "pName": "Shield Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 20017,
+      "pName": "Shield Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30000,
+      "pName": "Bronze Gauntlets",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30001,
+      "pName": "Gauntlets",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30002,
+      "pName": "Mythril Gloves",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30003,
+      "pName": "Giant’s Gloves",
+      "pInfo": "Raises the wearer’s strength by 10. Lowers the\nwearer’s dexterity by 50."
+    },
+    {
+      "itID": 30004,
+      "pName": "Adamant Gauntlets",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30005,
+      "pName": "Thief Gloves",
+      "pInfo": "Doubles the wearer’s chance to succeed at\nthievery."
+    },
+    {
+      "itID": 30006,
+      "pName": "Genji Gloves",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30007,
+      "pName": "Heike Gloves",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30100,
+      "pName": "Bronze Bangle",
+      "pInfo": "Raises the wearer’s max HP by 30."
+    },
+    {
+      "itID": 30101,
+      "pName": "Iron Bangle",
+      "pInfo": "Raises the wearer’s max HP by 50."
+    },
+    {
+      "itID": 30102,
+      "pName": "Mythril Bangle",
+      "pInfo": "Raises the wearer’s max HP by 100."
+    },
+    {
+      "itID": 30103,
+      "pName": "Adamant Bangle",
+      "pInfo": "Raises the wearer’s max HP by 500."
+    },
+    {
+      "itID": 30104,
+      "pName": "Power Bracers",
+      "pInfo": "Raises the wearer’s strength by 10."
+    },
+    {
+      "itID": 30105,
+      "pName": "Hyper Bracers",
+      "pInfo": "Raises the wearer’s strength by 20."
+    },
+    {
+      "itID": 30106,
+      "pName": "Heart Ring",
+      "pInfo": "Raises the wearer’s max MP by 100."
+    },
+    {
+      "itID": 30107,
+      "pName": "Life Ring",
+      "pInfo": "Raises the wearer’s max HP by 1,000."
+    },
+    {
+      "itID": 30108,
+      "pName": "Amulet",
+      "pInfo": "Raises the wearer’s intelligence by 10."
+    },
+    {
+      "itID": 30109,
+      "pName": "Soul of Thamasa",
+      "pInfo": "Raises the wearer’s intelligence by 20."
+    },
+    {
+      "itID": 30110,
+      "pName": "Force Armlets",
+      "pInfo": "Raises the wearer’s mind by 10."
+    },
+    {
+      "itID": 30111,
+      "pName": "Magic Armlets",
+      "pInfo": "Raises the wearer’s mind by 20."
+    },
+    {
+      "itID": 30112,
+      "pName": "Hermes Sandals",
+      "pInfo": "Raises the wearer’s agility by 10."
+    },
+    {
+      "itID": 30113,
+      "pName": "Hermes Shoes",
+      "pInfo": "Raises the wearer’s agility by 20."
+    },
+    {
+      "itID": 30114,
+      "pName": "Artisan Gloves",
+      "pInfo": "Raises the wearer’s dexterity by 10."
+    },
+    {
+      "itID": 30115,
+      "pName": "Dwarven Gloves",
+      "pInfo": "Raises the wearer’s dexterity by 20."
+    },
+    {
+      "itID": 30116,
+      "pName": "Flame Charm",
+      "pInfo": "Protects the wearer by reducing fire damage\nby half."
+    },
+    {
+      "itID": 30117,
+      "pName": "Ice Charm",
+      "pInfo": "Protects the wearer by reducing water damage\nby half."
+    },
+    {
+      "itID": 30118,
+      "pName": "Thunder Charm",
+      "pInfo": "Protects the wearer by reducing lightning\ndamage by half."
+    },
+    {
+      "itID": 30119,
+      "pName": "Wind Charm",
+      "pInfo": "Protects the wearer by reducing wind damage\nby half."
+    },
+    {
+      "itID": 30120,
+      "pName": "Earth Charm",
+      "pInfo": "Protects the wearer by reducing earth damage\nby half."
+    },
+    {
+      "itID": 30121,
+      "pName": "Light Charm",
+      "pInfo": "Protects the wearer by reducing light damage\nby half."
+    },
+    {
+      "itID": 30122,
+      "pName": "Dark Charm",
+      "pInfo": "Protects the wearer by reducing dark damage\nby half."
+    },
+    {
+      "itID": 30123,
+      "pName": "Mage Shell",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30124,
+      "pName": "Barrier Shroud",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30125,
+      "pName": "Black Belt",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30126,
+      "pName": "Star Pendant",
+      "pInfo": "Makes the wearer immune to poison."
+    },
+    {
+      "itID": 30127,
+      "pName": "Silver Glasses",
+      "pInfo": "Makes the wearer immune to blind."
+    },
+    {
+      "itID": 30128,
+      "pName": "White Cape",
+      "pInfo": "Makes the wearer immune to silence."
+    },
+    {
+      "itID": 30129,
+      "pName": "Clothespin",
+      "pInfo": "Makes the wearer immune to sleep."
+    },
+    {
+      "itID": 30130,
+      "pName": "Earthing Rod",
+      "pInfo": "Makes the wearer immune to paralyze."
+    },
+    {
+      "itID": 30131,
+      "pName": "Peace Ring",
+      "pInfo": "Makes the wearer immune to confuse."
+    },
+    {
+      "itID": 30132,
+      "pName": "Rebuff Locket",
+      "pInfo": "Makes the wearer immune to charm."
+    },
+    {
+      "itID": 30133,
+      "pName": "Safety Ring",
+      "pInfo": "Makes the wearer immune to death effects."
+    },
+    {
+      "itID": 30134,
+      "pName": "Courage Ring",
+      "pInfo": "Makes the wearer immune to dread."
+    },
+    {
+      "itID": 30135,
+      "pName": "Ward Bangle",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30136,
+      "pName": "Taunt Bangle",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30137,
+      "pName": "Growth Egg",
+      "pInfo": "Doubles EXP and JP received.\nNo pg will be received."
+    },
+    {
+      "itID": 30138,
+      "pName": "Golden Egg",
+      "pInfo": "Doubles pg received.\nNo EXP or JP will be received."
+    },
+    {
+      "itID": 30139,
+      "pName": "Red Muleta",
+      "pInfo": "Doubles the chance to be targeted by enemies\n(the factor affected by the wearer’s actions)."
+    },
+    {
+      "itID": 30140,
+      "pName": "Smiley Badge",
+      "pInfo": "Wearer’s chance of being targeted by enemies\nremains constant."
+    },
+    {
+      "itID": 30141,
+      "pName": "Reflect Ring",
+      "pInfo": "Reflect is cast upon wearer at the start of battle."
+    },
+    {
+      "itID": 30142,
+      "pName": "Gale Hairpin",
+      "pInfo": "Raises allies’ chance of getting the first strike\nby 10%."
+    },
+    {
+      "itID": 30143,
+      "pName": "Alarm Earrings",
+      "pInfo": "Lowers the enemy’s chance of getting the first\nstrike by 10%."
+    },
+    {
+      "itID": 30144,
+      "pName": "Venture Badge",
+      "pInfo": "Raises the Brave Attack rate of allies by 10%."
+    },
+    {
+      "itID": 30145,
+      "pName": "Normalizer",
+      "pInfo": "Lowers the Brave Attack rate of enemies by 10%."
+    },
+    {
+      "itID": 30146,
+      "pName": "Acc. Dummy 1",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30147,
+      "pName": "Acc. Dummy 2",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30148,
+      "pName": "Acc. Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30149,
+      "pName": "Acc. Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30150,
+      "pName": "Acc. Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30200,
+      "pName": "Leather Cap",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30201,
+      "pName": "Feather Hat",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30202,
+      "pName": "Tiger Mask",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30203,
+      "pName": "Acorn Hat",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30204,
+      "pName": "Headband",
+      "pInfo": "Raises the wearer’s strength by 10."
+    },
+    {
+      "itID": 30205,
+      "pName": "Black Cowl",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30206,
+      "pName": "Adamant Hat",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30207,
+      "pName": "Red Cap",
+      "pInfo": "Raises the wearer’s strength by 5. Raises the\nwearer’s agility by 5."
+    },
+    {
+      "itID": 30208,
+      "pName": "Ribbon",
+      "pInfo": "Makes the wearer immune to poison, blind,\nsilence, sleep, paralyze, dread, confuse,\ncharm, and death."
+    },
+    {
+      "itID": 30209,
+      "pName": "Royal Crown",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30210,
+      "pName": "Pointy Hat",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30211,
+      "pName": "Tricorne",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30212,
+      "pName": "Cat-Ear Hood",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30213,
+      "pName": "Laurel Wreath",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30214,
+      "pName": "Mage’s Hat",
+      "pInfo": "Raises the wearer’s intelligence by 5."
+    },
+    {
+      "itID": 30215,
+      "pName": "Holy Miter",
+      "pInfo": "Raises the wearer’s mind by 5."
+    },
+    {
+      "itID": 30216,
+      "pName": "Circlet",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30217,
+      "pName": "Lambent Hat",
+      "pInfo": "Enhances the wearer’s lightning attacks to do\n25% more damage."
+    },
+    {
+      "itID": 30218,
+      "pName": "Lamia’s Tiara",
+      "pInfo": "Makes the wearer immune to charm."
+    },
+    {
+      "itID": 30219,
+      "pName": "Gold Hairpin",
+      "pInfo": "Lowers the wearer’s MP consumption by 25%."
+    },
+    {
+      "itID": 30220,
+      "pName": "Hat Dummy 1",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30221,
+      "pName": "Hat Dummy 2",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30222,
+      "pName": "Hat Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30223,
+      "pName": "Hat Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30224,
+      "pName": "Hat Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30300,
+      "pName": "Bronze Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30301,
+      "pName": "Iron Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30302,
+      "pName": "Mythril Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30303,
+      "pName": "Yggdrasil Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30304,
+      "pName": "Orichalcum Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30305,
+      "pName": "Adamant Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30306,
+      "pName": "Genji Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30307,
+      "pName": "Heike Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30308,
+      "pName": "Crystal Helm",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30309,
+      "pName": "Helm Dummy 1",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30310,
+      "pName": "Helm Dummy 2",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30311,
+      "pName": "Helm Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30312,
+      "pName": "Helm Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30313,
+      "pName": "Helm Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 30400,
+      "pName": "Linen Cuirass",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30401,
+      "pName": "Kenpo Gi",
+      "pInfo": "Raises the wearer’s agility by 2."
+    },
+    {
+      "itID": 30402,
+      "pName": "Bronze Breastplate",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30403,
+      "pName": "Mythril Plate",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30404,
+      "pName": "Mirage Vest",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30405,
+      "pName": "Power Sash",
+      "pInfo": "Raises the wearer’s strength by 5."
+    },
+    {
+      "itID": 30406,
+      "pName": "Brigandine",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30407,
+      "pName": "Viking Coat",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30408,
+      "pName": "Adamant Vest",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30409,
+      "pName": "Star Corslet",
+      "pInfo": "Raises the wearer’s max HP by 100."
+    },
+    {
+      "itID": 30410,
+      "pName": "Brave Suit",
+      "pInfo": "Gives the wearer 1 extra BP at the start of battle."
+    },
+    {
+      "itID": 30411,
+      "pName": "Crystal Vest",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30412,
+      "pName": "Hempen Tunic",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30413,
+      "pName": "Silk Robe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30414,
+      "pName": "Tabby Suit",
+      "pInfo": "Makes the wearer immune to poison."
+    },
+    {
+      "itID": 30415,
+      "pName": "Floral Robe",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30416,
+      "pName": "Black Robe",
+      "pInfo": "Raises the wearer’s intelligence by 20."
+    },
+    {
+      "itID": 30417,
+      "pName": "White Robe",
+      "pInfo": "Raises the wearer’s mind by 20."
+    },
+    {
+      "itID": 30418,
+      "pName": "Gaia Gear",
+      "pInfo": "Enhances the wearer’s earth attacks to do 50%\nmore damage."
+    },
+    {
+      "itID": 30419,
+      "pName": "Luminous Robe",
+      "pInfo": "Enhances the wearer’s light attacks to do 50%\nmore damage."
+    },
+    {
+      "itID": 30420,
+      "pName": "Rainbow Dress",
+      "pInfo": "Makes the wearer immune to confuse."
+    },
+    {
+      "itID": 30421,
+      "pName": "Lordly Robes",
+      "pInfo": "Raises the wearer’s mind by 10."
+    },
+    {
+      "itID": 30422,
+      "pName": "Vestal Garb",
+      "pInfo": "Can only be worn by Agnès, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30423,
+      "pName": "Bravo Bikini",
+      "pInfo": "Can only be worn by Edea, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30424,
+      "pName": "Onion Knight Garb",
+      "pInfo": "Can only be worn by Tiz, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30425,
+      "pName": "Melodist’s Garb",
+      "pInfo": "Can only be worn by Ringabel, who will appear to\nbe wearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30426,
+      "pName": "Knight’s Garb",
+      "pInfo": "Can only be worn by Agnès, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30427,
+      "pName": "Edea’s Garb",
+      "pInfo": "Can only be worn by Edea, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30428,
+      "pName": "Perma-Job Clothes",
+      "pInfo": "Special clothing that retains the look\nof the active job when equipped\nuntil the clothing is removed."
+    },
+    {
+      "itID": 30500,
+      "pName": "Leather Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30501,
+      "pName": "Bronze Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30502,
+      "pName": "Iron Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30503,
+      "pName": "Mythril Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30504,
+      "pName": "Yggdrasil Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30505,
+      "pName": "Orichalcum Mail",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30506,
+      "pName": "Adamant Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30507,
+      "pName": "Genji Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30508,
+      "pName": "Heike Armor",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30509,
+      "pName": "Crystal Mail",
+      "pInfo": "No special effects."
+    },
+    {
+      "itID": 30510,
+      "pName": "Dimensional Garb",
+      "pInfo": "Can only be worn by Tiz, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30511,
+      "pName": "Bravo Bunny",
+      "pInfo": "Can only be worn by Agnès, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30512,
+      "pName": "Eastern War Garb",
+      "pInfo": "Can only be worn by Ringabel, who will appear to\nbe wearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30513,
+      "pName": "Cadet Uniform",
+      "pInfo": "Can only be worn by Edea, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 30514,
+      "pName": "Bravo Bikini",
+      "pInfo": "Can only be worn by Agnès, who will appear to be\nwearing this special outfit while it is equipped."
+    },
+    {
+      "itID": 40000,
+      "pName": "Potion",
+      "pInfo": "Restores 150 HP to the target. Deals the same\namount of damage when used on undead\nenemies."
+    },
+    {
+      "itID": 40001,
+      "pName": "Ether",
+      "pInfo": "Restores 40 MP to the target. Reduces MP by\nan equal amount when used on undead enemies."
+    },
+    {
+      "itID": 40002,
+      "pName": "Antidote",
+      "pInfo": "Cures the target of poison."
+    },
+    {
+      "itID": 40003,
+      "pName": "Phoenix Down",
+      "pInfo": "Revives KO’d targets. Has a 70% chance to\ninflict death when used on undead enemies."
+    },
+    {
+      "itID": 40004,
+      "pName": "Remedy",
+      "pInfo": "Cures the target of poison, blind, silence,\nsleep, paralyze, dread, berserk, confuse, and\ncharm."
+    },
+    {
+      "itID": 40005,
+      "pName": "Eye Drops",
+      "pInfo": "Cures the target of blind."
+    },
+    {
+      "itID": 40006,
+      "pName": "Echo Herbs",
+      "pInfo": "Cures the target of silence."
+    },
+    {
+      "itID": 40007,
+      "pName": "Wakeup Bell",
+      "pInfo": "Cures the target of sleep."
+    },
+    {
+      "itID": 40008,
+      "pName": "Balsam",
+      "pInfo": "Cures the target of dread."
+    },
+    {
+      "itID": 40009,
+      "pName": "Hi-Potion",
+      "pInfo": "Restores 500 HP to the target. Deals the same\namount of damage when used on undead\nenemies."
+    },
+    {
+      "itID": 40010,
+      "pName": "X-Potion",
+      "pInfo": "Restores 1,500 HP to the target. Deals the same\namount of damage when used on undead\nenemies."
+    },
+    {
+      "itID": 40011,
+      "pName": "Turbo Ether",
+      "pInfo": "Restores 150 MP to the target. Reduces MP by\nan equal amount when used on undead enemies."
+    },
+    {
+      "itID": 40012,
+      "pName": "Elixir",
+      "pInfo": "Restores the HP and MP of the target to full.\nReduces HP and MP by the same amount when\nused on undead enemies.\n\nRestores up to 9,999 HP and 999 MP in the\nabsence of a limit-breaking effect."
+    },
+    {
+      "itID": 40013,
+      "pName": "Megalixir",
+      "pInfo": "Restores the HP and MP of all allies to full.\nReduces HP and MP by the same amount when\nused on undead enemies.\n\nRestores up to 9,999 HP and 999 MP in the\nabsence of a limit-breaking effect."
+    },
+    {
+      "itID": 40014,
+      "pName": "Teleport Stone",
+      "pInfo": "Returns you to the dungeon entrance."
+    },
+    {
+      "itID": 40015,
+      "pName": "Bomb Fragment",
+      "pInfo": "Attacks an entire party with fire, dealing\n500 damage each."
+    },
+    {
+      "itID": 40016,
+      "pName": "Bomb Arm",
+      "pInfo": "Attacks an entire party with fire, dealing\n1,500 damage each."
+    },
+    {
+      "itID": 40017,
+      "pName": "Antarctic Wind",
+      "pInfo": "Attacks an entire party with water, dealing\n500 damage each."
+    },
+    {
+      "itID": 40018,
+      "pName": "Arctic Wind",
+      "pInfo": "Attacks an entire party with water, dealing\n1,500 damage each."
+    },
+    {
+      "itID": 40019,
+      "pName": "Zeus’s Wrath",
+      "pInfo": "Attacks an entire party with lightning, dealing\n500 damage each."
+    },
+    {
+      "itID": 40020,
+      "pName": "Pantheon’s Wrath",
+      "pInfo": "Attacks an entire party with lightning, dealing\n1,500 damage each."
+    },
+    {
+      "itID": 40021,
+      "pName": "Tengu Yawn",
+      "pInfo": "Attacks an entire party with wind, dealing\n500 damage each."
+    },
+    {
+      "itID": 40022,
+      "pName": "Tengu Sneeze",
+      "pInfo": "Attacks an entire party with wind, dealing\n1,500 damage each."
+    },
+    {
+      "itID": 40023,
+      "pName": "Earth Drum",
+      "pInfo": "Attacks an entire party with earth, dealing\n500 damage each."
+    },
+    {
+      "itID": 40024,
+      "pName": "Earth Mallet",
+      "pInfo": "Attacks an entire party with earth, dealing\n1,500 damage each."
+    },
+    {
+      "itID": 40025,
+      "pName": "Gold Hourglass",
+      "pInfo": "Has a 75% chance to apply the stop effect to\neach member of a party."
+    },
+    {
+      "itID": 40026,
+      "pName": "Stardust",
+      "pInfo": "Applies comet effect to target."
+    },
+    {
+      "itID": 40027,
+      "pName": "Light Curtain",
+      "pInfo": "Applies reflect effect to target."
+    },
+    {
+      "itID": 40028,
+      "pName": "Lilith’s Kiss",
+      "pInfo": "Applies aspir effect to target."
+    },
+    {
+      "itID": 40029,
+      "pName": "Bacchus’s Wine",
+      "pInfo": "Has a 100% chance to apply the berserk effect\nto target."
+    },
+    {
+      "itID": 40030,
+      "pName": "Beast Liver",
+      "pInfo": "Material that raises physical attack. Can be used for\ncompounding."
+    },
+    {
+      "itID": 40031,
+      "pName": "Hard Scale",
+      "pInfo": "Material that raises physical defense.\nCan be used for compounding."
+    },
+    {
+      "itID": 40032,
+      "pName": "Insect Antenna",
+      "pInfo": "Material that increases vulnerability to elemental\nattacks. Can be used for compounding."
+    },
+    {
+      "itID": 40033,
+      "pName": "Monster Fiber",
+      "pInfo": "Material that increases resistance to elemental\nattacks. Can be used for compounding."
+    },
+    {
+      "itID": 40034,
+      "pName": "Spirit Bone",
+      "pInfo": "Material that raises magic attack. Can be used for\ncompounding."
+    },
+    {
+      "itID": 40035,
+      "pName": "Demon Tail",
+      "pInfo": "Material that raises magic defense. Can be used for\ncompounding."
+    },
+    {
+      "itID": 40036,
+      "pName": "Dragon Fang",
+      "pInfo": "Material that is the source of a dragon’s great\npower. Can be used for compounding."
+    },
+    {
+      "itID": 40037,
+      "pName": "Phlogiston",
+      "pInfo": "Material imbued with the power of fire. Can be\nused for compounding."
+    },
+    {
+      "itID": 40038,
+      "pName": "Permacrystal",
+      "pInfo": "Material imbued with the power of water. Can\nbe used for compounding."
+    },
+    {
+      "itID": 40039,
+      "pName": "Fairy Wing",
+      "pInfo": "Material imbued with the power of wind. Can be\nused for compounding."
+    },
+    {
+      "itID": 40040,
+      "pName": "Fulmen Shard",
+      "pInfo": "Material imbued with the power of lightning.\nCan be used for compounding."
+    },
+    {
+      "itID": 40041,
+      "pName": "Desert Rose",
+      "pInfo": "Material imbued with the power of earth. Can be\nused for compounding."
+    },
+    {
+      "itID": 40042,
+      "pName": "Glitterbug",
+      "pInfo": "Material imbued with the power of light. Can be\nused for compounding."
+    },
+    {
+      "itID": 40043,
+      "pName": "Dark Matter",
+      "pInfo": "Material imbued with the power of dark. Can be\nused for compounding."
+    },
+    {
+      "itID": 40050,
+      "pName": "Cure Poison",
+      "pInfo": "Cures poison and restores 150 HP."
+    },
+    {
+      "itID": 40051,
+      "pName": "Resurrect",
+      "pInfo": "Revives target from KO and restores 5,000 HP."
+    },
+    {
+      "itID": 40052,
+      "pName": "Reincarnate",
+      "pInfo": "Revives target from KO and restores HP/MP."
+    },
+    {
+      "itID": 40053,
+      "pName": "Cure Blind",
+      "pInfo": "Cures blind and restores 150 HP."
+    },
+    {
+      "itID": 40054,
+      "pName": "Cure Silence",
+      "pInfo": "Cures silence and restores 150 HP."
+    },
+    {
+      "itID": 40055,
+      "pName": "Cure Sleep",
+      "pInfo": "Cures sleep and restores 150 HP."
+    },
+    {
+      "itID": 40056,
+      "pName": "Cure Dread",
+      "pInfo": "Cures dread and restores 150 HP."
+    },
+    {
+      "itID": 40057,
+      "pName": "Water of Life",
+      "pInfo": "Applies regen to the target."
+    },
+    {
+      "itID": 40058,
+      "pName": "Font of Life",
+      "pInfo": "Applies reraise to the target."
+    },
+    {
+      "itID": 40059,
+      "pName": "Squib",
+      "pInfo": "Causes minor damage and taunts the target."
+    },
+    {
+      "itID": 40060,
+      "pName": "Resist Poison",
+      "pInfo": "Makes target immune to poison."
+    },
+    {
+      "itID": 40061,
+      "pName": "Resist Blind",
+      "pInfo": "Makes target immune to blind."
+    },
+    {
+      "itID": 40062,
+      "pName": "Resist Silence",
+      "pInfo": "Makes target immune to silence."
+    },
+    {
+      "itID": 40063,
+      "pName": "Resist Sleep",
+      "pInfo": "Makes target immune to sleep."
+    },
+    {
+      "itID": 40064,
+      "pName": "Resist Fear",
+      "pInfo": "Makes target immune to dread."
+    },
+    {
+      "itID": 40065,
+      "pName": "Quarter Elixir",
+      "pInfo": "Restores 2,500 HP and 250 MP."
+    },
+    {
+      "itID": 40066,
+      "pName": "Half Elixir",
+      "pInfo": "Restores 5,000 HP and 500 MP."
+    },
+    {
+      "itID": 40067,
+      "pName": "Dry Ether",
+      "pInfo": "Restores 500 MP."
+    },
+    {
+      "itID": 40068,
+      "pName": "Smelling Salts",
+      "pInfo": "Cures a range of status ailments."
+    },
+    {
+      "itID": 40069,
+      "pName": "Beast Vim",
+      "pInfo": "Raises physical attack by 30% for 4 turns."
+    },
+    {
+      "itID": 40070,
+      "pName": "Aqua Vim",
+      "pInfo": "Raises physical attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40071,
+      "pName": "Bug Vim",
+      "pInfo": "Raises physical attack by 20% for 4 turns."
+    },
+    {
+      "itID": 40072,
+      "pName": "Plant Vim",
+      "pInfo": "Raises physical attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40073,
+      "pName": "Ghost Vim",
+      "pInfo": "Raises physical attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40074,
+      "pName": "Demon Vim",
+      "pInfo": "Raises physical attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40075,
+      "pName": "Dragon Vim",
+      "pInfo": "Raises physical attack by 50% for 6 turns."
+    },
+    {
+      "itID": 40076,
+      "pName": "Beast Aura",
+      "pInfo": "Raises magic attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40077,
+      "pName": "Aqua Aura",
+      "pInfo": "Raises magic attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40078,
+      "pName": "Bug Aura",
+      "pInfo": "Raises magic attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40079,
+      "pName": "Plant Aura",
+      "pInfo": "Raises magic attack by 20% for 4 turns."
+    },
+    {
+      "itID": 40080,
+      "pName": "Ghost Aura",
+      "pInfo": "Raises magic attack by 10% for 4 turns."
+    },
+    {
+      "itID": 40081,
+      "pName": "Demon Aura",
+      "pInfo": "Raises magic attack by 30% for 4 turns."
+    },
+    {
+      "itID": 40082,
+      "pName": "Dragon Aura",
+      "pInfo": "Raises magic attack by 50% for 6 turns."
+    },
+    {
+      "itID": 40083,
+      "pName": "Beast Coat",
+      "pInfo": "Raises physical defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40084,
+      "pName": "Aqua Coat",
+      "pInfo": "Raises physical defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40085,
+      "pName": "Bug Coat",
+      "pInfo": "Raises physical defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40086,
+      "pName": "Plant Coat",
+      "pInfo": "Raises physical defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40087,
+      "pName": "Ghost Coat",
+      "pInfo": "Raises physical defense by 30% for 4 turns."
+    },
+    {
+      "itID": 40088,
+      "pName": "Demon Coat",
+      "pInfo": "Raises physical defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40089,
+      "pName": "Dragon Coat",
+      "pInfo": "Raises physical defense by 50% for 6 turns."
+    },
+    {
+      "itID": 40090,
+      "pName": "Beast Soul",
+      "pInfo": "Raises magic defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40091,
+      "pName": "Aqua Soul",
+      "pInfo": "Raises magic defense by 20% for 4 turns."
+    },
+    {
+      "itID": 40092,
+      "pName": "Bug Soul",
+      "pInfo": "Raises magic defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40093,
+      "pName": "Plant Soul",
+      "pInfo": "Raises magic defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40094,
+      "pName": "Ghost Soul",
+      "pInfo": "Raises magic defense by 10% for 4 turns."
+    },
+    {
+      "itID": 40095,
+      "pName": "Demon Soul",
+      "pInfo": "Raises magic defense by 30% for 4 turns."
+    },
+    {
+      "itID": 40096,
+      "pName": "Dragon Soul",
+      "pInfo": "Raises magic defense by 50% for 6 turns."
+    },
+    {
+      "itID": 40097,
+      "pName": "Fire Bane",
+      "pInfo": "Makes target vulnerable to fire."
+    },
+    {
+      "itID": 40098,
+      "pName": "Water Bane",
+      "pInfo": "Makes target vulnerable to water."
+    },
+    {
+      "itID": 40099,
+      "pName": "Wind Bane",
+      "pInfo": "Makes target vulnerable to wind."
+    },
+    {
+      "itID": 40100,
+      "pName": "Lightning Bane",
+      "pInfo": "Makes target vulnerable to lightning."
+    },
+    {
+      "itID": 40101,
+      "pName": "Earth Bane",
+      "pInfo": "Makes target vulnerable to earth."
+    },
+    {
+      "itID": 40102,
+      "pName": "Light Bane",
+      "pInfo": "Makes target vulnerable to light."
+    },
+    {
+      "itID": 40103,
+      "pName": "Dark Bane",
+      "pInfo": "Makes target vulnerable to dark."
+    },
+    {
+      "itID": 40104,
+      "pName": "Resist Fire",
+      "pInfo": "Makes target immune to fire damage."
+    },
+    {
+      "itID": 40105,
+      "pName": "Resist Water",
+      "pInfo": "Makes target immune to water damage."
+    },
+    {
+      "itID": 40106,
+      "pName": "Resist Wind",
+      "pInfo": "Makes target immune to wind damage."
+    },
+    {
+      "itID": 40107,
+      "pName": "Resist Lightning",
+      "pInfo": "Makes target immune to lightning damage."
+    },
+    {
+      "itID": 40108,
+      "pName": "Resist Earth",
+      "pInfo": "Makes target immune to earth damage."
+    },
+    {
+      "itID": 40109,
+      "pName": "Resist Light",
+      "pInfo": "Makes target immune to light damage."
+    },
+    {
+      "itID": 40110,
+      "pName": "Resist Dark",
+      "pInfo": "Makes target immune to dark damage."
+    },
+    {
+      "itID": 40111,
+      "pName": "Giant’s Draft",
+      "pInfo": "Doubles max HP and restores HP to full."
+    },
+    {
+      "itID": 40112,
+      "pName": "Turtle Split",
+      "pInfo": "Lowers defense for 4 turns."
+    },
+    {
+      "itID": 40113,
+      "pName": "Haste Brew",
+      "pInfo": "Raises speed for 4 turns."
+    },
+    {
+      "itID": 40114,
+      "pName": "Element Boost",
+      "pInfo": "Boosts elemental attacks for 5 turns."
+    },
+    {
+      "itID": 40115,
+      "pName": "Dark Breath",
+      "pInfo": "Deals (your max HP - current HP) in damage."
+    },
+    {
+      "itID": 40116,
+      "pName": "Shadowflare",
+      "pInfo": "Deals 5,000 dark damage to target."
+    },
+    {
+      "itID": 40117,
+      "pName": "Dragon Breath",
+      "pInfo": "Deals your current HP in damage to target."
+    },
+    {
+      "itID": 40118,
+      "pName": "Divine Rain",
+      "pInfo": "Deals 1,500 light damage to all."
+    },
+    {
+      "itID": 40119,
+      "pName": "Dark Sigh",
+      "pInfo": "Deals 1,500 dark damage to all."
+    },
+    {
+      "itID": 40120,
+      "pName": "Small BP Drink",
+      "pInfo": "Raises target’s BP by 1; 1,000 pg."
+    },
+    {
+      "itID": 40121,
+      "pName": "Medium BP Drink",
+      "pInfo": "Raises target’s BP by 2; 10,000 pg."
+    },
+    {
+      "itID": 40122,
+      "pName": "Large BP Drink",
+      "pInfo": "Raises target’s BP by 3; 100,000 pg."
+    },
+    {
+      "itID": 40123,
+      "pName": "Unearthly Bun",
+      "pInfo": "Raises all stats."
+    },
+    {
+      "itID": 40124,
+      "pName": "Consm. Dummy 0",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 40125,
+      "pName": "Nightmare Pillow",
+      "pInfo": "A pillow that grants deep but nightmarish sleep."
+    },
+    {
+      "itID": 40126,
+      "pName": "Petal Token",
+      "pInfo": "A token that can be exchanged for prizes\nat the game corner."
+    },
+    {
+      "itID": 40127,
+      "pName": "Consm. Dummy 3",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 40128,
+      "pName": "Consm. Dummy 4",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 40129,
+      "pName": "Potion",
+      "pInfo": "Restores 300 HP."
+    },
+    {
+      "itID": 40130,
+      "pName": "Ether",
+      "pInfo": "Restores 80 MP."
+    },
+    {
+      "itID": 40131,
+      "pName": "Antidote",
+      "pInfo": "Cures poison."
+    },
+    {
+      "itID": 40132,
+      "pName": "Phoenix Down",
+      "pInfo": "Revives target from KO."
+    },
+    {
+      "itID": 40133,
+      "pName": "Remedy",
+      "pInfo": "Cure a variety of status ailments for target."
+    },
+    {
+      "itID": 40134,
+      "pName": "Eye Drops",
+      "pInfo": "Cures blind."
+    },
+    {
+      "itID": 40135,
+      "pName": "Echo Herbs",
+      "pInfo": "Cures silence."
+    },
+    {
+      "itID": 40136,
+      "pName": "Wakeup Bell",
+      "pInfo": "Cures sleep."
+    },
+    {
+      "itID": 40137,
+      "pName": "Balsam",
+      "pInfo": "Cures dread."
+    },
+    {
+      "itID": 40138,
+      "pName": "Hi-Potion",
+      "pInfo": "Restores 1,000 HP."
+    },
+    {
+      "itID": 40139,
+      "pName": "X-Potion",
+      "pInfo": "Restores 3,000 HP."
+    },
+    {
+      "itID": 40140,
+      "pName": "Turbo Ether",
+      "pInfo": "Restores 300 MP."
+    },
+    {
+      "itID": 40141,
+      "pName": "Elixir",
+      "pInfo": "Restores HP and MP to full."
+    },
+    {
+      "itID": 40142,
+      "pName": "Megalixir",
+      "pInfo": "Restores party’s HP and MP to full."
+    },
+    {
+      "itID": 40143,
+      "pName": "Bomb Arm",
+      "pInfo": "Deals major fire damage to party."
+    },
+    {
+      "itID": 40144,
+      "pName": "Arctic Wind",
+      "pInfo": "Deals major water damage to party."
+    },
+    {
+      "itID": 40145,
+      "pName": "Pantheon’s Wrath",
+      "pInfo": "Deals major lightning damage to party."
+    },
+    {
+      "itID": 40146,
+      "pName": "Tengu Sneeze",
+      "pInfo": "Deals major wind damage to party."
+    },
+    {
+      "itID": 40147,
+      "pName": "Earth Mallet",
+      "pInfo": "Deals major earth damage to party."
+    },
+    {
+      "itID": 40148,
+      "pName": "HP Booster Bun",
+      "pInfo": "Raises HP."
+    },
+    {
+      "itID": 40149,
+      "pName": "MP Booster Bun",
+      "pInfo": "Raises MP."
+    },
+    {
+      "itID": 40150,
+      "pName": "Strength Bun",
+      "pInfo": "Raises strength."
+    },
+    {
+      "itID": 40151,
+      "pName": "Vitality Bun",
+      "pInfo": "Raises vitality."
+    },
+    {
+      "itID": 40152,
+      "pName": "Intelligence Bun",
+      "pInfo": "Raises intelligence."
+    },
+    {
+      "itID": 40153,
+      "pName": "Mind Bun",
+      "pInfo": "Raises mind."
+    },
+    {
+      "itID": 40154,
+      "pName": "Agility Bun",
+      "pInfo": "Raises agility."
+    },
+    {
+      "itID": 40155,
+      "pName": "Dexterity Bun",
+      "pInfo": "Raises dexterity."
+    },
+    {
+      "itID": 41000,
+      "pName": "Poison Potion",
+      "pInfo": "Deals 150 HP damage and poisons target."
+    },
+    {
+      "itID": 41001,
+      "pName": "Poison Ether",
+      "pInfo": "Deals 40 MP damage and poisons target."
+    },
+    {
+      "itID": 41009,
+      "pName": "Poison Hi-Potion",
+      "pInfo": "Deals 500 HP damage and poisons target."
+    },
+    {
+      "itID": 41010,
+      "pName": "Poison X-Potion",
+      "pInfo": "Deals 1,500 HP damage and poisons target."
+    },
+    {
+      "itID": 41011,
+      "pName": "Poison Turbo Ether",
+      "pInfo": "Deals 150 MP damage and poisons target."
+    },
+    {
+      "itID": 41012,
+      "pName": "Poison Elixir",
+      "pInfo": "Deals major damage to HP/MP, poisons target."
+    },
+    {
+      "itID": 41013,
+      "pName": "Poison Megalixir",
+      "pInfo": "Deals major damage to party’s HP/MP, poisons."
+    },
+    {
+      "itID": 42002,
+      "pName": "Antidote",
+      "pInfo": "Nullifies poison."
+    },
+    {
+      "itID": 42003,
+      "pName": "Phoenix Down",
+      "pInfo": "Nullifies death."
+    },
+    {
+      "itID": 42004,
+      "pName": "Remedy",
+      "pInfo": "Nullifies a range of status ailments."
+    },
+    {
+      "itID": 42005,
+      "pName": "Eye Drops",
+      "pInfo": "Nullifies blind."
+    },
+    {
+      "itID": 42006,
+      "pName": "Echo Herbs",
+      "pInfo": "Nullifies silence."
+    },
+    {
+      "itID": 42007,
+      "pName": "Wakeup Bell",
+      "pInfo": "Nullifies sleep."
+    },
+    {
+      "itID": 42008,
+      "pName": "Balsam",
+      "pInfo": "Nullifies dread."
+    },
+    {
+      "itID": 43000,
+      "pName": "Potion",
+      "pInfo": "Restores 150 HP; 20 pg."
+    },
+    {
+      "itID": 43001,
+      "pName": "Ether",
+      "pInfo": "Restores 40 MP; 1,000 pg."
+    },
+    {
+      "itID": 43003,
+      "pName": "Phoenix Down",
+      "pInfo": "Revives from KO; 100 pg."
+    },
+    {
+      "itID": 43004,
+      "pName": "Remedy",
+      "pInfo": "Cures a range of status ailments; 500 pg."
+    },
+    {
+      "itID": 43009,
+      "pName": "Hi-Potion",
+      "pInfo": "Restores 500 HP; 150 pg."
+    },
+    {
+      "itID": 43010,
+      "pName": "X-Potion",
+      "pInfo": "Restores 1,500 HP; 1,500 pg."
+    },
+    {
+      "itID": 43011,
+      "pName": "Turbo Ether",
+      "pInfo": "Restores 150 MP; 5,000 pg."
+    },
+    {
+      "itID": 50000,
+      "pName": "Cure",
+      "pInfo": "A scroll that restores a few HP to the target."
+    },
+    {
+      "itID": 50002,
+      "pName": "Poisona",
+      "pInfo": "A scroll that cures the target of poison."
+    },
+    {
+      "itID": 50003,
+      "pName": "Silence",
+      "pInfo": "A scroll that inflicts Silence upon the target."
+    },
+    {
+      "itID": 50004,
+      "pName": "Protect",
+      "pInfo": "A scroll that raises the target’s physical defense."
+    },
+    {
+      "itID": 50005,
+      "pName": "Aero",
+      "pInfo": "A scroll that deals minor wind damage to the\ntarget."
+    },
+    {
+      "itID": 50006,
+      "pName": "Cura",
+      "pInfo": "A scroll that restores some HP to the target."
+    },
+    {
+      "itID": 50007,
+      "pName": "Raise",
+      "pInfo": "A scroll that revives the target from KO."
+    },
+    {
+      "itID": 50009,
+      "pName": "Aerora",
+      "pInfo": "A scroll that deals moderate wind damage to\nthe target."
+    },
+    {
+      "itID": 50010,
+      "pName": "Shell",
+      "pInfo": "A scroll that raises the target’s magic defense."
+    },
+    {
+      "itID": 50011,
+      "pName": "Esuna",
+      "pInfo": "A scroll that cures the target of a range of\nailments."
+    },
+    {
+      "itID": 50012,
+      "pName": "Curaga",
+      "pInfo": "A scroll that restores a huge amount of HP to\nthe target."
+    },
+    {
+      "itID": 50013,
+      "pName": "Reflect",
+      "pInfo": "A scroll that casts a magic-reflecting barrier\naround the target."
+    },
+    {
+      "itID": 50014,
+      "pName": "Aeroga",
+      "pInfo": "A scroll that deals major wind damage to the\ntarget."
+    },
+    {
+      "itID": 50015,
+      "pName": "Arise",
+      "pInfo": "A scroll that revives the target from KO and\nrestores all HP."
+    },
+    {
+      "itID": 50016,
+      "pName": "Holy",
+      "pInfo": "A scroll that deals light damage to the target."
+    },
+    {
+      "itID": 50017,
+      "pName": "Dispel",
+      "pInfo": "A scroll that removes various magic and support\neffects from the target."
+    },
+    {
+      "itID": 50018,
+      "pName": "Blindna",
+      "pInfo": "A scroll that cures the target of blind."
+    },
+    {
+      "itID": 50019,
+      "pName": "Curada",
+      "pInfo": "A scroll that restores a lot of HP to the target."
+    },
+    {
+      "itID": 50020,
+      "pName": "Esunaga",
+      "pInfo": "A scroll that cures the party of status ailments."
+    },
+    {
+      "itID": 50100,
+      "pName": "Fire",
+      "pInfo": "A scroll that deals minor fire damage to the\ntarget."
+    },
+    {
+      "itID": 50101,
+      "pName": "Blizzard",
+      "pInfo": "A scroll that deals minor water damage to the\ntarget."
+    },
+    {
+      "itID": 50102,
+      "pName": "Thunder",
+      "pInfo": "A scroll that deals minor lightning damage to\nthe target."
+    },
+    {
+      "itID": 50103,
+      "pName": "Poison",
+      "pInfo": "A scroll that inflicts poison upon the target."
+    },
+    {
+      "itID": 50104,
+      "pName": "Sleep",
+      "pInfo": "A scroll that puts the target to sleep."
+    },
+    {
+      "itID": 50105,
+      "pName": "Quake",
+      "pInfo": "A scroll that deals minor earth damage to the\ntarget."
+    },
+    {
+      "itID": 50106,
+      "pName": "Fira",
+      "pInfo": "A scroll that deals moderate fire damage to the\ntarget."
+    },
+    {
+      "itID": 50107,
+      "pName": "Blizzara",
+      "pInfo": "A scroll that deals moderate water damage to\nthe target."
+    },
+    {
+      "itID": 50108,
+      "pName": "Thundara",
+      "pInfo": "A scroll that deals moderate lightning damage\nto the target."
+    },
+    {
+      "itID": 50109,
+      "pName": "Drain",
+      "pInfo": "A scroll that absorbs the target’s HP."
+    },
+    {
+      "itID": 50110,
+      "pName": "Fear",
+      "pInfo": "A scroll that inflicts dread upon the target."
+    },
+    {
+      "itID": 50111,
+      "pName": "Quara",
+      "pInfo": "A scroll that deals moderate earth damage to\nthe target."
+    },
+    {
+      "itID": 50112,
+      "pName": "Firaga",
+      "pInfo": "A scroll that deals major fire damage to the\ntarget."
+    },
+    {
+      "itID": 50113,
+      "pName": "Blizzaga",
+      "pInfo": "A scroll that deals major water damage to the\ntarget."
+    },
+    {
+      "itID": 50114,
+      "pName": "Thundaga",
+      "pInfo": "A scroll that deals major lightning damage to\nthe target."
+    },
+    {
+      "itID": 50116,
+      "pName": "Death",
+      "pInfo": "A scroll that inflicts death upon the target."
+    },
+    {
+      "itID": 50117,
+      "pName": "Quaga",
+      "pInfo": "A scroll that deals major earth damage to the\ntarget."
+    },
+    {
+      "itID": 50118,
+      "pName": "Aspir",
+      "pInfo": "A scroll that absorbs the target’s MP."
+    },
+    {
+      "itID": 50119,
+      "pName": "Dark",
+      "pInfo": "A scroll that deals major dark damage to the\ntarget."
+    },
+    {
+      "itID": 50120,
+      "pName": "Kill",
+      "pInfo": "A scroll that wipes out weaker foes."
+    },
+    {
+      "itID": 50200,
+      "pName": "Slow",
+      "pInfo": "A scroll that lowers the target’s speed."
+    },
+    {
+      "itID": 50201,
+      "pName": "Regen",
+      "pInfo": "A scroll that gradually restores the target’s HP."
+    },
+    {
+      "itID": 50203,
+      "pName": "Haste",
+      "pInfo": "A scroll that raises the target’s speed."
+    },
+    {
+      "itID": 50204,
+      "pName": "Teleport",
+      "pInfo": "A scroll that lets you escape from a dungeon or\nbattle."
+    },
+    {
+      "itID": 50206,
+      "pName": "Gravity",
+      "pInfo": "A scroll that deals half of max HP as damage to\nthe target."
+    },
+    {
+      "itID": 50207,
+      "pName": "Veil",
+      "pInfo": "A scroll that raises the target’s evasion."
+    },
+    {
+      "itID": 50208,
+      "pName": "Slowga",
+      "pInfo": "A scroll that lowers the speed of an entire party."
+    },
+    {
+      "itID": 50209,
+      "pName": "Hastega",
+      "pInfo": "A scroll that raises the speed of an entire party."
+    },
+    {
+      "itID": 50210,
+      "pName": "Veilga",
+      "pInfo": "A scroll that raises party evasion."
+    },
+    {
+      "itID": 50211,
+      "pName": "Comet",
+      "pInfo": "A scroll that deals random non-elemental\ndamage to the target."
+    },
+    {
+      "itID": 50212,
+      "pName": "Quicken",
+      "pInfo": "A scroll that raises the hit count of the target."
+    },
+    {
+      "itID": 50213,
+      "pName": "Stop",
+      "pInfo": "A scroll that immobilizes the target for a few\nturns."
+    },
+    {
+      "itID": 50215,
+      "pName": "Graviga",
+      "pInfo": "A scroll that deals 3/4 of max HP as damage to\nthe target."
+    },
+    {
+      "itID": 50216,
+      "pName": "Reraise",
+      "pInfo": "A scroll that casts Raise automatically after\na KO."
+    },
+    {
+      "itID": 50217,
+      "pName": "Meteor",
+      "pInfo": "A scroll that inflicts 4 non-elemental attacks on\nrandom targets."
+    },
+    {
+      "itID": 50218,
+      "pName": "Promethean Fire",
+      "pInfo": "A scroll that teaches Promethean Fire."
+    },
+    {
+      "itID": 50219,
+      "pName": "Ziusudra’s Sin",
+      "pInfo": "A scroll that teaches Ziusudra’s Sin."
+    },
+    {
+      "itID": 50220,
+      "pName": "Girtablulu",
+      "pInfo": "A scroll that teaches Girtablulu."
+    },
+    {
+      "itID": 50221,
+      "pName": "Deus Ex Machina",
+      "pInfo": "A scroll that teaches Deus Ex Machina."
+    },
+    {
+      "itID": 50222,
+      "pName": "Hresvelgr",
+      "pInfo": "A scroll that teaches Hresvelgr."
+    },
+    {
+      "itID": 50223,
+      "pName": "Susano-o",
+      "pInfo": "A scroll that teaches Susano-o."
+    },
+    {
+      "itID": 90000,
+      "pName": "D’s Journal",
+      "pInfo": "A tattered journal carried by Ringabel."
+    },
+    {
+      "itID": 90001,
+      "pName": "Ise-no-Kami",
+      "pInfo": "A blade given to Edea by her master for her first\ncampaign."
+    },
+    {
+      "itID": 90002,
+      "pName": "Rainbow Thread",
+      "pInfo": "Rainbow-colored thread needed to make the\nvestal garb."
+    },
+    {
+      "itID": 90003,
+      "pName": "Agnès’s Pendant",
+      "pInfo": "The pendant Agnès carries."
+    },
+    {
+      "itID": 90004,
+      "pName": "Vestal Garb",
+      "pInfo": "The ceremonial garb needed to awaken a crystal."
+    },
+    {
+      "itID": 90005,
+      "pName": "Merchantry Orders",
+      "pInfo": "Orders written by Chairman Profiteur to ambush\nvisitors to the oasis."
+    },
+    {
+      "itID": 90006,
+      "pName": "Mysterious Note",
+      "pInfo": "A note with instructions to visit the Grand Mill\ntower at night."
+    },
+    {
+      "itID": 90007,
+      "pName": "Bravo Bikini",
+      "pInfo": "A revealing bikini from the sage’s collection."
+    },
+    {
+      "itID": 90008,
+      "pName": "Orichalcum",
+      "pInfo": "The orichalcum ore that Egil picked up."
+    },
+    {
+      "itID": 90009,
+      "pName": "Legendary Baton",
+      "pInfo": "The baton of traveling bard Arca Pellar."
+    },
+    {
+      "itID": 90010,
+      "pName": "Alternis’s Journal",
+      "pInfo": "A journal dropped by Alternis Dim."
+    },
+    {
+      "itID": 90011,
+      "pName": "Fire Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90012,
+      "pName": "Water Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90013,
+      "pName": "Wind Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90014,
+      "pName": "Earth Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90015,
+      "pName": "Light Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90016,
+      "pName": "Dark Keystone",
+      "pInfo": "One of the keystones that open the gate to\nVampire Castle."
+    },
+    {
+      "itID": 90017,
+      "pName": "Chest Key",
+      "pInfo": "A key for opening locked chests."
+    },
+    {
+      "itID": 90018,
+      "pName": "*Knight",
+      "pInfo": "The asterisk for the knight job."
+    },
+    {
+      "itID": 90019,
+      "pName": "*Black Mage",
+      "pInfo": "The asterisk for the black mage job."
+    },
+    {
+      "itID": 90020,
+      "pName": "*White Mage",
+      "pInfo": "The asterisk for the white mage job."
+    },
+    {
+      "itID": 90021,
+      "pName": "*Monk",
+      "pInfo": "The asterisk for the monk job."
+    },
+    {
+      "itID": 90022,
+      "pName": "*Ranger",
+      "pInfo": "The asterisk for the ranger job."
+    },
+    {
+      "itID": 90023,
+      "pName": "*Ninja",
+      "pInfo": "The asterisk for the ninja job."
+    },
+    {
+      "itID": 90024,
+      "pName": "*Time Mage",
+      "pInfo": "The asterisk for the time mage job."
+    },
+    {
+      "itID": 90025,
+      "pName": "*Spell Fencer",
+      "pInfo": "The asterisk for the spell fencer job."
+    },
+    {
+      "itID": 90026,
+      "pName": "*Swordmaster",
+      "pInfo": "The asterisk for the swordmaster job."
+    },
+    {
+      "itID": 90027,
+      "pName": "*Pirate",
+      "pInfo": "The asterisk for the pirate job."
+    },
+    {
+      "itID": 90028,
+      "pName": "*Dark Knight",
+      "pInfo": "The asterisk for the dark knight job."
+    },
+    {
+      "itID": 90029,
+      "pName": "*Templar",
+      "pInfo": "The asterisk for the templar job."
+    },
+    {
+      "itID": 90030,
+      "pName": "*Vampire",
+      "pInfo": "The asterisk for the vampire job."
+    },
+    {
+      "itID": 90031,
+      "pName": "*Arcanist",
+      "pInfo": "The asterisk for the arcanist job."
+    },
+    {
+      "itID": 90032,
+      "pName": "*Summoner",
+      "pInfo": "The asterisk for the summoner job."
+    },
+    {
+      "itID": 90033,
+      "pName": "*Conjurer",
+      "pInfo": "The asterisk for the conjurer job."
+    },
+    {
+      "itID": 90034,
+      "pName": "*Valkyrie",
+      "pInfo": "The asterisk for the valkyrie job."
+    },
+    {
+      "itID": 90035,
+      "pName": "*Spiritmaster",
+      "pInfo": "The asterisk for the spiritmaster job."
+    },
+    {
+      "itID": 90036,
+      "pName": "*Salve-Maker",
+      "pInfo": "The asterisk for the salve-maker job."
+    },
+    {
+      "itID": 90037,
+      "pName": "*Red Mage",
+      "pInfo": "The asterisk for the red mage job."
+    },
+    {
+      "itID": 90038,
+      "pName": "*Thief",
+      "pInfo": "The asterisk for the thief job."
+    },
+    {
+      "itID": 90039,
+      "pName": "*Merchant",
+      "pInfo": "The asterisk for the merchant job."
+    },
+    {
+      "itID": 90040,
+      "pName": "*Performer",
+      "pInfo": "The asterisk for the performer job."
+    },
+    {
+      "itID": 90041,
+      "pName": "Adventurer’s Mark",
+      "pInfo": "The mark of an adventurer."
+    },
+    {
+      "itID": 90042,
+      "pName": "Ward Bangle",
+      "pInfo": "An armlet that keeps foes away."
+    },
+    {
+      "itID": 90043,
+      "pName": "Taunt Bangle",
+      "pInfo": "Unlocks a new encounter rate of 400%."
+    },
+    {
+      "itID": 90044,
+      "pName": "Limit Break Mark",
+      "pInfo": "A special move part that allows attack and healing\neffects to exceed the limit of 9,999. The party\ncan hold multiples of this part, but no more\nthan one can be set to each party member."
+    },
+    {
+      "itID": 90045,
+      "pName": "Key Item Dummy 5",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 90046,
+      "pName": "Key Item Dummy 6",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 90047,
+      "pName": "Key Item Dummy 7",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 90048,
+      "pName": "Key Item Dummy 8",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 90049,
+      "pName": "Key Item Dummy 9",
+      "pInfo": "Dummy"
+    },
+    {
+      "itID": 90050,
+      "pName": "Key Item Dmmy 10",
+      "pInfo": "Dummy"
+    }
+  ]
+}

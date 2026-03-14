@@ -1,0 +1,35 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 160,
+    "data_one_size": 28,
+    "data_num": 4,
+    "ints_per_record": 7
+  },
+  "records": [
+    {
+      "levelExp": 0,
+      "damageRate": 0,
+      "statusRate": 3,
+      "buffTurn": 10
+    },
+    {
+      "levelExp": 100,
+      "damageRate": 100,
+      "statusRate": 110,
+      "buffTurn": 120
+    },
+    {
+      "levelExp": 100,
+      "damageRate": 100,
+      "statusRate": 110,
+      "buffTurn": 120
+    },
+    {
+      "levelExp": 0,
+      "damageRate": 0,
+      "statusRate": 1,
+      "buffTurn": 1
+    }
+  ]
+}

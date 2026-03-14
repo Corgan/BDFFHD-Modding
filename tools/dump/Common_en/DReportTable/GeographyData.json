@@ -1,0 +1,811 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 45344,
+    "data_one_size": 32,
+    "data_num": 80,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": 1,
+      "pTitle": "カルディスラ地方１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Caldis Region:\nThe continent of\nCaldis and its\nsurrounding waters\nare on the\nnorthern edge of\nthe Sea of\nCorsairs in\nLuxendarc’s\nnorthern\nhemisphere.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC002",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 2,
+      "pTitle": "カルディスラ地方２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Continent of Caldis:\nSurrounded by the North Caldis Sea, Etersen Sea, and the Sea of Corsairs, this small continent is almost completely covered in a mountainous region known as the Norende Plateau, but on the east coast, there is a narrow flatland area with a thriving city. Blessed with a mild climate and warm ocean currents, this land has four beautiful seasons and bountiful fishing and forestry.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 3,
+      "pTitle": "カルディスラ王国１…王国",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Kingdom of Caldisla:\nThe kingdom’s capital is located on the south part of the continent where the Caldis River empties into the Sea of Corsairs. It has long been blessed with many thriving fishing ports, and in recent years, it has become an important stop on booming sea trade routes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 4,
+      "pTitle": "カルディスラ王国２…城下町",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Town of Caldisla:\nThe town that has\ngrown around the\nroyal castle over\nthe years has\njoined with the\nthriving port\ntown. Together\nthey form the\ncapital of the\nKingdom of\nCaldisla.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC003",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 5,
+      "pTitle": "カルディスラ王国３…王宮",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Caldisla Palace:\nThe palace was once a strong hilltop fortress until a Caldislan king unified the kingdom nine generations ago. Through a peaceful medieval period in which the kingdom was protected by the sea in all directions, most of it evolved into a bustling merchant town, leaving only a palace and a small barracks where the fortress once stood.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 6,
+      "pTitle": "カルディスラ王国４…宿屋",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Inn:\nLocated in the town of Caldisla at the bottom of a major street, this inn is a favorite of traveling merchants for its fair prices and courteous service. The royal family even recognizes it as a “Blue Tile,” a designation given only to the finest establishments in town. The seasonal seafood cuisine prepared by the inn’s proprietor is superb.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 7,
+      "pTitle": "ノルエンデ村１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Norende Village:\nThis small settlement is situated on the Norende Heights that stretch across the continent of Caldis. Its people are primarily involved in forestry as well as animal husbandry that makes use of the expansive mountaintop plains across the region. The narrow byway that runs alongside Norende Ravine at the upper reaches of the Caldis River is little used, even by the locals, for it is dim and dangerous even by day.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 8,
+      "pTitle": "ノルエンデ村２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Great Chasm:\nThis gaping void\nopened up in the\nNorende region,\nswallowing\n[PCM1]’s entire\nvillage during a\nmassive earthquake\nthat shook all of\nCaldisla.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC007",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 9,
+      "pTitle": "ノルエンデ村３",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Canyon Road:\nA narrow byway\ncreated long ago\nalong Norende\nRavine at the\nupper reaches of\nthe Caldis River.\nIt is the sole\nroute to the site\nof Norende Village\nnow that the main\nroad to the north has been cut off by the Great Chasm.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC008",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 10,
+      "pTitle": "ノルエンデ村４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Norende Battlewastes:\nThe final battle between dark and light took place 1,800 years ago here on the Norende Heights deep within the mountains. The Orthodoxy’s forces led by Sage Yulyana clashed so fiercely with Lord DeRosso’s forces of dark that the very peaks of the mountains were obliterated before an angel descended from the heavens to intervene.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 11,
+      "pTitle": "セントロ砦跡１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Ruins of Centro Keep:\nThese ruins located along the main road stretching north from the Caldislan castle were once considered a vital strategic point between the northern and southern regions, but they were abandoned after being rendered obsolete by the unification of the kingdom.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 12,
+      "pTitle": "セントロ砦跡２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Eternia’s Forward Encampment:\nMere months after the Knights of the Eternian Sky landed in northern Caldisla, ground forces led by the black mage Ominas Crowe occupied Centro Keep, using it as a forward encampment from which to strike the town of Caldisla. With the bridge over the Caldis River taken out in the Eternian attack, little has been done to repel the invasion.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 13,
+      "pTitle": "セントロ砦跡３",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Black Mage Keep:\nBlack Mage Ominas\nCrowe, the fiend\nwho set fires in\nthe town of\nCaldisla, has\ntransformed the\nRuins of Centro\nKeep into an\nEternian\nencampment.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC005",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 14,
+      "pTitle": "ロンターノ離宮１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Lontano Villa:\nSituated on the northern end of the continent of Caldis and famous for its scenic views, this villa is used for receiving foreign dignitaries and escaping the summer heat. It was once a stronghold of the forces opposing the Caldislan royal family, and many fierce battles were waged around Centro Keep, along the main road.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 15,
+      "pTitle": "ロンターノ離宮２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Eternian\nEncampment:\nThe first site\noccupied by the\nSky Knights. What\nstarted as an\nairship dock has\ngrown into a\nsprawling camp for\nthe invasion of\nCaldisla.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC006",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 16,
+      "pTitle": "南西の湖",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Lake to the\nSouthwest:\nA lake to the\nsouthwest of the\nCaldislan castle\nthat no one has\nbothered to name.\nSky Knight\nairships use it\nwhen coming to\nbombard the town.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC004",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 17,
+      "pTitle": "ナダラケス地方１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Harena Region:\nThis hot desert\nregion, which\nincludes Ancheim\nand the Temple of\nWind, lies in the\nwaters southeast\nof Caldisla in\nLuxendarc’s\nsouthern\nhemisphere.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC009",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 18,
+      "pTitle": "ナダラケス地方２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Seas, Sands, and Winds of Harena:\nThe burning sun beats down on the expansive sands in the day, but temperatures plunge at night. Only the constant winds from the south and the waters of the Flor-Cheim Inner Sea have allowed civilization to survive in this harsh environment. In recent years, those winds have fueled Ancheim’s industrialization.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 19,
+      "pTitle": "ナダラケス地方３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Desertification:\nAccording to Lord DeRosso, the Harena region was once temperate and lush with vegetation, but a great battle he waged against Sage Yulyana 1,800 years ago commenced the region’s decline into a desert waste, which in turn led to the fall of the Harena dynasty. The name Harena is all that remains.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 20,
+      "pTitle": "ラクリーカ王国１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Ancheim, the Land of Sand and Time:\nLocated in the heart of the Harena Desert, this mechanical city clings desperately to the gap between cliffs running east to west, but it is completely open to the south to capture every breath of wind. Gears and machines of industry are constantly in motion all around the city.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 21,
+      "pTitle": "ラクリーカ王国２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "The Weary City:\nIt was once said\nthat the wind was\nAncheim’s lifeblood,\nbut now that the\nair has gone still,\nthe great windmills\nhave ground to a\nhalt. Without the\npower to even draw\nwater from the wells, its people must work around the clock to turn the great turbines manually.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC010",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 22,
+      "pTitle": "ラクリーカ王国３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Vibrant City:\nReturning to Ancheim after awakening the Wind Crystal, we found that the wind blows across the desert city once more. Its great windmills turn swiftly, powered by the southern winds, and across the city, the gears have sprung back to life. In hushed tones, the prime minister noted that joy and vitality have returned to the people.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 23,
+      "pTitle": "ラクリーカ王国４（王宮）",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Royal Palace:\nThe palace of Eloch Quentis Khamer VIII, King of Ancheim, is housed in an exceptionally tall tower on the east side of the city. A great clock dial, the symbol of this land, is carved in the wall behind his throne. Immense gears and mechanisms befitting a king who promoted Ancheim’s industrialization can be seen here and there. But looking around, it’s not easy to tell what all this machinery actually does.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 24,
+      "pTitle": "ラクリーカ王国５（商会ビル）",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Merchantry Building:\nThis mechanical tower in the east of the city was erected in a prime location second only to the Royal Palace. Inside is an open, soaring space all the way up to the ceiling, and underneath, strange, gigantic gears churn endlessly. It is brilliantly lit, despite the fact that all power is supplied by human labor now that the wind has stopped.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 25,
+      "pTitle": "風の神殿１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Temple of Wind:\nThis slender, spiral-shaped tower stands alone south of Ancheim, at the edge of the Harena Desert.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 26,
+      "pTitle": "風の神殿２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "House of Lore:\nA hushed silence\npervaded the\ntemple. The walls\nand pillars of the\nliving quarters,\nsanctum, and\nreliquary\ncrumbled, and many\nacolytes were\nswallowed by the\ndarkness.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC011",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 27,
+      "pTitle": "クリスタル神殿１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Altar of the Crystal:\nIn the innermost depths of the temple, a cavernous space opened up before us, and there, floating high in the air, was a great crystal of immense proportions.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 28,
+      "pTitle": "クリスタル神殿２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Awakening:\nArrayed in her vestal garb, [PCF1] chanted the ritual prayer to awaken the Wind Crystal, which had been swallowed up in darkness. The crystal has now regained its radiance and is protected by a magic barrier.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 29,
+      "pTitle": "オアシス",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Oasis:\nWe’ve been told of\nan oasis where the\nwater is free.\nAfter traveling\nwest from Ancheim,\nwe eventually\nfound it amid the\nscorching sands.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC012",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 30,
+      "pTitle": "盗賊のアジト",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Den of Thieves:\nVenturing deeper\ninto the Harena\nRuins in pursuit\nof the thieves, we\nfound their lair\npiled high with\nplunder, no doubt\nstolen at the\noasis.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC013",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 31,
+      "pTitle": "瘴気の森",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Miasma Woods:\nThese miasma-\nchoked woods, the\nsole overland\nroute to Florem,\nare less noxious\nnow that wind has\nstarted blowing\nonce more.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC014",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 32,
+      "pTitle": "ユルヤナ地方１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Yulyana Region:\nThis large peninsula east of the Flor-Cheim Inner Sea and northeast of Ancheim is distinguished by its forest and lake.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 33,
+      "pTitle": "ユルヤナ地方２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Forest and Lake:\nA small lake lies\namid vast\nwoodlands. At its\nnorthern edge is a\ndock along with a\nlonely old house\nthat looks like it\nwas built into the\nhollow of a great\ntree.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC015",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 34,
+      "pTitle": "ユルヤナ地方３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Route to Florem:\nFlorem can be reached from Yulyana Woods via a canyon that cuts through Mount Fragmentum. The people of Florem say the old sage uses this route to come to trade.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 35,
+      "pTitle": "ユルヤナ地方４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Land Grant:\nThis land was granted to Yulyana upon his victory against Lord DeRosso and his shadowy forces while the sage was still High Inquisitor of the Crystal Orthodoxy. It has ever since been known as Yulyana Woods. After he left the Orthodoxy and retired to its verdant depths, no outside power or authority reaches these woods.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 36,
+      "pTitle": "森の仕立屋１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Yulyana Woods\nNeedleworks:\nThe sage’s home\nand workshop,\nbuilt into a tree\nhollow by the\nlake. It has space\nto lodge visitors,\nand is filled with\nthe sage’s\ncreations.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC016",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 37,
+      "pTitle": "森の仕立屋２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Uprising:\nBefore Braev the Templar launched his surprise attack on the Orthodoxy’s head temple fifteen years ago, he mustered his forces here in this land. His wife remained here with young [PCF2], praying for the templar’s safe return.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 38,
+      "pTitle": "祈祷衣の洞穴",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Vestment Cave:\nThe sage has asked\nus to fetch\nrainbow thread\nfrom the depths of\nthis mossy cave.\nIt can be reached\nby proceeding\nclockwise around\nthe lake from his\nhome.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC017",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 39,
+      "pTitle": "フロウエル地方１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Florem Region:\nBlessed with\nplentiful\ngrasslands,\nforests, water,\nand flowers, this\nregion lies east\nof Caldisla and\nnorth of Harena.\nIt is also home to\nthe Temple of\nWater.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC018",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 40,
+      "pTitle": "フロウエル地方２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Nature’s Bounty:\nThe flower gardens have drawn people and animals alike to the region, and the great forests and pure flowing waters sustain their lives. The people give thanks to the Water Crystal for the blessings of nature, making Florem a longtime center of Crystalism.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 41,
+      "pTitle": "フロウエル地方３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Flower Gardens and Forests:\nTo the south stands the temple where the Water Crystal is enshrined. The clear waters cleansed by the temple empty into the Flor-Cheim Inner Sea. Great flower gardens are located to the west, and to the east stretches a vast forest. The ages-old worship of the spirits of these lands still continues, in harmony with Crystalism.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 42,
+      "pTitle": "フロウエル１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Florem, Land of Radiant Flowers:\nThe ancient traditions of this land dictate that men may not permanently reside within its borders, and it is said that the “radiant flowers” mentioned in its name also refers to its women. Its capital city is built atop the bountiful waters of the Flor River.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 43,
+      "pTitle": "フロウエル２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Pleasure Quarter:\nThe bright,\ncolorful area is\nan unexpected\nsight, as Florem\nis thought to be\nan impoverished\nyet honorable land\nblessed more by\nnature’s bounty\nthan material\nwealth. It is far different from what [PCF1] remembers when she visited as a child.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC019",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 44,
+      "pTitle": "フロウエル３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "River-top City:\nThe lower area where the commoners once lived has been transformed into a shopping district, and the monuments venerating nature and the crystal have been torn down to make way for a flashy stage and colorful, opulent buildings. It seems the city has undergone a major multi-year transformation into the pleasure district it is today.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 45,
+      "pTitle": "フロウエル４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Decline of Crystalism:\nThough Florem was once said to be the land most firmly rooted in Crystalism in all of Luxendarc, there are few indications left. The water vestal has gone into hiding and the Crystalist faithful cower in fear. Even the matriarch who governs this land has been driven to the fringes of the city and can do nothing but watch the worsening changes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 46,
+      "pTitle": "水の神殿",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Temple of Water:\nAlthough it seems\ncompletely\nundamaged, unlike\nthe sad state of\nthe Temple of\nWind, an eerie\nstillness and\nunsettling silence\npervade its empty\nhalls.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC020",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 47,
+      "pTitle": "水のクリスタル祭壇",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Awakening:\nArrayed in her vestal garb, [PCF1] chanted the ritual prayer to awaken the Water Crystal, which had been swallowed up in darkness. The crystal has now regained its radiance.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 48,
+      "pTitle": "キレート山１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Mount Fragmentum:\nThis great\nmountain on the\neastern edge of\nFlorem was rent\nasunder over a\nthousand years\nago, opening up a\npass to Yulyana\nWoods.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC021",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 49,
+      "pTitle": "キレート山２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Rending of Mount Fragmentum:\nThe rift that tore the mountain asunder and opened up a pass between Florem and Yulyana Woods was the result of the fierce battle Lord DeRosso and Sage Yulyana waged against one another 1,800 years ago.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 50,
+      "pTitle": "カレーダの森",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Witherwood:\nThis forest of\ndead, withered\ntrees lies to the\nnorth of Florem’s\nexpansive eastern\nforest. A hidden\nhamlet lies just\nbeyond its\nnorthern fringe.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC022",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 51,
+      "pTitle": "不気味な樹上",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Twisted Treetop:\nMighty trees,\nringed by their\ndead, withered\nbrethren, can be\nfound amid\nFlorem’s expansive\neastern forest. At\nthe treetop, there\nis the skeleton of\na giant snake\nalong with an unbearably putrid stench in the air.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC023",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 52,
+      "pTitle": "フロウエルの花園",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Florem Gardens:\nIn western Florem, seasonal flowers bloom in profusion, as if each one were vying to outdo the other. The gardens can be reached by heading west from the Temple of Water, crossing the bridge, and then immediately heading north along the river.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 53,
+      "pTitle": "ダスク遺跡",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Twilight Ruins:\nLocated on the\nwestern edge of\nFlorem far to the\nwest of the Temple\nof Water, these\nruins are believed\nto predate Florem’s\nfounding. Its deepest\nreaches are a training\nground for the\nadherents of Crystalism.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC025",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 54,
+      "pTitle": "エイゼン地方",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Eisen Region:\nThis area encompasses Eisenberg, mired in the throes of civil war, and the waters of the Sea of Corsairs, upon which Grandship floats.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 55,
+      "pTitle": "パイレーツ・オーシャン",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Sea of Corsairs:\nThe waters upon\nwhich Grandship\nfloats form\nLuxendarc’s\nlargest sea. It\ntakes its name\nfrom the great\npirate nation that\nflourished here in\nthe Golden Age of\nPiracy.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC026",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 56,
+      "pTitle": "沈みかけた国グランシップ１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Sinking State, Grandship:\nFloating in the middle of the Sea of Corsairs, this floating nation-state was founded by a legendary pirate according to some, but others claim it existed long before recorded history. It is said that it has been unable to move from its present location for hundreds of years.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 57,
+      "pTitle": "沈みかけた国グランシップ２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Neutrality:\nGrandship serves\nas a crucial\nsupply port for\nany and all ships\nsailing the Sea of\nCorsairs. It has\nno military, and\nremains completely\nneutral in world\naffairs.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC027",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 58,
+      "pTitle": "沈みかけた国グランシップ３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Grandship Takes Flight:\nAs written in the ancient texts, feeding orichalcum to the engine room furnace caused Grandship to rise, or rather, soar into the sky. It can sail far higher than the Eschalot—high enough to surmount the Eternian Highlands. With its people evacuated, Grandship now presents us with the perfect opportunity.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 59,
+      "pTitle": "沈みかけた国グランシップ４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Lights and Wreckage:\nThat flash of light [PCM1] saw when the Great Chasm opened… And the eddy of light that enveloped us when we plunged into the Holy Pillar… What was it about the light from them both? And then there was that wreckage and mechanical fragments scattered about the Great Chasm… We were all thinking the same thing, and for the same reason, we all wanted to banish the thought.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 60,
+      "pTitle": "エイゼンベルグ地方",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Eisenberg:\nThe desolate land\nof Eisenberg,\nbattered by brutal\ncivil war and the\nmightiest\nvolcanoes in\nLuxendarc, takes\nits name from the\nancient term for\n“iron mountain.”",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC029",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 61,
+      "pTitle": "ハルトシルトの街",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Hartschild:\nThe town is now\nthe Shieldbearer\nstronghold, but\nbefore the civil\nwar, it was a\nflourishing city.\nThe eruption of\nMount Karka\nswallowed the\nsouth road to the\nTemple of Fire, and boiling lava creeps toward the outskirts of town.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC030",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 62,
+      "pTitle": "エイゼン大橋",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Eisen Bridge:\nThis bridge\nspanning the great\nrift at the center\nof Eisenberg is\nthe front line in\nthe devastating\ncivil war. The\nSwordbearers seek\nto swiftly end the\nwar by bringing\nlarge weaponry across, while the Shieldbearers have dug in to prevent this.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC031",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 63,
+      "pTitle": "ミスリル鉱山１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Mythril Mine:\nProducing\nprimarily mythril\nore, this mine at\nthe foot of Mount\nKarka was captured\nby the\nSwordbearers a few\nyears back.\nIt is said that\nyoung boys are\nbeing captured and forced to work at the mine.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC032",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 64,
+      "pTitle": "ミスリル鉱山２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Temple Passage:\nAfter returning through the passage that leads to the Temple of Fire from the deepest depths of the mythril mine, we found that every last vein of mythril was gone, presumably due to the effects of the Fire Crystal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 65,
+      "pTitle": "グラ―プ砦",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Grapp Keep:\nA Swordbearer fort\nbuilt upon the\nbattlefield where\nthe deadly poison\nweapon “toxic\nmist” was used\nfour years ago.\nBut it was not\nerected for\nmilitary purposes.\nRather, the facility’s purpose is to prevent the toxin’s spread and to conduct research on how to neutralize it.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC033",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 66,
+      "pTitle": "火の神殿",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Temple of Fire:\nUnlike the other\ntemples, this one\nshows disturbing\nsigns of having\nbeen attacked and\nsacked by human\nhands.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC035",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 67,
+      "pTitle": "火のクリスタル祭壇",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Awakening:\nWe have awakened the Fire Crystal, which had been swallowed up in darkness. It has now regained its radiance.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 68,
+      "pTitle": "シュタルクフォート",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Lair of the\nSwordbearers:\nStarkfort, a fort\nin northern\nEisenberg, once\nstationed 100,000\nShieldbearer\nsoldiers. It has\nbeen the base of\noperations for the\nSwordbearers since\ntheir sudden uprising four years ago.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC036",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 69,
+      "pTitle": "海岸の廃屋",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "House by the Sea:\nDatz and Zatz used\nthis abandoned\nhouse when trying\nto recruit help\nfrom Grandship.\nPeople and\nsupplies are\nferried in from\nships anchored in\nthe bay.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC037",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 70,
+      "pTitle": "エタルニア地方",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Eternia Region:\nLocated north of Eisenberg, northwest of Caldisla, and northeast of Florem, this region consists entirely of a large land mass with the highest elevations anywhere in Luxendarc. The steep encircling mountains make passage to and from the outside world quite difficult. Known as the Land of Immortality since ancient times, it is a realm shrouded in mystery.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 71,
+      "pTitle": "エタルニアの街",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "City of Eternia:\nWhite magic cables\nconnect to the\ncity’s medical\nfacilities, and\nthrough them flow\nthe healing waves\nthat have made it\npossible to banish\ndeath by sickness.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC039",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 72,
+      "pTitle": "墓標の村",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Gravemark Village:\nCountless grave\nmarkers line the\nearth here in this\nabandoned village\nalong the east\npassage. [PCF2]’s\nparents were born\nhere, but it was\nwiped out after\nthe Orthodoxy\nforsook it during the Great Plague.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC040",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 73,
+      "pTitle": "総司令本部１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Eternian Central Command:\nThe headquarters of the Eternian Forces is accessible through three passages from the city of Eternia. It was formerly the head temple of the Orthodoxy, the religion’s most sacred place, until the templar stormed it fifteen years ago.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 74,
+      "pTitle": "総司令本部２",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "The Last Bastion:\nEternian Central\nCommand stands\nguard over\nEverlast Tower,\nonce known as the\nTemple of Earth.\nIn addition to the\nleadership of the\nEternian Forces,\nCentral Command\nalso houses the chambers of the Council of Six, the highest governing body of Eternia.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC041",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 75,
+      "pTitle": "不死の塔１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Everlast Tower:\nOnce known as the\nTemple of Earth,\nit houses the\nEarth Crystal.\nSeized by the\ntemplar fifteen\nyears ago, it was\nfitted with cables\nby the researchers\nwho came with him.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC042",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 76,
+      "pTitle": "不死の塔２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "White Magic Cables:\nDuchy researchers have attached a variety of cables and equipment to the Earth Crystal to extract its power. This healing energy is transmitted through the cables to the city of Eternia, where it is used to heal people suffering from sickness and disease.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 77,
+      "pTitle": "不死の塔３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Grand Ritual:\nPerformed fifteen years ago by top clergy of the Orthodoxy along with the earth vestal, this ritual taxed the crystal to its limit. By the time the templar stormed the Temple of Earth, the crystal had already begun to spiral out of control. In a last ditch effort to channel the dangerously powerful energy away from the temple, the templar ordered white magic cables be attached to the crystal. And so it is said the crystal’s energy began to be used for healing purposes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 78,
+      "pTitle": "吸血鬼城",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Vampire Castle:\nLooming along the\nwest passage, this\ncastle is feared\nas the haunt of a\npowerful vampire.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC043",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 79,
+      "pTitle": "クストラ島",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Dimension’s Hasp:\nThe dungeon in\nwhich Sage Yulyana\nsealed away the\nforbidden weapons\nand armor he took\nfrom the\nOrthodoxy.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC045",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 80,
+      "pTitle": "闇のオーロラ",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Dark Aurora:\nThis malefic\naurora-like light\nsuddenly appeared\nover the Great\nChasm, and Airy\nflew off into its\nodious glow after\nrevealing her true\nnature.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Location/LOC044",
+      "pTextureName": "D_Location",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

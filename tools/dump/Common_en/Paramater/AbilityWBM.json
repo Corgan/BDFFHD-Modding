@@ -1,0 +1,131 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 336,
+    "data_one_size": 12,
+    "data_num": 24,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 7,
+      "ITEM_ID": 50000
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 30,
+      "ITEM_ID": 50002
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 31,
+      "ITEM_ID": 50018
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 32,
+      "ITEM_ID": 50004
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 33,
+      "ITEM_ID": 50010
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 26,
+      "ITEM_ID": 50005
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 8,
+      "ITEM_ID": 50006
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 29,
+      "ITEM_ID": 50007
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 10,
+      "ITEM_ID": 50011
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 37,
+      "ITEM_ID": 50013
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 35,
+      "ITEM_ID": 50017
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 27,
+      "ITEM_ID": 50009
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 11,
+      "ITEM_ID": 50100
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 19,
+      "ITEM_ID": 50101
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 14,
+      "ITEM_ID": 50102
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 67,
+      "ITEM_ID": 50003
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 68,
+      "ITEM_ID": 50103
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 69,
+      "ITEM_ID": 50104
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 12,
+      "ITEM_ID": 50106
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 20,
+      "ITEM_ID": 50107
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 15,
+      "ITEM_ID": 50108
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 70,
+      "ITEM_ID": 50109
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 71,
+      "ITEM_ID": 50118
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 72,
+      "ITEM_ID": 50110
+    }
+  ]
+}

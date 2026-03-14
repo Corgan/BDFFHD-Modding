@@ -1,0 +1,101 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 264,
+    "data_one_size": 12,
+    "data_num": 18,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 52,
+      "ITEM_ID": 50200
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 53,
+      "ITEM_ID": 50201
+    },
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 22,
+      "ITEM_ID": 50105
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 54,
+      "ITEM_ID": 50203
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 55,
+      "ITEM_ID": 50204
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 23,
+      "ITEM_ID": 50111
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 56,
+      "ITEM_ID": 50206
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 57,
+      "ITEM_ID": 50207
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 58,
+      "ITEM_ID": 50208
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 59,
+      "ITEM_ID": 50209
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 60,
+      "ITEM_ID": 50210
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 61,
+      "ITEM_ID": 50211
+    },
+    {
+      "MAGIC_LV": 5,
+      "ABILITY_ID": 62,
+      "ITEM_ID": 50212
+    },
+    {
+      "MAGIC_LV": 5,
+      "ABILITY_ID": 63,
+      "ITEM_ID": 50213
+    },
+    {
+      "MAGIC_LV": 5,
+      "ABILITY_ID": 24,
+      "ITEM_ID": 50117
+    },
+    {
+      "MAGIC_LV": 6,
+      "ABILITY_ID": 64,
+      "ITEM_ID": 50215
+    },
+    {
+      "MAGIC_LV": 6,
+      "ABILITY_ID": 65,
+      "ITEM_ID": 50216
+    },
+    {
+      "MAGIC_LV": 6,
+      "ABILITY_ID": 66,
+      "ITEM_ID": 50217
+    }
+  ]
+}

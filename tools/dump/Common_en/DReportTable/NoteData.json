@@ -1,0 +1,1671 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 110968,
+    "data_one_size": 32,
+    "data_num": 166,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": 1,
+      "pTitle": "メフィリアの手記１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/06, EC 10\nI’ve finally acquired the summoner asterisk! No thanks to the old lech’s advice, mind. “Feel it, don’t think it,” “Every summon is like the summoner’s own child”… Utterly useless. And then, after giving me Girtablulu, he has the nerve to say I’m on my own for the rest!? Honestly!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 2,
+      "pTitle": "メフィリアの手記２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<1>\nGirtablulu\n........................\n\nHresvelgr\nTemple held in wind and sand’s embrace.\n\nZiusudra’s Sin\nFoot of the mountain sundered by the holy war.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 3,
+      "pTitle": "メフィリアの手記３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<2>\nPromethean Fire\nTemple bathed in searing flame.\n\nDeus Ex\nAncient tower of prayer, buried in viscera wrought by man.\n\nSusano-o\nA crescent moon upon the frozen sea.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 4,
+      "pTitle": "メフィリアの手記４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "7/12, EC 12\n“If Susano-o’s the biggest challenge, I’ll find him for you.” Those were his words, sweet man. I’ll have to hurry and find the others. It seems I’ll share my next post with both my sisters. Between Einheria’s spear, Artemia’s bow, and my summons, the Venus sisters will be unstoppable!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 5,
+      "pTitle": "メフィリアの手記５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "??, EC 16\nI can’t remember the date. Can’t begin to care. This garden. This beautiful garden is being sullied so magnificently. Thanks to us. To our mission. Ha ha ha, the ship you sailed west has been lost. Missing, they say. Fools. Liars. Ha ha ha. I can’t remember my own sister’s face now. Can’t remember yours. My Suleiman…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 6,
+      "pTitle": "ギルタブリル",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Girtablulu\nA thousand-eyed\nbeast that lurks\nwithin the street\nlamps at twilight.\nEclipses the\nblood-red sky with\nits massive form\nas it deals a\ncrushing blow.\n-*-\nEarned by defeating Summoner Mephilia.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN030",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 7,
+      "pTitle": "フレースヴェルグ",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Hresvelgr\nA great, ebon\neagle that sunders\nthe dark clouds\nabove, the beating\nof its vast wings\ncutting down foes\nupon the earth.\n-*-\nEarned from the\nanchorite of wind\nwithin the Temple of Wind.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN050",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 8,
+      "pTitle": "ジウスドラの罪",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Ziusudra’s Sin\nA goddess of ice,\nrisen from the\ndepths of the\nfrozen sea.\nHarbinger of a\nblizzard that\nleaves no life\nremaining.\n-*-\nEarned from the\nanchorite of water atop Mount Fragmentum.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN020",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 9,
+      "pTitle": "プロメテウスの火",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Promethean Fire\nA land dragon\nswathed in\nhellfire that\nstalks the\nblood-stained\nlands of night.\nIts roar is\nsearing flame,\nloosed from a\nsteely maw split\nwide.\n-*-\nEarned from the anchorite of fire within the Temple of Fire.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN010",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 10,
+      "pTitle": "デウスエクス",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Deus Ex\nA clockwork spider\nthat splits the\nhardened ground of\na tainted land.\nFrom its\never-churning\ngears erupts a\nsoul-shattering\nblast of cursed\nlightning.\n-*-\nEarned from the anchorite of thunder within Everlast Tower.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN040",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 11,
+      "pTitle": "スサノオ",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Susano-o\nA warrior-god clad\nall in black who\nstands among a\nforest of blades.\nOne swing of his\nmighty sword fells\nman and god alike.\n-*-\nEarned from the\nanchorite of war\nupon the Kustra Archipelago.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Syuki/SMN060",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 12,
+      "pTitle": "赤の報告書１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The below is excerpted from the so-called Red Reports, thought to be penned by DeRosa:\n\n-Secularizing Florem-\nAfter receiving operating funds from the Khamer & Profiteur Merchantry, my solo infiltration of Florem began. I’ve completed my survey of the area.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 13,
+      "pTitle": "赤の報告書２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Report, Entry #2:\nI have Artemia hunting down woodland orochi, the giant serpents native to the area. Ingredient A can be extracted from their corpses, which also produce an enzyme that promotes decomposition. In large quantities, it will transform eastern Florem’s woods—a target of worship—into a rotten waste.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 14,
+      "pTitle": "赤の報告書３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Report, Entry #3:\nMephilia holds the western gardens, and has begun exterminating the sprites known as Flories, another object of worship. This yields ingredient B, and serves to keep locals away, undermining their nature worship. Female soldiers will adopt disguises and leak cheap goods containing ingredients A and B into the market.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 15,
+      "pTitle": "赤の報告書４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Report, Entry #4:\nA mix of donations and bribes to local Orthodoxy officials has bought us considerable control over the Sacred Flower Festival. Beginning next year, selection of the flower maiden will be opened to the public, and decided by popular vote. A substantial cash prize will also be awarded, further disrupting the balance of Florem’s wealth.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 16,
+      "pTitle": "赤の報告書５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Report, Entry #5:\nAfter three years’ work, the Orthodoxy has been completely driven out of the flower maiden’s selection. Elsewhere, Einheria leads our forces within Florem in persecuting the faithful, crushing one hideaway after the next. Efforts to gut the local Orthodoxy presence will be redoubled until the water vestal is driven into hiding.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 17,
+      "pTitle": "赤の報告書６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Report, Entry #6:\nOur underground base within Florem is complete, and experiments to extract ingredient C have succeeded. Combination with ingredient A has yielded compound X; the turning of Florem’s people away from the Orthodoxy approaches its climax. Elsewhere, ingredients A and B are still selling like mad, regardless of price hikes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 18,
+      "pTitle": "『赤の始り（＜↑）』",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Advent (<):\not desufer tnihk renwod taht\nrednulp ot nalp ruo draoba emoc\nlaed ruetiforp evah ll’ew .ainrete\neht ekirts dna ,mih htiw\n.dennalp sa yrusaert yxodohtro\not segatsoh eht eticni ll’ew\na hsinruf ot redro ni modrytram\nyreve ydaer lliw adaq ,taogepacs\nsloof eht dna ,nac eh dnuopmoc\n…dnats yeht erehw eid lla lliw",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 19,
+      "pTitle": "赤の真相１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Revelations 1:\nWe’re finally reaping the returns from our raid on the Orthodoxy treasury fifteen years ago. Profiteur’s holdings far exceed Ancheim’s coffers, and Qada saw to it that the spirit hairpins, petalhue, and now my cologne’s hypnotic properties have driven this land’s people to madness.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 20,
+      "pTitle": "赤の真相２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Red Revelations 2:\nThat fool Heinkel was dead-set against my plan. The grand marshal would have been, too, had he any clue we were using drugs to turn Florem from Crystalism. But Qada’s mixtures grow more potent, and Profiteur’s economic tentacles are spreading through the duchy… It’s almost time to be rid of those stubborn old men once and for all.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 21,
+      "pTitle": "三姉妹異聞１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I heard the strangest thing from [PCF2]. About how Artemia came to be raised by frostis. How her sisters came to let it happen.\n\nReally, each of those three sisters is a piece of work in her own right…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 22,
+      "pTitle": "三姉妹異聞２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "[PCF2] was fourteen at the time.\n\nThat makes Einheria twenty-four, Mephilia twenty, and Artemia a scant thirteen years old.\n\nThey met deep in the woods at Eternia’s west.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 23,
+      "pTitle": "三姉妹異聞３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One rare day when the templar was free from work, the family set out for a picnic.\n\nAfter disappearing for a short while, [PCF2] returned to her parents sobbing, face covered in cuts and scratches. Her half-panicked father asked what had happened, but she merely pointed to the woods as she cried.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 24,
+      "pTitle": "三姉妹異聞４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Joined by Dark Knight Alternis Dim, the templar strode into the forest, face set in fury. There, he found a single beast—no, on closer inspection, a young girl—lying on her back, knocked flat by [PCF2]. Clothed in tatters and growling like an animal, she lacked the strength to stand. More than her injuries, it was hunger that ailed her.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 25,
+      "pTitle": "三姉妹異聞５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The templar took her in his arms and carried her back to his family. She took to the food he offered like a feral beast, and passed out as soon as her belly was full. They later learned her name was Artemia—the same as Einheria’s youngest sister, gone missing the last year. The templar and his wife exchanged grave nods.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 26,
+      "pTitle": "三姉妹異聞６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The story jumps back one year… [PCF2] had by that point completed three years’ intensive training under Swordmaster Kamiizumi’s tutelage, having begun at the age of eleven in accordance with custom. As the leader of a division of the Eternian Forces, Kamiizumi was often unable to leave Central Command, leaving his head pupil, Einheria, to run the dojo in his absence.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 27,
+      "pTitle": "三姉妹異聞７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One day, a traveling swordsman drifted through, and Einheria met his challenge. When no victor had emerged by the day’s end, each acknowledged the other’s skill and found in them a kindred spirit. “I’ll be joining him for three days’ training,” she said to [PCF2] the next day. “See this letter gets to Mephilia.” In truth, her journey would span an entire year.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 28,
+      "pTitle": "三姉妹異聞８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Mephilia had been lauded as a genius since childhood. All who witnessed her skill in magic expected her to lead the duchy forward in the years to come. One day, a minor incident erupted at the academy. The students preparing to face their final examination were thoroughly bested by the far younger Mephilia, and in their dejection all declined to take the test.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 29,
+      "pTitle": "三姉妹異聞９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The panicked professors decided instead to send Mephilia to the Yulyana Woods to take the test in their place. “I know it’s sudden,” read the letter she addressed to Einheria, “but I’ll be leaving the country for three days. I would appreciate if you would see to Artemia in my absence.” She was aboard an airship to Yulyana within the hour.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 30,
+      "pTitle": "三姉妹異聞１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Just as expected, Mephilia passed the test in one go. Less expected, however, was her meeting with a certain playboy in a port town on her journey home. She went with him, witnesses claim, and was missing for a full year. It seems she sailed the world with him those months, ultimately returning to Eternia aboard a ship called the Funky Francisca…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 31,
+      "pTitle": "三姉妹異聞１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Left at home alone, Artemia could only tremble in hunger as she awaited her sisters’ return. On the fourth night, Eternia saw its first snow of the year, and beyond her window, Artemia saw the smiling faces of frostis dancing through the air. Lured outside, she, too, would not see home for another year. Instead of her sisters, it was that pack of creatures who would raise her.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 32,
+      "pTitle": "三姉妹異聞１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When the templar found her, Artemia still bore two letters, badly worn but still sealed.\n\nOne bore Einheria’s name, addressed to Mephilia. The other was from Mephilia, destined for Einheria.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 33,
+      "pTitle": "三姉妹異聞１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He opened the letters and read their contents, then took the girl straight to Kamiizumi’s dojo.\n\nHe arrived just after Einheria, finally back from her year’s training, who in turn had just witnessed Mephilia’s return from a year’s wandering (and with a man in tow!). The two were locked in a furious argument.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 34,
+      "pTitle": "三姉妹異聞１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "In the year that followed, Einheria mastered the spear, and succeeded in scaring off her sister’s playboy paramour. Mephilia, for her part, also honed her skills, and Artemia cultivated her already uncanny hunting prowess. At the age of fifteen, the little ranger would join her sisters in their post to Florem.\n\nQuite the family, I must say.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 35,
+      "pTitle": "ＧＳ評議会議事録０００１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I found some old minutes from the Sleeping Council. Seems they snoozed from the start…\n\nOrthodox Calendar, Year One:\nDebate began over whether to send an emissary to celebrate the selection of the Orthodoxy’s first Grand Patriarch. (Eighteen months later, upon his demise, the debate became whether to send someone to mourn him.)",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 36,
+      "pTitle": "ＧＳ評議会議事録００３１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orthodox Calendar, Year Three:\nThe request to send forces into Eternia to quell its rebellion against the Patriarch arrived last year. Debate as to whether that entailed the sending of actual combat troops or merely supplies continued for eight months. As the rebellion has died down as of the present date, so too has the aforementioned debate.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 37,
+      "pTitle": "ＧＳ評議会議事録１９８６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orthodox Calendar, Year 892:\nFollowing Engineering’s report on the sole operational engine’s complete cessation of function, debate began over what impact (if any) this loss of mobility bears upon the nation. Fifteen months later, a consensus emerged:\nbecause Grandship has ever been quasi-moored, this new development poses no problem. The issue is tabled permanently.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 38,
+      "pTitle": "ＧＳ評議会議事録３８５４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orthodox Calendar, Year 1734:\nA study done over the last six years claims a full 40 percent of Grandship’s population now sit on the Council, with the members’ mean age double the average life expectancy. Deliberations over the coming months will decide whether that number is to be lowered to 38 percent over the next nine years, or…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 39,
+      "pTitle": "ＧＳ評議会議事録９９７２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orthodox Calendar, Year 2401:\nWith Grandship’s sinking imminent, a measure to evacuate all Councilmen to surrounding nations was raised and passed unanimously. A new motion to commandeer the two finest lifeboats among the 300 vessels in Hangar 89 for exclusive Council use is currently under expedited vote.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 40,
+      "pTitle": "航海日誌２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Day 96 of the search:\nThis marks the last patch of sea west of Ancheim to be explored… It’s been near a hundred days since we found what remains our only clue.\n\nDay 148 of the search:\nThe waters south of Caldisla, east of Eisenberg, and now most of the Sea of Corsairs can be scratched off the list as well…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 41,
+      "pTitle": "航海日誌３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Day 824 of the search:\nSusano-o eludes me still. Two years, my promise to Mephilia has gone unfulfilled…\n\nDay 1329 of the search:\nMore blood in my handkerchief this morning… I fear I haven’t long. Dearest Mephilia, the Sea of Corsairs is w…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 42,
+      "pTitle": "航海日誌４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Day 2 after taking up the search:\nI found the Funky Francisca becalmed. I boarded her, and saw Suleiman… Shiver it, man, why didn’t you tell me? But if his log says this Susano-o is in the Sea of Corsairs, I’ll find it. Just wait, old friend! I’ll lay your soul to rest!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 43,
+      "pTitle": "航海日誌１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Day 1 of the search:\nMy beloved Mephilia, I’ve found it! A clue to the whereabouts of the one you seek! “A crescent moon upon the frozen sea.” I know not what it means, but I’ll come home to you with this Susano-o in tow, I swear it. Surely then your sister will give us her blessing…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 44,
+      "pTitle": "クリスタルの科学的な究明１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I came across a bundle of ancient-looking papers in the halls of Everlast Tower, penned by a researcher as the Temple of Earth was being rebuilt into the tower that stands now.\n\n“Observations of the Crystal”\nSubmitted by Victor S. Court\n\nThere among its pages I found a familiar name.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 45,
+      "pTitle": "クリスタルの科学的な究明２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The energy within the crystals may be categorized by their names, namely, fire, water, wind, and earth. The amplification effect of a crystal only extends to its corresponding element. For instance, the efficacy of this crystal extends to soil, land, mud, rock, and the like. It is for that reason the Orthodoxy names this the Earth Crystal.” “As for the method of extracting the energy it holds within…”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 46,
+      "pTitle": "クリスタルの科学的な究明３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He must have been young when he wrote this report. Even then, he had a passion for the crystals. Obsession, really. Strong enough to cause even [PCF1], Vestal of Wind, to entertain the possibility that desecration of the crystal might indeed serve some good.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 47,
+      "pTitle": "治癒波長についての研究１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A second research report. It’s missing a considerable number of pages, but appears to be a continuation of the other.\n\n“The Healing Waves Emanating from the Crystal”\nSubmitted by Victor S. Court",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 48,
+      "pTitle": "治癒波長についての研究２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Healing Wave Research, pt.1:\nTwo kinds of waves have been observed emanating from the Earth Crystal. The waves that amplify white magic efficacy were likely used by the Orthodoxy for benediction, healing, and exorcism. The waves that amplify black magic efficacy were likely used for retribution and attacks upon enemies of the faith.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 49,
+      "pTitle": "治癒波長についての研究３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Healing Wave Research, pt.2:\nThe Lord Marshal ordered that only those waves that amplify white magic are to be extracted and utilized. A new technique wherein an extraction cable is attached to the surface of the crystal without doing it harm has greatly advanced our work.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 50,
+      "pTitle": "治癒波長についての研究４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "If this report is to be believed, it was never the duchy’s (or perhaps I should say the templar’s) intention to utilize these energies for military purposes, but rather to exercise the utmost care in preserving the crystal while putting it to use combating disease and easing the people’s suffering.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 51,
+      "pTitle": "人造生命の研究、中間報告１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The third still-legible research document in the stack looks to have been written around the same time as the others, but the handwriting is different. More mature.\n\n“Interim Report on Alchemical Life Research”\nSubmitted by Vincent S. Court",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 52,
+      "pTitle": "人造生命の研究、中間報告２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Alchemical Life Research, pt.1:\nA tome entitled “Alchemical Life” was found among a trove of forbidden volumes seized from the Orthodoxy. But rather than some book of the occult dealing in miracles and manifestations, it is an ancient book of medicine. It claims the crystal’s white waves can stimulate an individual’s cells, and the black waves can link cells between individuals.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 53,
+      "pTitle": "人造生命の研究、中間報告３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Alchemical Life Research, pt.2:\nThis so-called alchemical life is unstable, and keeping the resulting subjects alive comes at great difficulty.\n\nThis willingness to cast aside his research only furthers my amazement at the sincerity and zeal shown by the templar and all the duchy’s researchers in the pursuit of medical science.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 54,
+      "pTitle": "世界疫病１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I came upon a pile of badly worn papers lying in a forgotten corner of Everlast Tower. They appear to be the journal of a high official within the Orthodoxy. The oldest legible entry dates twenty years back, the newest fifteen—written the day of the templar’s strike on the Orthodoxy’s head temple.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 55,
+      "pTitle": "世界疫病２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Great Plague 1:\nThe terrible plague ravaging the world finally reached our shores. Already, there are those falling ill in villages to the east. To halt its spread to the Orthodoxy’s headquarters, top officials of the faith have closed all roads and forbidden the influx of people and goods. Controversy arose when a young cleric appealed to his superiors to use the power of the Earth Crystal for purification and medical treatment.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 56,
+      "pTitle": "世界疫病３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Great Plague 2:\nBut the proposal had no hope of approval, as we hold the crystals as sacred. The hierarchy ignored it. Refugees seeking to thwart the blockade were slain on sight, but the Orthodoxy claimed the dead were not victims but martyrs.\n\nI care to read no further.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 57,
+      "pTitle": "世界疫病の終息１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Between missing pages and text too worn to be legible, the next entry I can read is dated significantly later.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 58,
+      "pTitle": "世界疫病の終息２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The End of the Plague 1:\nThe young cleric appealed to his superiors day after day to no avail. When the Great Plague showed signs of abating, the Orthodoxy was overjoyed, and those who had advocated the road blockade were showered with praise. Some days later, the young cleric was summoned before the vestal, whereupon he was mocked and reprimanded for hours on end.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 59,
+      "pTitle": "世界疫病の終息３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The End of the Plague 2:\nThe plague has wiped out his village of birth, save for a few who escaped, and there were many other villages throughout the faith’s lands that suffered the same fate. Henceforth, the young cleric was never again seen amongst the ranks of the Crystal Orthodoxy. Perhaps he was shipped to a post of no consequence, or left altogether.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 60,
+      "pTitle": "この世の終末１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Even beyond the pages’ wear, most of the text is redacted in heavy black ink. Whether this is the writer’s own doing or not, I cannot say. The next clear page is the last, dated far later. It provides a record of that day, fifteen years ago. The text is a frantic scribble, as if written amid utter chaos.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 61,
+      "pTitle": "この世の終末２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The End of the World 1:\nThe Orthodoxy’s head temple has already fallen, and it shall not be long now before my refuge, too, is discovered by the invaders. The earth vestal was dragged before their leader. It was the once-young cleric—now a seasoned soldier, fearless and self-assured.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 62,
+      "pTitle": "この世の終末３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The End of the World 2:\nThe vestal faced him, hurling words of contempt and scorn, but ere she could finish, an enraged member of his guard cut her down in one fell swoop, and the vestal’s lifeless body fell silently to the floor.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 63,
+      "pTitle": "この世の終末４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It was an account of the earth vestal’s execution at the hands of the templar’s men fifteen years ago. I had no idea he had so long pled his case as a priest within the Orthodoxy… I imagine her dying words were an accusation of betrayal. [PCF2]’s expression clouded especially upon hearing mention of the templar’s aide cutting the vestal down. I know not why…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 64,
+      "pTitle": "エタルニア奪還作戦　編成１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Other records found in Everlast Tower paint a picture of the assault, describing the templar’s force that struck Eternia. Several of the names it mentions are familiar—leaders of the Eternian Forces we’ve defeated.\n\n“The Reconquest Campaign: Troop Deployments”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 65,
+      "pTitle": "エタルニア奪還作戦　編成２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Reconquest Campaign 1:\nOur uprising was lacking in everything—troops, armaments, cultivation of informants within the Orthodoxy… But the Crystal Orthodoxy would soon put their plans in motion. The debate between our Lord Templar and the sage continued. For three days and three nights, the debate raged on, whereupon our Lord Templar gave the order to strike. His family was to remain behind in this land.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 66,
+      "pTitle": "エタルニア奪還作戦　編成３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Reconquest Campaign 2:\nWe departed before sunrise the next day. We procured weapons and ammunition in Ancheim and then slipped secretly into Eisenberg. From northern Eisenberg, three fortified airships took us across the Highlands, at last entering the land of Eternia.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 67,
+      "pTitle": "エタルニア奪還作戦　編成４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Reconquest Campaign 3:\nAn abridged listing of our main invasion forces follows.\n\nThe valiant usurper Braev the Templar (Our Lord Templar insisted we name him a usurper.)",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 68,
+      "pTitle": "エタルニア奪還作戦　編成５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Assault troops for the Temple of Earth:\nThey are to take the Earth Crystal and protect our crystal technology squad.\n\nSwordmaster Nobutsuna Kamiizumi, Commander\n\nHayreddin Barbarossa, Lieutenant Commander\nDr. Vincent S. Court, Technology Squad Leader (accompanied by his ten-year-old son serving as his assistant)",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 69,
+      "pTitle": "エタルニア奪還作戦　編成６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Assault troops for the Orthodoxy’s head temple:\nThey are to halt all of the institution’s functions and seize all of its forbidden tomes and assets.\n\nSir Argent Heinkel, Commander\n\nFiore DeRosa, Lieutenant Commander\nBarras Lehr, Officer-in-Training\nErutus Profiteur and Dr. Qada as auditors",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 70,
+      "pTitle": "エタルニア奪還作戦　編成７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Occupation forces for the city of Eternia:\nThese troops will be assigned to keeping the peace and preparing for the laying of the cables.\n\nCiggma Khint, Commander\n\nEinheria Venus as his officer-in-training\n\nHolly Whyte as a medic-in-training",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 71,
+      "pTitle": "教団総本山　占領日誌１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Seems this was penned by the leader of the force that took the Orthodoxy’s head temple (now Eternian Central Command). Hard to believe the same man went on to captain the Sky Knights. The text is written in a heavy hand, almost carved into the vellum.\n\n“Head Temple Occupation”\nSir Argent Heinkel, Commander",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 72,
+      "pTitle": "教団総本山　占領日誌２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Head Temple Occupation Memo 1:\nOnce the Temple of Earth fell and news of the earth vestal’s demise reached the remaining resistance at the head temple, they quickly surrendered. The Orthodoxy’s soldiers and leaders were stripped of their weapons and confined to the temple. The Lord Templar had strictly forbidden us from rampant slaughter and maltreatment of the vanquished. None have yet disobeyed his order.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 73,
+      "pTitle": "教団総本山　占領日誌３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Head Temple Occupation Memo 2:\nThose sympathetic to our cause were allowed to join us, while those who refuse are to be released. As for Erutus Profiteur, the man sent to the treasure house to seize the Orthodoxy’s assets, unsavory rumors about him soon began to circulate.\n\nAn investigation has begun into allegations of bribery by former Orthodoxy officials and the large-scale disappearance of Orthodoxy-owned artwork from the treasure house.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 74,
+      "pTitle": "教団総本山　占領日誌４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Head Temple Occupation Memo 3:\nDr. Qada, who has been tasked with deciphering the Orthodoxy’s forbidden spells, is continuing with his clandestine meetings with my lieutenant, DeRosa. In comparison, the simple enthusiasm of Barras Lehr for more fighting is almost refreshing to see.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 75,
+      "pTitle": "エタルニア市街　占領手記１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The next report was penned by the leader of the squad that occupied Eternia. The templar’s decision to staff it with Eternian natives shows a sensitivity to the people of the city.\n\n“The Occupation of the City”\nCommander Ciggma Khint",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 76,
+      "pTitle": "エタルニア市街　占領手記２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eternian Occupation Journal 1:\nA month has passed since our bloodless occupation of the city of Eternia, and the people are finally beginning to settle into their daily lives. Einheria, who was originally from this city, continues to doggedly patrol its streets, saying, “I shall defend the city that is home to my master’s training ground.” The occupation force is also comprised of others from this land, and perhaps that is another reason for the easing of the people’s fears.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 77,
+      "pTitle": "エタルニア市街　占領手記３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eternian Occupation Journal 2:\nA few days prior, it was announced that this land had been rechristened the Duchy of Eternia. A member of the royal bloodline that once ruled Eternia before the Crystal Orthodoxy was restored to power as archduke.\n\nAnd naming himself Grand Marshal of the Eternian Forces, the Lord Templar began his tireless effort to build a new system of government.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 78,
+      "pTitle": "エタルニア市街　占領手記４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eternian Occupation Journal 3:\nWhen Dr. Vincent S. Court proposed a great feat of engineering be erected in one corner of the city, it was approved at once. Great cables are to be extended from the Temple of Earth all the way to the city, but I know not their purpose.\n\nThe decreed construction schedule is extremely tight and will doubtless require additional laborers from among the people and former Orthodoxy members.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 79,
+      "pTitle": "エタルニア市街　占領手記５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eternian Occupation Journal 4:\nI spotted medic-in-training Holly Whyte being scolded by Victor, a boy of the same age, for standing around and watching the construction.\n\nReading these reports, it sounds like the templar’s men did right by the city, with no looting or abuse.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 80,
+      "pTitle": "家族の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 1:\nWe traveled the world collecting keystones as Lord DeRosso bid, and have now finally gained entry to Vampire Castle.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 81,
+      "pTitle": "家族の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 2:\nThe castle interior is heavy with silence, and a chill to put the snows outside to shame fills its halls. The halls are lined with a host of solemn paintings. The room before the stairway housed a particularly large work, depicting a man nearly identical to Lord DeRosso and a woman (likely the man’s wife), a babe held in her arms.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 82,
+      "pTitle": "家族の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 3:\nThe family painting, it seems, depicts Lord DeRosso shortly after his birth; the couple portrayed are his parents. Just as [PCF1] questioned a passage in the inscription saying “clergyman of the Crystal Adventists and cardinal of the Crystal Orthodoxy,” Lord DeRosso appeared to explain.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 83,
+      "pTitle": "家族の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Family” 1:\nLord DeRosso was born some 2,400 years ago, in an era when, as the inscription suggests, the Old Faith and the Orthodoxy both existed. According to him, [PCF2]’s father the templar did not found Eternia fifteen years ago, but rather revived a kingdom that had existed two and a half millennia prior.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 84,
+      "pTitle": "家族の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Family” 2:\nAt the time, this land was a hub of international trade blessed with four seasons. Eternia’s king took the Earth Crystal and the Crystal Adventists under his aegis, and peace reigned for generations.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 85,
+      "pTitle": "家族の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Family” 3:\nAt Eternia’s west stood the ancestral castle of the DeRosso clan, a line of dukes descended of royal blood who had long enjoyed a close bond with the ruling family. The court treated the DeRosso family kindly, and the Dukes DeRosso gave their fealty in return.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 86,
+      "pTitle": "家族の絵…",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 4:\nAll of the paintings in Vampire Castle, including the family portrait, were painted by Lord DeRosso himself, he explained. Strangely, that was the LEAST surprising part of his revelation. The original paintings had been lost in a fire and, bored with his immortal(!?) existence, he had taken to painting while reminiscing about the old days.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 87,
+      "pTitle": "叙任の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 5:\nThe hall leading to the third floor housed another large painting, this time of a figure in colorful vestments—a record of Lord DeRosso’s investiture as a cardinal of the Orthodoxy. This time, he appeared before us with a momentary smile before speaking on his youth and the whims of fate that shaped the course of his life.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 88,
+      "pTitle": "叙任の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 1:\nBorn of royal blood into the DeRosso clan, he grew up loved by his parents, the people, and even the king himself. A blessed childhood… At nineteen, the king recommended him for priesthood among the Crystal Adventists—now known as the Old Faith. He took the cloth and worked tirelessly for the faith, the king, and the good of the people.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 89,
+      "pTitle": "叙任の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 2:\nIt was shortly after that a new faction rose to power within the Adventist ranks.\n\nThey proposed that the world’s four crystals not be placed under the stewardship of disparate kings and leaders, but brought under the aegis of a central body—a new faith. It was the birth of the Orthodoxy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 90,
+      "pTitle": "叙任の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 3:\nThe Eternian king, who had long guarded the Earth Crystal, was quick to support this new movement. Perhaps due to the king’s warm support, Lord DeRosso was made a cardinal of the Orthodoxy, a position of considerable power.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 91,
+      "pTitle": "叙任の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 4:\nAs the transformation of Adventism into Orthodoxy concluded, only the election of a Grand Patriarch remained. The cardinals gathered to hold a conclave. Shortly after it began, however, Lord DeRosso was approached by another offering a deal in exchange for his vote.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 92,
+      "pTitle": "叙任の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 5:\nStill in its first days, the new faith had already succumbed to the taint of corruption. Lord DeRosso rebuffed the offer, and within four short months of the Patriarch’s selection secured by bribery and collusion, he had been driven out of the office of cardinal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 93,
+      "pTitle": "叙任の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 6:\nOld Faith and Orthodoxy, Kingdom of Eternia and Duchy… Faced with a flurry of terms, [PCM1] and [PCF2] seemed lost. When [PCF1] explained that the Adventists succumbed to the rise of the Orthodoxy due to the greater truth of the latter’s teachings, Lord DeRosso offered a patient, somehow melancholy rebuttal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 94,
+      "pTitle": "叙任の絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 7:\nHistory’s victors are given to heaping derision upon the losers in order to solidify their position as just and true. Those who held power in the Orthodoxy preached the ills of Adventism, shaping the records of the era in their desired image. In time, the voices of the Adventists were silenced entirely, lost to posterity forever.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 95,
+      "pTitle": "叙任の絵９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 8:\nBy Lord DeRosso’s account, the fierce battle between the Adventists and Orthodoxy did not take place before the Orthodoxy’s rise, as history suggests, but after the world had already been unified under the Orthodoxy’s banner. “I should know,” he claimed, “for I was there to bear witness firsthand.” His smile was wry, and cold as ice.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 96,
+      "pTitle": "叙任の絵…",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Ordainment” 9:\nIt seems the timing of the conflict, the notion that it arose from unilateral aggression on the part of the Adventists, and that it concluded in the decisive victory of the Orthodoxy are all fabrications. The transition from Old Faith to new, he claims, was actually a peaceful, bloodless process the likes of which history has seldom seen.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 97,
+      "pTitle": "落城の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 6:\nThe hall before the fourth floor entrance bears a painting of a castle bathed in fire, surrounded by a vast army. The western corridor, the second castle burning in the distance… It bore an uncanny resemblance to the castle in which we now stood. But Lord DeRosso appeared once again to correct our false assumptions.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 98,
+      "pTitle": "落城の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 7:\nThe distant castle, he explained, was that of Eternia’s king, while the burning structure at the fore was his own ancestral home, the castle of the clan DeRosso.\n\nJust what transpired in this land that day?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 99,
+      "pTitle": "落城の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 1:\nThe Kingdom of Eternia, it seems, fell to a sudden invasion. Reports reached the Grand Patriarch’s chambers that Eternia was agitating for a return to the Old Faith, that it was amassing armies to strike the Orthodoxy down. In response, a force was gathered from the world’s nations, the process so swift and smooth it appeared almost pre-planned…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 100,
+      "pTitle": "落城の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 2:\nThe royal palace fell after only half a month’s siege. The royal family was slaughtered to the last, together with many of their subjects. The same king who had so readily accepted the Orthodoxy and turned over the temple to them met his end at their hands. This revelation struck [PCF2] dumb—all of us, really.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 101,
+      "pTitle": "落城の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 3:\nLord DeRosso and his parents took shelter in their home, joined by relations and commoners alike. When a messenger from the king came begging aid, Lord DeRosso’s father gathered a force and rode to save his king. In truth, the royal palace had already fallen, the messenger a fake… He died in battle in the central passage.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 102,
+      "pTitle": "落城の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 4:\nSoon after the palace fell, the Orthodoxy turned to the DeRosso home. Poison was cast into the water supply, and the siege force was packed tight beyond hope of escape. Only women, children, the old, and injured remained within. Lord DeRosso surrendered, sending his own mother as a hostage in accordance with the Orthodoxy’s demands.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 103,
+      "pTitle": "落城の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 5:\nBut the siege did not break. Those family members and commoners who had followed Lord DeRosso began to waste away. As starvation began to claim them, one after the next, a letter arrived. Its author was the cardinal who had propositioned Lord DeRosso at the conclave—the man now leading the siege.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 104,
+      "pTitle": "落城の絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Siege” 6:\nIt claimed no surrender would be accepted, and that his mother had been slain. It was Lord DeRosso who then put his own home to the blaze. The lofty precepts of the Orthodoxy, it seems, are a hollow hypocrisy. We were all struck silent. When at last [PCF2] noted a similarity to the events of the Great Plague, Lord DeRosso nodded.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 105,
+      "pTitle": "不死の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 8:\nBefore the stairs leading to the fifth floor hung a painting of immortality. The question was on all of our minds: how had he survived? [PCM1] was the first to give it voice, and Lord DeRosso began his explanation.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 106,
+      "pTitle": "不死の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 1:\nSurrounded by the Orthodoxy’s force, family and countrymen slaughtered at their hands, Lord DeRosso set his own home ablaze. Just as the flames encircled him, he felt something enter his body. Betrayed by that in which he had believed and robbed of those he had loved, he prepared to enter death’s embrace bereft of all save his own despair…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 107,
+      "pTitle": "不死の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 2:\nBut as his consciousness began to fade, he claims he heard a voice.\n\n“Accept me and I shall grant life everlasting. Though it shall be filled with grief, thou shalt have all eternity to wreak vengeance upon thine enemies.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 108,
+      "pTitle": "不死の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 3:\nThe source of that voice remains a mystery to him, even now. When his body could not be found among the remains, the Orthodoxy panicked. To justify their actions, they branded Lord DeRosso and his clan vampires, cursed to be reviled by the annals of history.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 109,
+      "pTitle": "不死の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 4:\nIt seems the legends of Vampire Castle that [PCF2] grew up on are but remnants of a slander perpetrated 2,400 years ago. The fangs, the ability to assume the form of a bat… Lord DeRosso dedicated his all across the centuries to perfecting the role the Orthodoxy had cast him in, that he might strike fear into their hearts.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 110,
+      "pTitle": "不死の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 5:\nLord DeRosso crisply denied the established tale of the first Grand Patriarch’s peaceful demise, insisting instead that the Patriarch and his aide, the archbishop, were assassinated. He named himself their killer, his eyes a blend of mad rage and melancholy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 111,
+      "pTitle": "不死の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Immortality” 6:\nHis vengeance wrought, Lord DeRosso left Eternia. He fostered relations with those who hated the Orthodoxy, those who suffered under its oppression. He styled himself a leader of the darkness that stood against it, an enemy to mankind, an accursed vampire lord… He would spend the next five centuries garnering infamy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 112,
+      "pTitle": "戦争の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 9:\nBefore the stairs to the sixth floor, we encountered a painting of war. Lord DeRosso called it “the long and hard-fought war between the Orthodoxy and we denizens of darkness.” An act of vengeance, played out over five hundred years…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 113,
+      "pTitle": "戦争の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 1:\nFive centuries after the Orthodoxy’s rise, the world saw an age of seafaring, then of piracy. The advance of technology saw ships grow larger, navigation more refined. Trade flourished, the world’s cultures mingled, and the Orthodoxy’s miracles were steadily replaced with scientific fact. The Grand Patriarch’s power waned.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 114,
+      "pTitle": "戦争の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 2:\nThe panicked Orthodoxy set about restoring its authority through fear. Its enemies, those who might become enemies, even those merely inconvenient to the Patriarch were branded heretics. Any who failed to flee in time were dragged before an inquisition and executed. The clash between “justice” and “darkness” spread in scale.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 115,
+      "pTitle": "戦争の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 3:\nUsing terror, the Patriarch regained his former influence…for a time. But soon enough, even that was insufficient. In a panic once more, the Orthodoxy turned to more extreme methods. A new High Inquisitor was named—a young genius of twenty, of common origin (rare for the time). His name was Yulyana.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 116,
+      "pTitle": "戦争の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 4:\nA military marvel, even by Lord DeRosso’s admission, Yulyana had purged Eternia of the elements of darkness in the blink of an eye. In the decades that followed, he and DeRosso fought in countless battles the world over.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 117,
+      "pTitle": "戦争の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 5:\nThe scars left by their battles remain even today, some 1,800 years hence. Their powers carved the massive rift the Eisen Bridge spans, and split Florem’s Mount Fragmentum. Their fighting transformed what was once a fertile grassland into the modern-day desert of Harena.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 118,
+      "pTitle": "戦争の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 6:\nThe final clash between them took place atop the Norende Heights of Caldisla—the later site of the Great Chasm. I could not help but sense fate’s hand in this. Their epic struggle spanned a hundred days, and cut what were once mountains in the same range as Eternia’s highlands in half.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 119,
+      "pTitle": "戦争の絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 7:\nFor some reason, Lord DeRosso withheld the details of this final battle, but history tells that the High Inquisitor Yulyana vanquished Lord DeRosso, leader of the forces of darkness, then returned triumphant to Eternia. Lord DeRosso allowed that that was fact, in one strict sense, the corner of his mouth turned up in a smirk.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 120,
+      "pTitle": "戦争の絵９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The War” 8:\nLord DeRosso allowed the sage to claim victory, he explained. The bones Yulyana brought back to Eternia were not DeRosso’s—were not even human, in fact. When the templar struck the Orthodoxy fifteen years ago, they found Lord DeRosso’s grave sealed deep beneath the head temple. He was barely able to hold back laughter as he spoke.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 121,
+      "pTitle": "大司祭の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 10:\nBefore reaching the seventh floor, we found another portrait. It was the sage, festooned in the gaudy vestments of an archbishop, his expression a mix of wry smile and tedium. I cannot help but marvel at Lord DeRosso’s skill with a brush. Still more stunning were his words.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 122,
+      "pTitle": "大司祭の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 1:\nFor his victory over the Orthodoxy’s nemesis, he was named its first commoner archbishop—a hollow gesture, that he might live out his few remaining years in glory. Little did they know, his plot was already in motion… When [PCF2] balked at the term, Lord DeRosso offered an explanation.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 123,
+      "pTitle": "大司祭の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 2:\nThe war with Lord DeRosso behind him, the sage now thought only of distancing the vestals and the pious from the festering corruption within the Orthodoxy. After eight decades’ service, he was well aware of the organization’s state and the readiness with which it turned upon its defenseless constituents.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 124,
+      "pTitle": "大司祭の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 3:\nWhere power gathers, so too do leeches and vipers, and the Orthodoxy had long become a noxious marsh. What had begun as a body to serve the crystals and preserve world order now worked solely to further its own corrupt existence.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 125,
+      "pTitle": "大司祭の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 4:\nLeft to fester, this fallen faith would soon do irrevocable harm to the vestals and the world’s people, he was certain. And so he thought to sever the source of the corruption: the power amassed within the Orthodoxy’s hands. But to do this, he would need time—something he lacked after the long war with Lord DeRosso.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 126,
+      "pTitle": "大司祭の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 5:\nWith the ornamental title of archbishop came one material privilege: access to the head temple’s treasury, and the writings sealed within it. There, he found a text—the Rite of Agelessness—and an arcane elixir of longevity beside it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 127,
+      "pTitle": "大司祭の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 6:\nThough incomplete, the sage supplemented the text with knowledge acquired in battlefields the world over. Even Lord DeRosso was shocked at how quickly Yulyana perfected the method, and how readily he used it upon himself. He was 103, and an archbishop of the Orthodoxy; he would betray all expectations by remaining both.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 128,
+      "pTitle": "大司祭の絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 7:\nNow free of age’s grasp, the sage bade his time until the chance to cut loose the vestals and the pious arose. The next 1,700 years saw the once gentle highlands rise to prohibitive heights, severing Eternia from the outside world. It was the opportunity he had awaited.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 129,
+      "pTitle": "大司祭の絵９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Archbishop” 8:\nWith airships not yet in existence, the highlands’ rise was enough to cut Eternia off entirely. The Earth Crystal remained in the Orthodoxy’s hands, but stewardship of the crystals of fire, water, and wind reverted to their respective temples.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 130,
+      "pTitle": "アスタリスクの絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 11:\nSoon after reaching the top floor, we came upon a familiar sight. The next painting depicted a glowing stone which Lord DeRosso confirmed was an asterisk: the same curious objects we had amassed through our victories over the Eternian Forces. But what connection to the sage and Lord DeRosso did they bear?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 131,
+      "pTitle": "アスタリスクの絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 1:\nBy Lord DeRosso’s account, the asterisk was the keystone of Yulyana’s plot to strip the Orthodoxy’s power; he would steal their exclusive right to confer vocations. At this point in his explanation, [PCF2] and [PCM1]’s eyes glazed over. Even [PCF1] appeared to be struggling to understand.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 132,
+      "pTitle": "アスタリスクの絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 2:\nLord DeRosso was quick to elucidate. Before the sage’s intervention, someone seeking a job would have to acquire approval to commune with the corresponding crystal. In addition to controlling access, the Orthodoxy profited from the requisite alms given to the temples which soon after flowed into the head temple’s coffers.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 133,
+      "pTitle": "アスタリスクの絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 3:\nIn this way, wealth flooded in without any effort on the Orthodoxy’s part. No lofty ideal could hope to survive such an environment long, and soon any who called for reform were the targets of swift removal. The sage saw through this system, and his efforts exposed it for the fraud it was before the Grand Patriarch’s very eyes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 134,
+      "pTitle": "アスタリスクの絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 4:\nHe gathered the Patriarch and other high officials together to behold the tremendous new rite he had invented. Coming from the hero who had saved the Orthodoxy from the wicked Lord DeRosso, they were all too eager to see it. His demonstration: the autonomous acquisition of a legendary vocation, without the aid of a crystal…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 135,
+      "pTitle": "アスタリスクの絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 5:\nDespite the efforts of a desperate Patriarch, word of the sage’s feat soon spread. Soon, the common man was rejoicing at this new discovery, and the Orthodoxy lacked the means to return the genie to its bottle. Had they but stopped the sage’s demonstration… But it was too late. Yulyana advanced to the next stage of his plot.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 136,
+      "pTitle": "アスタリスクの絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 6:\nThe sage then presented the asterisk, proposing that vocations be mediated using the stones, under the Orthodoxy’s management. Those who desired a job would secure permission from the Orthodoxy and pay a corresponding cost. The asterisk allowed anyone to attain any job—his proposal seemed an expansion of the existing system…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 137,
+      "pTitle": "アスタリスクの絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 7:\nBlind to all but their own profits and unable to return to the previous paradigm, the officials eagerly agreed to his proposal. So great was their enthusiasm, they not only adopted the asterisk, but appointed Yulyana to oversee its implementation.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 138,
+      "pTitle": "アスタリスクの絵９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 8:\nBut the sage’s actions left us puzzled. He had exposed the Orthodoxy’s scheme, only to supplant it with another. A smile played on Lord DeRosso’s lips as he revealed the catch—the method of the asterisks’ creation is known only to the sage. Apparently even Lord DeRosso is in the dark.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 139,
+      "pTitle": "アスタリスクの絵１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 9:\nAnd so it was that the sage successfully robbed the Orthodoxy of its control over jobs. Originally, jobs were acquired through dedicated training by those who bore a natural affinity for the vocation. In order to revive that model, Yulyana began to distribute jobs and abilities in secret to all who desired them, free of charge.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 140,
+      "pTitle": "アスタリスクの絵１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 10:\nSo, what are the asterisks, ultimately? Lord DeRosso suggests they are a sort of secret manual, housing within them the requisite knowledge and experience. In short, they are traditional training, distilled. Perhaps, he posited, they exist now to place one in contact with true masters of a given trade. We’ve met our share…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 141,
+      "pTitle": "アスタリスクの絵１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 11:\nBut surely the Patriarch was quick to notice the lack of alms coming in. Lord DeRosso’s answer was cut and dry—they did, but Yulyana was long gone. He abandoned his seat as archbishop and absconded with the forbidden arms the Orthodoxy had amassed, sealing them away in a secret location.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 142,
+      "pTitle": "アスタリスクの絵１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 12:\nThe sage then took up hermitage in the woods, awaiting a time when all who knew of his existence had died. In addition, Lord DeRosso’s efforts saw this process greatly accelerated… To think these two who had battled around the world would come to forge such a partnership—just what transpired between the two of them?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 143,
+      "pTitle": "アスタリスクの絵１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 13:\nAm I alone in feeling that the actions of these two men took a drastic turn following the clash at Norende that marked the end of their warring? And Lord DeRosso’s words, that the Crystal Orthodoxy requires naught but the crystals, the vestals, and the faithful… Has his desire for vengeance truly been slaked?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 144,
+      "pTitle": "アスタリスクの絵１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Asterisk” 14:\nHaving completed his purge of the Orthodoxy, Lord DeRosso returned to Eternia for the first time in seven centuries. There, he erected a castle of ice atop the ruins of his former home and from it kept watch over the Orthodoxy. Elsewhere, the sage assisted the vestals from his hermitage, as [PCF1] and the rest of us well know.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 145,
+      "pTitle": "天使の絵１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 12:\nHaving reached the top floor of Vampire Castle and attaining a narrow victory over Lord DeRosso, we were given leave to view the final painting. Hung beyond the Lord’s throne, it depicts a lone angel…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 146,
+      "pTitle": "天使の絵２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 1:\n“The angel that descended from the heavens during my final battle against Yulyana,” he called her. At the end of a hundred days’ combat, both men riddled with wounds, they prepared to bring their war to an end. As they incanted their greatest spells, the sky parted and an angel descended upon Norende… An angel? Do such beings truly exist?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 147,
+      "pTitle": "天使の絵３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 2:\nBoth men were captivated, to the point of forgetting their rivalry entirely. They rushed to her side, tending to her battered body. She was blind and broken, half her body lost… They knew she was not long for the world. I suspect Lord DeRosso is telling us that she was human.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 148,
+      "pTitle": "天使の絵４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 3:\nShuddering and gasping for breath, she spent what moments remained to her in an impassioned appeal. “A trap most vile,” “such a fool am I,” “the warriors of light,” “if it is not too late”… As she drifted in and out of consciousness, she spoke of what had befallen her, and of the dangers that now face the world.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 149,
+      "pTitle": "天使の絵５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 4:\nShe detailed the threat facing Luxendarc, the history behind it. When Lord DeRosso confirmed the same events had transpired in his past, the angel was shocked. The clash of old and new faiths, the tragedy that struck his clan, his immortality… She spoke also of the future. Of DeRosso’s future, now come to pass, and of our future, still ahead.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 150,
+      "pTitle": "天使の絵６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 5:\nShe warned that an evil would arise to deceive the vestals, posing as an ally and inciting them to “awaken” the crystals, driving them out of control and piercing the bounds that hold this world intact. Before its coming, she foretold a sign—a great rift that sunders the earth. We were stunned.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 151,
+      "pTitle": "天使の絵７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 6:\nThe chasm was merely the last of the omens the angel foretold.\n\n“The light of earth shall raise up the north and a deathly plague shall cover all the lands. Then shall a great rift rend the earth.” She spoke of the highlands’ rise, and of the Great Plague…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 152,
+      "pTitle": "天使の絵８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 7:\nLord DeRosso claims her words were a revelation to him. He had dismissed the tragedy that befell him, the oppression of the Old Faith as the simple products of human greed. Now, in the face of a threat to the entire world’s existence, the petty power struggles surrounding the crystals came to mean something greater…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 153,
+      "pTitle": "天使の絵９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 8:\nThe dying angel’s experiences pointed to a great evil capable of manipulating the crystals and the desires of man alike. Or a sinister plot to tear the world from its foundations… Alas, the angel left this world before Lord DeRosso and the sage were able to learn the identity of this sower of doom.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 154,
+      "pTitle": "天使の絵１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 9:\nThereafter, Lord DeRosso scoured the writings of the Old Faith, and Yulyana those of the Orthodoxy for any mention of this evil, but their search bore no fruit.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 155,
+      "pTitle": "天使の絵１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 10:\nWho was this angel, in the end? From whence did she come, and how did she come to arrive at the scene of their battle? To these questions, Lord DeRosso could offer no answer. The only words to pass his lips were, “Vestal of Wind…she bore your face.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 156,
+      "pTitle": "天使の絵１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 11:\nThe dying angel’s words evinced such deep knowledge of the crystals, they could only surmise she was a vestal, or at the very least a high official of the Orthodoxy. Among her revelations were things that even the sage and Lord DeRosso, experts in their own right, could not understand.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 157,
+      "pTitle": "天使の絵１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 12:\nWhen the power of the prayers held within a crystal dwindles, it becomes susceptible to contamination by darkness or monsterkind. In that weakened state, it is unable to keep nature’s wrath in check, and can only be restored to proper function by the prayers of the vestals and the common man alike. This much is known to any cleric…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 158,
+      "pTitle": "天使の絵１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 13:\nBut what followed were enigmas. A normally functioning crystal subjected to focused prayer can be driven berserk. Still further prayer can see it destroyed outright. In death, a crystal bequeaths its will unto the next generation. That new crystal will grow over millennia, eventually bestowing its blessings upon the world as its predecessor had.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 159,
+      "pTitle": "天使の絵１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The Angel” 14:\nIt was after he finished speaking that Lord DeRosso noticed the pendant [PCF1] wears, reeling at the sight. In her final moments, he said, the angel called him and the sage individually to impart her final words. Whatever she told him, he now gave only a meaningful nod before sitting upon his throne and going silent…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 160,
+      "pTitle": "それぞれの道１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Vampire Gallery 13:\nAs we prepared to depart the castle, victorious over Lord DeRosso, [PCF2] asked him one final question. It almost seemed he had been expecting the question. Why had he and the sage forgiven her father’s betrayal? Why do they aid the templar, even now? He offered a glimpse into a history we could never have imagined.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 161,
+      "pTitle": "それぞれの道２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 1:\nThe angel vanished, Lord DeRosso went into hiding, and the sage rose within the Orthodoxy for his defeat. Decades later, the first of the angel’s omens came to pass with the highlands’ rise. Luckily, the second—a worldwide plague—did not follow, though the two redoubled their watch over the crystals nonetheless.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 162,
+      "pTitle": "それぞれの道３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 2:\nThe next 1,700 years passed in peace, save for a handful of man-made crises surrounding the crystals—until thirty years ago. Again the highlands rose, and a decade later the angel’s second omen struck. With the Great Plague a reality, the sage and Lord DeRosso knew the coming of the chasm was nigh. They began to gather an army.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 163,
+      "pTitle": "それぞれの道４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 3:\nThey would calm the crystals and prevent the Great Chasm’s coming, even if it meant striking the temples and claiming them by force. To spearhead this force, they reached out to a former cleric of the Orthodoxy—the templar. Together, they readied what preparations they could for the coming crisis.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 164,
+      "pTitle": "それぞれの道５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 4:\nBut a problem emerged within the halls of the Orthodoxy’s head temple, brought on by base human desire. To restore their quickly eroding authority, they planned to invoke the Grand Ritual, a forbidden rite to trigger the explosive release of energies long built up within the Earth Crystal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 165,
+      "pTitle": "それぞれの道６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 5:\nAs a former cleric, the templar knew the dangers such a rite held for the crystal. He begged Lord DeRosso and the sage to send their forces to strike the head temple immediately. The debate raged on among them:\nshould they focus on the Great Chasm’s arrival and allow the ritual to be performed, or would the rite itself summon the chasm?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 166,
+      "pTitle": "それぞれの道７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Parting Ways” 6:\nUltimately, the templar unilaterally chose to march against the Orthodoxy that day, fifteen years ago. It was not the tale of betrayal we had been told. Lord DeRosso spoke to [PCF2] as if addressing her father directly. They backed him, he said, because they believed in his tireless resolve and in his action.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

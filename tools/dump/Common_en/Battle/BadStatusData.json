@@ -1,0 +1,209 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1072,
+    "data_one_size": 36,
+    "data_num": 18,
+    "ints_per_record": 9
+  },
+  "records": [
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_POISON",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_DARKNESS",
+      "NAME_1": "ef_face",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_SILENCE",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": 25,
+      "cancelRate_2": 50,
+      "cancelRate_3": 75,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_SLEEP",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": 20,
+      "cancelRate_1": 25,
+      "cancelRate_2": 50,
+      "cancelRate_3": 75,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_PARALYSIS",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": 25,
+      "cancelRate_2": 50,
+      "cancelRate_3": 75,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_TERROR",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": -100,
+      "cancelRate_4": -100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_BERSERK",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": 20,
+      "cancelRate_2": 30,
+      "cancelRate_3": 40,
+      "cancelRate_4": 60,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_CONFUSION",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": 20,
+      "cancelRate_2": 30,
+      "cancelRate_3": 40,
+      "cancelRate_4": 60,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_CHARM",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_DEATHCOUNT",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": 100,
+      "cancelRate_1": 100,
+      "cancelRate_2": 100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_REVERSE",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "",
+      "NAME_1": "",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": 20,
+      "cancelRate_1": 25,
+      "cancelRate_2": 50,
+      "cancelRate_3": 75,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "",
+      "NAME_1": "",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -25,
+      "cancelRate_1": -25,
+      "cancelRate_2": -25,
+      "cancelRate_3": -25,
+      "cancelRate_4": -25,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_LOVE",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": -100,
+      "cancelRate_4": -100,
+      "cancelRate_5": 100,
+      "NAME_0": "BT_STA_FREEZE",
+      "NAME_1": "ef_hit",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_REGENE",
+      "NAME_1": "ef_hit",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100,
+      "NAME_0": "",
+      "NAME_1": "",
+      "NAME_2": ""
+    },
+    {
+      "cancelRate_0": -999,
+      "cancelRate_1": -999,
+      "cancelRate_2": -999,
+      "cancelRate_3": -999,
+      "cancelRate_4": -999,
+      "cancelRate_5": -999,
+      "NAME_0": "BT_STA_RERAYS",
+      "NAME_1": "ef_State",
+      "NAME_2": ""
+    }
+  ]
+}

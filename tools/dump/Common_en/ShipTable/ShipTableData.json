@@ -1,0 +1,207 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1330,
+    "data_one_size": 20,
+    "data_num": 28,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "areaId": 0,
+      "mapId": 0,
+      "pTitle": "Caldisla",
+      "dungeon": 0,
+      "entranceNum": 1
+    },
+    {
+      "areaId": 0,
+      "mapId": 1,
+      "pTitle": "Norende Ravine",
+      "dungeon": 1,
+      "entranceNum": 2
+    },
+    {
+      "areaId": 0,
+      "mapId": 2,
+      "pTitle": "Centro Keep Ruins",
+      "dungeon": 1,
+      "entranceNum": 3
+    },
+    {
+      "areaId": 0,
+      "mapId": 3,
+      "pTitle": "Lontano Villa",
+      "dungeon": 1,
+      "entranceNum": 4
+    },
+    {
+      "areaId": 1,
+      "mapId": 0,
+      "pTitle": "Ancheim",
+      "dungeon": 0,
+      "entranceNum": 5
+    },
+    {
+      "areaId": 1,
+      "mapId": 1,
+      "pTitle": "Temple of Wind",
+      "dungeon": 1,
+      "entranceNum": 6
+    },
+    {
+      "areaId": 1,
+      "mapId": 2,
+      "pTitle": "Miasma Woods",
+      "dungeon": 1,
+      "entranceNum": 7
+    },
+    {
+      "areaId": 1,
+      "mapId": 3,
+      "pTitle": "Harena Ruins",
+      "dungeon": 1,
+      "entranceNum": 8
+    },
+    {
+      "areaId": 2,
+      "mapId": 0,
+      "pTitle": "Yulyana Woods",
+      "dungeon": 0,
+      "entranceNum": 9
+    },
+    {
+      "areaId": 2,
+      "mapId": 1,
+      "pTitle": "Vestment Cave",
+      "dungeon": 1,
+      "entranceNum": 10
+    },
+    {
+      "areaId": 3,
+      "mapId": 0,
+      "pTitle": "Florem",
+      "dungeon": 0,
+      "entranceNum": 11
+    },
+    {
+      "areaId": 3,
+      "mapId": 1,
+      "pTitle": "Temple of Water",
+      "dungeon": 0,
+      "entranceNum": 12
+    },
+    {
+      "areaId": 3,
+      "mapId": 2,
+      "pTitle": "Mount Fragmentum",
+      "dungeon": 1,
+      "entranceNum": 13
+    },
+    {
+      "areaId": 3,
+      "mapId": 3,
+      "pTitle": "Twilight Ruins",
+      "dungeon": 1,
+      "entranceNum": 14
+    },
+    {
+      "areaId": 3,
+      "mapId": 4,
+      "pTitle": "Twisted Treetop",
+      "dungeon": 0,
+      "entranceNum": 15
+    },
+    {
+      "areaId": 3,
+      "mapId": 5,
+      "pTitle": "Florem Gardens",
+      "dungeon": 1,
+      "entranceNum": 16
+    },
+    {
+      "areaId": 3,
+      "mapId": 6,
+      "pTitle": "Witherwood",
+      "dungeon": 1,
+      "entranceNum": 17
+    },
+    {
+      "areaId": 3,
+      "mapId": 7,
+      "pTitle": "Dimension’s Hasp",
+      "dungeon": 1,
+      "entranceNum": 18
+    },
+    {
+      "areaId": 4,
+      "mapId": 0,
+      "pTitle": "Grandship",
+      "dungeon": 0,
+      "entranceNum": 19
+    },
+    {
+      "areaId": 4,
+      "mapId": 1,
+      "pTitle": "House by the Sea",
+      "dungeon": 0,
+      "entranceNum": 20
+    },
+    {
+      "areaId": 4,
+      "mapId": 2,
+      "pTitle": "Eisen Bridge",
+      "dungeon": 0,
+      "entranceNum": 21
+    },
+    {
+      "areaId": 4,
+      "mapId": 3,
+      "pTitle": "Hartschild",
+      "dungeon": 0,
+      "entranceNum": 22
+    },
+    {
+      "areaId": 4,
+      "mapId": 4,
+      "pTitle": "Mythril Mines",
+      "dungeon": 1,
+      "entranceNum": 23
+    },
+    {
+      "areaId": 4,
+      "mapId": 5,
+      "pTitle": "Grapp Keep",
+      "dungeon": 1,
+      "entranceNum": 24
+    },
+    {
+      "areaId": 4,
+      "mapId": 6,
+      "pTitle": "Starkfort",
+      "dungeon": 1,
+      "entranceNum": 25
+    },
+    {
+      "areaId": 5,
+      "mapId": 0,
+      "pTitle": "Southmoor",
+      "dungeon": 0,
+      "entranceNum": 26
+    },
+    {
+      "areaId": 5,
+      "mapId": 1,
+      "pTitle": "Westmoor",
+      "dungeon": 0,
+      "entranceNum": 27
+    },
+    {
+      "areaId": 5,
+      "mapId": 2,
+      "pTitle": "Eastmoor",
+      "dungeon": 0,
+      "entranceNum": 28
+    }
+  ]
+}

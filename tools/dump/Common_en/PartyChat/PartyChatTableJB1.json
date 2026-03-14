@@ -1,0 +1,95 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 336,
+    "data_one_size": 48,
+    "data_num": 6,
+    "ints_per_record": 12
+  },
+  "records": [
+    {
+      "SCRIPT_ID": 230,
+      "PRI": 49,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 0,
+      "ENABLE_GAMEFLG_ID": 1313,
+      "ENABLE_WORLD_NO": 1,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 231,
+      "PRI": 48,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 0,
+      "ENABLE_GAMEFLG_ID": 1327,
+      "ENABLE_WORLD_NO": 1,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 233,
+      "PRI": 46,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 236,
+      "PRI": 43,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 0,
+      "ENABLE_GAMEFLG_ID": 1439,
+      "ENABLE_WORLD_NO": 1,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 238,
+      "PRI": 41,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 239,
+      "PRI": 40,
+      "TABLEINDEX": 10,
+      "ENABLE_DIRECT": 0,
+      "ENABLE_GAMEFLG_ID": 1423,
+      "ENABLE_WORLD_NO": 1,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    }
+  ]
+}

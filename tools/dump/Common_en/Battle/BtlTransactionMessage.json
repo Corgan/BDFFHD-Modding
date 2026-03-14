@@ -1,0 +1,83 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 2386,
+    "data_one_size": 8,
+    "data_num": 18,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "ID": 1,
+      "pMessage": "Buy or use SP Drinks."
+    },
+    {
+      "ID": 2,
+      "pMessage": "Select the number of drinks to buy."
+    },
+    {
+      "ID": 3,
+      "pMessage": "Touch Confirm to use."
+    },
+    {
+      "ID": 4,
+      "pMessage": "An SP Drink will raise your SP by 3. Use one now?"
+    },
+    {
+      "ID": 5,
+      "pMessage": "SP Drink bought.\nDo you want to use it now?"
+    },
+    {
+      "ID": 6,
+      "pMessage": "An SP Drink restores 3 SP when you drink one!\nThe upper limit for SP is 3, so you can’t gain\nmore than that. But don’t worry—if you’re in\ndanger of wasting SP, you won't be able to\nuse the drink. You can’t use Bravely Second\nif your SP is negative, so restore it when you\ncan!\n\nSupport number\n%ls"
+    },
+    {
+      "ID": 7,
+      "pMessage": "The first one is available at a special price!\n\nTake advantage of this offer to see for yourself\nwhat an SP Drink can do."
+    },
+    {
+      "ID": 8,
+      "pMessage": "Select how many you want to use."
+    },
+    {
+      "ID": 9,
+      "pMessage": "Could not recognize SD Card."
+    },
+    {
+      "ID": 10,
+      "pMessage": "There is nothing you can buy right now.\nPlease see the official website for details."
+    },
+    {
+      "ID": 11,
+      "pMessage": "A network error has occurred.\nPlease try again later."
+    },
+    {
+      "ID": 12,
+      "pMessage": "Communicating over the Internet..."
+    },
+    {
+      "ID": 13,
+      "pMessage": "-------------"
+    },
+    {
+      "ID": 14,
+      "pMessage": "Internet communication can\ntake some time to complete.\nDo you want to proceed?"
+    },
+    {
+      "ID": 15,
+      "pMessage": "You cannot carry any more."
+    },
+    {
+      "ID": 16,
+      "pMessage": "You cannot use an SP Drink now, as it will put you\nover the max SP limit.\n\n* The max SP limit is 3."
+    },
+    {
+      "ID": 17,
+      "pMessage": "SP Drink"
+    },
+    {
+      "ID": 18,
+      "pMessage": "An item which adds 3 SP when\nconsumed."
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1664,
+    "data_one_size": 8,
+    "data_num": 143,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "%ls\nobtained."
+    },
+    {
+      "id": 2,
+      "pMessage": "%d pg\nobtained."
+    },
+    {
+      "id": 3,
+      "pMessage": "%ls ×%d\nobtained."
+    },
+    {
+      "id": 4,
+      "pMessage": "Items you could not carry\nwere discarded."
+    },
+    {
+      "id": 5,
+      "pMessage": "Locked."
+    },
+    {
+      "id": 6,
+      "pMessage": ""
+    },
+    {
+      "id": 7,
+      "pMessage": ""
+    },
+    {
+      "id": 8,
+      "pMessage": ""
+    },
+    {
+      "id": 9,
+      "pMessage": ""
+    },
+    {
+      "id": 10,
+      "pMessage": ""
+    },
+    {
+      "id": 11,
+      "pMessage": ""
+    },
+    {
+      "id": 12,
+      "pMessage": ""
+    },
+    {
+      "id": 13,
+      "pMessage": ""
+    },
+    {
+      "id": 14,
+      "pMessage": ""
+    },
+    {
+      "id": 15,
+      "pMessage": ""
+    },
+    {
+      "id": 16,
+      "pMessage": ""
+    },
+    {
+      "id": 17,
+      "pMessage": ""
+    },
+    {
+      "id": 18,
+      "pMessage": ""
+    },
+    {
+      "id": 19,
+      "pMessage": ""
+    },
+    {
+      "id": 20,
+      "pMessage": ""
+    },
+    {
+      "id": 21,
+      "pMessage": ""
+    },
+    {
+      "id": 22,
+      "pMessage": ""
+    },
+    {
+      "id": 23,
+      "pMessage": ""
+    },
+    {
+      "id": 24,
+      "pMessage": ""
+    },
+    {
+      "id": 25,
+      "pMessage": ""
+    },
+    {
+      "id": 26,
+      "pMessage": ""
+    },
+    {
+      "id": 27,
+      "pMessage": ""
+    },
+    {
+      "id": 28,
+      "pMessage": ""
+    },
+    {
+      "id": 29,
+      "pMessage": ""
+    },
+    {
+      "id": 30,
+      "pMessage": ""
+    },
+    {
+      "id": 31,
+      "pMessage": ""
+    },
+    {
+      "id": 32,
+      "pMessage": ""
+    },
+    {
+      "id": 33,
+      "pMessage": ""
+    },
+    {
+      "id": 34,
+      "pMessage": ""
+    },
+    {
+      "id": 35,
+      "pMessage": ""
+    },
+    {
+      "id": 36,
+      "pMessage": ""
+    },
+    {
+      "id": 37,
+      "pMessage": ""
+    },
+    {
+      "id": 38,
+      "pMessage": ""
+    },
+    {
+      "id": 39,
+      "pMessage": ""
+    },
+    {
+      "id": 40,
+      "pMessage": ""
+    },
+    {
+      "id": 41,
+      "pMessage": ""
+    },
+    {
+      "id": 42,
+      "pMessage": ""
+    },
+    {
+      "id": 43,
+      "pMessage": ""
+    },
+    {
+      "id": 44,
+      "pMessage": ""
+    },
+    {
+      "id": 45,
+      "pMessage": ""
+    },
+    {
+      "id": 46,
+      "pMessage": ""
+    },
+    {
+      "id": 47,
+      "pMessage": ""
+    },
+    {
+      "id": 48,
+      "pMessage": ""
+    },
+    {
+      "id": 49,
+      "pMessage": ""
+    },
+    {
+      "id": 50,
+      "pMessage": ""
+    },
+    {
+      "id": 51,
+      "pMessage": ""
+    },
+    {
+      "id": 52,
+      "pMessage": ""
+    },
+    {
+      "id": 53,
+      "pMessage": ""
+    },
+    {
+      "id": 54,
+      "pMessage": ""
+    },
+    {
+      "id": 55,
+      "pMessage": ""
+    },
+    {
+      "id": 56,
+      "pMessage": ""
+    },
+    {
+      "id": 57,
+      "pMessage": ""
+    },
+    {
+      "id": 58,
+      "pMessage": ""
+    },
+    {
+      "id": 59,
+      "pMessage": ""
+    },
+    {
+      "id": 60,
+      "pMessage": ""
+    },
+    {
+      "id": 61,
+      "pMessage": ""
+    },
+    {
+      "id": 62,
+      "pMessage": ""
+    },
+    {
+      "id": 63,
+      "pMessage": ""
+    },
+    {
+      "id": 64,
+      "pMessage": ""
+    },
+    {
+      "id": 65,
+      "pMessage": ""
+    },
+    {
+      "id": 66,
+      "pMessage": ""
+    },
+    {
+      "id": 67,
+      "pMessage": ""
+    },
+    {
+      "id": 68,
+      "pMessage": ""
+    },
+    {
+      "id": 69,
+      "pMessage": ""
+    },
+    {
+      "id": 70,
+      "pMessage": ""
+    },
+    {
+      "id": 71,
+      "pMessage": ""
+    },
+    {
+      "id": 72,
+      "pMessage": ""
+    },
+    {
+      "id": 73,
+      "pMessage": ""
+    },
+    {
+      "id": 74,
+      "pMessage": ""
+    },
+    {
+      "id": 75,
+      "pMessage": ""
+    },
+    {
+      "id": 76,
+      "pMessage": ""
+    },
+    {
+      "id": 77,
+      "pMessage": ""
+    },
+    {
+      "id": 78,
+      "pMessage": ""
+    },
+    {
+      "id": 79,
+      "pMessage": ""
+    },
+    {
+      "id": 80,
+      "pMessage": ""
+    },
+    {
+      "id": 81,
+      "pMessage": ""
+    },
+    {
+      "id": 82,
+      "pMessage": ""
+    },
+    {
+      "id": 83,
+      "pMessage": ""
+    },
+    {
+      "id": 84,
+      "pMessage": ""
+    },
+    {
+      "id": 85,
+      "pMessage": ""
+    },
+    {
+      "id": 86,
+      "pMessage": ""
+    },
+    {
+      "id": 87,
+      "pMessage": ""
+    },
+    {
+      "id": 88,
+      "pMessage": ""
+    },
+    {
+      "id": 89,
+      "pMessage": ""
+    },
+    {
+      "id": 90,
+      "pMessage": ""
+    },
+    {
+      "id": 91,
+      "pMessage": ""
+    },
+    {
+      "id": 92,
+      "pMessage": ""
+    },
+    {
+      "id": 93,
+      "pMessage": ""
+    },
+    {
+      "id": 94,
+      "pMessage": ""
+    },
+    {
+      "id": 95,
+      "pMessage": ""
+    },
+    {
+      "id": 96,
+      "pMessage": ""
+    },
+    {
+      "id": 97,
+      "pMessage": ""
+    },
+    {
+      "id": 98,
+      "pMessage": ""
+    },
+    {
+      "id": 99,
+      "pMessage": ""
+    },
+    {
+      "id": 100,
+      "pMessage": ""
+    },
+    {
+      "id": 101,
+      "pMessage": ""
+    },
+    {
+      "id": 102,
+      "pMessage": ""
+    },
+    {
+      "id": 103,
+      "pMessage": ""
+    },
+    {
+      "id": 104,
+      "pMessage": ""
+    },
+    {
+      "id": 105,
+      "pMessage": ""
+    },
+    {
+      "id": 106,
+      "pMessage": ""
+    },
+    {
+      "id": 107,
+      "pMessage": ""
+    },
+    {
+      "id": 108,
+      "pMessage": ""
+    },
+    {
+      "id": 109,
+      "pMessage": ""
+    },
+    {
+      "id": 110,
+      "pMessage": ""
+    },
+    {
+      "id": 111,
+      "pMessage": ""
+    },
+    {
+      "id": 112,
+      "pMessage": ""
+    },
+    {
+      "id": 113,
+      "pMessage": ""
+    },
+    {
+      "id": 114,
+      "pMessage": ""
+    },
+    {
+      "id": 115,
+      "pMessage": ""
+    },
+    {
+      "id": 116,
+      "pMessage": ""
+    },
+    {
+      "id": 117,
+      "pMessage": ""
+    },
+    {
+      "id": 118,
+      "pMessage": ""
+    },
+    {
+      "id": 119,
+      "pMessage": ""
+    },
+    {
+      "id": 120,
+      "pMessage": ""
+    },
+    {
+      "id": 121,
+      "pMessage": ""
+    },
+    {
+      "id": 122,
+      "pMessage": ""
+    },
+    {
+      "id": 123,
+      "pMessage": ""
+    },
+    {
+      "id": 124,
+      "pMessage": ""
+    },
+    {
+      "id": 125,
+      "pMessage": ""
+    },
+    {
+      "id": 126,
+      "pMessage": ""
+    },
+    {
+      "id": 127,
+      "pMessage": ""
+    },
+    {
+      "id": 128,
+      "pMessage": ""
+    },
+    {
+      "id": 129,
+      "pMessage": ""
+    },
+    {
+      "id": 130,
+      "pMessage": ""
+    },
+    {
+      "id": 131,
+      "pMessage": ""
+    },
+    {
+      "id": 132,
+      "pMessage": ""
+    },
+    {
+      "id": 133,
+      "pMessage": ""
+    },
+    {
+      "id": 134,
+      "pMessage": ""
+    },
+    {
+      "id": 135,
+      "pMessage": ""
+    },
+    {
+      "id": 136,
+      "pMessage": ""
+    },
+    {
+      "id": 137,
+      "pMessage": ""
+    },
+    {
+      "id": 138,
+      "pMessage": ""
+    },
+    {
+      "id": 139,
+      "pMessage": ""
+    },
+    {
+      "id": 140,
+      "pMessage": ""
+    },
+    {
+      "id": 141,
+      "pMessage": ""
+    },
+    {
+      "id": 142,
+      "pMessage": ""
+    },
+    {
+      "id": 143,
+      "pMessage": ""
+    }
+  ]
+}

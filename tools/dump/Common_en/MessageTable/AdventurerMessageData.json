@@ -1,0 +1,471 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 7332,
+    "data_one_size": 8,
+    "data_num": 115,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "ID": 0,
+      "pMessage": "Test"
+    },
+    {
+      "ID": 1,
+      "pMessage": "There’s someone I’d like you\nto meet. What do you say?"
+    },
+    {
+      "ID": 2,
+      "pMessage": "You became friends with\n%ls."
+    },
+    {
+      "ID": 3,
+      "pMessage": "You made %d new friends."
+    },
+    {
+      "ID": 4,
+      "pMessage": ""
+    },
+    {
+      "ID": 5,
+      "pMessage": ""
+    },
+    {
+      "ID": 6,
+      "pMessage": ""
+    },
+    {
+      "ID": 7,
+      "pMessage": ""
+    },
+    {
+      "ID": 8,
+      "pMessage": ""
+    },
+    {
+      "ID": 9,
+      "pMessage": ""
+    },
+    {
+      "ID": 10,
+      "pMessage": "Hard at work, I see."
+    },
+    {
+      "ID": 11,
+      "pMessage": "Your AI Friend data has been\nupdated."
+    },
+    {
+      "ID": 12,
+      "pMessage": "%ls’s\ndata has been updated."
+    },
+    {
+      "ID": 13,
+      "pMessage": "Now showing AI Friend data."
+    },
+    {
+      "ID": 14,
+      "pMessage": ""
+    },
+    {
+      "ID": 15,
+      "pMessage": ""
+    },
+    {
+      "ID": 16,
+      "pMessage": ""
+    },
+    {
+      "ID": 17,
+      "pMessage": "Are you sure you’d like\nto save?"
+    },
+    {
+      "ID": 18,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 19,
+      "pMessage": "No"
+    },
+    {
+      "ID": 20,
+      "pMessage": "Now saving. Please do not turn off\nthe system or remove the card."
+    },
+    {
+      "ID": 21,
+      "pMessage": "Save complete.\nContinue playing?"
+    },
+    {
+      "ID": 22,
+      "pMessage": "Save failed. Try again?"
+    },
+    {
+      "ID": 23,
+      "pMessage": "The save data is corrupt and must\nbe remade. Continue?"
+    },
+    {
+      "ID": 24,
+      "pMessage": "Deleting data. Please do not\nturn off the system or remove\nthe card."
+    },
+    {
+      "ID": 25,
+      "pMessage": "Could not delete data. Now\nreturning to the game."
+    },
+    {
+      "ID": 30,
+      "pMessage": ""
+    },
+    {
+      "ID": 31,
+      "pMessage": ""
+    },
+    {
+      "ID": 32,
+      "pMessage": ""
+    },
+    {
+      "ID": 33,
+      "pMessage": ""
+    },
+    {
+      "ID": 40,
+      "pMessage": "Save your current story progress."
+    },
+    {
+      "ID": 41,
+      "pMessage": "Update data via an Internet connection."
+    },
+    {
+      "ID": 42,
+      "pMessage": "Register Friends."
+    },
+    {
+      "ID": 43,
+      "pMessage": "Return to the title screen."
+    },
+    {
+      "ID": 50,
+      "pMessage": "Continue"
+    },
+    {
+      "ID": 51,
+      "pMessage": "Quit"
+    },
+    {
+      "ID": 60,
+      "pMessage": "Are you sure you want to return to\nthe title screen? Any unsaved data\nwill be lost."
+    },
+    {
+      "ID": 61,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 62,
+      "pMessage": "No"
+    },
+    {
+      "ID": 63,
+      "pMessage": "Connecting to the Internet\nmay take time. Continue\nanyway?"
+    },
+    {
+      "ID": 64,
+      "pMessage": ""
+    },
+    {
+      "ID": 65,
+      "pMessage": "It only gets worse\nfrom here on in…"
+    },
+    {
+      "ID": 66,
+      "pMessage": "Whatever’s in that\nlight…it’s strong."
+    },
+    {
+      "ID": 67,
+      "pMessage": ""
+    },
+    {
+      "ID": 68,
+      "pMessage": ""
+    },
+    {
+      "ID": 69,
+      "pMessage": "Updating profile data…"
+    },
+    {
+      "ID": 70,
+      "pMessage": "Updating Friend data…"
+    },
+    {
+      "ID": 71,
+      "pMessage": "Uploading save data…"
+    },
+    {
+      "ID": 72,
+      "pMessage": "Receiving quest items…"
+    },
+    {
+      "ID": 73,
+      "pMessage": "Net-inviting Friends…"
+    },
+    {
+      "ID": 74,
+      "pMessage": "Receiving nemesis data…"
+    },
+    {
+      "ID": 75,
+      "pMessage": "Do not turn off the system while updating."
+    },
+    {
+      "ID": 76,
+      "pMessage": "Putting the system to sleep\nor opening the HOME Menu may\ninterrupt the connection."
+    },
+    {
+      "ID": 77,
+      "pMessage": "Data update complete."
+    },
+    {
+      "ID": 78,
+      "pMessage": "You received “%ls” ×%d."
+    },
+    {
+      "ID": 79,
+      "pMessage": ""
+    },
+    {
+      "ID": 80,
+      "pMessage": "How are you feeling?"
+    },
+    {
+      "ID": 81,
+      "pMessage": "It’s the start of a new\nadventure, eh?"
+    },
+    {
+      "ID": 82,
+      "pMessage": "Heh, you look as if you’re\nhaving a strange day."
+    },
+    {
+      "ID": 83,
+      "pMessage": "If you’re feeling unsure,\nask around. Some people\nhave good advice to offer."
+    },
+    {
+      "ID": 84,
+      "pMessage": "You look dog tired. It’s\nimportant to know when\nto rest."
+    },
+    {
+      "ID": 85,
+      "pMessage": "Even the harshest journeys\nhave a way of becoming\nfond memories."
+    },
+    {
+      "ID": 86,
+      "pMessage": "Come what may, your journey\nwon’t stop till you do."
+    },
+    {
+      "ID": 87,
+      "pMessage": "Excited by your first real\njourney? Good. There’s no\npoint if it stops being fun."
+    },
+    {
+      "ID": 88,
+      "pMessage": "How goes?"
+    },
+    {
+      "ID": 89,
+      "pMessage": "Head straight for your goal,\nor take a few detours on the\nway—it’s your journey."
+    },
+    {
+      "ID": 90,
+      "pMessage": "Up and down, sink or swim…\nThis place is a lot like life."
+    },
+    {
+      "ID": 91,
+      "pMessage": "Company on the road is a\nprecious thing. Treat your\nfriends well."
+    },
+    {
+      "ID": 92,
+      "pMessage": "It’s just as you catch your\nstride you’re most likely to\ntrip. Don’t get careless."
+    },
+    {
+      "ID": 93,
+      "pMessage": "It’s nearly the big moment,\neh?"
+    },
+    {
+      "ID": 94,
+      "pMessage": "I’m impressed you made it\nall the way out here."
+    },
+    {
+      "ID": 95,
+      "pMessage": "Sometimes the shortest way\nthere is the long way ’round."
+    },
+    {
+      "ID": 96,
+      "pMessage": "You’ve come so far. Just a\nlittle further, now."
+    },
+    {
+      "ID": 97,
+      "pMessage": "Rough road, eh? You’re\nnearly to Florem, though."
+    },
+    {
+      "ID": 98,
+      "pMessage": "The same road looks pretty\ndifferent coming and going,\nhuh?"
+    },
+    {
+      "ID": 99,
+      "pMessage": "Just try to be careful.\nThat’s all I ask."
+    },
+    {
+      "ID": 100,
+      "pMessage": "You made it at last…"
+    },
+    {
+      "ID": 101,
+      "pMessage": "データ更新を行うには\nメンバーズへの登録が必要です。\nタイトルの「メンバーズ」から\n登録を行ってください。"
+    },
+    {
+      "ID": 102,
+      "pMessage": "ともだち登録を行うには\nメンバーズへの登録が必要です。\nタイトルの「メンバーズ」から\n登録を行ってください。"
+    },
+    {
+      "ID": 200,
+      "pMessage": "Adventurer Menu"
+    },
+    {
+      "ID": 201,
+      "pMessage": "Save Menu"
+    },
+    {
+      "ID": 202,
+      "pMessage": "Save"
+    },
+    {
+      "ID": 203,
+      "pMessage": "Update Data"
+    },
+    {
+      "ID": 204,
+      "pMessage": "To Title"
+    },
+    {
+      "ID": 205,
+      "pMessage": "Location"
+    },
+    {
+      "ID": 206,
+      "pMessage": "Play Time"
+    },
+    {
+      "ID": 207,
+      "pMessage": "Add Friends"
+    },
+    {
+      "ID": 208,
+      "pMessage": "Add via Internet"
+    },
+    {
+      "ID": 209,
+      "pMessage": "Add via Local Wireless"
+    },
+    {
+      "ID": 210,
+      "pMessage": "Load"
+    },
+    {
+      "ID": 211,
+      "pMessage": "Buy Items"
+    },
+    {
+      "ID": 212,
+      "pMessage": "Buy Equipment"
+    },
+    {
+      "ID": 213,
+      "pMessage": "Data"
+    },
+    {
+      "ID": 214,
+      "pMessage": "AUTO"
+    },
+    {
+      "ID": 215,
+      "pMessage": "Are you sure you’d like to save?\n*If save data already exists,\nit will be overwritten."
+    },
+    {
+      "ID": 216,
+      "pMessage": "Saving.\nDo not turn the power off."
+    },
+    {
+      "ID": 217,
+      "pMessage": "Save complete.\nQuit the game?"
+    },
+    {
+      "ID": 218,
+      "pMessage": "Load Menu"
+    },
+    {
+      "ID": 219,
+      "pMessage": "Are you sure you’d like to load?\n*Current progress will be lost."
+    },
+    {
+      "ID": 220,
+      "pMessage": "Loading.\nPlease wait."
+    },
+    {
+      "ID": 221,
+      "pMessage": "Are you sure you want to return to\nthe title screen? Any unsaved data\nwill be lost."
+    },
+    {
+      "ID": 222,
+      "pMessage": "Load your current story progress."
+    },
+    {
+      "ID": 223,
+      "pMessage": "Return to the title screen."
+    },
+    {
+      "ID": 224,
+      "pMessage": "<h>:<m>:<s>"
+    },
+    {
+      "ID": 225,
+      "pMessage": "Buy equipment sold at the shop."
+    },
+    {
+      "ID": 226,
+      "pMessage": "Buy consumable items."
+    },
+    {
+      "ID": 227,
+      "pMessage": "Load complete."
+    },
+    {
+      "ID": 228,
+      "pMessage": "Lv"
+    },
+    {
+      "ID": 229,
+      "pMessage": "To the Game Corner"
+    },
+    {
+      "ID": 230,
+      "pMessage": "Play in the game corner."
+    },
+    {
+      "ID": 231,
+      "pMessage": ""
+    },
+    {
+      "ID": 232,
+      "pMessage": ""
+    },
+    {
+      "ID": 233,
+      "pMessage": "Rest in a Tent"
+    },
+    {
+      "ID": 234,
+      "pMessage": "Borrow a tent and rest."
+    },
+    {
+      "ID": 235,
+      "pMessage": ""
+    }
+  ]
+}

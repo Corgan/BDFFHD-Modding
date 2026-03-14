@@ -1,0 +1,1339 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 15142,
+    "data_one_size": 24,
+    "data_num": 166,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "index": 1,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "メフィリアの手記１",
+      "pageDataIndex": 1,
+      "gameFlag": 7384
+    },
+    {
+      "index": 2,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "メフィリアの手記２",
+      "pageDataIndex": 2,
+      "gameFlag": 7385
+    },
+    {
+      "index": 3,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "メフィリアの手記３",
+      "pageDataIndex": 3,
+      "gameFlag": 7386
+    },
+    {
+      "index": 4,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "メフィリアの手記４",
+      "pageDataIndex": 4,
+      "gameFlag": 7387
+    },
+    {
+      "index": 5,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "メフィリアの手記５",
+      "pageDataIndex": 5,
+      "gameFlag": 7388
+    },
+    {
+      "index": 6,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "ギルタブリル",
+      "pageDataIndex": 6,
+      "gameFlag": 7389
+    },
+    {
+      "index": 7,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "フレースヴェルグ",
+      "pageDataIndex": 7,
+      "gameFlag": 7390
+    },
+    {
+      "index": 8,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "ジウスドラの罪",
+      "pageDataIndex": 8,
+      "gameFlag": 7391
+    },
+    {
+      "index": 9,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "プロメテウスの火",
+      "pageDataIndex": 9,
+      "gameFlag": 7392
+    },
+    {
+      "index": 10,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "デウスエクス",
+      "pageDataIndex": 10,
+      "gameFlag": 7393
+    },
+    {
+      "index": 11,
+      "pTitle": "Mephilia’s Memo",
+      "id": 0,
+      "pSubTitle": "スサノオ",
+      "pageDataIndex": 11,
+      "gameFlag": 7394
+    },
+    {
+      "index": 12,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書１",
+      "pageDataIndex": 12,
+      "gameFlag": 7395
+    },
+    {
+      "index": 13,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書２",
+      "pageDataIndex": 13,
+      "gameFlag": 7396
+    },
+    {
+      "index": 14,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書３",
+      "pageDataIndex": 14,
+      "gameFlag": 7397
+    },
+    {
+      "index": 15,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書４",
+      "pageDataIndex": 15,
+      "gameFlag": 7398
+    },
+    {
+      "index": 16,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書５",
+      "pageDataIndex": 16,
+      "gameFlag": 7399
+    },
+    {
+      "index": 17,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の報告書６",
+      "pageDataIndex": 17,
+      "gameFlag": 7400
+    },
+    {
+      "index": 18,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "『赤の始り（＜↑）』",
+      "pageDataIndex": 18,
+      "gameFlag": 7401
+    },
+    {
+      "index": 19,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の真相１",
+      "pageDataIndex": 19,
+      "gameFlag": 7402
+    },
+    {
+      "index": 20,
+      "pTitle": "The Red Reports",
+      "id": 1,
+      "pSubTitle": "赤の真相２",
+      "pageDataIndex": 20,
+      "gameFlag": 7403
+    },
+    {
+      "index": 21,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１",
+      "pageDataIndex": 21,
+      "gameFlag": 7404
+    },
+    {
+      "index": 22,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞２",
+      "pageDataIndex": 22,
+      "gameFlag": 7405
+    },
+    {
+      "index": 23,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞３",
+      "pageDataIndex": 23,
+      "gameFlag": 7406
+    },
+    {
+      "index": 24,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞４",
+      "pageDataIndex": 24,
+      "gameFlag": 7407
+    },
+    {
+      "index": 25,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞５",
+      "pageDataIndex": 25,
+      "gameFlag": 7408
+    },
+    {
+      "index": 26,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞６",
+      "pageDataIndex": 26,
+      "gameFlag": 7409
+    },
+    {
+      "index": 27,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞７",
+      "pageDataIndex": 27,
+      "gameFlag": 7410
+    },
+    {
+      "index": 28,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞８",
+      "pageDataIndex": 28,
+      "gameFlag": 7411
+    },
+    {
+      "index": 29,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞９",
+      "pageDataIndex": 29,
+      "gameFlag": 7412
+    },
+    {
+      "index": 30,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１０",
+      "pageDataIndex": 30,
+      "gameFlag": 7413
+    },
+    {
+      "index": 31,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１１",
+      "pageDataIndex": 31,
+      "gameFlag": 7414
+    },
+    {
+      "index": 32,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１２",
+      "pageDataIndex": 32,
+      "gameFlag": 7415
+    },
+    {
+      "index": 33,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１３",
+      "pageDataIndex": 33,
+      "gameFlag": 7416
+    },
+    {
+      "index": 34,
+      "pTitle": "The Sisters’ Tale",
+      "id": 2,
+      "pSubTitle": "三姉妹異聞１４",
+      "pageDataIndex": 34,
+      "gameFlag": 7417
+    },
+    {
+      "index": 35,
+      "pTitle": "Sleeping Council Minutes",
+      "id": 3,
+      "pSubTitle": "ＧＳ評議会議事録０００１",
+      "pageDataIndex": 35,
+      "gameFlag": 7418
+    },
+    {
+      "index": 36,
+      "pTitle": "Sleeping Council Minutes",
+      "id": 3,
+      "pSubTitle": "ＧＳ評議会議事録００３１",
+      "pageDataIndex": 36,
+      "gameFlag": 7419
+    },
+    {
+      "index": 37,
+      "pTitle": "Sleeping Council Minutes",
+      "id": 3,
+      "pSubTitle": "ＧＳ評議会議事録１９８６",
+      "pageDataIndex": 37,
+      "gameFlag": 7420
+    },
+    {
+      "index": 38,
+      "pTitle": "Sleeping Council Minutes",
+      "id": 3,
+      "pSubTitle": "ＧＳ評議会議事録３８５４",
+      "pageDataIndex": 38,
+      "gameFlag": 7421
+    },
+    {
+      "index": 39,
+      "pTitle": "Sleeping Council Minutes",
+      "id": 3,
+      "pSubTitle": "ＧＳ評議会議事録９９７２",
+      "pageDataIndex": 39,
+      "gameFlag": 7422
+    },
+    {
+      "index": 40,
+      "pTitle": "Captain’s Log",
+      "id": 4,
+      "pSubTitle": "航海日誌２",
+      "pageDataIndex": 40,
+      "gameFlag": 7423
+    },
+    {
+      "index": 41,
+      "pTitle": "Captain’s Log",
+      "id": 4,
+      "pSubTitle": "航海日誌３",
+      "pageDataIndex": 41,
+      "gameFlag": 7424
+    },
+    {
+      "index": 42,
+      "pTitle": "Captain’s Log",
+      "id": 4,
+      "pSubTitle": "航海日誌４",
+      "pageDataIndex": 42,
+      "gameFlag": 7425
+    },
+    {
+      "index": 43,
+      "pTitle": "Captain’s Log",
+      "id": 4,
+      "pSubTitle": "航海日誌１",
+      "pageDataIndex": 43,
+      "gameFlag": 7426
+    },
+    {
+      "index": 44,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "クリスタルの科学的な究明１",
+      "pageDataIndex": 44,
+      "gameFlag": 7427
+    },
+    {
+      "index": 45,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "クリスタルの科学的な究明２",
+      "pageDataIndex": 45,
+      "gameFlag": 7428
+    },
+    {
+      "index": 46,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "クリスタルの科学的な究明３",
+      "pageDataIndex": 46,
+      "gameFlag": 7429
+    },
+    {
+      "index": 47,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "治癒波長についての研究１",
+      "pageDataIndex": 47,
+      "gameFlag": 7430
+    },
+    {
+      "index": 48,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "治癒波長についての研究２",
+      "pageDataIndex": 48,
+      "gameFlag": 7431
+    },
+    {
+      "index": 49,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "治癒波長についての研究３",
+      "pageDataIndex": 49,
+      "gameFlag": 7432
+    },
+    {
+      "index": 50,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "治癒波長についての研究４",
+      "pageDataIndex": 50,
+      "gameFlag": 7433
+    },
+    {
+      "index": 51,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "人造生命の研究、中間報告１",
+      "pageDataIndex": 51,
+      "gameFlag": 7434
+    },
+    {
+      "index": 52,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "人造生命の研究、中間報告２",
+      "pageDataIndex": 52,
+      "gameFlag": 7435
+    },
+    {
+      "index": 53,
+      "pTitle": "Research Notes",
+      "id": 5,
+      "pSubTitle": "人造生命の研究、中間報告３",
+      "pageDataIndex": 53,
+      "gameFlag": 7436
+    },
+    {
+      "index": 54,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病１",
+      "pageDataIndex": 54,
+      "gameFlag": 7437
+    },
+    {
+      "index": 55,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病２",
+      "pageDataIndex": 55,
+      "gameFlag": 7438
+    },
+    {
+      "index": 56,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病３",
+      "pageDataIndex": 56,
+      "gameFlag": 7439
+    },
+    {
+      "index": 57,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病の終息１",
+      "pageDataIndex": 57,
+      "gameFlag": 7440
+    },
+    {
+      "index": 58,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病の終息２",
+      "pageDataIndex": 58,
+      "gameFlag": 7441
+    },
+    {
+      "index": 59,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "世界疫病の終息３",
+      "pageDataIndex": 59,
+      "gameFlag": 7442
+    },
+    {
+      "index": 60,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "この世の終末１",
+      "pageDataIndex": 60,
+      "gameFlag": 7443
+    },
+    {
+      "index": 61,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "この世の終末２",
+      "pageDataIndex": 61,
+      "gameFlag": 7444
+    },
+    {
+      "index": 62,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "この世の終末３",
+      "pageDataIndex": 62,
+      "gameFlag": 7445
+    },
+    {
+      "index": 63,
+      "pTitle": "An Adherent’s Chronicle",
+      "id": 6,
+      "pSubTitle": "この世の終末４",
+      "pageDataIndex": 63,
+      "gameFlag": 7446
+    },
+    {
+      "index": 64,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成１",
+      "pageDataIndex": 64,
+      "gameFlag": 7447
+    },
+    {
+      "index": 65,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成２",
+      "pageDataIndex": 65,
+      "gameFlag": 7448
+    },
+    {
+      "index": 66,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成３",
+      "pageDataIndex": 66,
+      "gameFlag": 7449
+    },
+    {
+      "index": 67,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成４",
+      "pageDataIndex": 67,
+      "gameFlag": 7450
+    },
+    {
+      "index": 68,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成５",
+      "pageDataIndex": 68,
+      "gameFlag": 7451
+    },
+    {
+      "index": 69,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成６",
+      "pageDataIndex": 69,
+      "gameFlag": 7452
+    },
+    {
+      "index": 70,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア奪還作戦　編成７",
+      "pageDataIndex": 70,
+      "gameFlag": 7453
+    },
+    {
+      "index": 71,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "教団総本山　占領日誌１",
+      "pageDataIndex": 71,
+      "gameFlag": 7454
+    },
+    {
+      "index": 72,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "教団総本山　占領日誌２",
+      "pageDataIndex": 72,
+      "gameFlag": 7455
+    },
+    {
+      "index": 73,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "教団総本山　占領日誌３",
+      "pageDataIndex": 73,
+      "gameFlag": 7456
+    },
+    {
+      "index": 74,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "教団総本山　占領日誌４",
+      "pageDataIndex": 74,
+      "gameFlag": 7457
+    },
+    {
+      "index": 75,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア市街　占領手記１",
+      "pageDataIndex": 75,
+      "gameFlag": 7458
+    },
+    {
+      "index": 76,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア市街　占領手記２",
+      "pageDataIndex": 76,
+      "gameFlag": 7459
+    },
+    {
+      "index": 77,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア市街　占領手記３",
+      "pageDataIndex": 77,
+      "gameFlag": 7460
+    },
+    {
+      "index": 78,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア市街　占領手記４",
+      "pageDataIndex": 78,
+      "gameFlag": 7461
+    },
+    {
+      "index": 79,
+      "pTitle": "The Recapture of Eternia",
+      "id": 7,
+      "pSubTitle": "エタルニア市街　占領手記５",
+      "pageDataIndex": 79,
+      "gameFlag": 7462
+    },
+    {
+      "index": 80,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵１",
+      "pageDataIndex": 80,
+      "gameFlag": 7463
+    },
+    {
+      "index": 81,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵２",
+      "pageDataIndex": 81,
+      "gameFlag": 7464
+    },
+    {
+      "index": 82,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵３",
+      "pageDataIndex": 82,
+      "gameFlag": 7465
+    },
+    {
+      "index": 83,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵４",
+      "pageDataIndex": 83,
+      "gameFlag": 7466
+    },
+    {
+      "index": 84,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵５",
+      "pageDataIndex": 84,
+      "gameFlag": 7467
+    },
+    {
+      "index": 85,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵６",
+      "pageDataIndex": 85,
+      "gameFlag": 7468
+    },
+    {
+      "index": 86,
+      "pTitle": "The Vampire Gallery: Family",
+      "id": 8,
+      "pSubTitle": "家族の絵…",
+      "pageDataIndex": 86,
+      "gameFlag": 7469
+    },
+    {
+      "index": 87,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵１",
+      "pageDataIndex": 87,
+      "gameFlag": 7470
+    },
+    {
+      "index": 88,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵２",
+      "pageDataIndex": 88,
+      "gameFlag": 7471
+    },
+    {
+      "index": 89,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵３",
+      "pageDataIndex": 89,
+      "gameFlag": 7472
+    },
+    {
+      "index": 90,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵４",
+      "pageDataIndex": 90,
+      "gameFlag": 7473
+    },
+    {
+      "index": 91,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵５",
+      "pageDataIndex": 91,
+      "gameFlag": 7474
+    },
+    {
+      "index": 92,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵６",
+      "pageDataIndex": 92,
+      "gameFlag": 7475
+    },
+    {
+      "index": 93,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵７",
+      "pageDataIndex": 93,
+      "gameFlag": 7476
+    },
+    {
+      "index": 94,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵８",
+      "pageDataIndex": 94,
+      "gameFlag": 7477
+    },
+    {
+      "index": 95,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵９",
+      "pageDataIndex": 95,
+      "gameFlag": 7478
+    },
+    {
+      "index": 96,
+      "pTitle": "The Vampire Gallery: Ordainment",
+      "id": 9,
+      "pSubTitle": "叙任の絵…",
+      "pageDataIndex": 96,
+      "gameFlag": 7479
+    },
+    {
+      "index": 97,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵１",
+      "pageDataIndex": 97,
+      "gameFlag": 7480
+    },
+    {
+      "index": 98,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵２",
+      "pageDataIndex": 98,
+      "gameFlag": 7481
+    },
+    {
+      "index": 99,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵３",
+      "pageDataIndex": 99,
+      "gameFlag": 7482
+    },
+    {
+      "index": 100,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵４",
+      "pageDataIndex": 100,
+      "gameFlag": 7483
+    },
+    {
+      "index": 101,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵５",
+      "pageDataIndex": 101,
+      "gameFlag": 7484
+    },
+    {
+      "index": 102,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵６",
+      "pageDataIndex": 102,
+      "gameFlag": 7485
+    },
+    {
+      "index": 103,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵７",
+      "pageDataIndex": 103,
+      "gameFlag": 7486
+    },
+    {
+      "index": 104,
+      "pTitle": "The Vampire Gallery: The Siege",
+      "id": 10,
+      "pSubTitle": "落城の絵８",
+      "pageDataIndex": 104,
+      "gameFlag": 7487
+    },
+    {
+      "index": 105,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵１",
+      "pageDataIndex": 105,
+      "gameFlag": 7488
+    },
+    {
+      "index": 106,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵２",
+      "pageDataIndex": 106,
+      "gameFlag": 7489
+    },
+    {
+      "index": 107,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵３",
+      "pageDataIndex": 107,
+      "gameFlag": 7490
+    },
+    {
+      "index": 108,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵４",
+      "pageDataIndex": 108,
+      "gameFlag": 7491
+    },
+    {
+      "index": 109,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵５",
+      "pageDataIndex": 109,
+      "gameFlag": 7492
+    },
+    {
+      "index": 110,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵６",
+      "pageDataIndex": 110,
+      "gameFlag": 7493
+    },
+    {
+      "index": 111,
+      "pTitle": "The Vampire Gallery: Immortality",
+      "id": 11,
+      "pSubTitle": "不死の絵７",
+      "pageDataIndex": 111,
+      "gameFlag": 7494
+    },
+    {
+      "index": 112,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵１",
+      "pageDataIndex": 112,
+      "gameFlag": 7495
+    },
+    {
+      "index": 113,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵２",
+      "pageDataIndex": 113,
+      "gameFlag": 7496
+    },
+    {
+      "index": 114,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵３",
+      "pageDataIndex": 114,
+      "gameFlag": 7497
+    },
+    {
+      "index": 115,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵４",
+      "pageDataIndex": 115,
+      "gameFlag": 7498
+    },
+    {
+      "index": 116,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵５",
+      "pageDataIndex": 116,
+      "gameFlag": 7499
+    },
+    {
+      "index": 117,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵６",
+      "pageDataIndex": 117,
+      "gameFlag": 7500
+    },
+    {
+      "index": 118,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵７",
+      "pageDataIndex": 118,
+      "gameFlag": 7501
+    },
+    {
+      "index": 119,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵８",
+      "pageDataIndex": 119,
+      "gameFlag": 7502
+    },
+    {
+      "index": 120,
+      "pTitle": "The Vampire Gallery: The War",
+      "id": 12,
+      "pSubTitle": "戦争の絵９",
+      "pageDataIndex": 120,
+      "gameFlag": 7503
+    },
+    {
+      "index": 121,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵１",
+      "pageDataIndex": 121,
+      "gameFlag": 7504
+    },
+    {
+      "index": 122,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵２",
+      "pageDataIndex": 122,
+      "gameFlag": 7505
+    },
+    {
+      "index": 123,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵３",
+      "pageDataIndex": 123,
+      "gameFlag": 7506
+    },
+    {
+      "index": 124,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵４",
+      "pageDataIndex": 124,
+      "gameFlag": 7507
+    },
+    {
+      "index": 125,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵５",
+      "pageDataIndex": 125,
+      "gameFlag": 7508
+    },
+    {
+      "index": 126,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵６",
+      "pageDataIndex": 126,
+      "gameFlag": 7509
+    },
+    {
+      "index": 127,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵７",
+      "pageDataIndex": 127,
+      "gameFlag": 7510
+    },
+    {
+      "index": 128,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵８",
+      "pageDataIndex": 128,
+      "gameFlag": 7511
+    },
+    {
+      "index": 129,
+      "pTitle": "The Vampire Gallery: Archbishop",
+      "id": 13,
+      "pSubTitle": "大司祭の絵９",
+      "pageDataIndex": 129,
+      "gameFlag": 7512
+    },
+    {
+      "index": 130,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１",
+      "pageDataIndex": 130,
+      "gameFlag": 7513
+    },
+    {
+      "index": 131,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵２",
+      "pageDataIndex": 131,
+      "gameFlag": 7514
+    },
+    {
+      "index": 132,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵３",
+      "pageDataIndex": 132,
+      "gameFlag": 7515
+    },
+    {
+      "index": 133,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵４",
+      "pageDataIndex": 133,
+      "gameFlag": 7516
+    },
+    {
+      "index": 134,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵５",
+      "pageDataIndex": 134,
+      "gameFlag": 7517
+    },
+    {
+      "index": 135,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵６",
+      "pageDataIndex": 135,
+      "gameFlag": 7518
+    },
+    {
+      "index": 136,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵７",
+      "pageDataIndex": 136,
+      "gameFlag": 7519
+    },
+    {
+      "index": 137,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵８",
+      "pageDataIndex": 137,
+      "gameFlag": 7520
+    },
+    {
+      "index": 138,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵９",
+      "pageDataIndex": 138,
+      "gameFlag": 7521
+    },
+    {
+      "index": 139,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１０",
+      "pageDataIndex": 139,
+      "gameFlag": 7522
+    },
+    {
+      "index": 140,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１１",
+      "pageDataIndex": 140,
+      "gameFlag": 7523
+    },
+    {
+      "index": 141,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１２",
+      "pageDataIndex": 141,
+      "gameFlag": 7524
+    },
+    {
+      "index": 142,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１３",
+      "pageDataIndex": 142,
+      "gameFlag": 7525
+    },
+    {
+      "index": 143,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１４",
+      "pageDataIndex": 143,
+      "gameFlag": 7526
+    },
+    {
+      "index": 144,
+      "pTitle": "The Vampire Gallery: Asterisk",
+      "id": 14,
+      "pSubTitle": "アスタリスクの絵１５",
+      "pageDataIndex": 144,
+      "gameFlag": 7527
+    },
+    {
+      "index": 145,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１",
+      "pageDataIndex": 145,
+      "gameFlag": 7528
+    },
+    {
+      "index": 146,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵２",
+      "pageDataIndex": 146,
+      "gameFlag": 7529
+    },
+    {
+      "index": 147,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵３",
+      "pageDataIndex": 147,
+      "gameFlag": 7530
+    },
+    {
+      "index": 148,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵４",
+      "pageDataIndex": 148,
+      "gameFlag": 7531
+    },
+    {
+      "index": 149,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵５",
+      "pageDataIndex": 149,
+      "gameFlag": 7532
+    },
+    {
+      "index": 150,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵６",
+      "pageDataIndex": 150,
+      "gameFlag": 7533
+    },
+    {
+      "index": 151,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵７",
+      "pageDataIndex": 151,
+      "gameFlag": 7534
+    },
+    {
+      "index": 152,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵８",
+      "pageDataIndex": 152,
+      "gameFlag": 7535
+    },
+    {
+      "index": 153,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵９",
+      "pageDataIndex": 153,
+      "gameFlag": 7536
+    },
+    {
+      "index": 154,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１０",
+      "pageDataIndex": 154,
+      "gameFlag": 7537
+    },
+    {
+      "index": 155,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１１",
+      "pageDataIndex": 155,
+      "gameFlag": 7538
+    },
+    {
+      "index": 156,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１２",
+      "pageDataIndex": 156,
+      "gameFlag": 7539
+    },
+    {
+      "index": 157,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１３",
+      "pageDataIndex": 157,
+      "gameFlag": 7540
+    },
+    {
+      "index": 158,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１４",
+      "pageDataIndex": 158,
+      "gameFlag": 7541
+    },
+    {
+      "index": 159,
+      "pTitle": "The Vampire Gallery: The Angel",
+      "id": 15,
+      "pSubTitle": "天使の絵１５",
+      "pageDataIndex": 159,
+      "gameFlag": 7542
+    },
+    {
+      "index": 160,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道１",
+      "pageDataIndex": 160,
+      "gameFlag": 7543
+    },
+    {
+      "index": 161,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道２",
+      "pageDataIndex": 161,
+      "gameFlag": 7544
+    },
+    {
+      "index": 162,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道３",
+      "pageDataIndex": 162,
+      "gameFlag": 7545
+    },
+    {
+      "index": 163,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道４",
+      "pageDataIndex": 163,
+      "gameFlag": 7546
+    },
+    {
+      "index": 164,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道５",
+      "pageDataIndex": 164,
+      "gameFlag": 7547
+    },
+    {
+      "index": 165,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道６",
+      "pageDataIndex": 165,
+      "gameFlag": 7548
+    },
+    {
+      "index": 166,
+      "pTitle": "The Vampire Gallery: Parting Ways",
+      "id": 16,
+      "pSubTitle": "それぞれの道７",
+      "pageDataIndex": 166,
+      "gameFlag": 7549
+    }
+  ]
+}

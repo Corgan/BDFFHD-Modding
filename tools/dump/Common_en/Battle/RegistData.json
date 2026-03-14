@@ -1,0 +1,75 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 240,
+    "data_one_size": 24,
+    "data_num": 8,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    },
+    {
+      "cancelRate_0": -100,
+      "cancelRate_1": -100,
+      "cancelRate_2": -100,
+      "cancelRate_3": 100,
+      "cancelRate_4": 100,
+      "cancelRate_5": 100
+    }
+  ]
+}

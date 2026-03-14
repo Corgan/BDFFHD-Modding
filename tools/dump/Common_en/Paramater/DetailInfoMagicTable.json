@@ -1,0 +1,211 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 12174,
+    "data_one_size": 12,
+    "data_num": 40,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "itID": 2001,
+      "pName": "White Magic Lv 1",
+      "pInfo": "Enables the use of level 1 white magic:\nCure, Poisona, and Blindna.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2002,
+      "pName": "White Magic Lv 2",
+      "pInfo": "Enables the use of level 2 white magic:\nProtect, Shell, and Aero.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2003,
+      "pName": "White Magic Lv 3",
+      "pInfo": "Enables the use of level 3 white magic:\nCura, Raise, and Esuna.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2004,
+      "pName": "White Magic Lv 4",
+      "pInfo": "Enables the use of level 4 white magic:\nReflect, Dispel, and Aerora.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2005,
+      "pName": "White Magic Lv 5",
+      "pInfo": "Enables the use of level 5 white magic:\nEsunaga, Curada, and Aeroga.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2006,
+      "pName": "White Magic Lv 6",
+      "pInfo": "Enables the use of level 6 white magic:\nCuraga, Arise, and Holy.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2009,
+      "pName": "Black Magic Lv 1",
+      "pInfo": "Enables the use of level 1 black magic:\nFire, Blizzard, and Thunder.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2010,
+      "pName": "Black Magic Lv 2",
+      "pInfo": "Enables the use of level 2 black magic:\nSilence, Poison, and Sleep.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2011,
+      "pName": "Black Magic Lv 3",
+      "pInfo": "Enables the use of level 3 black magic:\nFira, Blizzara, and Thundara.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2012,
+      "pName": "Black Magic Lv 4",
+      "pInfo": "Enables the use of level 4 black magic:\nDrain, Aspir, and Fear.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2013,
+      "pName": "Black Magic Lv 5",
+      "pInfo": "Enables the use of level 5 black magic:\nFiraga, Blizzaga, and Thundaga.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2014,
+      "pName": "Black Magic Lv 6",
+      "pInfo": "Enables the use of level 6 black magic:\nDark, Kill, and Death.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2025,
+      "pName": "Time Magic Lv 1",
+      "pInfo": "Enables the use of level 1 time magic:\nSlow, Regen, and Quake.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2026,
+      "pName": "Time Magic Lv 2",
+      "pInfo": "Enables the use of level 2 time magic:\nHaste, Teleport, and Quara.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2027,
+      "pName": "Time Magic Lv 3",
+      "pInfo": "Enables the use of level 3 time magic:\nGravity, Veil, and Slowga.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2028,
+      "pName": "Time Magic Lv 4",
+      "pInfo": "Enables the use of level 4 time magic:\nHastega, Veilga, and Comet.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2029,
+      "pName": "Time Magic Lv 5",
+      "pInfo": "Enables the use of level 5 time magic:\nQuick, Stop, and Quaga.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2030,
+      "pName": "Time Magic Lv 6",
+      "pInfo": "Enables the use of level 6 time magic:\nGraviga, Reraise, and Meteor.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2031,
+      "pName": "Summoning Lv 1",
+      "pInfo": "Enables the use of level 1 summoning:\nGirtablulu."
+    },
+    {
+      "itID": 2037,
+      "pName": "Sword Magic Lv 1",
+      "pInfo": "Enables the use of level 1 sword magic:\nFire, Blizzard, and Thunder.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2038,
+      "pName": "Sword Magic Lv 2",
+      "pInfo": "Enables the use of level 2 sword magic:\nSilence, Poison, and Sleep.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2039,
+      "pName": "Sword Magic Lv 3",
+      "pInfo": "Enables the use of level 3 sword magic:\nFira, Blizzara, and Thundara.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2040,
+      "pName": "Sword Magic Lv 4",
+      "pInfo": "Enables the use of level 4 sword magic:\nDrain, Aspir, and Fear.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2041,
+      "pName": "Sword Magic Lv 5",
+      "pInfo": "Enables the use of level 5 sword magic:\nFiraga, Blizzaga, and Thundaga.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2042,
+      "pName": "Sword Magic Lv 6",
+      "pInfo": "Enables the use of level 6 sword magic:\nHoly, Dark, and Death.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2050,
+      "pName": "Summoning Lv 2",
+      "pInfo": "Enables the use of level 2 summoning:\nHresvelgr.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2051,
+      "pName": "Summoning Lv 3",
+      "pInfo": "Enables the use of level 3 summoning:\nZiusudra’s Sin.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2052,
+      "pName": "Summoning Lv 4",
+      "pInfo": "Enables the use of level 4 summoning:\nPromethean Fire.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2053,
+      "pName": "Summoning Lv 5",
+      "pInfo": "Enables the use of level 5 summoning:\nDeus Ex.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2054,
+      "pName": "Summoning Lv 6",
+      "pInfo": "Enables the use of level 6 summoning:\nSusano-o.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2055,
+      "pName": "Invocation Lv 1",
+      "pInfo": "Enables the use of level 1 invocation:\nGirtablulu."
+    },
+    {
+      "itID": 2056,
+      "pName": "Invocation Lv 2",
+      "pInfo": "Enables the use of level 2 invocation:\nHresvelgr.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2057,
+      "pName": "Invocation Lv 3",
+      "pInfo": "Enables the use of level 3 invocation:\nZiusudra’s Sin.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2058,
+      "pName": "Invocation Lv 4",
+      "pInfo": "Enables the use of level 4 invocation:\nPromethean Fire.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2059,
+      "pName": "Invocation Lv 5",
+      "pInfo": "Enables the use of level 5 invocation:\nDeus Ex.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2060,
+      "pName": "Invocation Lv 6",
+      "pInfo": "Enables the use of level 6 invocation:\nSusano-o.\n\nNote that this cannot be used without\nfinding the appropriate summon."
+    },
+    {
+      "itID": 2064,
+      "pName": "B/W Magic Lv 1",
+      "pInfo": "Enables the use of level 1 white magic and\nblack magic: Cure, Poisona, Blinda, Fire,\nBlizzard, and Thunder.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2065,
+      "pName": "B/W Magic Lv 2",
+      "pInfo": "Enables the use of level 2 white magic and\nblack magic: Protect, Shell, Aero, Silence, Poison,\nand Sleep.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2066,
+      "pName": "B/W Magic Lv 3",
+      "pInfo": "Enables the use of level 3 white magic and\nblack magic: Cura, Raise, Esuna, Fira, Blizzara,\nand Thundara.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    },
+    {
+      "itID": 2067,
+      "pName": "B/W Magic Lv 4",
+      "pInfo": "Enables the use of level 4 white magic and\nblack magic: Reflect, Dispel, Aerora, Drain,\nAspir, and Fear.\n\nNote that these cannot be used without the\nappropriate scrolls."
+    }
+  ]
+}

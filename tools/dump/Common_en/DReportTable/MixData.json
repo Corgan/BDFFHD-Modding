@@ -1,0 +1,367 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 8200,
+    "data_one_size": 8,
+    "data_num": 89,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "item1": 40129,
+      "item2": "Restore 300 HP to target."
+    },
+    {
+      "item1": 40130,
+      "item2": "Restore 80 MP to target."
+    },
+    {
+      "item1": 40131,
+      "item2": "Cure poison for target."
+    },
+    {
+      "item1": 40132,
+      "item2": "Bring back target from KO."
+    },
+    {
+      "item1": 40133,
+      "item2": "Cure a variety of status ailments for target."
+    },
+    {
+      "item1": 40134,
+      "item2": "Cure blind for target."
+    },
+    {
+      "item1": 40135,
+      "item2": "Cure silence for target."
+    },
+    {
+      "item1": 40136,
+      "item2": "Cure sleep for target."
+    },
+    {
+      "item1": 40137,
+      "item2": "Cure dread for target."
+    },
+    {
+      "item1": 40138,
+      "item2": "Restore 1,000 HP to target."
+    },
+    {
+      "item1": 40139,
+      "item2": "Restore 3,000 HP to target."
+    },
+    {
+      "item1": 40140,
+      "item2": "Restore 300 MP to target."
+    },
+    {
+      "item1": 40141,
+      "item2": "Restore all HP and MP for target."
+    },
+    {
+      "item1": 40142,
+      "item2": "Restore all HP and MP for the entire party."
+    },
+    {
+      "item1": 40050,
+      "item2": "Restore 150 HP and cure poison for target."
+    },
+    {
+      "item1": 40051,
+      "item2": "Restore 5,000 HP and bring back target from KO."
+    },
+    {
+      "item1": 40052,
+      "item2": "Bring back target from KO and restore HP and MP."
+    },
+    {
+      "item1": 40053,
+      "item2": "Restore 150 HP and cure blind for target."
+    },
+    {
+      "item1": 40054,
+      "item2": "Restore 150 HP and cure silence for target."
+    },
+    {
+      "item1": 40055,
+      "item2": "Restore 150 HP and cure sleep for target."
+    },
+    {
+      "item1": 40056,
+      "item2": "Restore 150 HP and cure dread for target."
+    },
+    {
+      "item1": 40057,
+      "item2": "Impart a regen effect on target."
+    },
+    {
+      "item1": 40058,
+      "item2": "Impart a reraise effect on target."
+    },
+    {
+      "item1": 40060,
+      "item2": "Make target immune to poison."
+    },
+    {
+      "item1": 40061,
+      "item2": "Make target immune to blind."
+    },
+    {
+      "item1": 40062,
+      "item2": "Make target immune to silence."
+    },
+    {
+      "item1": 40063,
+      "item2": "Make target immune to sleep."
+    },
+    {
+      "item1": 40064,
+      "item2": "Make target immune to dread."
+    },
+    {
+      "item1": 40065,
+      "item2": "Restore 2,500 HP and 250 MP to target."
+    },
+    {
+      "item1": 40066,
+      "item2": "Restore 5,000 HP and 500 MP to target."
+    },
+    {
+      "item1": 40067,
+      "item2": "Restore 500 MP to target."
+    },
+    {
+      "item1": 40068,
+      "item2": "Cure a variety of status ailments for target."
+    },
+    {
+      "item1": 40069,
+      "item2": "Raise target’s physical attack by 30% for 4 turns."
+    },
+    {
+      "item1": 40070,
+      "item2": "Raise target’s physical attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40071,
+      "item2": "Raise target’s physical attack by 20% for 4 turns."
+    },
+    {
+      "item1": 40072,
+      "item2": "Raise target’s physical attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40073,
+      "item2": "Raise target’s physical attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40074,
+      "item2": "Raise target’s physical attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40075,
+      "item2": "Raise target’s physical attack by 50% for 6 turns."
+    },
+    {
+      "item1": 40076,
+      "item2": "Raise target’s magic attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40077,
+      "item2": "Raise target’s magic attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40078,
+      "item2": "Raise target’s magic attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40079,
+      "item2": "Raise target’s magic attack by 20% for 4 turns."
+    },
+    {
+      "item1": 40080,
+      "item2": "Raise target’s magic attack by 10% for 4 turns."
+    },
+    {
+      "item1": 40081,
+      "item2": "Raise target’s magic attack by 30% for 4 turns."
+    },
+    {
+      "item1": 40082,
+      "item2": "Raise target’s magic attack by 50% for 6 turns."
+    },
+    {
+      "item1": 40083,
+      "item2": "Raise target’s physical defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40084,
+      "item2": "Raise target’s physical defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40085,
+      "item2": "Raise target’s physical defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40086,
+      "item2": "Raise target’s physical defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40087,
+      "item2": "Raise target’s physical defense by 30% for 4 turns."
+    },
+    {
+      "item1": 40088,
+      "item2": "Raise target’s physical defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40089,
+      "item2": "Raise target’s physical defense by 50% for 6 turns."
+    },
+    {
+      "item1": 40090,
+      "item2": "Raise target’s magic defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40091,
+      "item2": "Raise target’s magic defense by 20% for 4 turns."
+    },
+    {
+      "item1": 40092,
+      "item2": "Raise target’s magic defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40093,
+      "item2": "Raise target’s magic defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40094,
+      "item2": "Raise target’s magic defense by 10% for 4 turns."
+    },
+    {
+      "item1": 40095,
+      "item2": "Raise target’s magic defense by 30% for 4 turns."
+    },
+    {
+      "item1": 40096,
+      "item2": "Raise target’s magic defense by 50% for 6 turns."
+    },
+    {
+      "item1": 40097,
+      "item2": "Make target vulnerable to fire."
+    },
+    {
+      "item1": 40098,
+      "item2": "Make target vulnerable to water."
+    },
+    {
+      "item1": 40099,
+      "item2": "Make target vulnerable to wind."
+    },
+    {
+      "item1": 40100,
+      "item2": "Make target vulnerable to lightning."
+    },
+    {
+      "item1": 40101,
+      "item2": "Make target vulnerable to earth."
+    },
+    {
+      "item1": 40102,
+      "item2": "Make target vulnerable to light."
+    },
+    {
+      "item1": 40103,
+      "item2": "Make target vulnerable to dark."
+    },
+    {
+      "item1": 40104,
+      "item2": "Make target immune to fire damage."
+    },
+    {
+      "item1": 40105,
+      "item2": "Make target immune to water damage."
+    },
+    {
+      "item1": 40106,
+      "item2": "Make target immune to wind damage."
+    },
+    {
+      "item1": 40107,
+      "item2": "Make target immune to lightning damage."
+    },
+    {
+      "item1": 40108,
+      "item2": "Make target immune to earth damage."
+    },
+    {
+      "item1": 40109,
+      "item2": "Make target immune to light damage."
+    },
+    {
+      "item1": 40110,
+      "item2": "Make target immune to dark damage."
+    },
+    {
+      "item1": 40111,
+      "item2": "Double maximum HP and restore all HP to target."
+    },
+    {
+      "item1": 40112,
+      "item2": "Lower target’s physical defense for 4 turns."
+    },
+    {
+      "item1": 40113,
+      "item2": "Raise target’s speed for 4 turns."
+    },
+    {
+      "item1": 40114,
+      "item2": "Raise target’s elemental attack for 5 turns."
+    },
+    {
+      "item1": 40115,
+      "item2": "Inflict damage equal to user’s maximum HP minus current HP on target."
+    },
+    {
+      "item1": 40116,
+      "item2": "Inflict 5,000 HP of dark damage on target."
+    },
+    {
+      "item1": 40117,
+      "item2": "Inflict damage equal to user’s current HP on target."
+    },
+    {
+      "item1": 40118,
+      "item2": "Inflict 1,500 HP of light damage on entire party."
+    },
+    {
+      "item1": 40119,
+      "item2": "Inflict 1,500 HP of dark damage on entire party."
+    },
+    {
+      "item1": 40143,
+      "item2": "Inflict major fire damage on entire party."
+    },
+    {
+      "item1": 40144,
+      "item2": "Inflict major water damage on entire party."
+    },
+    {
+      "item1": 40145,
+      "item2": "Inflict major lightning damage on entire party."
+    },
+    {
+      "item1": 40146,
+      "item2": "Inflict major wind damage on entire party."
+    },
+    {
+      "item1": 40147,
+      "item2": "Inflict major earth damage on entire party."
+    },
+    {
+      "item1": 40059,
+      "item2": "Created when compounding fails. Inflict slight damage and make target more likely to be attacked."
+    }
+  ]
+}

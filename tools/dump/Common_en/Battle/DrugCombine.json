@@ -1,0 +1,3931 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 9456,
+    "data_one_size": 12,
+    "data_num": 784,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40129
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40139
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40057
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40057
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40139
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40000,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40139
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40130
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40060
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40052
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40061
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40062
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40063
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40064
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40067
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40001,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40060
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40131
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40060
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40002,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40052
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40132
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40052
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40003,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40004,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40061
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40134
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40061
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40005,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40062
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40135
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40062
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40006,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40063
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40136
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40063
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40007,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40064
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40068
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40137
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40064
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40008,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40057
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40138
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40058
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40009,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40057
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40050
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40051
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40053
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40054
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40055
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40056
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40058
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40139
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40066
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40010,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40139
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40067
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40060
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40052
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40133
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40061
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40062
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40063
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40064
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40065
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40066
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40140
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40011,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40012,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40013,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40069
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40083
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40076
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40090
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40111
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40030,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40070
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40084
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40077
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40091
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40112
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40031,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40071
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40085
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40078
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40092
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40113
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40097
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40098
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40099
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40100
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40101
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40102
+    },
+    {
+      "ITEM1_ID": 40032,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40103
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40072
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40086
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40079
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40093
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40114
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40104
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40105
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40106
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40107
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40108
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40109
+    },
+    {
+      "ITEM1_ID": 40033,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40110
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40073
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40087
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40080
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40094
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40115
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40034,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40074
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40088
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40081
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40095
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40116
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40035,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40075
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40089
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40082
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40096
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40117
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40036,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40097
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40104
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40143
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40037,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40098
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40105
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40144
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40038,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40099
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40106
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40146
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40039,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40100
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40107
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40145
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40040,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40101
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40108
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40147
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40041,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40102
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40109
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40118
+    },
+    {
+      "ITEM1_ID": 40042,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40000,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40001,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40002,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40003,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40004,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40005,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40006,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40007,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40008,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40009,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40010,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40011,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40012,
+      "RESULT_ID": 40141
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40013,
+      "RESULT_ID": 40142
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40030,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40031,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40032,
+      "RESULT_ID": 40103
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40033,
+      "RESULT_ID": 40110
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40034,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40035,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40036,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40037,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40038,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40039,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40040,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40041,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40042,
+      "RESULT_ID": 40059
+    },
+    {
+      "ITEM1_ID": 40043,
+      "ITEM2_ID": 40043,
+      "RESULT_ID": 40119
+    }
+  ]
+}

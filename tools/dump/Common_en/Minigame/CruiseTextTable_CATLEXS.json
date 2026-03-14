@@ -1,0 +1,851 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 15114,
+    "data_one_size": 8,
+    "data_num": 210,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "Tutorial Cruise"
+    },
+    {
+      "id": 2,
+      "pMessage": "Find the Ghost Pirate Ship!"
+    },
+    {
+      "id": 3,
+      "pMessage": "Subdue the Dragon!"
+    },
+    {
+      "id": 4,
+      "pMessage": "The Sky Knights Attack!"
+    },
+    {
+      "id": 5,
+      "pMessage": "Learn how to pilot an airship in this\npractice course."
+    },
+    {
+      "id": 6,
+      "pMessage": "Attacks from a ghost pirate ship have\nbeen on the rise. Hunt it down and\nshiver its timbers!"
+    },
+    {
+      "id": 7,
+      "pMessage": "A ferocious dragon has made the area\nsurrounding Mount Karka impassable.\nSubdue it and secure safe passage!"
+    },
+    {
+      "id": 8,
+      "pMessage": "Movements of the ducal forces are\nraising concerns. Reconnoiter\ntheir strength in Eternia!"
+    },
+    {
+      "id": 9,
+      "pMessage": "Select a Quest"
+    },
+    {
+      "id": 10,
+      "pMessage": "How to Play"
+    },
+    {
+      "id": 11,
+      "pMessage": "Back"
+    },
+    {
+      "id": 12,
+      "pMessage": "Config"
+    },
+    {
+      "id": 13,
+      "pMessage": "Start"
+    },
+    {
+      "id": 14,
+      "pMessage": "Difficulty"
+    },
+    {
+      "id": 15,
+      "pMessage": "Details"
+    },
+    {
+      "id": 16,
+      "pMessage": "Results"
+    },
+    {
+      "id": 17,
+      "pMessage": ""
+    },
+    {
+      "id": 18,
+      "pMessage": "Block attacks with your shields!"
+    },
+    {
+      "id": 19,
+      "pMessage": "Aim carefully for its body and fire!"
+    },
+    {
+      "id": 20,
+      "pMessage": "Fire! Fire! Fire at will!"
+    },
+    {
+      "id": 21,
+      "pMessage": "Dragon defeated!"
+    },
+    {
+      "id": 22,
+      "pMessage": "Enemy"
+    },
+    {
+      "id": 23,
+      "pMessage": ""
+    },
+    {
+      "id": 24,
+      "pMessage": "Ghost ship destroyed!"
+    },
+    {
+      "id": 25,
+      "pMessage": "Destroyed the galleon!"
+    },
+    {
+      "id": 26,
+      "pMessage": "Swat the ghosts!"
+    },
+    {
+      "id": 27,
+      "pMessage": "Avoid the barrier and fire!"
+    },
+    {
+      "id": 28,
+      "pMessage": "Block attacks with your shields!"
+    },
+    {
+      "id": 29,
+      "pMessage": "Avoid the corvettes and fire!"
+    },
+    {
+      "id": 30,
+      "pMessage": "BRAVE TIME"
+    },
+    {
+      "id": 31,
+      "pMessage": "SCORE"
+    },
+    {
+      "id": 32,
+      "pMessage": "Bonus Points"
+    },
+    {
+      "id": 33,
+      "pMessage": "No damage!"
+    },
+    {
+      "id": 34,
+      "pMessage": "Complete!"
+    },
+    {
+      "id": 35,
+      "pMessage": "Ace!"
+    },
+    {
+      "id": 36,
+      "pMessage": "You’ve achieved a new best in-game score\nin Ringabel’s Panic Cruise!"
+    },
+    {
+      "id": 37,
+      "pMessage": "OK"
+    },
+    {
+      "id": 38,
+      "pMessage": "? ? ? ? ?"
+    },
+    {
+      "id": 39,
+      "pMessage": "Normal"
+    },
+    {
+      "id": 40,
+      "pMessage": "Hard"
+    },
+    {
+      "id": 41,
+      "pMessage": "Expert"
+    },
+    {
+      "id": 42,
+      "pMessage": "Destination"
+    },
+    {
+      "id": 43,
+      "pMessage": "HIGH SCORE"
+    },
+    {
+      "id": 44,
+      "pMessage": "Continue"
+    },
+    {
+      "id": 45,
+      "pMessage": "Restart"
+    },
+    {
+      "id": 46,
+      "pMessage": "To quest selection"
+    },
+    {
+      "id": 47,
+      "pMessage": "CONFIG"
+    },
+    {
+      "id": 48,
+      "pMessage": "Volume Settings"
+    },
+    {
+      "id": 49,
+      "pMessage": "Music"
+    },
+    {
+      "id": 50,
+      "pMessage": "Sound Effects"
+    },
+    {
+      "id": 51,
+      "pMessage": "Voices"
+    },
+    {
+      "id": 52,
+      "pMessage": "Game Settings"
+    },
+    {
+      "id": 53,
+      "pMessage": "Radio Music Function"
+    },
+    {
+      "id": 54,
+      "pMessage": "Cursor Sensitivity"
+    },
+    {
+      "id": 55,
+      "pMessage": "ON"
+    },
+    {
+      "id": 56,
+      "pMessage": "OFF"
+    },
+    {
+      "id": 57,
+      "pMessage": "Close"
+    },
+    {
+      "id": 58,
+      "pMessage": "Apply"
+    },
+    {
+      "id": 59,
+      "pMessage": "Your changes have not been applied.\nDiscard changes?"
+    },
+    {
+      "id": 60,
+      "pMessage": "Restore Defaults"
+    },
+    {
+      "id": 61,
+      "pMessage": "Restore all settings to the default?"
+    },
+    {
+      "id": 62,
+      "pMessage": "Grab/Push"
+    },
+    {
+      "id": 63,
+      "pMessage": "Menu"
+    },
+    {
+      "id": 64,
+      "pMessage": "Unlocked after clearing\nchapter 3."
+    },
+    {
+      "id": 65,
+      "pMessage": "Unlocked after clearing\nchapter 5."
+    },
+    {
+      "id": 66,
+      "pMessage": "This quest has not been unlocked\nand cannot be played yet."
+    },
+    {
+      "id": 67,
+      "pMessage": "Play"
+    },
+    {
+      "id": 68,
+      "pMessage": "Close"
+    },
+    {
+      "id": 69,
+      "pMessage": "Tutorial"
+    },
+    {
+      "id": 70,
+      "pMessage": "Bonus"
+    },
+    {
+      "id": 71,
+      "pMessage": "Master Volume"
+    },
+    {
+      "id": 72,
+      "pMessage": "Right-Cursor Sensitivity"
+    },
+    {
+      "id": 73,
+      "pMessage": "Left-Cursor Sensitivity"
+    },
+    {
+      "id": 100,
+      "pMessage": "Flip the test switches\nto <color=#b22222>{0}</color>, <color=#b22222>{1}</color>, and <color=#b22222>{2}</color>!"
+    },
+    {
+      "id": 101,
+      "pMessage": "Thanks! Looks like\nthey’re working!"
+    },
+    {
+      "id": 102,
+      "pMessage": "C’mon, Ringabel…\nAt least flip a switch."
+    },
+    {
+      "id": 103,
+      "pMessage": "Test, please. Switches\nto <color=#b22222>{0}</color>, <color=#b22222>{1}</color>, and <color=#b22222>{2}</color>!"
+    },
+    {
+      "id": 104,
+      "pMessage": "Thanks! Instruments\nlook to be in order."
+    },
+    {
+      "id": 105,
+      "pMessage": "Why…? It’s just a\nsimple test."
+    },
+    {
+      "id": 106,
+      "pMessage": "Hey, set the radio to\n<color=#b22222>{0}</color>, ’kay?"
+    },
+    {
+      "id": 107,
+      "pMessage": "Thanks! This is what\nI wanted to hear!"
+    },
+    {
+      "id": 108,
+      "pMessage": "But I wanted to listen\nto that music…"
+    },
+    {
+      "id": 109,
+      "pMessage": "Could you please play\n<color=#b22222>{0}</color> on the radio?"
+    },
+    {
+      "id": 110,
+      "pMessage": "Thank you! This music\nis so relaxing."
+    },
+    {
+      "id": 111,
+      "pMessage": "I really like that\nmusic. Too bad…"
+    },
+    {
+      "id": 112,
+      "pMessage": "Could you set the\nmusic to <color=#b22222>{0}</color>?"
+    },
+    {
+      "id": 113,
+      "pMessage": "Thanks! Doesn’t\nthis sound great?"
+    },
+    {
+      "id": 114,
+      "pMessage": "Aww, but it’s such\ngood music."
+    },
+    {
+      "id": 115,
+      "pMessage": "<color=#b22222>#{0}</color> fireworks, please.\nA birthday’s on board."
+    },
+    {
+      "id": 116,
+      "pMessage": "Drat… Sorry to\nhave bothered ya."
+    },
+    {
+      "id": 117,
+      "pMessage": "It’s so pretty…"
+    },
+    {
+      "id": 118,
+      "pMessage": "<color=#b22222>#{0}</color> fireworks, please.\nA birthday’s on board."
+    },
+    {
+      "id": 119,
+      "pMessage": "Drat… Sorry to\nhave bothered ya."
+    },
+    {
+      "id": 120,
+      "pMessage": "They’re…beautiful…"
+    },
+    {
+      "id": 121,
+      "pMessage": "Pyrotechnics test:\nHit the <color=#b22222>#{0} button</color>."
+    },
+    {
+      "id": 122,
+      "pMessage": "Well, so much for\nthat test."
+    },
+    {
+      "id": 123,
+      "pMessage": "It’s so pretty…"
+    },
+    {
+      "id": 124,
+      "pMessage": "Pyrotechnics test:\nHit the <color=#b22222>#{0} button</color>."
+    },
+    {
+      "id": 125,
+      "pMessage": "Well, so much for\nthat test."
+    },
+    {
+      "id": 126,
+      "pMessage": "They’re…beautiful…"
+    },
+    {
+      "id": 127,
+      "pMessage": "It’s warm in here.\nTurn on the <color=#b22222>cooler</color>?"
+    },
+    {
+      "id": 128,
+      "pMessage": "Ahh, that’s more\nlike it! …Thanks."
+    },
+    {
+      "id": 129,
+      "pMessage": "Mrgrgr! You trying\nto roast me!?"
+    },
+    {
+      "id": 130,
+      "pMessage": "We should turn the\n<color=#b22222>A/C off</color> for now."
+    },
+    {
+      "id": 131,
+      "pMessage": "Thanks! Saving\nenergy is important!"
+    },
+    {
+      "id": 132,
+      "pMessage": "It’s no good to let\nit run all the time."
+    },
+    {
+      "id": 133,
+      "pMessage": "Brr… Could you\nturn on the <color=#b22222>heater</color>?"
+    },
+    {
+      "id": 134,
+      "pMessage": "Thank you. I thought\nI might freeze."
+    },
+    {
+      "id": 135,
+      "pMessage": "I’ll catch my\ndeath of cold!"
+    },
+    {
+      "id": 136,
+      "pMessage": "Try blowing the\nwhistle <color=#b22222>{0}</color> times!"
+    },
+    {
+      "id": 137,
+      "pMessage": "Thanks!\nWasn’t that fun?"
+    },
+    {
+      "id": 138,
+      "pMessage": "I thought it would\ncheer us up…"
+    },
+    {
+      "id": 139,
+      "pMessage": "Incoming! Lock on\nand fire the net!"
+    },
+    {
+      "id": 140,
+      "pMessage": "Got ’em! They can’t\nbother us now!"
+    },
+    {
+      "id": 141,
+      "pMessage": "Whew, they went\nsomewhere else."
+    },
+    {
+      "id": 142,
+      "pMessage": "A weird bug flew\nin! Kill it!"
+    },
+    {
+      "id": 143,
+      "pMessage": "Thanks. They always\ngo after me."
+    },
+    {
+      "id": 144,
+      "pMessage": "Ack! It bit me!\nIt already itches!"
+    },
+    {
+      "id": 145,
+      "pMessage": "Something bit me!\nI can’t bear this…"
+    },
+    {
+      "id": 146,
+      "pMessage": "It bit my—! And\nnow it’s swelling!?"
+    },
+    {
+      "id": 147,
+      "pMessage": "Try tightening it\nwith that <color=#b22222>wrench</color>."
+    },
+    {
+      "id": 148,
+      "pMessage": "Ugh, never mind.\nI’ll fix it!"
+    },
+    {
+      "id": 149,
+      "pMessage": "Oh no! It’s\nleaking steam!"
+    },
+    {
+      "id": 150,
+      "pMessage": "That’s better. You\nhad me worried."
+    },
+    {
+      "id": 151,
+      "pMessage": "Eek! Is it supposed\nto shake like this?"
+    },
+    {
+      "id": 152,
+      "pMessage": "Replace the burnt\n<color=#b22222>tube</color> with a new one."
+    },
+    {
+      "id": 153,
+      "pMessage": "Geez. Guess I’ll\ntake care of it."
+    },
+    {
+      "id": 154,
+      "pMessage": "Something’s broken!\nIs it gonna blow!?"
+    },
+    {
+      "id": 155,
+      "pMessage": "Whew! Just watching\nhad me nervous!"
+    },
+    {
+      "id": 156,
+      "pMessage": "Whaaat! It really\ndid blow up!"
+    },
+    {
+      "id": 157,
+      "pMessage": "やったぞ！　\nもうすぐ目的地だ！"
+    },
+    {
+      "id": 158,
+      "pMessage": "フッ、楽勝だったな。\n多少、冷汗はかいたが…"
+    },
+    {
+      "id": 159,
+      "pMessage": "もうすぐ目的地に到着です。\n操縦の腕は本物でしたね！"
+    },
+    {
+      "id": 160,
+      "pMessage": "まあな。俺にとっちゃ\nこのくらい朝飯前さ。"
+    },
+    {
+      "id": 161,
+      "pMessage": "さすがリングアベル。\n操縦の腕だけはたしかだね！"
+    },
+    {
+      "id": 162,
+      "pMessage": "そうだろう？\n操縦だけは…って、えっ？　"
+    },
+    {
+      "id": 163,
+      "pMessage": "船の出力が低下してる！\n海に落ちるぞ！"
+    },
+    {
+      "id": 164,
+      "pMessage": "Output’s dropping!\nWe’ll hit the sea!"
+    },
+    {
+      "id": 165,
+      "pMessage": "Dragon spotted!\nRaise the shields!"
+    },
+    {
+      "id": 166,
+      "pMessage": "A galleon’s got us!\nReady the cannons!"
+    },
+    {
+      "id": 167,
+      "pMessage": "幽霊船が現れたぞ！\n聖なるハエたたきで応戦だ！"
+    },
+    {
+      "id": 168,
+      "pMessage": "It’s the ghost ship!\nUse the holy swatter!"
+    },
+    {
+      "id": 169,
+      "pMessage": "Combine the shields\nto reflect attacks!"
+    },
+    {
+      "id": 170,
+      "pMessage": "Combine the shields\nto reflect attacks!"
+    },
+    {
+      "id": 171,
+      "pMessage": "回頭しはじめたぞ！\n攻撃のチャンスだ！"
+    },
+    {
+      "id": 172,
+      "pMessage": "It’s changed course!\nNow’s our chance!"
+    },
+    {
+      "id": 173,
+      "pMessage": "Now it is our turn!"
+    },
+    {
+      "id": 174,
+      "pMessage": "It’s the whole fleet!\nFocus on the galleon!"
+    },
+    {
+      "id": 175,
+      "pMessage": "体当たりしてくる気！？\nぶつかる前に倒すよ！"
+    },
+    {
+      "id": 176,
+      "pMessage": "It’s gonna ram us!?\nWe hafta sink it!"
+    },
+    {
+      "id": 177,
+      "pMessage": "It’s slowed down!\nTime to beat it!"
+    },
+    {
+      "id": 178,
+      "pMessage": "Retreating!? You\nwon’t get away!"
+    },
+    {
+      "id": 179,
+      "pMessage": "あ！ 消えた…\n逃げられた…のかな？"
+    },
+    {
+      "id": 180,
+      "pMessage": "怖かったですね…"
+    },
+    {
+      "id": 181,
+      "pMessage": "Ah! It vanished!\nDid it…get away?"
+    },
+    {
+      "id": 182,
+      "pMessage": "That was scary…"
+    },
+    {
+      "id": 183,
+      "pMessage": "It’s running away!"
+    },
+    {
+      "id": 184,
+      "pMessage": "We survived…\nsomehow…"
+    },
+    {
+      "id": 185,
+      "pMessage": "Phew… They\ngot away…"
+    },
+    {
+      "id": 186,
+      "pMessage": "That was tough…"
+    },
+    {
+      "id": 187,
+      "pMessage": "やった！　撃沈したぞ！"
+    },
+    {
+      "id": 188,
+      "pMessage": "やりましたね！\nきっとみなさん喜びます！"
+    },
+    {
+      "id": 189,
+      "pMessage": "Hooray!\nWe sank it!"
+    },
+    {
+      "id": 190,
+      "pMessage": "We did it! Everyone\nwill be so happy!"
+    },
+    {
+      "id": 191,
+      "pMessage": "Wow! We really\nbeat it!"
+    },
+    {
+      "id": 192,
+      "pMessage": "Fantastic piloting!\nYou did a great job."
+    },
+    {
+      "id": 193,
+      "pMessage": "Target destroyed.\nHeh, no sweat."
+    },
+    {
+      "id": 194,
+      "pMessage": "Haha, but you’re\ncovered in sweat!"
+    },
+    {
+      "id": 195,
+      "pMessage": "Ah! The balloons got\nout! Just pop ’em all!"
+    },
+    {
+      "id": 200,
+      "pMessage": "The Grandship Soars the Open Skies"
+    },
+    {
+      "id": 201,
+      "pMessage": "Caldisla, Land of Beginnings"
+    },
+    {
+      "id": 202,
+      "pMessage": "The Horizon: Endless Light and Shadow"
+    },
+    {
+      "id": 203,
+      "pMessage": "Windswept Day"
+    },
+    {
+      "id": 204,
+      "pMessage": "Hartschild, Town of Shieldbearers"
+    },
+    {
+      "id": 205,
+      "pMessage": "Under the Banner of the Duchy"
+    },
+    {
+      "id": 206,
+      "pMessage": "Grandship, the Sinking State"
+    },
+    {
+      "id": 207,
+      "pMessage": "Ancheim, Land of Sand and Time"
+    },
+    {
+      "id": 208,
+      "pMessage": "Hostile Descent"
+    },
+    {
+      "id": 209,
+      "pMessage": "The Evil One"
+    },
+    {
+      "id": 210,
+      "pMessage": "Love in the Crossfire! [Long Version]"
+    },
+    {
+      "id": 211,
+      "pMessage": "The Ship Sails on the Open Seas"
+    },
+    {
+      "id": 212,
+      "pMessage": "Under a Hollow Moon"
+    },
+    {
+      "id": 213,
+      "pMessage": "A Trifling Affair"
+    },
+    {
+      "id": 214,
+      "pMessage": "The Evil War"
+    },
+    {
+      "id": 220,
+      "pMessage": "off"
+    },
+    {
+      "id": 221,
+      "pMessage": "on"
+    },
+    {
+      "id": 301,
+      "pMessage": "First rotate the wheel right\nto yaw right. You can grab it\nwith either hand."
+    },
+    {
+      "id": 302,
+      "pMessage": "Give it another turn.\nGrab the wheel and steer right."
+    },
+    {
+      "id": 303,
+      "pMessage": "Nice steering!\nNext, try yawing to the left."
+    },
+    {
+      "id": 304,
+      "pMessage": "Give it another turn.\nGrab the wheel and steer left."
+    },
+    {
+      "id": 305,
+      "pMessage": "Good, now try using the wheel\nto fly through the rings."
+    },
+    {
+      "id": 306,
+      "pMessage": "Give it another go. Rotate the\nwheel to head for the rings."
+    },
+    {
+      "id": 307,
+      "pMessage": "Amazing! It’s almost like this\nisn’t your first time!"
+    },
+    {
+      "id": 308,
+      "pMessage": "While holding the altitude lever,\nmove it down to descend."
+    },
+    {
+      "id": 309,
+      "pMessage": "Give it another try.\nPull it all the way down."
+    },
+    {
+      "id": 310,
+      "pMessage": "Pretty good!\nNext try ascending."
+    },
+    {
+      "id": 311,
+      "pMessage": "One more time.\nPull the lever all the way up."
+    },
+    {
+      "id": 312,
+      "pMessage": "Good, just like that."
+    },
+    {
+      "id": 313,
+      "pMessage": "Next try flying through the rings\nusing both the wheel and the lever."
+    },
+    {
+      "id": 314,
+      "pMessage": "Let’s do that again.\nTry to fly through the rings."
+    },
+    {
+      "id": 315,
+      "pMessage": "That’s it for the basics. I’d say you’ve\ngot all the makings of a great pilot!"
+    },
+    {
+      "id": 316,
+      "pMessage": "Flip the switches on or off as\nordered, starting from the left."
+    },
+    {
+      "id": 317,
+      "pMessage": "One more time. As ordered,\nflip them on or off,\nstarting from the left."
+    },
+    {
+      "id": 318,
+      "pMessage": "Way to go! Now give the\nnext order a try!"
+    },
+    {
+      "id": 319,
+      "pMessage": "Grab the wrench from the box and\npress the button over the valve."
+    },
+    {
+      "id": 320,
+      "pMessage": "Try it again. Close the\nvalve with the wrench."
+    },
+    {
+      "id": 321,
+      "pMessage": "Great!\nWe’re out of the woods."
+    },
+    {
+      "id": 322,
+      "pMessage": "Finally, try fulfilling an order\nwhile flying through the rings."
+    },
+    {
+      "id": 323,
+      "pMessage": "One more time. While flying through\nthe rings, fulfill the order."
+    },
+    {
+      "id": 324,
+      "pMessage": "Fantastic! All sorts of orders will\ncome at you during the real thing.\nGive ’em all a go."
+    }
+  ]
+}

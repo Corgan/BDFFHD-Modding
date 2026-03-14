@@ -1,0 +1,155 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 432,
+    "data_one_size": 16,
+    "data_num": 24,
+    "ints_per_record": 4
+  },
+  "records": [
+    {
+      "jobID": 0,
+      "abilityID": 102,
+      "executeCondition": 10,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 1,
+      "abilityID": 121,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 2,
+      "abilityID": 73,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 3,
+      "abilityID": 39,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 4,
+      "abilityID": 185,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 5,
+      "abilityID": 210,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 6,
+      "abilityID": 221,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 7,
+      "abilityID": 24,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 8,
+      "abilityID": 92,
+      "executeCondition": 873,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 9,
+      "abilityID": 281,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 10,
+      "abilityID": 310,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 11,
+      "abilityID": 323,
+      "executeCondition": 710,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 12,
+      "abilityID": 346,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 13,
+      "abilityID": 363,
+      "executeCondition": 208,
+      "targetCondition": 208
+    },
+    {
+      "jobID": 14,
+      "abilityID": 381,
+      "executeCondition": 249,
+      "targetCondition": 209
+    },
+    {
+      "jobID": 15,
+      "abilityID": 44,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 16,
+      "abilityID": 45,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 17,
+      "abilityID": 441,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 18,
+      "abilityID": 462,
+      "executeCondition": 851,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 19,
+      "abilityID": 102,
+      "executeCondition": 10,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 20,
+      "abilityID": 37,
+      "executeCondition": 214,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 21,
+      "abilityID": 522,
+      "executeCondition": 0,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 22,
+      "abilityID": 541,
+      "executeCondition": 847,
+      "targetCondition": 0
+    },
+    {
+      "jobID": 23,
+      "abilityID": 568,
+      "executeCondition": 314,
+      "targetCondition": 0
+    }
+  ]
+}

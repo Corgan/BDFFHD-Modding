@@ -1,0 +1,911 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 60104,
+    "data_one_size": 32,
+    "data_num": 90,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">●Travel Notes (1)</align>\n◆10/6/16 (Sat) afternoon —Karl the Innkeep\nI am starting a new set of travel notes, as a regular guest who left this morning filled the last page of our previous one.\n\nTo Our Guests: Please use this notebook to write down any thoughts, comments, or requests you have concerning our inn, troubles you have encountered on your travels, or whatever else strikes you.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆10/8/16 (Mon) dawn —[PCF1]\nMy first morning at this inn… It is at Karl’s suggestion that I am now writing in this notebook.\n<align=\"center\">* * *</align>\nYesterday, the evening of 10/7, I finally arrived in Caldisla. It was two days by sea from Ancheim aboard a passenger ship. We were visited by such an accident as the ship beginning to sink the moment we arrived in port.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I had been hoping to ask around about the terrible earthquake days before, but it was hardly the time for that.\n<align=\"center\">* * *</align>\n“You’ll have to share a room with a young man named Ternis, and an injured boy who’s been unconscious a week. Do you mind?”\nDespite the hour, Karl welcomed me into his inn.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I set my luggage beside my bed and took a chair at the dining table, where Ternis explained the current situation to me in surprising detail.\nThe young man in bed had likely been injured near the epicenter of the earthquake. Ternis found him in the river and carried him to this inn.\nHe then inquired as to why I had come to Caldisla—in a way that almost made me feel like I was being interrogated. I related the particulars in as much detail as I felt I was permitted.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We spoke until dawn, our conversation continuing as though we had already been acquainted somewhere.\n\nTernis tucked into his bed after the sky first began to lighten. As I was not sleepy in the least, Karl said to me, “If something is bothering you, putting it down in words can help ease the load,” and passed me a pen and notebook.\n\nThose are these travel notes.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆10/8/16 (Mon) late night —[PCF1]\nThis is my second night in Caldisla. Tonight I am again writing in this notebook.\n<align=\"center\">* * *</align>\nThis morning I had breakfast with Karl’s son, Owen, and Ternis. Upon the table were plates of toast, fried eggs, and crispy bacon, and the smell of freshly brewed coffee filled the entire floor.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Karl discreetly served me some strawberry jam and herbal tea since I had not touched the bacon nor coffee.\n<align=\"center\">* * *</align>\nOwen left for his duties at the castle, and Ternis also went out after thoroughly enjoying his coffee.\nThere was a basket of laundry in the corner of the room I happened to glance at, and a somehow curious set of clothes in it caught my eye.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A shirt with embroidery on the sleeves had rips in it here and there.\n“That’s that boy’s shirt. At least the blood came out in the wash…”\nIt seems the unconscious man had been in Owen’s borrowed pajamas, but Karl hoped to change them soon.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Shall I mend it?” I offered.\n“That would be a great help,” Karl smiled and brought me a sewing kit.\nAs I worked the needle and thread, I could not help but think how lucky he was to be alive given the state of his garments.\n\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After lunch, a tremendous delivery of herbs and potions arrived at the inn.\n“That young man requested them.” The proprietor of the item traders said Ternis had ordered them for the unconscious man.\nTernis, having spent his last pg on all the medicinals, never returned to the inn after that.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆10/9/16 (Tue) late night —[PCF1]\nI have decided to set out for the canyon road tomorrow morning, but as I cannot sleep, I turn to these travel notes again tonight.\nI wonder if I can make it to the Great Chasm on my own.\n<align=\"center\">* * *</align>\nBefore noon, I had gone into town and tried to recruit someone to join me, but was rebuffed at every turn.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "(Might the King of Caldisla be able to provide me with some assistance? That’s right, since Owen serves at the castle…)\n…Such were the thoughts running through my head, but after the poor reception given in my own country, I could not bring myself to enter the castle gates.\n\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Come evening as I was returning to the inn, I spotted Ternis at a distance. Assuming a pose I would not have expected from him, he was attempting to woo a young lady; I decided against calling out to him.\n<align=\"center\">* * *</align>\nBack at the inn, I ate dinner with Owen, who had returned from his duty at the castle.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He apologized for being unable to accompany me to the ravine, explaining that his position as captain of the guard meant he could not leave his king’s side.\nI thanked him for his kind words and renewed my resolve to set out tomorrow…alone if I must.\n\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（１）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Perhaps because of my nerves, but I completely forgot to speak to Owen about Ternis until it was too late. I could already hear him snoring in his own room, and gave up the matter.\n(I had best get to rest myself.)\n\n<align=\"right\">To Be Continued</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">●Travel Notes (2)</align>\n◆10/10/16 (Wed) late night —[PCM1]\nI noticed these travel notes after dinner, and I’ve been reading them now into the wee hours.\n“You can write whatever you like,” the innkeeper told me, handing me a pen. I guess I’ll start with when I woke up this morning.\n\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When I opened my eyes, I was in a spacious, cozy room.\n“Is this an inn? But I was on the farm with Til…” No sooner than that thought had entered my mind, a man in fine armor approached me.\n<align=\"center\">* * *</align>\n“Finally awake, are you? You’ve been out a full week.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A full…week?\nA great chasm…swallowed up Norende? My home?\nIt was all too much. I was speechless, and this man named Owen, probably feeling he shouldn’t linger over me, withdrew quietly.\n“…All alone in the world.” Owen was talking with someone downstairs, and that was the one thing I could hear, ringing in my ears.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nGradually I was able to pull myself out of bed. After stretching my legs a bit, I was able to walk without a problem.\nI went downstairs, thanked the innkeeper standing at the counter, and left the inn.\nI could tell I was in a big city, but it wasn’t until I saw the palace on the hill that I understood I was in Caldisla.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nWhat happened to my village on that day?\nI asked every soul I passed about it and eventually found myself at the palace entrance. Perhaps the king or someone in his court could tell me something.\nI wavered for a little, but could finally work up the courage to march on in past the guard.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "This was my first time ever coming to the palace. At the end of the hall, I could see the stout, aged king sitting on his throne with Owen at his side.\n“Ahh, the Norende boy. [PCM1], was it? Owen spoke of you.”\nThe king granted me permission to stay and rest in his city, but I intended to return to Norende right away.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Do be careful, child. And know that you’ve a place here when you return.”\nI walked out with the king’s gentle remarks urging me on. I visited the weapons shop like Owen recommended, but was clearly far too short of pg to purchase what I needed.\nI stepped outside the city gates to earn some money battling monsters. The sun was quite low by the time I had enough to properly outfit myself.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nBack at the inn, the innkeeper had dinner waiting for me.\n“Sir, this is delicious!” I shouted unconsciously as I wolfed it down. He smiled cheerfully.\nI noticed the notebook on the table and began flipping through it. Other guests at the inn had left their thoughts and comments in it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The guest who wrote on those pages mended your clothes for you.”\n<align=\"center\">* * *</align>\nSomeone who had come from somewhere called Ancheim had set out this morning for the ravine! And all by herself…\nI told the innkeeper I’d be heading out in the morning, took a deep breath, and laid down my pen.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆10/12/16 (Fri) afternoon —[PCM1]\nIt was still early afternoon when I woke up. [PCF1] was dozing in the bed next to mine. Airy, that cryst-fairy or whatever she called herself, was nowhere to be seen.\nI opened this notebook again after eating the lunch Karl had prepared for me. So much happened yesterday…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "On Thursday morning, the eleventh day of the tenth month, I ran down the canyon road along the Caldisla River. I had to fight my way through monsters any number of times, but I avoided them when I could and simply hurried ahead.\n<align=\"center\">* * *</align>\nAt the end of the canyon road is a cave that leads to an outcrop overlooking all of Norende. I took a deep breath and stepped inside.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Norende is located in a mountainous region on a plateau that formed some eighteen hundred years ago when the top of the mountain was blown off in a great war between the forces of good and evil. We mostly raise livestock and grow vegetables suited to the altitude. We also have a special move shop that’s kind of a hidden, local specialty. There’s a small, stone shrine in the middle of the village. Circling that are the houses and shops, and surrounding those are the village’s fields.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "How badly damaged were the buildings? How long would it take to bring the fields back to usable condition?\nI ran through the cave…\n<align=\"center\">* * *</align>\n\n…I sank to my knees when I finally saw it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "There was nothing but a gaping chasm where Norende used to be. No buildings. Only a tiny scrap of field to the north survived.\nNothing to rebuild, let alone bring back to usable condition.\n<align=\"center\">* * *</align>\nAlong with the sound of wind blowing over the chasm, I could hear what sounded like a prayer nearby.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I got up and looked around. A little ways off on the edge of a cliff, a young woman was praying.\nWas that the other traveler whose notes I read? I walked toward her.\n<align=\"center\">* * *</align>\nI woke up from feeling my head falling forward. I guess I nodded off while writing this, pen still in hand.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It was Friday afternoon, 10/12/16, when we returned to Caldisla from the chasm. I took a short nap at the inn before going to the palace to inform the king of what I saw. I guess that nap wasn’t enough to really recover from my fatigue.\nI’ve been fighting to stay awake so I can finish these notes, but I think I’ve hit my limit…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（２）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Meeting [PCF1], running from and fighting with the duchy, what [PCF1] and Airy had to say…\nThere’s so much more to write…\n\n<align=\"right\">To Be Continued</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">●Travel Notes (3)</align>\n◆10/12/16 (Fri) night —[PCF1]\nWhen I awoke, it was already quite dark outside my window.\n[PCM1] slept in a somewhat concerning position in the bed next to mine, as though there he had simply collapsed.\nThese travel notes lay open on the dining table.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“[PCM1] stayed up writing as long as he could,” I thought.\nLooking over his notes, I take up the pen in turn.\n<align=\"center\">* * *</align>\nYesterday, that is the evening of Thursday, 10/11/16, I arrived at the cliff from which I could view the Great Chasm. It was even larger than I had imagined.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A burnt odor wafted up to me. Even now, the walls of the chasm appeared to smolder, flickering here and there. Into it fell the waters of severed streams, and smoke rose from all over. Although the wind has died the world over, an uncanny howl could be heard blowing over it.\nI could do nothing but stare, dumbfounded.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The next I noticed, I thought heard a whisper: “Finally, you’re here!”\nTurning, I spied a tiny girl with wings floating before me.\n“I’m Airy!”\nSeeing me remain on my guard where I stood, she adjusted her posture and repeated herself.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I’m Airy, a cryst-fairy!”\nI had heard of spirits appearing here and there in the teachings of the Orthodoxy, but could not have imagined this would be the shape they took. A puzzled sound was all I could muster.\n“You still don’t believe me, do you? Then let me provide you with a revelation, [PCF1] Oblige, Vestal of Wind.”\nShe knew my name, even though I had not given it!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Airy continued on, no longer paying any heed to my astonishment.\n“A miracle in the form of a man will appear before you, right here on this spot. Go on, offer up a prayer to him like you normally do to the crystal.”\nI did not know what to believe, but began to pray at Airy’s urging.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n“Can you hear my prayers? Wherever you are, whoever you are, can you see the wound torn open before me?”\nI continued praying, but what followed was as if it came from someone else, borrowing my mouth to recite some incantation.\nThen, just as I finished…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“You, there.”\nThe sudden voice behind me so startled me, my heart nearly leapt from my breast. Turning, I saw the young man who had been asleep in the inn for a week. He had regained consciousness!\nAlthough he began asking me questions ever so desperately, I could not hear them.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "There was the roar of something coming toward us, the explosions more deafening than that initial roar, and enormous flames all around! An airship belonging to the Duchy of Eternia was firing upon us. I did not want this young man to become entangled in the duchy’s attack on me. Though I tried to move away, my terror at the explosions stopped my legs from working. It was then that the young man, [PCM1], grabbed my hand and pulled me after him back to the canyon road.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nWhat followed was astounding. We fled down the road, dodging both cannonfire and the Eternian soldiers raining down on us from above.\nEventually the airship pulled back, and [PCM1] and I could finally introduce ourselves to one another.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The eastern sky was growing bright by the time we emerged from the canyon road.\nReturning to Caldisla, [PCM1] said he needed to report to the king in the palace, but the both of us had reached the limits of our endurance.\n“Maybe we should go after we rest up a bit.”\nI nodded in agreement to his suggestion.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nSuch it was that we returned to the inn, resting far more than I might have expected, and now turn to these notes.\nTomorrow we must certainly report to the king…but I think I shall first sleep a little more.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆10/13/16 (Sat) night —[PCF1]\nI find myself again sleepless this night. Though I had thought my mind made up, when I think on it, I cannot stop my trembling.\n<align=\"center\">* * *</align>\nEarly in the morning after washing up, Karl called to me in a gentle voice. “Breakfast is ready. Could you let the other two know?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Owen and [PCM1] were just finishing their morning exercises when I went outside to tell them.\n“Boy, I’m famished!”\n[PCM1] ran off to the washroom, but Owen remained outside looking toward the street. I followed his gaze, and there stood Ternis, looking our way.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eventually Ternis walked off. Owen shook his head and said, “He should come back here to stay if he’s lost his memory.” Looking forlorn, he also went to wash up.\n\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We went to the palace before noon for an audience with the king.\n“Ah, [PCM1]! Good to see you safely returned.”\nTo see the this nation’s ruler display such kind warmth to a young man from the countryside…I could not help but feel sad remembering the cold treatment I had received from the King of Ancheim.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The king promised that he would support [PCM1]’s efforts to rebuild Norende. He then told us of the threat facing Caldisla.\nA duchy airship was resting in the lake to the southwest, its cannons trained on the city. They were demanding Caldisla turn over the vestal of wind!\nAh! What trouble I have brought to this kingdom!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Your Highness. I offer my humblest apology for the ordeal I have forced upon your kingdom.”\nThe king was surprised at my sudden statement, but even more so after I introduced myself as that vestal of wind—he stood up from his throne in shock.\n“I shall resolve the matter. I give you my word, I will cause you no further grief.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（３）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It is my fault that the people of a foreign nation are being held hostage. I, who was meant to be one who guides those people!\nI cannot ask this kingdom for help returning to my own country while they are suffering the duchy’s aggression.\nThere is but one thing I can do!\nI left the palace, my mind made up.\n\n<align=\"right\">To Be Continued</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">●Travel Notes (4)</align>\n◆10/15/16 (Mon) evening —[PCF1]\nLooking at these pages in the setting sun, I cannot help but sigh that it was another dizzying day.\n<align=\"center\">* * *</align>\nWe spent the entire day yesterday preparing for our excursion, and this morning set out to meet the duchy at the southwestern lake.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The lake is at the southern edge of the Caldislan continent, and we arrived with no difficulty (in terms of directions).\nI do not know if they did so in anticipation of our arrival, but we could see the airship take off from the lake’s surface. The water dripping from the ship fell on us like rain. As we looked up at the ship, a large man with a garish woman on his shoulder came down from it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "They were a ducal monk named Barras and a white mage named Holly. Barras was eager to fight us, but Holly seemed to find the idea tedious and told us to surrender.\nI told them I did not intend to resist. [PCM1] was not particularly surprised, but he continued to stare at the two, not letting his guard down for a moment.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Barras’s reaction to my surrender was understandably disappointed. Although it was her suggestion, Holly was first surprised at my acquiescence. Her expression, however, soon turned dreadfully ominous.\n[PCM1] demanded that they promise I not be mistreated. They laughed some menacing answer, but I was too frightened to even hear it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“You’re my hope. I’ll not hand you over to these monsters!”\n[PCM1]’s words were the only ones that reached me.\nI gripped the knife [PCM1] had given me and prepared to fight.\n<align=\"center\">* * *</align>\nThere was wind… With a roar, an overwhelming sense of pressure streaked before my eyes!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Barras bore down on [PCM1] with numerous punches. [PCM1] crossed his arms to deflect the blows. They should have been painful, but his face and voice betrayed no such discomfort.\n“How about that? It doesn’t hurt as much as you’d think. Goes to show, [PCF1], how important it is to default!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Alright, Barras Lehr! Do your worst!”\nThe taunt was not what I would have expected from [PCM1], but it had its effect on the monk.\n“If that white mage tries to heal at all, keep her distracted with your knife,” [PCM1] whispered to me. I followed as instructed and interrupted her spellcasting each time.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Barras cried out for Holly to heal him. Although he was continually reinvigorating himself, the accuracy of his punches seemed to diminish.\nHolly rebuffed his cries, complaining that she was too busy fending off my attacks!\n<align=\"center\">* * *</align>\nIt was quite the battle.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“It’s ideal to first take out your foe’s healing support. At the same time, don’t hesitate to drink a potion after you’ve taken a number of hits.”\nOwen’s advice allowed us to claim a narrow victory.\n“Are you hurt? …I’m glad I was able to stop you,” [PCM1] smiled, covered as he was in scrapes and bruises.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I thought I was ready to bear any hardship in order to fulfill my duty, but when it actually came time to commit to that thought…\n<align=\"center\">* * *</align>\nWhen [PCM1] told me on the canyon road that he wanted to help me, I was so very happy.\nThe crystal to which my life is dedicated has been enveloped in darkness, and all of the acolytes lost theirs protecting me.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nDespite the terrible fate that befell the Temple of Wind, my appeal to the King of Ancheim was met with ridicule, that I had neglected my duties, and he sent me to investigate the calamity in Caldisla.\nI was forced into the desert on my own with the king’s assassins at my heels.\nEven though I made it to Caldisla, and even with Airy’s revelation, what am I to do on my own in an unknown land?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "How will I return to Ancheim? Even if I can return, what can I do there on my own? As these thoughts troubled me, [PCM1] offered to help.\n[PCM1], you said I am your “hope,” but never before have I known such hope as when you made your offer.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n[PCM1] was examining two gemstones in his hands, turning them in the sunlight reflected off the lake.\n“Will you join me?” I blurted out.\n[PCM1] smiled and nodded emphatically.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I did that a while back, silly. I have it on very good authority I’m the eager-to-meddle type.”\nNever will I forget that smile nor that “excuse” for going along.\n<align=\"center\">* * *</align>\nIt is very nearly tomorrow. It seems I let my excitement get the better of me and wrote more than I had intended. I will have to ask Karl to hide these notes somewhere.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "◆4/13/17 (Sat) afternoon —[PCF1]\nIt has been a long, long time since I last opened these travel notes.\n<align=\"center\">* * *</align>\nAround two weeks prior, we had heard that Karl had taken ill, and so we returned to this inn.\nHe had turned quite somber having to go through what he did at his age, and says he began spending more time in his bed.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The four of us discussed the matter, and [PCM1] suggested we bring Egil here.\n<align=\"center\">* * *</align>\nLast year we departed from Caldisla, traveled to Ancheim, Florem, and across the sea to Eisenberg. It has been a difficult journey.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I told myself that I was willing to undergo any hardship to fulfill my duty. Is it punishment for that pride that fate has taken away someone who meant so much to me?\nI closed my heart and even turned my back on my companions who tried to help me.\nPerhaps I thought it was only me who was alone.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "But in truth, [PCM1] who lost his home, [PCM2] who lost his memory, and [PCF2] who, though her family may be well, has rebelled against her country…each of them is also alone.\nDespite carrying their own loneliness, they patiently bore mine as well, as I selfishly withdrew into my shell.\nIn that blazing cavern, I realized, and I am certain…as long as we stay by each other’s sides…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（４）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n[PCM1] has come back; I can hear him downstairs. I will hide these under the table for now.\n\n<align=\"right\">To Be Continued</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">●Travel Notes (5)</align>\n◆4/13/17 (Sat) night —[PCF1]\nI return to these notes for the second time today. I was hesitant to do so in front of everyone during the day, but now that they are asleep, I could safely retrieve them from their hiding place.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n“Where are [PCF2] and [PCM2]?” [PCM1] asked. They had taken Egil out to show him around Caldisla, I told him. “That so… Oh, yeah, Karl had these for us.”\nHe laid several notebooks on the table, looking pleased as he did so.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“They’re the travel notes from when we first met. He called them our back issues.”\n“My…” was my reply.\n[PCM1] seated himself nearby and began perusing our “back issues.”\n<align=\"center\">* * *</align>\nAs he thumbed through the notes, the start of our journey came vividly back to me.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It is plainly recorded that I was nervous by default and rigid to a fault; I had built walls around myself.\nI did not trust anyone and had convinced myself that I needed to do everything on my own…and ended up feeling hurt when I could not.\nThe negative emotions of that self-centered [PCF1] oozed from every page. I could not help but let out a sigh.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Don’t let it get to you. Anyone else in your shoes would’ve been just the same,” [PCM1] chuckled.\nOh, [PCM1], think of your own shoes! How can you be so sympathetic to others in spite of what you have been through?\nHe kept on reading as long as I watched him, nodding along and commenting to himself as he turned each page.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Oh yeah, remember that fork in the canyon road? Did you leave a pile of stones there?”\nI told him I had been going around in circles in there, so I thought if I made my own landmark…\n“Looking at your entries, did you spend more than a day in that ravine?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“You told me even the locals get lost on that road,” I protested.\n“Did I? I guess that’s true. Sorry!”\n<align=\"center\">* * *</align>\nAfter finishing the notebooks Karl had brought out, we spent some quiet moments drinking our now-lukewarm tea.\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I asked [PCM1] how his visit had gone at the small church on the western edge of the city. He went to ask about them placing a grave there for his brother, Til. It seems the king had already requested that Til receive a small but sunny plot.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I dreamt about Til last night. For the first time in a while,” [PCM1] said. “He was smiling.”\n[PCM1] set down his teacup—Karl’s favorite, he had told us—and began to tell me more about his brother.\n<align=\"center\">* * *</align>\nTil was several years younger than [PCM1]. He was a little cheeky, but cheerful and friendly. Everyone in the village doted on him.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He also had a curious side. The little shrine in the center of the village was his favorite spot, and if you could not see him running around, he was often quite easily found there.\n“Speaking of that shrine…” [PCM1] went on.\nTil would often have strange dreams.\n“I had another weird dream last night!” he would excitedly tell at breakfast time.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Dreams like, “This pretty lady came down from the sky over the shrine,” and, “That lady was on the cliff south of the village, looking really sad, and spying on me as I was sleeping next to the shrine,” or more extraordinarily, “A big, pure-white ship floated down to Norende and brought all these people.”\n<align=\"center\">* * *</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Til was always on the run, and always tripping and falling.\nThat day was the same…\n“Watch you don’t fall!” [PCM1] recalled he had called out, which Til promptly did, and the both of them laughed.\nThen suddenly a giant pillar of light appeared about where the shrine was. [PCM1] watched as it swelled and swallowed the village, field after farmhouse.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The chasm opened up under Til. I caught him by his hand, but…he thought I would fall, too, and struggled to make me let go…until I couldn’t hold on to him any longer.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\nTears spilled over from [PCM1]’s eyes.\nIn that fiery cavern, when he had held so tightly onto Egil’s hand…he had gone through that all before…\nMy heart breaks to imagine what he must have been reliving at that moment. At the same time, I cannot express how relieved I am that we could pull them to safety.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n“We’re back!”\n[PCM1] wiped his tears with his sleeve at the sound of everyone bustling in downstairs. I left the travel notes out of sight on top of the chair.\n“Good grief… I don’t know how many times I told Egil to be careful not to trip, and what does he immediately do?”\n“It’s not my fault! I’m not used to the roads in this city!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Cheer permeated the dining room.\n“Hey, [PCM1], did you know all the other people here call [PCM2] ‘Ternis’? Isn’t that so weird?”\n“Don’t tell me you were using an alias to pull off some chicanery here.”\n“No! At least, I don’t think so… Not that I remember.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“He was. He was busy trying to make everyone fall for his Ternis identity.”\n“He. What.”\n“Indeed, and it worked. I fell for him, my son, Owen, fell for him. We all did.”\nThe entire inn filled with laughter at Karl’s repartee.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Again I am reminded, with these companions, we will be able to face whatever difficulties are to come.\nBeside me, [PCM1] was nodding as if in agreement.\nWith [PCM1] at my side, I know it…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "<align=\"center\">* * *</align>\n“I didn’t get to eat those yet…”\nThe quiet of everyone’s slumber is occasionally broken by [PCF2]’s sleep talking, and I have to hold in my laughter.\nTomorrow we leave for Grandship.\nI will here lay down my pen and close these notes.\n\n<align=\"right\">[PCF1] Oblige, Vestal of Wind</align>",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "旅のノート（５）",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Extra/Extra000",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

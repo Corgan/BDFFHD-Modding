@@ -1,0 +1,841 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 40358,
+    "data_one_size": 12,
+    "data_num": 166,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "itID": 1001,
+      "pName": "Absorb P. Damage",
+      "pInfo": "Restore HP equal to 30% of the damage taken\nfrom physical attacks. However, damage\nresulting in KO will not be healed."
+    },
+    {
+      "itID": 1002,
+      "pName": "Convert MP",
+      "pInfo": "Restore MP equal to 1% of the damage\nsustained. This effect is not triggered by\ndamage from poison."
+    },
+    {
+      "itID": 1003,
+      "pName": "Counter",
+      "pInfo": "Has a 60% chance to counterattack, when taking\na single-target physical attack, and deal the\nsame damage as a conventional attack."
+    },
+    {
+      "itID": 1004,
+      "pName": "Dual Wield",
+      "pInfo": "When equipping a weapon in each hand,\nnormally only 50% of the weapons’ physical\nattack is applied to the character’s physical\nattack. This support ability allows 100% to\nbe applied."
+    },
+    {
+      "itID": 1005,
+      "pName": "Protect Ally",
+      "pInfo": "If an ally with less than 20% of HP left takes a\nsingle-target attack, you will take the attack\ninstead."
+    },
+    {
+      "itID": 1006,
+      "pName": "Slow Parry",
+      "pInfo": "Has a 50% chance to apply slow to your\nattacker when taking a single-target physical\nattack."
+    },
+    {
+      "itID": 1007,
+      "pName": "Magic Attack 10% Up",
+      "pInfo": "Raise magic attack by 10%."
+    },
+    {
+      "itID": 1008,
+      "pName": "Save TM MP",
+      "pInfo": "Lower the MP cost of time magic by 25%."
+    },
+    {
+      "itID": 1009,
+      "pName": "Stop Immunity",
+      "pInfo": "Confer immunity to stop during battles."
+    },
+    {
+      "itID": 1010,
+      "pName": "Time Slip",
+      "pInfo": "Return to the start of a battle if the entire party\nis wiped out. Note that even if multiple\ncharacters have this support ability, the effect\nonly occurs once per battle."
+    },
+    {
+      "itID": 1011,
+      "pName": "Slow World",
+      "pInfo": "Lower the BP of all allies and enemies by one\nonce every two turns. This works even if the\ncharacter with this support ability is KO’d."
+    },
+    {
+      "itID": 1012,
+      "pName": "Magic Attack 30% Up",
+      "pInfo": "Raise magic attack by 30%."
+    },
+    {
+      "itID": 1013,
+      "pName": "Hasten World",
+      "pInfo": "Raise the BP of all allies and enemies by 1 at\nthe end of each turn. This works even if the\ncharacter with this support ability is KO’d."
+    },
+    {
+      "itID": 1014,
+      "pName": "Firewall",
+      "pInfo": "Has a 50% chance to counterattack with fire\ndamage when hit with a single-target physical\nattack."
+    },
+    {
+      "itID": 1015,
+      "pName": "Auto-Aspir Blade",
+      "pInfo": "Imbue a weapon with an MP absorb effect for\nten turns, starting from the beginning of the\nbattle. Attacks with this weapon absorb the\ntarget’s MP. Note that this can be overwritten by\nother sword magic."
+    },
+    {
+      "itID": 1016,
+      "pName": "Magic Armor",
+      "pInfo": "When using elemental sword magic, damage\nfrom the element in use is reduced for four\nturns."
+    },
+    {
+      "itID": 1017,
+      "pName": "Memento",
+      "pInfo": "Restore 50% of MP for all allies except yourself\nwhen you suffer a KO. KO’d allies, however, do\nnot recover MP.\n\nIn the absence of a limit-breaking effect, the\nupper limit for MP restoration is 999."
+    },
+    {
+      "itID": 1018,
+      "pName": "Anti-Magic",
+      "pInfo": "Raise magic defense by 50% for four turns\nwhen hit by a magic attack.\n\n*The upper limit for magic defense is 150%."
+    },
+    {
+      "itID": 1019,
+      "pName": "Magic Defense Specialize",
+      "pInfo": "Lower physical defense by 25% and raise\nmagic defense by 50%."
+    },
+    {
+      "itID": 1020,
+      "pName": "Sword Magic Amp",
+      "pInfo": "The MP cost of sword magic doubles, but the\ndamage dealt while the ability is in effect is\n1.25 times greater no matter which sword magic\nis used."
+    },
+    {
+      "itID": 1021,
+      "pName": "Phantom Weapon",
+      "pInfo": "The damage from the currently equipped\nweapon is added to the damage of magic\nattacks."
+    },
+    {
+      "itID": 1101,
+      "pName": "Divining Rod",
+      "pInfo": "Displays the number of unopened treasure\nchests within a dungeon on the map screen."
+    },
+    {
+      "itID": 1102,
+      "pName": "Dungeon Master",
+      "pInfo": "Avoid damage and status ailments from tricks,\ntraps, and other dungeon devices. Note that this\neffect applies to all allies."
+    },
+    {
+      "itID": 1103,
+      "pName": "MP 10% Up",
+      "pInfo": "Raise maximum MP by 10%."
+    },
+    {
+      "itID": 1104,
+      "pName": "JP Up",
+      "pInfo": "Earn 1.2 times the normal amount of job\npoints. Note that this effect does not stack with\nsimilar effects from items."
+    },
+    {
+      "itID": 1105,
+      "pName": "Stand Ground",
+      "pInfo": "Has a 75% chance to survive with 1 HP\nwhen suffering damage that would result in KO.\nNote that this will not happen if HP is already\nat 1."
+    },
+    {
+      "itID": 1106,
+      "pName": "Poison Immunity",
+      "pInfo": "Confer immunity to poison during battles."
+    },
+    {
+      "itID": 1107,
+      "pName": "Lure Enemy",
+      "pInfo": "Lure enemies into battle with <sprite name=\"button_ZR\">. Cannot be\nused in areas without enemy encounters."
+    },
+    {
+      "itID": 1108,
+      "pName": "Late Bloomer",
+      "pInfo": "Maximum HP, maximum MP, physical attack,\nmagic attack, physical defense, and magic\ndefense each rise 1% with every job mastered."
+    },
+    {
+      "itID": 1121,
+      "pName": "Two-Handed",
+      "pInfo": "Double a weapon’s physical attack when\nswords/axes/spears/staves/katanas are held\nwith both hands. (One hand must be free\nbefore this will take effect.)"
+    },
+    {
+      "itID": 1122,
+      "pName": "Physical Defense 10% Up",
+      "pInfo": "Raise physical defense by 10%."
+    },
+    {
+      "itID": 1123,
+      "pName": "Chivalrous Spirit",
+      "pInfo": "Raise physical defense by 25% for five turns\neach time Protect Ally, Full Cover, or\nWhite Knight is used.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 1124,
+      "pName": "Shield Lore",
+      "pInfo": "Raise armor aptitude for shields to S."
+    },
+    {
+      "itID": 1125,
+      "pName": "Sword Lore",
+      "pInfo": "Raise arms aptitude for swords to S."
+    },
+    {
+      "itID": 1126,
+      "pName": "Dual Shields",
+      "pInfo": "Equip a shield on both arms."
+    },
+    {
+      "itID": 1127,
+      "pName": "Physical Defense 30% Up",
+      "pInfo": "Raise physical defense by 30%."
+    },
+    {
+      "itID": 1141,
+      "pName": "Black Resonance",
+      "pInfo": "Black magic damage rises with each ally\n(excluding yourself) on which Black\nResonance has been set.\n0 allies with Black Resonance: No effect\n1 ally with Black Resonance: Damage ×1.1\n2 allies with Black Resonance: Damage ×1.15\n3 allies with Black Resonance: Damage ×1.2"
+    },
+    {
+      "itID": 1142,
+      "pName": "Rod Lore",
+      "pInfo": "Raise arms aptitude for rods to S."
+    },
+    {
+      "itID": 1143,
+      "pName": "Damage Dispersion",
+      "pInfo": "Disperse 15% of damage to each ally when hit\nby a single-target attack and sustain the\nremaining damage yourself. Does not apply\nto magic damage reflected by Reflect."
+    },
+    {
+      "itID": 1144,
+      "pName": "Abate Fire",
+      "pInfo": "Reduce damage taken from fire attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Fire nullification effects take\nprecedence over reduction effects."
+    },
+    {
+      "itID": 1145,
+      "pName": "Silence Immunity",
+      "pInfo": "Confer immunity to silence during battles."
+    },
+    {
+      "itID": 1146,
+      "pName": "Magic Attack 20% Up",
+      "pInfo": "Raise magic attack by 20%."
+    },
+    {
+      "itID": 1147,
+      "pName": "Pierce Magic Defense",
+      "pInfo": "Ignore the target’s magic defense when dealing\nmagic damage."
+    },
+    {
+      "itID": 1148,
+      "pName": "Group-Cast All",
+      "pInfo": "Enable group-casting even for normally\nnon-group-cast magic. However, this does\nnot apply to magic targeting yourself."
+    },
+    {
+      "itID": 1161,
+      "pName": "Magic Defense 10% Up",
+      "pInfo": "Raise magic defense by 10%."
+    },
+    {
+      "itID": 1162,
+      "pName": "Staff Lore",
+      "pInfo": "Raise arms aptitude for staves to S."
+    },
+    {
+      "itID": 1163,
+      "pName": "Self-Healing",
+      "pInfo": "Recover from poison, blind, and silence at\nthe end of a battle."
+    },
+    {
+      "itID": 1164,
+      "pName": "Abate Water",
+      "pInfo": "Reduce damage taken from water attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Water nullification effects\ntake precedence over reduction effects."
+    },
+    {
+      "itID": 1165,
+      "pName": "Angelic Ward",
+      "pInfo": "Has a 50% chance to halve the damage\nreceived, regardless of whether it is a\nsingle-target or multiple-target attack. However,\nthis effect does not apply to damage from\npoison."
+    },
+    {
+      "itID": 1166,
+      "pName": "Magic Defense 30% Up",
+      "pInfo": "Raise magic defense by 30%."
+    },
+    {
+      "itID": 1167,
+      "pName": "Epic Group-Cast",
+      "pInfo": "The damage dealt and the amount of recovery\ndo not decline when group-casting magic. Note\nthat this effect can also be invoked from the\nMenu Screen."
+    },
+    {
+      "itID": 1168,
+      "pName": "Conservation of Life",
+      "pInfo": "Bring back all allies from KO and restore all\ntheir HP when you suffer a KO. Note that if\nmultiple characters have this support ability\nthe effect occurs once per battle for each of\nthem, and it will occur even if everyone\nsuffers a KO at the same time.\n\nRestores up to 9,999 HP in the absence of a\nlimit-breaking effect."
+    },
+    {
+      "itID": 1181,
+      "pName": "HP 10% Up",
+      "pInfo": "Raise maximum HP by 10%."
+    },
+    {
+      "itID": 1182,
+      "pName": "Knuckle Lore",
+      "pInfo": "Raise arms aptitude for knuckles to S. In\naddition, when no weapons are equipped, a\nvalue equal to two times your level will be added\nto your physical attack."
+    },
+    {
+      "itID": 1183,
+      "pName": "Blind Immunity",
+      "pInfo": "Confer immunity to blind during battles."
+    },
+    {
+      "itID": 1184,
+      "pName": "Physical Attack 10% Up",
+      "pInfo": "Raise physical attack by 10%."
+    },
+    {
+      "itID": 1185,
+      "pName": "HP 20% Up",
+      "pInfo": "Raise maximum HP by 20%."
+    },
+    {
+      "itID": 1186,
+      "pName": "HP 30% Up",
+      "pInfo": "Raise maximum HP by 30%."
+    },
+    {
+      "itID": 1187,
+      "pName": "Natural Talent",
+      "pInfo": "Raise physical attack by 100% when nothing is\nequipped in the right hand, left hand, head,\nbody, and accessory slots."
+    },
+    {
+      "itID": 1201,
+      "pName": "Paralyze Immunity",
+      "pInfo": "Confer immunity to paralysis during battles."
+    },
+    {
+      "itID": 1202,
+      "pName": "Bow Lore",
+      "pInfo": "Raise arms aptitude for bows to S."
+    },
+    {
+      "itID": 1203,
+      "pName": "Hawkeye",
+      "pInfo": "Raise accuracy by 100%."
+    },
+    {
+      "itID": 1204,
+      "pName": "Precision",
+      "pInfo": "When all conventional attacks hit, damage\nwill rise according to the number of attacks.\nSpecifically, damage is increased by 3% for\neach attack."
+    },
+    {
+      "itID": 1221,
+      "pName": "Transience",
+      "pInfo": "Evade an attack and counterattack, dealing the\nsame damage as a conventional attack."
+    },
+    {
+      "itID": 1222,
+      "pName": "Evade 10% Up",
+      "pInfo": "Raise evasion by 10%."
+    },
+    {
+      "itID": 1223,
+      "pName": "Comeback Kid",
+      "pInfo": "Magic attack and physical attack each rise 25%\nfor three turns with each physical attack evaded.\n\n*The upper limit for physical attack\nand magic attack is 150%."
+    },
+    {
+      "itID": 1224,
+      "pName": "Cleave",
+      "pInfo": "Has a chance to perform an additional attack\nafter defeating a target with a conventional\nattack. Note that the chance goes up the more\ndamage you deal in relation to the defeated\ntarget’s remaining HP."
+    },
+    {
+      "itID": 1225,
+      "pName": "Evade 20% Up",
+      "pInfo": "Raise evasion by 20%."
+    },
+    {
+      "itID": 1227,
+      "pName": "Evade 30% Up",
+      "pInfo": "Raise evasion by 30%."
+    },
+    {
+      "itID": 1228,
+      "pName": "Frenetic Fighting",
+      "pInfo": "The limit on the number of attacks rises from\nsixteen to thirty-two."
+    },
+    {
+      "itID": 1281,
+      "pName": "Abate Earth",
+      "pInfo": "Reduce damage taken from earth attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Earth nullification effects take\nprecedence over reduction effects."
+    },
+    {
+      "itID": 1282,
+      "pName": "Katana Lore",
+      "pInfo": "Raise arms aptitude for katanas to S."
+    },
+    {
+      "itID": 1283,
+      "pName": "While the Iron Is Hot",
+      "pInfo": "Has a 25% chance to follow up with an additional\nattack when making a conventional attack."
+    },
+    {
+      "itID": 1285,
+      "pName": "Confuse Immunity",
+      "pInfo": "Confer immunity to confusion during battles."
+    },
+    {
+      "itID": 1286,
+      "pName": "Counter Amp",
+      "pInfo": "Raise the damage dealt by counterattacks to\n1.5 times normal. This is effective even for\ncounterattacks other than the swordmaster’s."
+    },
+    {
+      "itID": 1287,
+      "pName": "Redoubled Effort",
+      "pInfo": "The higher your BP, the more the power of\nyour physical attacks rises.\n0 BP or less: no effect\n1 BP: ×1.1\n2 BP: ×1.21\n3 BP: ×1.33\n4 BP: ×1.46"
+    },
+    {
+      "itID": 1288,
+      "pName": "Slow and Steady",
+      "pInfo": "Raise speed to maximum for two turns when\nusing Default.\n\n*The upper limit for speed is 150%."
+    },
+    {
+      "itID": 1301,
+      "pName": "Adrenaline Rush",
+      "pInfo": "Physical attack and physical defense each rise\nby 50% for five turns when your HP falls below\n20%.\n\n*The upper limit for physical attack\nand physical defense is 150%."
+    },
+    {
+      "itID": 1302,
+      "pName": "Physical Attack 20% Up",
+      "pInfo": "Raise physical attack by 20%."
+    },
+    {
+      "itID": 1303,
+      "pName": "Axe Lore",
+      "pInfo": "Raise arms aptitude for axes to S."
+    },
+    {
+      "itID": 1321,
+      "pName": "Abate Dark",
+      "pInfo": "Reduce damage taken from dark attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Dark nullification effects take\nprecedence over reduction effects."
+    },
+    {
+      "itID": 1322,
+      "pName": "Adversity",
+      "pInfo": "Your physical attack, magic attack, physical\ndefense, and magic defense each rise by 10%\nfor three turns each time you take damage\ngreater than 25% of your maximum HP.\n\n*The upper limit for physical attack, magic attack,\nphysical defense, and magic defense is 150%."
+    },
+    {
+      "itID": 1323,
+      "pName": "See You in Hell",
+      "pInfo": "Deal four times the damage of a conventional\nattack to all enemies when you suffer a KO.\nNote that this will not activate while reraise is\nin effect."
+    },
+    {
+      "itID": 1324,
+      "pName": "Helm Lore",
+      "pInfo": "Raise armor aptitude for helms to S."
+    },
+    {
+      "itID": 1325,
+      "pName": "Physical Attack 30% Up",
+      "pInfo": "Raise physical attack by 30%."
+    },
+    {
+      "itID": 1326,
+      "pName": "Gloom",
+      "pInfo": "The damage dealt by dark attacks rises 1.25\ntimes, regardless of whether it is from a weapon,\nmagic, or an ability."
+    },
+    {
+      "itID": 1341,
+      "pName": "Abate Light",
+      "pInfo": "Reduce damage taken from light-elemental attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Light nullification effects take\nprecedence over reduction effects."
+    },
+    {
+      "itID": 1342,
+      "pName": "Physical Defense 20% Up",
+      "pInfo": "Raise physical defense by 20%."
+    },
+    {
+      "itID": 1343,
+      "pName": "Magic Critical",
+      "pInfo": "Has a 15% chance of a critical hit when using\nmagic. A critical hit will double the amount of\ndamage or recovery."
+    },
+    {
+      "itID": 1344,
+      "pName": "Default Guard",
+      "pInfo": "Reduce the amount of damage received during\nDefault by 75%."
+    },
+    {
+      "itID": 1345,
+      "pName": "Item Critical",
+      "pInfo": "Has a 15% chance of a critical hit when using\nan item. A critical hit will double the amount of\ndamage or recovery."
+    },
+    {
+      "itID": 1346,
+      "pName": "Critical Amp",
+      "pInfo": "The damage dealt from critical hits will be\n2.5 times normal. Note that this effect applies\nto magic and item critical hits as well."
+    },
+    {
+      "itID": 1347,
+      "pName": "BP Limit Up",
+      "pInfo": "Raise the BP limit by one, up to a maximum\nof 4."
+    },
+    {
+      "itID": 1348,
+      "pName": "Armor Lore",
+      "pInfo": "Raise aptitude for armor to S."
+    },
+    {
+      "itID": 1362,
+      "pName": "Bloodlust",
+      "pInfo": "Physical attack, magic attack, physical defense,\nand magic defense rise by 25% for 5 turns each\ntime you defeat an enemy with your own attack.\n\n*The upper limit for physical attack, magic attack,\nphysical defense, and magic defense is 150%."
+    },
+    {
+      "itID": 1363,
+      "pName": "Monster Ability Up",
+      "pInfo": "Raise the damage dealt by genome abilities to\n1.25 times normal."
+    },
+    {
+      "itID": 1364,
+      "pName": "Self-Restore",
+      "pInfo": "Fully restore your HP at the end of a battle."
+    },
+    {
+      "itID": 1365,
+      "pName": "Drain Attack Up",
+      "pInfo": "Raise the damage dealt by drain attacks to 1.5\ntimes normal. (The BP drained by Battle Thirst\nwill be doubled.)"
+    },
+    {
+      "itID": 1366,
+      "pName": "Genome Drain",
+      "pInfo": "A character with this ability can learn certain\nenemy abilities when targeted by them."
+    },
+    {
+      "itID": 1367,
+      "pName": "Rise from Dead",
+      "pInfo": "You have a 50% chance to recover from KO\nat the end of the turn. Your HP will also recover\nan amount equal to 25% of your maximum HP."
+    },
+    {
+      "itID": 1381,
+      "pName": "Black Magic Amp",
+      "pInfo": "Raise the MP cost of black magic by 1.5 times,\nand raise its damage by 1.25 times. This can be\nset at the same time as Max Black Magic."
+    },
+    {
+      "itID": 1382,
+      "pName": "Absorb M. Damage",
+      "pInfo": "Recover HP equal to 25% of the damage\ntaken from a magic attack. This effect is\nnot triggered by damage from poison,\nnor by damage that results in a KO."
+    },
+    {
+      "itID": 1383,
+      "pName": "Save BM MP",
+      "pInfo": "Lower the MP cost of black magic by 25%."
+    },
+    {
+      "itID": 1384,
+      "pName": "Zero",
+      "pInfo": "Raise the damage of magic attacks to 1.5 times\nnormal when the last digit of your current MP\nis 0."
+    },
+    {
+      "itID": 1385,
+      "pName": "Convergence",
+      "pInfo": "Increase the damage of magic that can only be\ngroup-cast to 1.5 times normal by narrowing its\nfocus to a single target."
+    },
+    {
+      "itID": 1386,
+      "pName": "Status Ailment Amp",
+      "pInfo": "Raise the chances of imparting a status ailment."
+    },
+    {
+      "itID": 1387,
+      "pName": "Max Black Magic",
+      "pInfo": "The MP cost of black magic doubles, but it also\ndoes 1.5 times more damage. This can be set at\nthe same time as Black Magic Amp."
+    },
+    {
+      "itID": 1401,
+      "pName": "Abate Lightning",
+      "pInfo": "Reduce damage taken from lightning attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Lightning nullification effects\ntake precedence over reduction effects."
+    },
+    {
+      "itID": 1402,
+      "pName": "Friendship",
+      "pInfo": "The amount that affinity goes up with one\nSummon Friend doubles."
+    },
+    {
+      "itID": 1403,
+      "pName": "Summoning Amp",
+      "pInfo": "Raise the MP cost of summon magic by 1.25\ntimes, and raise its damage by 1.25 times. This\ncan be set at the same time as Max\nSummoning."
+    },
+    {
+      "itID": 1404,
+      "pName": "Summon Substitute",
+      "pInfo": "When you suffer a KO, random summon\nmagic that you have learned is invoked without\nconsuming any MP. Note that this effect will not\noccur during reraise or in the case of a KO\nfrom poison damage."
+    },
+    {
+      "itID": 1405,
+      "pName": "Summoning Surge",
+      "pInfo": "Each time summon magic is used in combat,\nthe damage it does rises by 10%. Note that\nthe same summon magic does not have to be\nused for this to take effect."
+    },
+    {
+      "itID": 1406,
+      "pName": "Summon in Pinch",
+      "pInfo": "When your HP falls below 20%, summon magic\nthat you have learned is randomly invoked\nwithout consuming any MP. Note that this effect\nis not triggered by poison damage."
+    },
+    {
+      "itID": 1407,
+      "pName": "Amp Friends",
+      "pInfo": "Boost the damage, recovery amount, chance of\nimparting a status ailment, and number of turns\namping/weakening lasts when using Summon\nFriend."
+    },
+    {
+      "itID": 1421,
+      "pName": "Steady MP Recover",
+      "pInfo": "Recover 30 MP at the end of each turn."
+    },
+    {
+      "itID": 1422,
+      "pName": "Critical MP Recover",
+      "pInfo": "Recover 200 MP when your HP falls below\n20%."
+    },
+    {
+      "itID": 1423,
+      "pName": "Save SM MP",
+      "pInfo": "Lower the MP cost of summon magic by 25%."
+    },
+    {
+      "itID": 1424,
+      "pName": "Post-Battle MP",
+      "pInfo": "Recover 25% of your maximum MP at the\nend of a battle."
+    },
+    {
+      "itID": 1425,
+      "pName": "Obliterate",
+      "pInfo": "Cause instant death at the start of battle\nto targets twenty or more levels lower than\nyou. Note that you will still get the usual pg,\nexperience, JP, and items at the end of the\nbattle. This will not work on certain enemies\nsuch as bosses."
+    },
+    {
+      "itID": 1426,
+      "pName": "Max Summoning",
+      "pInfo": "The MP cost of summon magic doubles, but it\nalso does 1.5 times more damage. This can be\nset at the same time as Summoning Amp."
+    },
+    {
+      "itID": 1427,
+      "pName": "MP 30% Up",
+      "pInfo": "Raise maximum MP by 30%."
+    },
+    {
+      "itID": 1428,
+      "pName": "Experience Up",
+      "pInfo": "Earn 1.5 times more experience than normal.\nNote that this effect does not stack with similar\neffects from items."
+    },
+    {
+      "itID": 1441,
+      "pName": "Spear Lore",
+      "pInfo": "Raise arms aptitude for spears to S."
+    },
+    {
+      "itID": 1442,
+      "pName": "BP Skill Amp",
+      "pInfo": "The BP cost of abilities activated by BP use\nrises by one, but the damage they deal also\nincreases by 1.5 times."
+    },
+    {
+      "itID": 1443,
+      "pName": "Pierce Default",
+      "pInfo": "Your attacks’ damage will not be reduced by\nthe target’s Default state."
+    },
+    {
+      "itID": 1444,
+      "pName": "Soul Mates",
+      "pInfo": "Physical attack and magic attack each rise by\n25% for five turns each time an ally suffers a\nKO.\n\n*The upper limit for physical attack\nand magic attack is 150%."
+    },
+    {
+      "itID": 1445,
+      "pName": "Aerials",
+      "pInfo": "The number of turns in the air during jump-type\nabilities increases by one turn, and the amount\nof damage dealt rises by 1.5 times. Note that\nthe BP cost also rises by one, except for with\nSky High."
+    },
+    {
+      "itID": 1446,
+      "pName": "Sky High",
+      "pInfo": "Begin the battle in the air and come diving down\nto attack on the first turn, dealing double the\ndamage of a conventional attack to one enemy.\nNote that damage is tripled if a spear is\nequipped."
+    },
+    {
+      "itID": 1461,
+      "pName": "Auto-Shell",
+      "pInfo": "Invoke Shell on yourself for ten turns at start of\nbattle."
+    },
+    {
+      "itID": 1462,
+      "pName": "Magic Defense 20% Up",
+      "pInfo": "Raise magic defense by 20%."
+    },
+    {
+      "itID": 1463,
+      "pName": "Save WM MP",
+      "pInfo": "Lower the MP cost of white magic by 25%."
+    },
+    {
+      "itID": 1464,
+      "pName": "Holy One",
+      "pInfo": "Lower physical attack by 25%, but boost the\neffectiveness of recovery magic by 2.5 times."
+    },
+    {
+      "itID": 1465,
+      "pName": "Maximize HP",
+      "pInfo": "Maximum HP doubles only during battle."
+    },
+    {
+      "itID": 1481,
+      "pName": "Healing Lore",
+      "pInfo": "Double the effectiveness of recovery effects\nwhen you use magic, abilities, or items to\nrestore HP or MP."
+    },
+    {
+      "itID": 1482,
+      "pName": "Attack Item Amp",
+      "pInfo": "Raise the damage dealt by attack items to 1.5\ntimes normal."
+    },
+    {
+      "itID": 1483,
+      "pName": "Shorten Ailment",
+      "pInfo": "The chance of the status ailments sleep,\nparalyze, dread, confuse, charm, and stop\nbeing naturally cured at the start of each turn\nrises to 50% higher than normal."
+    },
+    {
+      "itID": 1484,
+      "pName": "Auto-Potion",
+      "pInfo": "Automatically use a potion on yourself when\nyou take damage. Note that you must have a\npotion for this to occur."
+    },
+    {
+      "itID": 1485,
+      "pName": "Auto-Phoenix",
+      "pInfo": "Automatically use phoenix down if an ally\nis currently KO’d during the last command\nin your turn. Note that this will not occur if you\ndo not have any phoenix down."
+    },
+    {
+      "itID": 1486,
+      "pName": "Feel No Pain",
+      "pInfo": "HP will not fall for two turns after the start of a\nbattle, even when taking damage. But at the end\nof the second turn, any damage taken will be\nsubtracted from HP all at once. Note that\ndamage in this case cannot be reduced."
+    },
+    {
+      "itID": 1501,
+      "pName": "MP 20% UP",
+      "pInfo": "Raise maximum MP by 20%."
+    },
+    {
+      "itID": 1502,
+      "pName": "Turn Tables",
+      "pInfo": "Raise BP by one when evading an enemy\nattack."
+    },
+    {
+      "itID": 1503,
+      "pName": "An Eye for an Eye",
+      "pInfo": "When your HP falls below 20%, the chance of\nscoring a critical hit will rise by 900% for five\nturns."
+    },
+    {
+      "itID": 1504,
+      "pName": "Adrenaline",
+      "pInfo": "BP rises by one when your attack defeats an\nenemy. Note that if you simultaneously defeat\nmultiple enemies, your BP rises by the number\nof enemies defeated."
+    },
+    {
+      "itID": 1505,
+      "pName": "Save Magic MP",
+      "pInfo": "Lower the MP cost of black, white, time, and\nsummon magic by 25%."
+    },
+    {
+      "itID": 1506,
+      "pName": "BP Recovery",
+      "pInfo": "Raise BP by two when sustaining a status\nailment."
+    },
+    {
+      "itID": 1507,
+      "pName": "Revenge",
+      "pInfo": "Has a 25% chance to increase BP by one when\ntaking damage. Poison damage does not trigger\nthis ability."
+    },
+    {
+      "itID": 1508,
+      "pName": "Revival",
+      "pInfo": "Has a 75% chance to raise your BP by two when\nyour HP falls below 20%. Using abilities that\nconsume your own HP does not trigger this\nability, however."
+    },
+    {
+      "itID": 1509,
+      "pName": "MP Free in a Pinch",
+      "pInfo": "MP cost falls to zero when your HP is below\n20%."
+    },
+    {
+      "itID": 1510,
+      "pName": "In the Red",
+      "pInfo": "Raise magic attack damage when you have\nnegative BP.\n0 BP or more: No effect\n–1 BP: ×1.2 damage\n–2 BP: ×1.3 damage\n–3 BP: ×1.4 damage\n–4 BP: ×1.5 damage"
+    },
+    {
+      "itID": 1521,
+      "pName": "Abate Wind",
+      "pInfo": "Reduce damage taken from wind attacks.\nNote that you will not receive further reduction\nif this ability is used along with items with\nsimilar effects. Wind nullification effects take\nprecedence over reduction effects."
+    },
+    {
+      "itID": 1522,
+      "pName": "Speed 10% Up",
+      "pInfo": "Raise speed by 10%."
+    },
+    {
+      "itID": 1523,
+      "pName": "Speed 20% Up",
+      "pInfo": "Raise speed by 20%."
+    },
+    {
+      "itID": 1524,
+      "pName": "Raid",
+      "pInfo": "Raise all allies’ BP by one when the party gets\nfirst strike or gains a +1 BP bonus at the start\nof battle."
+    },
+    {
+      "itID": 1525,
+      "pName": "Dagger Lore",
+      "pInfo": "Raise arms aptitude for daggers to S."
+    },
+    {
+      "itID": 1526,
+      "pName": "Master Thief",
+      "pInfo": "Double the success rate of stealing abilities.\nNote that this effect does not stack with similar\neffects from items. "
+    },
+    {
+      "itID": 1527,
+      "pName": "Rob Blind",
+      "pInfo": "Nab two items instead of one when stealing."
+    },
+    {
+      "itID": 1528,
+      "pName": "Speed 30% Up",
+      "pInfo": "Raise speed by 30%."
+    },
+    {
+      "itID": 1529,
+      "pName": "Burgle and Buff",
+      "pInfo": "Raise physical attack by 25% when stealing an\nitem from an enemy or recovering HP with Life\nThief.\n\n*The upper limit for physical attack is 150%."
+    },
+    {
+      "itID": 1541,
+      "pName": "Speculate",
+      "pInfo": "Has a 50% chance to deal double damage and\na 50% chance to deal none."
+    },
+    {
+      "itID": 1542,
+      "pName": "White Knight",
+      "pInfo": "The ally with the most HP protects you when\nyou suffer a single-target physical attack while\nyour HP is below 20%."
+    },
+    {
+      "itID": 1543,
+      "pName": "More Money",
+      "pInfo": "Earn 1.5 times more money than normal after\na battle. Note that this effect does not stack with\nsimilar effects from items, but the bonus from\nmultiple characters using this ability does stack."
+    },
+    {
+      "itID": 1561,
+      "pName": "Support Amp",
+      "pInfo": "Add 10% to the stat-raising effects you receive,\nand subtract 10% from stat-lowering effects."
+    },
+    {
+      "itID": 1562,
+      "pName": "Buff Up",
+      "pInfo": "Your physical attack, magic attack, physical\ndefense, and magic defense each rise 5% for\nfive turns at the end of each turn.\n\n*The upper limit for physical attack, magic attack,\nphysical defense, and magic defense is 150%."
+    },
+    {
+      "itID": 1563,
+      "pName": "Prolong Support",
+      "pInfo": "Double the number of turns that stat-raising\neffects on yourself last."
+    },
+    {
+      "itID": 1564,
+      "pName": "Charm Immunity",
+      "pInfo": "Confer immunity to charm during battles."
+    },
+    {
+      "itID": 1565,
+      "pName": "Save Singing MP",
+      "pInfo": "Lower the MP cost of Singing by 50%."
+    }
+  ]
+}

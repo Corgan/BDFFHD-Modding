@@ -1,0 +1,266 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1018,
+    "data_one_size": 12,
+    "data_num": 51,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0000",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0001",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0002",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0003",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0004",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0005",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0006",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0007",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0008",
+      "specialType": 0
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0100",
+      "specialType": 1
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0101",
+      "specialType": 1
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0102",
+      "specialType": 1
+    },
+    {
+      "charaID": 0,
+      "pVoiceName": "sp0103",
+      "specialType": 1
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1000",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1001",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1002",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1003",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1004",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1005",
+      "specialType": 0
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1100",
+      "specialType": 1
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1101",
+      "specialType": 1
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1102",
+      "specialType": 1
+    },
+    {
+      "charaID": 1,
+      "pVoiceName": "sp1103",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3000",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3001",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3002",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3003",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3004",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3005",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3006",
+      "specialType": 0
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3100",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3101",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3102",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3103",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3104",
+      "specialType": 1
+    },
+    {
+      "charaID": 3,
+      "pVoiceName": "sp3105",
+      "specialType": 1
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2000",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2001",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2002",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2003",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2004",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2005",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2006",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2007",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2008",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2009",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2010",
+      "specialType": 0
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2100",
+      "specialType": 1
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2101",
+      "specialType": 1
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2102",
+      "specialType": 1
+    },
+    {
+      "charaID": 2,
+      "pVoiceName": "sp2103",
+      "specialType": 1
+    }
+  ]
+}

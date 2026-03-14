@@ -1,0 +1,121 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1032,
+    "data_one_size": 12,
+    "data_num": 22,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "id": 1010,
+      "pageCount": 1,
+      "pTitle": "Piloting Basics"
+    },
+    {
+      "id": 1020,
+      "pageCount": 1,
+      "pTitle": "Piloting Basics"
+    },
+    {
+      "id": 1040,
+      "pageCount": 1,
+      "pTitle": "Orders from Allies"
+    },
+    {
+      "id": 1050,
+      "pageCount": 1,
+      "pTitle": "Orders from Allies"
+    },
+    {
+      "id": 1060,
+      "pageCount": 1,
+      "pTitle": "Airship HP"
+    },
+    {
+      "id": 1070,
+      "pageCount": 1,
+      "pTitle": "Tutorial Complete"
+    },
+    {
+      "id": 1100,
+      "pageCount": 1,
+      "pTitle": "Enemy Encounters"
+    },
+    {
+      "id": 1110,
+      "pageCount": 1,
+      "pTitle": "Default Mode"
+    },
+    {
+      "id": 1115,
+      "pageCount": 1,
+      "pTitle": "Default Mode"
+    },
+    {
+      "id": 1120,
+      "pageCount": 1,
+      "pTitle": "Counterattacks"
+    },
+    {
+      "id": 1130,
+      "pageCount": 1,
+      "pTitle": "Attacking the Ghost Ship"
+    },
+    {
+      "id": 1140,
+      "pageCount": 1,
+      "pTitle": "Attacking the Dragon"
+    },
+    {
+      "id": 1150,
+      "pageCount": 1,
+      "pTitle": "Attacking the Galleon"
+    },
+    {
+      "id": 1160,
+      "pageCount": 1,
+      "pTitle": "Brave Mode"
+    },
+    {
+      "id": 1200,
+      "pageCount": 1,
+      "pTitle": "Using Two Mice"
+    },
+    {
+      "id": 2070,
+      "pageCount": 2,
+      "pTitle": "Using Two Mice"
+    },
+    {
+      "id": 2010,
+      "pageCount": 2,
+      "pTitle": "Piloting Basics"
+    },
+    {
+      "id": 2020,
+      "pageCount": 2,
+      "pTitle": "Airship HP"
+    },
+    {
+      "id": 2030,
+      "pageCount": 2,
+      "pTitle": "Orders from Allies"
+    },
+    {
+      "id": 2040,
+      "pageCount": 2,
+      "pTitle": "Types of Orders"
+    },
+    {
+      "id": 2050,
+      "pageCount": 2,
+      "pTitle": "Special Orders"
+    },
+    {
+      "id": 2060,
+      "pageCount": 2,
+      "pTitle": "Enemy Encounters"
+    }
+  ]
+}

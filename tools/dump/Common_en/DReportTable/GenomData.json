@@ -1,0 +1,127 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 4312,
+    "data_one_size": 8,
+    "data_num": 29,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "abilityID": 1,
+      "monsterID": "Lower target’s physical attack and physical defense by 25% for 4 turns."
+    },
+    {
+      "abilityID": 2,
+      "monsterID": "Unleash a water-based physical attack on target. Default does not reduce damage from this attack."
+    },
+    {
+      "abilityID": 3,
+      "monsterID": "Deal the same damage as a conventional attack and inflict poison (high probability) on target."
+    },
+    {
+      "abilityID": 4,
+      "monsterID": "Deal the same damage as a conventional attack and confuse target (high probability)."
+    },
+    {
+      "abilityID": 5,
+      "monsterID": "Deal fire-based damage to all enemies, and lower physical defense by 25% for 3 turns."
+    },
+    {
+      "abilityID": 6,
+      "monsterID": "Unleash a wind-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 7,
+      "monsterID": "Unleash a water-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 8,
+      "monsterID": "Randomly unleash 2 physical attacks on all enemies."
+    },
+    {
+      "abilityID": 9,
+      "monsterID": "Reduce target’s HP to 1 (50% chance)."
+    },
+    {
+      "abilityID": 10,
+      "monsterID": "Paralyze all enemies (medium probability)."
+    },
+    {
+      "abilityID": 11,
+      "monsterID": "Deal the same damage as a conventional attack and paralyze target (high probability)."
+    },
+    {
+      "abilityID": 12,
+      "monsterID": "Target one enemy with a fire-based physical attack that ignores physical defense."
+    },
+    {
+      "abilityID": 13,
+      "monsterID": "Damage each enemy by the same amount that all enemies’ HP has gone down."
+    },
+    {
+      "abilityID": 14,
+      "monsterID": "Deal same damage as a conventional attack to target and inflict silence (high probability)."
+    },
+    {
+      "abilityID": 15,
+      "monsterID": "Unleash an earth-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 16,
+      "monsterID": "Unleash an earth-based physical attack on all enemies and inflict blind (medium probability)."
+    },
+    {
+      "abilityID": 17,
+      "monsterID": "Deal the same damage as a conventional attack to all enemies and lower their physical defense by 25% for 3 turns."
+    },
+    {
+      "abilityID": 18,
+      "monsterID": "Unleash an earth-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 19,
+      "monsterID": "Unleash a physical attack on all enemies and inflict poison (medium probability)."
+    },
+    {
+      "abilityID": 20,
+      "monsterID": "Restore HP of all allies by the user’s current amount of HP."
+    },
+    {
+      "abilityID": 21,
+      "monsterID": "Inflict sleep on all enemies (medium probability)."
+    },
+    {
+      "abilityID": 22,
+      "monsterID": "Unleash a fire-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 23,
+      "monsterID": "Unleash a water-based physical attack on all enemies."
+    },
+    {
+      "abilityID": 24,
+      "monsterID": "Unleash a physical attack on one target and lower its physical defense to minimum for 4 turns."
+    },
+    {
+      "abilityID": 25,
+      "monsterID": "Unleash a powerful physical attack on all enemies."
+    },
+    {
+      "abilityID": 26,
+      "monsterID": "Unleash a powerful fire-based magic attack on all enemies."
+    },
+    {
+      "abilityID": 27,
+      "monsterID": "Unleash a powerful water-based magic attack on all enemies."
+    },
+    {
+      "abilityID": 28,
+      "monsterID": "Unleash a powerful lightning-based magic attack on all enemies."
+    },
+    {
+      "abilityID": 29,
+      "monsterID": "Unleash a powerful wind-based magic attack on all enemies."
+    }
+  ]
+}

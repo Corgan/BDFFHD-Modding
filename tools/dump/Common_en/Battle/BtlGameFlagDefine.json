@@ -1,0 +1,47 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 120,
+    "data_one_size": 8,
+    "data_num": 9,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "index": 1,
+      "gameFlagIndex": 3592
+    },
+    {
+      "index": 2,
+      "gameFlagIndex": 3593
+    },
+    {
+      "index": 3,
+      "gameFlagIndex": 3594
+    },
+    {
+      "index": 4,
+      "gameFlagIndex": 3595
+    },
+    {
+      "index": 5,
+      "gameFlagIndex": 20
+    },
+    {
+      "index": 6,
+      "gameFlagIndex": 10
+    },
+    {
+      "index": 7,
+      "gameFlagIndex": 2
+    },
+    {
+      "index": 8,
+      "gameFlagIndex": 1
+    },
+    {
+      "index": 9,
+      "gameFlagIndex": 0
+    }
+  ]
+}

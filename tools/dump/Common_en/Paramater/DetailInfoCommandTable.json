@@ -1,0 +1,2081 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 66194,
+    "data_one_size": 16,
+    "data_num": 345,
+    "ints_per_record": 4
+  },
+  "records": [
+    {
+      "itID": 5,
+      "itSubID": 0,
+      "pName": "Strong Strike",
+      "pInfo": "Deal double the damage of a conventional\nattack to one target, but there is a 50% chance\nthat the attack will miss."
+    },
+    {
+      "itID": 7,
+      "itSubID": 0,
+      "pName": "Cure",
+      "pInfo": "Restore a small amount of HP to one target.\nThis spell can be group-cast and will damage\nundead enemies."
+    },
+    {
+      "itID": 8,
+      "itSubID": 0,
+      "pName": "Cura",
+      "pInfo": "Restore a medium amount of HP to one\ntarget. This spell can be group-cast and will\ndamage undead enemies."
+    },
+    {
+      "itID": 9,
+      "itSubID": 0,
+      "pName": "Curaga",
+      "pInfo": "Restore a huge amount of HP to one target.\nThis spell can be group-cast and will damage\nundead enemies."
+    },
+    {
+      "itID": 10,
+      "itSubID": 0,
+      "pName": "Esuna",
+      "pInfo": "Cure the status ailments poison, blind,\nsilence, sleep, paralyze, dread, berserk,\nconfuse, and charm for one target."
+    },
+    {
+      "itID": 11,
+      "itSubID": 0,
+      "pName": "Fire",
+      "pInfo": "Deal minor fire damage to one target. This spell\ncan be group-cast."
+    },
+    {
+      "itID": 12,
+      "itSubID": 0,
+      "pName": "Fira",
+      "pInfo": "Deal medium fire damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 13,
+      "itSubID": 0,
+      "pName": "Firaga",
+      "pInfo": "Deal major fire damage to one target. This spell\ncan be group-cast."
+    },
+    {
+      "itID": 14,
+      "itSubID": 0,
+      "pName": "Thunder",
+      "pInfo": "Deal minor lightning damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 15,
+      "itSubID": 0,
+      "pName": "Thundara",
+      "pInfo": "Deal medium lightning damage to one target.\nThis spell can be group-cast."
+    },
+    {
+      "itID": 16,
+      "itSubID": 0,
+      "pName": "Thundaga",
+      "pInfo": "Deal major lightning damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 17,
+      "itSubID": 0,
+      "pName": "Invigorate",
+      "pInfo": "Raise your physical attack by 25% for two\nturns. However, there is a 25% chance of failure,\nin which case you will take damage equal to 20%\nof your maximum HP.\n\n*The upper limit for physical attack is 150%."
+    },
+    {
+      "itID": 18,
+      "itSubID": 0,
+      "pName": "Targeting",
+      "pInfo": "Deal 1.25 times the damage of a conventional\nattack."
+    },
+    {
+      "itID": 19,
+      "itSubID": 0,
+      "pName": "Blizzard",
+      "pInfo": "Deal minor water damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 20,
+      "itSubID": 0,
+      "pName": "Blizzara",
+      "pInfo": "Deal medium water damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 21,
+      "itSubID": 0,
+      "pName": "Blizzaga",
+      "pInfo": "Deal major water damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 22,
+      "itSubID": 0,
+      "pName": "Quake",
+      "pInfo": "Deal minor earth damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 23,
+      "itSubID": 0,
+      "pName": "Quara",
+      "pInfo": "Deal medium earth damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 24,
+      "itSubID": 0,
+      "pName": "Quaga",
+      "pInfo": "Deal major earth damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 25,
+      "itSubID": 0,
+      "pName": "Death",
+      "pInfo": "Has a 60% chance to cause instant death to\none target."
+    },
+    {
+      "itID": 26,
+      "itSubID": 0,
+      "pName": "Aero",
+      "pInfo": "Deal minor wind damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 27,
+      "itSubID": 0,
+      "pName": "Aerora",
+      "pInfo": "Deal medium wind damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 28,
+      "itSubID": 0,
+      "pName": "Aeroga",
+      "pInfo": "Deal major wind damage to one target. This\nspell can be group-cast."
+    },
+    {
+      "itID": 29,
+      "itSubID": 0,
+      "pName": "Raise",
+      "pInfo": "Revive one target from KO and restore HP.\nNote that this spell has a 70% chance to cause\ndeath when used on undead enemies."
+    },
+    {
+      "itID": 30,
+      "itSubID": 0,
+      "pName": "Poisona",
+      "pInfo": "Cure poison for one target."
+    },
+    {
+      "itID": 31,
+      "itSubID": 0,
+      "pName": "Blindna",
+      "pInfo": "Cure blind for one target."
+    },
+    {
+      "itID": 32,
+      "itSubID": 0,
+      "pName": "Protect",
+      "pInfo": "Raise the physical defense of one target by\n25% for five turns.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 33,
+      "itSubID": 0,
+      "pName": "Shell",
+      "pInfo": "Raise the magic defense of one target by 25%\nfor five turns.\n\n*The upper limit for magic defense is 150%."
+    },
+    {
+      "itID": 34,
+      "itSubID": 0,
+      "pName": "Curada",
+      "pInfo": "Restore a large amount of HP to one target.\nThis spell can be group-cast and will damage\nundead enemies."
+    },
+    {
+      "itID": 35,
+      "itSubID": 0,
+      "pName": "Dispel",
+      "pInfo": "Cancel the support effects regen, stop,\nreflect, reraise, as well as those that nullify\nstatus ailments, raise/lower stats, abate/nullify\nelements or make targets weaker to them,\nabsorb damage, or are imparted by sword\nmagic."
+    },
+    {
+      "itID": 36,
+      "itSubID": 0,
+      "pName": "Esunaga",
+      "pInfo": "Cure the status ailments poison, blind,\nsilence, sleep, paralyze, dread, berserk,\nconfuse, and charm for all targets."
+    },
+    {
+      "itID": 37,
+      "itSubID": 0,
+      "pName": "Reflect",
+      "pInfo": "Form a barrier around one target that reflects\nwhite magic, black magic, and time magic."
+    },
+    {
+      "itID": 38,
+      "itSubID": 0,
+      "pName": "Arise",
+      "pInfo": "Revive one target from KO and restore all HP.\nNote that this spell has a 70% chance to cause\ndeath when used on undead enemies.\n\nRestores up to 9,999 HP in the absence of a\nlimit-breaking effect."
+    },
+    {
+      "itID": 39,
+      "itSubID": 0,
+      "pName": "Holy",
+      "pInfo": "Deal light-element damage to one target."
+    },
+    {
+      "itID": 40,
+      "itSubID": 0,
+      "pName": "Promethean Fire",
+      "pInfo": "Deal fire damage to all enemies. Note that this\nattack is not affected by reflect."
+    },
+    {
+      "itID": 41,
+      "itSubID": 0,
+      "pName": "Promethean Fire",
+      "pInfo": "Raise your physical attack to maximum for ten\nturns.\n\n*The upper limit for physical attack is 150%."
+    },
+    {
+      "itID": 42,
+      "itSubID": 0,
+      "pName": "Ziusudra’s Sin",
+      "pInfo": "Deal water damage to all enemies. Note that\nthis attack is not affected by reflect."
+    },
+    {
+      "itID": 43,
+      "itSubID": 0,
+      "pName": "Ziusudra’s Sin",
+      "pInfo": "Raise your magic defense to maximum for ten\nturns.\n\n*The upper limit for magic defense is 150%."
+    },
+    {
+      "itID": 44,
+      "itSubID": 0,
+      "pName": "Girtablulu",
+      "pInfo": "Deal earth damage to all enemies. Note that\nthis attack is not affected by reflect."
+    },
+    {
+      "itID": 45,
+      "itSubID": 0,
+      "pName": "Girtablulu",
+      "pInfo": "Raise your physical defense to maximum for ten\nturns.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 46,
+      "itSubID": 0,
+      "pName": "Deus Ex",
+      "pInfo": "Deal lightning damage to all enemies. Note that\nthis attack is not affected by reflect."
+    },
+    {
+      "itID": 47,
+      "itSubID": 0,
+      "pName": "Deus Ex",
+      "pInfo": "Raise your magic attack to maximum for ten\nturns.\n\n*The upper limit for magic attack is 150%."
+    },
+    {
+      "itID": 48,
+      "itSubID": 0,
+      "pName": "Hresvelgr",
+      "pInfo": "Deal wind damage to all enemies. Note that\nthis attack is not affected by reflect."
+    },
+    {
+      "itID": 49,
+      "itSubID": 0,
+      "pName": "Hresvelgr",
+      "pInfo": "Raise your speed and evasion to maximum for\nten turns.\n\n*The upper limit for speed and evasion is 150%."
+    },
+    {
+      "itID": 50,
+      "itSubID": 0,
+      "pName": "Susano-o",
+      "pInfo": "Deal non-elemental damage to all enemies.\nNote that this attack is not affected by reflect."
+    },
+    {
+      "itID": 51,
+      "itSubID": 0,
+      "pName": "Susano-o",
+      "pInfo": "Raise your critical rate by 500% for ten turns.\n\n*The upper limit for critical rate is 1,000%."
+    },
+    {
+      "itID": 52,
+      "itSubID": 0,
+      "pName": "Slow",
+      "pInfo": "Lower the speed of one target by 25% for four\nturns.\n\n*The lower limit for speed is 75%."
+    },
+    {
+      "itID": 53,
+      "itSubID": 0,
+      "pName": "Regen",
+      "pInfo": "Restore 3% of HP to one target at the end of\neach turn."
+    },
+    {
+      "itID": 54,
+      "itSubID": 0,
+      "pName": "Haste",
+      "pInfo": "Raise one target’s speed by 50% for four\nturns.\n\n*The upper limit for speed is 150%."
+    },
+    {
+      "itID": 55,
+      "itSubID": 0,
+      "pName": "Teleport",
+      "pInfo": "Escape from dungeons and battles. Note that\nthis is not affected by reflect and will not work\nin certain battles or areas."
+    },
+    {
+      "itID": 56,
+      "itSubID": 0,
+      "pName": "Gravity",
+      "pInfo": "Has a 50% chance to deal damage equal to\nhalf of maximum HP to one target. Note that this\nwill not work on certain enemies, such as\nbosses."
+    },
+    {
+      "itID": 57,
+      "itSubID": 0,
+      "pName": "Veil",
+      "pInfo": "Raise one target’s evasion by 50% for four\nturns.\n\n*The upper limit for evasion is 150%."
+    },
+    {
+      "itID": 58,
+      "itSubID": 0,
+      "pName": "Slowga",
+      "pInfo": "Lower all targets’ speed by 25% for four turns.\nThis is not affected by reflect.\n\n*The lower limit for speed is 75%."
+    },
+    {
+      "itID": 59,
+      "itSubID": 0,
+      "pName": "Hastega",
+      "pInfo": "Raise all targets’ speed by 50% for four turns.\nThis is not affected by reflect.\n\n*The upper limit for speed is 150%."
+    },
+    {
+      "itID": 60,
+      "itSubID": 0,
+      "pName": "Veilga",
+      "pInfo": "Raise all targets’ evasion by 50% for four turns.\nThis is not affected by reflect.\n\n*The upper limit for evasion is 150%."
+    },
+    {
+      "itID": 61,
+      "itSubID": 0,
+      "pName": "Comet",
+      "pInfo": "Unleash a non-elemental attack up to four\ntimes on one target. Note that this attack is\nnot affected by reflect."
+    },
+    {
+      "itID": 62,
+      "itSubID": 0,
+      "pName": "Quick",
+      "pInfo": "Raise one target’s number of attacks\nby 50% for four turns.\n\n*The upper limit for hit count is 200%."
+    },
+    {
+      "itID": 63,
+      "itSubID": 0,
+      "pName": "Stop",
+      "pInfo": "Has a 75% chance to place the target in the\nstop state."
+    },
+    {
+      "itID": 64,
+      "itSubID": 0,
+      "pName": "Graviga",
+      "pInfo": "Has a 50% chance to deal damage equal to\nthree-fourths of maximum HP to one target.\nNote that this will not work on certain enemies,\nsuch as bosses."
+    },
+    {
+      "itID": 65,
+      "itSubID": 0,
+      "pName": "Reraise",
+      "pInfo": "Enable one ally to automatically recover\nfrom KO."
+    },
+    {
+      "itID": 66,
+      "itSubID": 0,
+      "pName": "Meteor",
+      "pInfo": "Unleash four powerful non-elemental attacks\nthat randomly target enemies. Note that this\nattack is not affected by reflect."
+    },
+    {
+      "itID": 67,
+      "itSubID": 0,
+      "pName": "Silence",
+      "pInfo": "Has a 75% chance to cause the status ailment\nsilence in one target."
+    },
+    {
+      "itID": 68,
+      "itSubID": 0,
+      "pName": "Poison",
+      "pInfo": "Has a 75% chance to cause the status ailment\npoison in one target."
+    },
+    {
+      "itID": 69,
+      "itSubID": 0,
+      "pName": "Sleep",
+      "pInfo": "Has a 75% chance to cause the status ailment\nsleep in one target."
+    },
+    {
+      "itID": 70,
+      "itSubID": 0,
+      "pName": "Drain",
+      "pInfo": "Absorb HP from one target. Note that both the\nuser and target will take HP damage if used on\nan undead enemy."
+    },
+    {
+      "itID": 71,
+      "itSubID": 0,
+      "pName": "Aspir",
+      "pInfo": "Absorb MP from one target. Note that both the\nuser and target will take MP damage if used on\nan undead enemy."
+    },
+    {
+      "itID": 72,
+      "itSubID": 0,
+      "pName": "Fear",
+      "pInfo": "Has a 75% chance to cause the status ailment\ndread in one target."
+    },
+    {
+      "itID": 73,
+      "itSubID": 0,
+      "pName": "Dark",
+      "pInfo": "Deal major dark damage to one target."
+    },
+    {
+      "itID": 74,
+      "itSubID": 0,
+      "pName": "Kill",
+      "pInfo": "Slay all targets ten or more levels lower than\nyou. Note that you will not earn experience,\nJP, or pg. Also, this will not work on certain\nenemies, such as bosses."
+    },
+    {
+      "itID": 75,
+      "itSubID": 0,
+      "pName": "Fire",
+      "pInfo": "Imbue a weapon with a low-power fire effect\nfor ten turns. This will raise attack power by the\namount of the magic effect."
+    },
+    {
+      "itID": 76,
+      "itSubID": 0,
+      "pName": "Blizzard",
+      "pInfo": "Imbue a weapon with a low-power water effect\nfor ten turns. This will raise attack power by the\namount of the magic effect."
+    },
+    {
+      "itID": 77,
+      "itSubID": 0,
+      "pName": "Thunder",
+      "pInfo": "Imbue a weapon with a low-power lightning\neffect for ten turns. This will raise attack power\nby the amount of the magic effect."
+    },
+    {
+      "itID": 78,
+      "itSubID": 0,
+      "pName": "Silence",
+      "pInfo": "Imbue a weapon with the status ailment silence\nfor ten turns. Has a 75% chance to cause\nsilence in one target when attacking."
+    },
+    {
+      "itID": 79,
+      "itSubID": 0,
+      "pName": "Poison",
+      "pInfo": "Imbue a weapon with the status ailment poison\nfor ten turns. Has a 75% chance to cause\npoison in one target when attacking."
+    },
+    {
+      "itID": 80,
+      "itSubID": 0,
+      "pName": "Sleep",
+      "pInfo": "Imbue a weapon with the status ailment sleep\nfor ten turns. Has a 75% chance to cause\nsleep in one target when attacking."
+    },
+    {
+      "itID": 81,
+      "itSubID": 0,
+      "pName": "Fira",
+      "pInfo": "Imbue a weapon with a medium-power fire\neffect for ten turns. This will raise attack power\nby the amount of the magic effect."
+    },
+    {
+      "itID": 82,
+      "itSubID": 0,
+      "pName": "Blizzara",
+      "pInfo": "Imbue a weapon with a medium-power water\neffect for ten turns. This will raise attack power\nby the amount of the magic effect."
+    },
+    {
+      "itID": 83,
+      "itSubID": 0,
+      "pName": "Thundara",
+      "pInfo": "Imbue a weapon with a medium-power\nlightning effect for ten turns. This will raise\nattack power by the amount of the magic effect."
+    },
+    {
+      "itID": 84,
+      "itSubID": 0,
+      "pName": "Drain",
+      "pInfo": "Imbue a weapon with an HP absorb effect for\nten turns. Attacks with this weapon will absorb\nHP from the target."
+    },
+    {
+      "itID": 85,
+      "itSubID": 0,
+      "pName": "Aspir",
+      "pInfo": "Imbue a weapon with an MP absorb effect for\nten turns. Attacks with this weapon will absorb\nMP from the target."
+    },
+    {
+      "itID": 86,
+      "itSubID": 0,
+      "pName": "Fear",
+      "pInfo": "Imbue a weapon with the status ailment dread\nfor ten turns. Has a 75% chance to cause\ndread in one target when attacking."
+    },
+    {
+      "itID": 87,
+      "itSubID": 0,
+      "pName": "Firaga",
+      "pInfo": "Imbue a weapon with a high-power fire effect\nfor ten turns. This will raise attack power by the\namount of the magic effect."
+    },
+    {
+      "itID": 88,
+      "itSubID": 0,
+      "pName": "Blizzaga",
+      "pInfo": "Imbue a weapon with a high-power water effect\nfor ten turns. This will raise attack power by\nthe amount of the magic effect."
+    },
+    {
+      "itID": 89,
+      "itSubID": 0,
+      "pName": "Thundaga",
+      "pInfo": "Imbue a weapon with a high-power lightning\neffect for ten turns. This will raise attack power\nby the amount of the magic effect."
+    },
+    {
+      "itID": 90,
+      "itSubID": 0,
+      "pName": "Holy",
+      "pInfo": "Imbue a weapon with a high-power light effect\nfor ten turns. This will raise attack power by\nthe amount of the magic effect."
+    },
+    {
+      "itID": 91,
+      "itSubID": 0,
+      "pName": "Dark",
+      "pInfo": "Imbue a weapon with a high-power dark effect\nfor ten turns. This will raise attack power by\nthe amount of the magic effect."
+    },
+    {
+      "itID": 92,
+      "itSubID": 0,
+      "pName": "Death",
+      "pInfo": "Imbue a weapon with the status ailment death\nfor ten turns. Has a 75% chance to cause\ndeath in one target when attacking."
+    },
+    {
+      "itID": 101,
+      "itSubID": 0,
+      "pName": "Examine",
+      "pInfo": "Display enemy information, including HP,\nelemental weakness, and family. Once you\nhave examined a certain enemy, use <sprite name=\"button_arrow_left\">\nat any time to view the information again.\nYou can also select the enemy to view its\ncurrent stats."
+    },
+    {
+      "itID": 102,
+      "itSubID": 0,
+      "pName": "Treat",
+      "pInfo": "Restore the HP of one ally by 20%. Note that\nthis ability can even be used in the silence\nstate."
+    },
+    {
+      "itID": 103,
+      "itSubID": 0,
+      "pName": "Apologize",
+      "pInfo": "Lower your chances of being targeted by\nenemies to the lowest level possible."
+    },
+    {
+      "itID": 104,
+      "itSubID": 0,
+      "pName": "Prayer",
+      "pInfo": "Make chance-based abilities 1.5 times more\nlikely to succeed for ten turns."
+    },
+    {
+      "itID": 105,
+      "itSubID": 0,
+      "pName": "Endure",
+      "pInfo": "Raise your physical defense and magic\ndefense by 25% for four turns.\n\n*The upper limit for physical defense\nand magic defense is 150%."
+    },
+    {
+      "itID": 106,
+      "itSubID": 0,
+      "pName": "Flee",
+      "pInfo": "Always succeed in escaping from battle.\nHowever, this will not work in certain battles or\nareas. "
+    },
+    {
+      "itID": 107,
+      "itSubID": 0,
+      "pName": "Mimic",
+      "pInfo": "Perform the same action as the previous one,\nwhether it was your own or an ally’s. No HP,\nMP, BP, pg, or items will be consumed."
+    },
+    {
+      "itID": 108,
+      "itSubID": 0,
+      "pName": "Mimic Fail",
+      "pInfo": ""
+    },
+    {
+      "itID": 121,
+      "itSubID": 0,
+      "pName": "Stomp",
+      "pInfo": "Deal damage 1.25 times that of a conventional\nattack. However, your physical defense and\nmagic defense will decrease by 25% for two\nturns.\n\n*The lower limit for physical defense and\nmagic defense is 75%."
+    },
+    {
+      "itID": 122,
+      "itSubID": 0,
+      "pName": "Ironclad",
+      "pInfo": "Start at the beginning of a turn to raise your\nphysical defense to the maximum level for\nthe entire turn.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 123,
+      "itSubID": 0,
+      "pName": "Shield Strike",
+      "pInfo": "Deal the same damage as a conventional attack\nand for two turns, raise your physical defense\nby 25%. Available only when equipping a shield.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 124,
+      "itSubID": 0,
+      "pName": "Vengeance",
+      "pInfo": "Unleash a physical attack on all enemies. The\nmore of your allies who are KO’d, the\nmore powerful your attack will be.\n0 KO’d allies: 0.75 × conventional attack\n1 KO’d ally: 1.5 × conventional attack\n2 KO’d allies: 2 × conventional attack\n3 KO’d allies: 2.5 × conventional attack"
+    },
+    {
+      "itID": 125,
+      "itSubID": 0,
+      "pName": "Full Cover",
+      "pInfo": "During the entire turn this is used, when the\nspecified ally takes a single-target physical\nattack, you will take the hit instead, but only\nsuffer half the damage."
+    },
+    {
+      "itID": 126,
+      "itSubID": 0,
+      "pName": "Super Charge",
+      "pInfo": "Attack using a physical attack that converts\ndouble the amount of physical defense into\nattack power."
+    },
+    {
+      "itID": 182,
+      "itSubID": 0,
+      "pName": "Self-Destruct",
+      "pInfo": ""
+    },
+    {
+      "itID": 183,
+      "itSubID": 0,
+      "pName": "Inner Alchemy",
+      "pInfo": "Cure yourself of the status ailments poison,\nblind, silence, dread, and confuse."
+    },
+    {
+      "itID": 184,
+      "itSubID": 0,
+      "pName": "Hidden Dragon",
+      "pInfo": "Attack at the end of the turn, but deal 1.25 times\nthe damage of a conventional attack to one\ntarget."
+    },
+    {
+      "itID": 185,
+      "itSubID": 0,
+      "pName": "Qigong Wave",
+      "pInfo": "Ignore Default’s damage reduction effect\nand deal 1.25 times the damage of a\nconventional attack to one target."
+    },
+    {
+      "itID": 186,
+      "itSubID": 0,
+      "pName": "Pressure Point",
+      "pInfo": "Ignore the target’s physical defense and deal\n2 times the damage of a conventional attack\nto one target."
+    },
+    {
+      "itID": 187,
+      "itSubID": 0,
+      "pName": "Phoenix Flight",
+      "pInfo": "Reduce your HP to 1 and convert the amount\nof HP sacrificed into damage applied to a single\nenemy."
+    },
+    {
+      "itID": 188,
+      "itSubID": 0,
+      "pName": "Invigorate",
+      "pInfo": ""
+    },
+    {
+      "itID": 202,
+      "itSubID": 0,
+      "pName": "Bug Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the bug family."
+    },
+    {
+      "itID": 203,
+      "itSubID": 0,
+      "pName": "Plant Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the plant family."
+    },
+    {
+      "itID": 204,
+      "itSubID": 0,
+      "pName": "Beast Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the beast family."
+    },
+    {
+      "itID": 205,
+      "itSubID": 0,
+      "pName": "Aerial Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the aerial family."
+    },
+    {
+      "itID": 206,
+      "itSubID": 0,
+      "pName": "Aquatic Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the aquatic family."
+    },
+    {
+      "itID": 207,
+      "itSubID": 0,
+      "pName": "Dragon Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the dragonkind family."
+    },
+    {
+      "itID": 208,
+      "itSubID": 0,
+      "pName": "Undead Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the undead family."
+    },
+    {
+      "itID": 209,
+      "itSubID": 0,
+      "pName": "Demon Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to members of the demonkind family."
+    },
+    {
+      "itID": 210,
+      "itSubID": 0,
+      "pName": "Multiburst",
+      "pInfo": "Unleash four physical attacks that randomly\ntarget enemies, dealing 0.6 times the damage\nof a conventional attack."
+    },
+    {
+      "itID": 221,
+      "itSubID": 0,
+      "pName": "Shippûjinrai",
+      "pInfo": "Attack at the start of the turn and deal the same\ndamage as a conventional attack."
+    },
+    {
+      "itID": 222,
+      "itSubID": 0,
+      "pName": "Utsusemi",
+      "pInfo": "Evade a physical attack one time."
+    },
+    {
+      "itID": 223,
+      "itSubID": 0,
+      "pName": "Ikkikasei",
+      "pInfo": "Raise the number of attacks by 100% for that\nturn only.\n\n*The upper limit for hit count is 200%."
+    },
+    {
+      "itID": 224,
+      "itSubID": 0,
+      "pName": "Shunshin",
+      "pInfo": "Raise evasion to maximum for six turns.\n\n*The upper limit for evasion is 150%."
+    },
+    {
+      "itID": 225,
+      "itSubID": 0,
+      "pName": "Kairai",
+      "pInfo": "The target of the enemy’s single-target attack\nwill be the ally you select, but only for the\nturn in which the ability is used."
+    },
+    {
+      "itID": 226,
+      "itSubID": 0,
+      "pName": "Kakuremi",
+      "pInfo": "Lower your chances of being targeted by\nenemies to the lowest level possible for five\nturns."
+    },
+    {
+      "itID": 281,
+      "itSubID": 0,
+      "pName": "Nothing Ventured",
+      "pInfo": "Halve the damage you sustain if hit by a\nphysical attack during the turn this ability is\nused and counterattack with double the\ndamage of a conventional attack."
+    },
+    {
+      "itID": 282,
+      "itSubID": 0,
+      "pName": "Squeaky Wheel",
+      "pInfo": "Reduce the target’s BP by one. For bosses\nand some enemies, the success rate falls to\n30%."
+    },
+    {
+      "itID": 283,
+      "itSubID": 0,
+      "pName": "Before Swine",
+      "pInfo": "Halve the damage you sustain if hit by a\nmagic attack during the turn this ability is\nused and counterattack with three times the\ndamage of a conventional attack. Does not\napply to reflected magic damage."
+    },
+    {
+      "itID": 284,
+      "itSubID": 0,
+      "pName": "Know Thine Enemy",
+      "pInfo": "Counterattack with four times the damage of a\nconventional attack if hit by a single-target\nattack from the selected enemy during the turn\nthis ability is used."
+    },
+    {
+      "itID": 285,
+      "itSubID": 0,
+      "pName": "The Worm Turns",
+      "pInfo": "Counterattack with 7.5 times the damage of a\nconventional attack if hit by an enemy attack\nwhen your HP is below 20% during the turn\nthis ability is used. Does not apply to reflected\nmagic damage."
+    },
+    {
+      "itID": 286,
+      "itSubID": 0,
+      "pName": "Free Lunch",
+      "pInfo": "Set MP cost to zero for two turns."
+    },
+    {
+      "itID": 287,
+      "itSubID": 0,
+      "pName": "Nothing Ventured",
+      "pInfo": ""
+    },
+    {
+      "itID": 288,
+      "itSubID": 0,
+      "pName": "Before Swine",
+      "pInfo": ""
+    },
+    {
+      "itID": 289,
+      "itSubID": 0,
+      "pName": "Know Thine Enemy",
+      "pInfo": ""
+    },
+    {
+      "itID": 290,
+      "itSubID": 0,
+      "pName": "The Worm Turns",
+      "pInfo": ""
+    },
+    {
+      "itID": 301,
+      "itSubID": 0,
+      "pName": "Double Damage",
+      "pInfo": "Deal two times the damage of a conventional\nattack to one target."
+    },
+    {
+      "itID": 302,
+      "itSubID": 0,
+      "pName": "Provoke",
+      "pInfo": "Raise your chances of being targeted by\nenemies to the highest level possible."
+    },
+    {
+      "itID": 303,
+      "itSubID": 0,
+      "pName": "Shell Split",
+      "pInfo": "Deal the same damage as a conventional\nattack to one target, and for four turns, lower\nthe target’s physical defense by 25%.\n\n*The lower limit for physical defense is 75%."
+    },
+    {
+      "itID": 304,
+      "itSubID": 0,
+      "pName": "Scale Strip",
+      "pInfo": "Deal the same damage as a conventional\nattack to one target, and for four turns, lower\nthe target’s magic defense by 25%.\n\n*The lower limit for magic defense is 75%."
+    },
+    {
+      "itID": 305,
+      "itSubID": 0,
+      "pName": "Shin Smash",
+      "pInfo": "Deal the same damage as a conventional\nattack to one target, and for four turns, lower\nthe target’s speed by 25%.\n\n*The lower limit for speed is 75%."
+    },
+    {
+      "itID": 306,
+      "itSubID": 0,
+      "pName": "Mass Attack",
+      "pInfo": "Allies with less than 20% of their HP left attack\nat the same time you do. Note that this does not\nend the turn for the allies that join in the attack.\nThey can still perform an action during that turn."
+    },
+    {
+      "itID": 307,
+      "itSubID": 0,
+      "pName": "Berserk",
+      "pInfo": "Raise physical attack by 50% and continue\nmaking conventional attacks for six turns.\n\n*Berserk’s physical attack increase does not stack\nwith other physical attack boost effects."
+    },
+    {
+      "itID": 308,
+      "itSubID": 0,
+      "pName": "Defang",
+      "pInfo": "Deal the same damage as a conventional\nattack to one target, and for four turns, lower\nthe target’s physical attack by 25%.\n\n*The lower limit for physical attack is 75%."
+    },
+    {
+      "itID": 309,
+      "itSubID": 0,
+      "pName": "Skull Bash",
+      "pInfo": "Deal the same damage as a conventional\nattack to one target, and for four turns, lower\nthe target’s magic attack by 25%.\n\n*The lower limit for magic attack is 75%."
+    },
+    {
+      "itID": 310,
+      "itSubID": 0,
+      "pName": "Torrent",
+      "pInfo": "Unleash physical water attacks dealing 0.3 times\nthe damage of a conventional attack up to 16\ntimes on one target."
+    },
+    {
+      "itID": 311,
+      "itSubID": 0,
+      "pName": "Amped Strike",
+      "pInfo": "Deal four times the damage of a conventional\nattack to one target."
+    },
+    {
+      "itID": 321,
+      "itSubID": 0,
+      "pName": "Dark Bane",
+      "pInfo": "Sacrifice 20% of your maximum HP to unleash\na dark physical attack on one target that deals\n1.25 times the damage of a conventional attack."
+    },
+    {
+      "itID": 322,
+      "itSubID": 0,
+      "pName": "Demon Master",
+      "pInfo": "Charm one target of the demonkind family."
+    },
+    {
+      "itID": 323,
+      "itSubID": 0,
+      "pName": "Minus Strike",
+      "pInfo": "Damage one target by an amount equal to the\nnumber of HP you have lost."
+    },
+    {
+      "itID": 324,
+      "itSubID": 0,
+      "pName": "Black Bane",
+      "pInfo": "Sacrifice 30% of your maximum HP to unleash\na dark physical attack on all enemies that deals\n1.5 times the damage of a conventional attack."
+    },
+    {
+      "itID": 325,
+      "itSubID": 0,
+      "pName": "Absorb Magic",
+      "pInfo": "Start at the beginning of a turn to nullify\ndamage from magic attacks during that turn\nand restore your MP by the amount of MP\nused to attack you. Does not apply to\nreflected magic damage."
+    },
+    {
+      "itID": 326,
+      "itSubID": 0,
+      "pName": "Dark Nebula",
+      "pInfo": "Sacrifice 20% of your maximum HP to unleash\na dark physical attack on all allies and enemies\nthat deals four times the damage of a\nconventional attack."
+    },
+    {
+      "itID": 327,
+      "itSubID": 0,
+      "pName": "Life or Death",
+      "pInfo": "Your physical attack, magic attack, physical\ndefense, and magic defense rise 50% for four\nturns, but you enter the doomed state.\n\n*The upper limit for physical attack, magic attack,\nphysical defense, and magic defense is 150%."
+    },
+    {
+      "itID": 328,
+      "itSubID": 0,
+      "pName": "Rage",
+      "pInfo": "Dark Bane continues for a random target\nup to 5 times or until your HP falls to 1."
+    },
+    {
+      "itID": 341,
+      "itSubID": 0,
+      "pName": "Heart Strike",
+      "pInfo": "Unleash an attack for a guaranteed critical hit\nthat deals two times the damage of a\nconventional attack."
+    },
+    {
+      "itID": 342,
+      "itSubID": 0,
+      "pName": "Giant Slayer",
+      "pInfo": "Deal 1.5 times the damage of a conventional\nattack to one opponent with more HP than you."
+    },
+    {
+      "itID": 343,
+      "itSubID": 0,
+      "pName": "Rampart",
+      "pInfo": "Form a shield around all allies that prevents one\nphysical attack."
+    },
+    {
+      "itID": 344,
+      "itSubID": 0,
+      "pName": "Radiant Blast",
+      "pInfo": "Unleash a light-based physical attack on one\ntarget that ignores Default’s damage reduction\neffect and deals 1.5 times the damage of a\nconventional attack."
+    },
+    {
+      "itID": 345,
+      "itSubID": 0,
+      "pName": "Desperation",
+      "pInfo": "Attack by adding the value of your physical\ndefense to your physical attack. However,\nyour physical defense will be reduced to\nminimum for that turn.\n\n*The lower limit for physical defense is 75%."
+    },
+    {
+      "itID": 346,
+      "itSubID": 0,
+      "pName": "Heaven’s Gate",
+      "pInfo": "Unleash light attacks that increase in number\naccording to your BP and strike random\nenemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 0,
+      "pName": "Genome Ability",
+      "pInfo": "Use a monster’s ability."
+    },
+    {
+      "itID": 361,
+      "itSubID": 1,
+      "pName": "Curse",
+      "pInfo": "Lower the physical attack and physical defense\nof one target by 25% for four turns.\n\n*The lower limit for physical attack and\nphysical defense is 75%."
+    },
+    {
+      "itID": 361,
+      "itSubID": 2,
+      "pName": "Spray",
+      "pInfo": "Unleash a water-based physical attack on one\ntarget that ignores Default’s damage reduction\neffect."
+    },
+    {
+      "itID": 361,
+      "itSubID": 3,
+      "pName": "Venom",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 75% chance to cause\nthe status ailment poison."
+    },
+    {
+      "itID": 361,
+      "itSubID": 4,
+      "pName": "Wing Scales",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 75% chance to cause\nthe status ailment confuse."
+    },
+    {
+      "itID": 361,
+      "itSubID": 5,
+      "pName": "Firestorm",
+      "pInfo": "Unleash a fire-based physical attack on all\nenemies that deals 1.25 times the damage of a\nconventional attack, and for three turns, lowers\nthe target’s physical defense by 25%.\n\n*The lower limit for physical defense is 75%."
+    },
+    {
+      "itID": 361,
+      "itSubID": 6,
+      "pName": "Tornado",
+      "pInfo": "Unleash a wind-based physical attack on all\nenemies that deals the same damage as a\nconventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 7,
+      "pName": "Blizzard Blast",
+      "pInfo": "Unleash a water-based physical attack on all\nenemies that deals the same damage as a\nconventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 8,
+      "pName": "Dual Attack",
+      "pInfo": "Unleash two physical attacks that deal 0.65\ntimes the damage of a conventional attack and\nrandomly strike enemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 9,
+      "pName": "Chomp",
+      "pInfo": "Has a 50% chance to reduce one target’s HP\nto 1. Note that this will not work on certain\nenemies, such as bosses."
+    },
+    {
+      "itID": 361,
+      "itSubID": 10,
+      "pName": "Blaster",
+      "pInfo": "Has a 50% chance to cause the status ailment\nparalyze in all enemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 11,
+      "pName": "Paralyzing Pollen",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 75% chance to cause\nthe status ailment paralyze."
+    },
+    {
+      "itID": 361,
+      "itSubID": 12,
+      "pName": "Fireball",
+      "pInfo": "Ignore physical defense to deal fire damage to\none target."
+    },
+    {
+      "itID": 361,
+      "itSubID": 13,
+      "pName": "Bone Crush",
+      "pInfo": "Deal physical damage to each enemy that is\nequal to each one’s maximum HP minus\ncurrent HP. Note that this will not work on\ncertain enemies, such as bosses."
+    },
+    {
+      "itID": 361,
+      "itSubID": 14,
+      "pName": "Withering Silence",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 75% chance to cause\nthe status ailment silence."
+    },
+    {
+      "itID": 361,
+      "itSubID": 15,
+      "pName": "Earthquake",
+      "pInfo": "Unleash an earth-based physical attack on all\nenemies that deals 1.2 times the damage of\na conventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 16,
+      "pName": "Sandstorm",
+      "pInfo": "Unleash an earth-based physical attack on all\nenemies that has a 50% chance to cause\nblind on each target."
+    },
+    {
+      "itID": 361,
+      "itSubID": 17,
+      "pName": "Gastric Juices",
+      "pInfo": "Deal the same damage as a conventional\nattack to all enemies, and for three turns,\nlower their physical defense by 25%.\n\n*The lower limit for physical defense is 75%."
+    },
+    {
+      "itID": 361,
+      "itSubID": 18,
+      "pName": "Rock Storm",
+      "pInfo": "Unleash an earth-based physical attack on all\nenemies that deals the same damage as a\nconventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 19,
+      "pName": "Toxic Whirl",
+      "pInfo": "Unleash a physical attack on all enemies that\ndeals 0.75 times the damage of a conventional\nattack and has a 50% chance to poison each\ntarget."
+    },
+    {
+      "itID": 361,
+      "itSubID": 20,
+      "pName": "White Wind",
+      "pInfo": "Restore all targets’ HP by an amount equal to\nthe user’s current HP."
+    },
+    {
+      "itID": 361,
+      "itSubID": 21,
+      "pName": "Lullaby",
+      "pInfo": "Has a 50% chance to put all enemies to\nsleep."
+    },
+    {
+      "itID": 361,
+      "itSubID": 22,
+      "pName": "Hellfire",
+      "pInfo": "Unleash a fire-based physical attack on all\nenemies that deals 1.25 times the damage\nof a conventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 23,
+      "pName": "Deep Freeze",
+      "pInfo": "Unleash a water-based physical attack on all\nenemies that deals 1.25 times the damage of\na conventional attack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 24,
+      "pName": "Aqua Regia",
+      "pInfo": "Unleash a physical attack on one target that\ndeals 0.75 times the damage of a conventional\nattack, and for four turns, lowers the target’s\nphysical defense to minimum.\n\n*The lower limit for physical defense is 75%."
+    },
+    {
+      "itID": 361,
+      "itSubID": 25,
+      "pName": "Energy Burst",
+      "pInfo": "Unleash a physical attack on all enemies that\ndeals 1.5 times the damage of a conventional\nattack."
+    },
+    {
+      "itID": 361,
+      "itSubID": 26,
+      "pName": "Firaja",
+      "pInfo": "Unleash a fire-based magic attack to deal\na tremendous amount of damage to all\nenemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 27,
+      "pName": "Blizzaja",
+      "pInfo": "Unleash a water-based magic attack to deal\na tremendous amount of damage to all\nenemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 28,
+      "pName": "Thundaja",
+      "pInfo": "Unleash a lightning-based magic attack to\ndeal a tremendous amount of damage to all\nenemies."
+    },
+    {
+      "itID": 361,
+      "itSubID": 29,
+      "pName": "Aeroja",
+      "pInfo": "Unleash a wind-based magic attack to deal\na tremendous amount of damage to all\nenemies."
+    },
+    {
+      "itID": 362,
+      "itSubID": 0,
+      "pName": "Blood Thirst",
+      "pInfo": "Absorb from one target an amount of HP equal\nto the damage dealt by a conventional attack."
+    },
+    {
+      "itID": 363,
+      "itSubID": 0,
+      "pName": "Charm",
+      "pInfo": "Has a 75% chance to place one target in the\ncharm state."
+    },
+    {
+      "itID": 364,
+      "itSubID": 0,
+      "pName": "Magic Thirst",
+      "pInfo": "Absorb from one target an amount of MP equal\nto 10% of the damage dealt by a conventional\nattack."
+    },
+    {
+      "itID": 365,
+      "itSubID": 0,
+      "pName": "Battle Thirst",
+      "pInfo": "Absorb 1 BP from one target."
+    },
+    {
+      "itID": 366,
+      "itSubID": 0,
+      "pName": "Absorb Stats",
+      "pInfo": "Absorb the selected stat from one target."
+    },
+    {
+      "itID": 366,
+      "itSubID": 1,
+      "pName": "Absorb physical attack",
+      "pInfo": "Lower one enemy’s physical attack by 25%\nand raise your own by 25%.\n\n*The lower limit for physical attack is 75%.\n*The upper limit for physical attack is 150%."
+    },
+    {
+      "itID": 366,
+      "itSubID": 2,
+      "pName": "Absorb physical defense",
+      "pInfo": "Lower one enemy’s physical defense by 25%\nand raise your own by 25%.\n\n*The lower limit for physical defense is 75%.\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 366,
+      "itSubID": 3,
+      "pName": "Absorb magic attack",
+      "pInfo": "Lower one enemy’s magic attack by 25%\nand raise your own by 25%.\n\n*The lower limit for magic attack is 75%.\n*The upper limit for magic attack is 150%."
+    },
+    {
+      "itID": 366,
+      "itSubID": 4,
+      "pName": "Absorb magic defense",
+      "pInfo": "Lower one enemy’s magic defense by 25%\nand raise your own by 25%.\n\n*The lower limit for magic defense is 75%.\n*The upper limit for magic defense is 150%."
+    },
+    {
+      "itID": 367,
+      "itSubID": 0,
+      "pName": "Subvert",
+      "pInfo": "Has a 50% chance to place all enemies in the\ncharm state."
+    },
+    {
+      "itID": 368,
+      "itSubID": 0,
+      "pName": "Genome Drain",
+      "pInfo": ""
+    },
+    {
+      "itID": 369,
+      "itSubID": 0,
+      "pName": "Curse",
+      "pInfo": ""
+    },
+    {
+      "itID": 381,
+      "itSubID": 0,
+      "pName": "Corpse",
+      "pInfo": "Has a 75% chance to place one target in the\ndoom state."
+    },
+    {
+      "itID": 382,
+      "itSubID": 0,
+      "pName": "Exterminate",
+      "pInfo": "Deal a tremendous amount of dark damage to\nall allies and enemies who are in the poison\nstate."
+    },
+    {
+      "itID": 383,
+      "itSubID": 0,
+      "pName": "Twilight",
+      "pInfo": "Instantly slay all allies and enemies who are in\nthe sleep state. Note that this will not work on\ncertain enemies, such as bosses."
+    },
+    {
+      "itID": 384,
+      "itSubID": 0,
+      "pName": "Sacrifice",
+      "pInfo": "Sacrifice 25% of your maximum HP to raise\nyour magic attack by 50% for three turns.\n\n*The upper limit for magic attack is 150%."
+    },
+    {
+      "itID": 385,
+      "itSubID": 0,
+      "pName": "Annihilation",
+      "pInfo": "Unleash a dark-based magic attack on all\nallies and enemies with –1 BP or less. Note that\nthe lower the target’s BP, the more damage\nwill be dealt."
+    },
+    {
+      "itID": 386,
+      "itSubID": 0,
+      "pName": "Iniquity",
+      "pInfo": "Unleash a dark-based magic attack on all\nallies and enemies with 1 BP or more. Note that\nthe higher the target’s BP, the more damage\nwill be dealt."
+    },
+    {
+      "itID": 387,
+      "itSubID": 0,
+      "pName": "Interment",
+      "pInfo": "Deal high dark damage to all enemies."
+    },
+    {
+      "itID": 441,
+      "itSubID": 0,
+      "pName": "Crescent Moon",
+      "pInfo": "Unleash a physical attack on all enemies that\ndeals the same damage as a conventional\nattack."
+    },
+    {
+      "itID": 442,
+      "itSubID": 0,
+      "pName": "Judgment",
+      "pInfo": "Deal three times the damage of a conventional\nattack to one target."
+    },
+    {
+      "itID": 443,
+      "itSubID": 0,
+      "pName": "Jump",
+      "pInfo": "Jump out of the screen at the end of the turn\nand then come hurtling down during the next\nturn, dealing two times the damage of a\nconventional attack. Note that damage is\ntripled if a spear is equipped."
+    },
+    {
+      "itID": 444,
+      "itSubID": 0,
+      "pName": "Spirit Barrier",
+      "pInfo": "Become impervious to damage for ten turns by\nsacrificing MP equal to 10% of the damage you\nhave suffered."
+    },
+    {
+      "itID": 445,
+      "itSubID": 0,
+      "pName": "Soul Crush",
+      "pInfo": "Reduce one enemy’s MP by 10% of the\ndamage dealt by a conventional attack."
+    },
+    {
+      "itID": 446,
+      "itSubID": 0,
+      "pName": "Decimate",
+      "pInfo": "Allies and enemies with 10% or less HP\nremaining will each suffer damage equal to their\nown remaining HP."
+    },
+    {
+      "itID": 447,
+      "itSubID": 0,
+      "pName": "High Jump",
+      "pInfo": "Jump out of the screen and come hurtling down\nin the next turn, dealing three times the damage\nof a conventional attack. Note that damage is\nincreased 4.5 times if a spear is equipped."
+    },
+    {
+      "itID": 448,
+      "itSubID": 0,
+      "pName": "Super Jump",
+      "pInfo": "Jump out of the screen and then come hurtling\ndown two turns later, dealing double the\ndamage of a conventional attack to all enemies.\nNote that damage is tripled if a spear is\nequipped."
+    },
+    {
+      "itID": 449,
+      "itSubID": 0,
+      "pName": "Jump",
+      "pInfo": ""
+    },
+    {
+      "itID": 450,
+      "itSubID": 0,
+      "pName": "High Jump",
+      "pInfo": ""
+    },
+    {
+      "itID": 451,
+      "itSubID": 0,
+      "pName": "Super Jump",
+      "pInfo": ""
+    },
+    {
+      "itID": 452,
+      "itSubID": 0,
+      "pName": "Sky High",
+      "pInfo": ""
+    },
+    {
+      "itID": 453,
+      "itSubID": 0,
+      "pName": "Sky High",
+      "pInfo": ""
+    },
+    {
+      "itID": 454,
+      "itSubID": 0,
+      "pName": "Land",
+      "pInfo": ""
+    },
+    {
+      "itID": 461,
+      "itSubID": 0,
+      "pName": "Spirit Ward",
+      "pInfo": "All elemental damage to the selected ally is\nnullified for four turns."
+    },
+    {
+      "itID": 462,
+      "itSubID": 0,
+      "pName": "Fairy’s Aid",
+      "pInfo": "Boost the target’s elemental attacks to deal 1.5\ntimes normal damage for five turns."
+    },
+    {
+      "itID": 463,
+      "itSubID": 0,
+      "pName": "Convert BP",
+      "pInfo": "Sacrifice 25% of your maximum MP to raise\nyour BP by two."
+    },
+    {
+      "itID": 464,
+      "itSubID": 0,
+      "pName": "Adaptation",
+      "pInfo": "The selected ally absorbs all elemental damage\nfor four turns."
+    },
+    {
+      "itID": 465,
+      "itSubID": 0,
+      "pName": "Stillness",
+      "pInfo": "Damage to all allies and enemies will be nullified\nfor two turns."
+    },
+    {
+      "itID": 466,
+      "itSubID": 0,
+      "pName": "Greater Spirit Ward",
+      "pInfo": "All elemental damage to all allies is\nreduced for four turns."
+    },
+    {
+      "itID": 467,
+      "itSubID": 0,
+      "pName": "Fairy Ward",
+      "pInfo": "Render all allies immune to poison, blind,\nsilence, sleep, paralyze, dread, berserk, confuse,\ncharm, doom, death, and stop for five turns."
+    },
+    {
+      "itID": 468,
+      "itSubID": 0,
+      "pName": "Moderation",
+      "pInfo": "For all allies and enemies with 1 BP or more,\nreduce BP by 1, and for those with –1 BP or\nless, raise BP by 1."
+    },
+    {
+      "itID": 469,
+      "itSubID": 0,
+      "pName": "Enigma",
+      "pInfo": "Nullify all elemental damage taken by all allies\nfor four turns."
+    },
+    {
+      "itID": 481,
+      "itSubID": 0,
+      "pName": "Compounding",
+      "pInfo": "Combine two items to obtain a special effect."
+    },
+    {
+      "itID": 482,
+      "itSubID": 0,
+      "pName": "Experiment",
+      "pInfo": "Transform a consumable item into an attack\nitem."
+    },
+    {
+      "itID": 483,
+      "itSubID": 0,
+      "pName": "Inoculate",
+      "pInfo": "Use a consumable item that cures a status\nailment on one target to confer immunity to\nthat status ailment for six turns. Note that this\nability can even be used in the silence state."
+    },
+    {
+      "itID": 484,
+      "itSubID": 0,
+      "pName": "First Aid",
+      "pInfo": "Restore HP to the ally with the lowest HP at\nthe end of the turn. Note that this ability can\neven be used in the silence state."
+    },
+    {
+      "itID": 485,
+      "itSubID": 0,
+      "pName": "Widen Area",
+      "pInfo": "Use an item and apply its effects to all targets."
+    },
+    {
+      "itID": 486,
+      "itSubID": 0,
+      "pName": "Turn Toxic",
+      "pInfo": "Inflict poison and deal damage to one target\nequal to the recovery amount of a recovery\nitem."
+    },
+    {
+      "itID": 487,
+      "itSubID": 0,
+      "pName": "Collect",
+      "pInfo": "Get an item during a battle. Note that the items\nyou get differ by location."
+    },
+    {
+      "itID": 488,
+      "itSubID": 0,
+      "pName": "Resurrect",
+      "pInfo": "Resurrect all KO’d allies and restore 25% of\ntheir maximum HP. Note that this ability can\neven be used while silenced."
+    },
+    {
+      "itID": 489,
+      "itSubID": 0,
+      "pName": "Water of Life",
+      "pInfo": ""
+    },
+    {
+      "itID": 490,
+      "itSubID": 0,
+      "pName": "Experiment",
+      "pInfo": ""
+    },
+    {
+      "itID": 521,
+      "itSubID": 0,
+      "pName": "Steal",
+      "pInfo": "Has a 25% chance to steal an item from an\nenemy."
+    },
+    {
+      "itID": 522,
+      "itSubID": 0,
+      "pName": "Life Thief",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 75% chance to restore\nyour own HP by the amount of the damage\ndealt."
+    },
+    {
+      "itID": 523,
+      "itSubID": 0,
+      "pName": "Mug",
+      "pInfo": "Deal the same damage as a conventional attack\nto one target. Also has a 25% chance to steal\nan item from that target."
+    },
+    {
+      "itID": 524,
+      "itSubID": 0,
+      "pName": "Godspeed Strike",
+      "pInfo": "Unleash an attack that substitutes speed for\nphysical attack and ignores enemies’ physical\ndefense."
+    },
+    {
+      "itID": 525,
+      "itSubID": 0,
+      "pName": "Shake Down",
+      "pInfo": "Steal an item from all enemies with a 25%\nsuccess rate for each."
+    },
+    {
+      "itID": 526,
+      "itSubID": 0,
+      "pName": "Steal",
+      "pInfo": ""
+    },
+    {
+      "itID": 541,
+      "itSubID": 0,
+      "pName": "Angel Investment",
+      "pInfo": "Spend your level times 50 pg to raise the\ntarget’s critical rate by 300% for four turns.\n\n*The upper limit for critical rate is 1,000%."
+    },
+    {
+      "itID": 542,
+      "itSubID": 0,
+      "pName": "Pharmacy",
+      "pInfo": "Purchase a recovery item and use it on one\ntarget."
+    },
+    {
+      "itID": 543,
+      "itSubID": 0,
+      "pName": "Hedge Risk",
+      "pInfo": "Halve the damage you suffer for five turns by\nspending money equal to half the damage."
+    },
+    {
+      "itID": 544,
+      "itSubID": 0,
+      "pName": "Takeover",
+      "pInfo": "Spend your level times 50 pg to deal damage\nto one target that is equal to the money you\nspent."
+    },
+    {
+      "itID": 545,
+      "itSubID": 0,
+      "pName": "BP Drink",
+      "pInfo": "Purchase a BP recovery item and use it on one\ntarget.\nSmall BP drink (restores 1 BP): 1,000 pg\nMedium BP drink (restores 2 BP): 10,000 pg\nLarge BP drink (restores 3 BP): 100,000 pg"
+    },
+    {
+      "itID": 546,
+      "itSubID": 0,
+      "pName": "Salesman",
+      "pInfo": "Make an enemy buy a recovery item from you\nat 2.4 times the selling price. Note that the\nsuccess rate of the sale depends on the item."
+    },
+    {
+      "itID": 547,
+      "itSubID": 0,
+      "pName": "Dark Cartel",
+      "pInfo": "Restore one enemy’s HP and make the target\npay pg equal to the number of HP recovered."
+    },
+    {
+      "itID": 548,
+      "itSubID": 0,
+      "pName": "Full Leverage",
+      "pInfo": "For five turns, damage, recovery, and the\nHP/MP/BP required for actions will be double\nthe usual for all allies and enemies."
+    },
+    {
+      "itID": 549,
+      "itSubID": 0,
+      "pName": "Low Leverage",
+      "pInfo": "For five turns, damage, recovery, and the\nHP/MP/BP required for actions will be half\nthe usual for all allies and enemies."
+    },
+    {
+      "itID": 550,
+      "itSubID": 0,
+      "pName": "Payoff",
+      "pInfo": "Spend money to buy off the enemy and end\nthe battle. Note that you will still get the usual\npg, experience, JP, and items."
+    },
+    {
+      "itID": 551,
+      "itSubID": 0,
+      "pName": "Millionaire",
+      "pInfo": "Use this ability with the Send command to\ngift an amount equal to your level times 25 pg\nto a friend who summons this action using\nSummon Friend."
+    },
+    {
+      "itID": 552,
+      "itSubID": 0,
+      "pName": "Payoff",
+      "pInfo": "For use when Payoff fails"
+    },
+    {
+      "itID": 553,
+      "itSubID": 0,
+      "pName": "Salesman",
+      "pInfo": ""
+    },
+    {
+      "itID": 561,
+      "itSubID": 0,
+      "pName": "Love Power",
+      "pInfo": "Raise all targets’ physical attack by 25% for\nfour turns.\n\n*The upper limit for physical attack is 150%."
+    },
+    {
+      "itID": 562,
+      "itSubID": 0,
+      "pName": "Love Rush",
+      "pInfo": "Raise all targets’ speed by 25% for four turns.\n\n*The upper limit for speed is 150%."
+    },
+    {
+      "itID": 563,
+      "itSubID": 0,
+      "pName": "One More for You",
+      "pInfo": "Raise one target’s BP by one."
+    },
+    {
+      "itID": 564,
+      "itSubID": 0,
+      "pName": "Got Your Back",
+      "pInfo": "Raise all targets’ physical defense by 25% for\nfour turns.\n\n*The upper limit for physical defense is 150%."
+    },
+    {
+      "itID": 565,
+      "itSubID": 0,
+      "pName": "Key to Your Heart",
+      "pInfo": "Raise all targets’ magic defense by 25% for\nfour turns.\n\n*The upper limit for magic defense is 150%."
+    },
+    {
+      "itID": 566,
+      "itSubID": 0,
+      "pName": "Little Devil",
+      "pInfo": "Raise all targets’ magic attack by 25% for four\nturns.\n\n*The upper limit for magic attack is 150%."
+    },
+    {
+      "itID": 567,
+      "itSubID": 0,
+      "pName": "Catch Me",
+      "pInfo": "Raise your chances of being targeted by\nenemies to the highest level possible for\nfive turns."
+    },
+    {
+      "itID": 568,
+      "itSubID": 0,
+      "pName": "Zero Sum",
+      "pInfo": "Reduce BP to zero for either all enemies or all\nallies who have one or more BP."
+    },
+    {
+      "itID": 569,
+      "itSubID": 0,
+      "pName": "My Hero",
+      "pInfo": "Raise all targets’ BP by 1."
+    },
+    {
+      "itID": 701,
+      "itSubID": 0,
+      "pName": "Firewall",
+      "pInfo": ""
+    },
+    {
+      "itID": 702,
+      "itSubID": 0,
+      "pName": "Transience",
+      "pInfo": ""
+    },
+    {
+      "itID": 703,
+      "itSubID": 0,
+      "pName": "Counter",
+      "pInfo": ""
+    },
+    {
+      "itID": 704,
+      "itSubID": 0,
+      "pName": "While the Iron Is Hot",
+      "pInfo": ""
+    },
+    {
+      "itID": 705,
+      "itSubID": 0,
+      "pName": "Slow Parry",
+      "pInfo": ""
+    },
+    {
+      "itID": 706,
+      "itSubID": 0,
+      "pName": "See You in Hell",
+      "pInfo": ""
+    },
+    {
+      "itID": 707,
+      "itSubID": 0,
+      "pName": "Obliterate",
+      "pInfo": ""
+    },
+    {
+      "itID": 800,
+      "itSubID": 0,
+      "pName": "Sage’s Staff",
+      "pInfo": ""
+    },
+    {
+      "itID": 801,
+      "itSubID": 0,
+      "pName": "Blood Blade",
+      "pInfo": ""
+    },
+    {
+      "itID": 802,
+      "itSubID": 0,
+      "pName": "Death Axe",
+      "pInfo": ""
+    },
+    {
+      "itID": 803,
+      "itSubID": 0,
+      "pName": "Staff of Life",
+      "pInfo": ""
+    },
+    {
+      "itID": 804,
+      "itSubID": 0,
+      "pName": "Yggdrasil Staff",
+      "pInfo": ""
+    },
+    {
+      "itID": 805,
+      "itSubID": 0,
+      "pName": "Gale Bow",
+      "pInfo": ""
+    },
+    {
+      "itID": 806,
+      "itSubID": 0,
+      "pName": "Blessed Shield",
+      "pInfo": ""
+    },
+    {
+      "itID": 808,
+      "itSubID": 0,
+      "pName": "Gold Hourglass",
+      "pInfo": ""
+    },
+    {
+      "itID": 809,
+      "itSubID": 0,
+      "pName": "Stardust",
+      "pInfo": ""
+    },
+    {
+      "itID": 810,
+      "itSubID": 0,
+      "pName": "Light Curtain",
+      "pInfo": ""
+    },
+    {
+      "itID": 811,
+      "itSubID": 0,
+      "pName": "Water of Life",
+      "pInfo": ""
+    },
+    {
+      "itID": 812,
+      "itSubID": 0,
+      "pName": "Font of Life",
+      "pInfo": ""
+    },
+    {
+      "itID": 813,
+      "itSubID": 0,
+      "pName": "Beast Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 814,
+      "itSubID": 0,
+      "pName": "Aqua Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 815,
+      "itSubID": 0,
+      "pName": "Bug Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 816,
+      "itSubID": 0,
+      "pName": "Plant Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 817,
+      "itSubID": 0,
+      "pName": "Ghost Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 818,
+      "itSubID": 0,
+      "pName": "Demon Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 819,
+      "itSubID": 0,
+      "pName": "Dragon Vim",
+      "pInfo": ""
+    },
+    {
+      "itID": 820,
+      "itSubID": 0,
+      "pName": "Beast Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 821,
+      "itSubID": 0,
+      "pName": "Aqua Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 822,
+      "itSubID": 0,
+      "pName": "Bug Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 823,
+      "itSubID": 0,
+      "pName": "Plant Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 824,
+      "itSubID": 0,
+      "pName": "Ghost Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 825,
+      "itSubID": 0,
+      "pName": "Demon Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 826,
+      "itSubID": 0,
+      "pName": "Dragon Aura",
+      "pInfo": ""
+    },
+    {
+      "itID": 827,
+      "itSubID": 0,
+      "pName": "Beast Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 828,
+      "itSubID": 0,
+      "pName": "Aqua Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 829,
+      "itSubID": 0,
+      "pName": "Bug Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 830,
+      "itSubID": 0,
+      "pName": "Plant Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 831,
+      "itSubID": 0,
+      "pName": "Ghost Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 832,
+      "itSubID": 0,
+      "pName": "Demon Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 833,
+      "itSubID": 0,
+      "pName": "Dragon Coat",
+      "pInfo": ""
+    },
+    {
+      "itID": 834,
+      "itSubID": 0,
+      "pName": "Beast Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 835,
+      "itSubID": 0,
+      "pName": "Aqua Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 836,
+      "itSubID": 0,
+      "pName": "Bug Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 837,
+      "itSubID": 0,
+      "pName": "Plant Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 838,
+      "itSubID": 0,
+      "pName": "Ghost Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 839,
+      "itSubID": 0,
+      "pName": "Demon Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 840,
+      "itSubID": 0,
+      "pName": "Dragon Soul",
+      "pInfo": ""
+    },
+    {
+      "itID": 841,
+      "itSubID": 0,
+      "pName": "Resist Fire",
+      "pInfo": ""
+    },
+    {
+      "itID": 842,
+      "itSubID": 0,
+      "pName": "Resist Water",
+      "pInfo": ""
+    },
+    {
+      "itID": 843,
+      "itSubID": 0,
+      "pName": "Resist Wind",
+      "pInfo": ""
+    },
+    {
+      "itID": 844,
+      "itSubID": 0,
+      "pName": "Resist Lightning",
+      "pInfo": ""
+    },
+    {
+      "itID": 845,
+      "itSubID": 0,
+      "pName": "Resist Earth",
+      "pInfo": ""
+    },
+    {
+      "itID": 846,
+      "itSubID": 0,
+      "pName": "Resist Light",
+      "pInfo": ""
+    },
+    {
+      "itID": 847,
+      "itSubID": 0,
+      "pName": "Resist Dark",
+      "pInfo": ""
+    },
+    {
+      "itID": 848,
+      "itSubID": 0,
+      "pName": "Turtle Split",
+      "pInfo": ""
+    },
+    {
+      "itID": 849,
+      "itSubID": 0,
+      "pName": "Haste Brew",
+      "pInfo": ""
+    },
+    {
+      "itID": 850,
+      "itSubID": 0,
+      "pName": "Lilith’s Kiss",
+      "pInfo": ""
+    },
+    {
+      "itID": 851,
+      "itSubID": 0,
+      "pName": "Bacchus’s Wine",
+      "pInfo": ""
+    },
+    {
+      "itID": 852,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 853,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 854,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 855,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 856,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 857,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 858,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 859,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 860,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 861,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 862,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 863,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 864,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 865,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 866,
+      "itSubID": 0,
+      "pName": "Wonder Rod",
+      "pInfo": ""
+    },
+    {
+      "itID": 867,
+      "itSubID": 0,
+      "pName": "Auto-Potion",
+      "pInfo": ""
+    },
+    {
+      "itID": 868,
+      "itSubID": 0,
+      "pName": "Thief’s Knife",
+      "pInfo": ""
+    },
+    {
+      "itID": 869,
+      "itSubID": 0,
+      "pName": "Muramasa",
+      "pInfo": ""
+    },
+    {
+      "itID": 870,
+      "itSubID": 0,
+      "pName": "Lilith’s Rod",
+      "pInfo": ""
+    }
+  ]
+}

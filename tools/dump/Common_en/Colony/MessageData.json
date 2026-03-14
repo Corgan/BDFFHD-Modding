@@ -1,0 +1,343 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 4176,
+    "data_one_size": 8,
+    "data_num": 83,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1000,
+      "pMessage": "Special Move Shop"
+    },
+    {
+      "id": 1001,
+      "pMessage": "Hill Parts Shop"
+    },
+    {
+      "id": 1002,
+      "pMessage": "Cape Parts Shop"
+    },
+    {
+      "id": 1003,
+      "pMessage": "River Parts Shop"
+    },
+    {
+      "id": 1004,
+      "pMessage": "Valley Parts Shop"
+    },
+    {
+      "id": 1005,
+      "pMessage": "Weapons Shop"
+    },
+    {
+      "id": 1006,
+      "pMessage": "Armor Shop"
+    },
+    {
+      "id": 1007,
+      "pMessage": "Accessory Shop"
+    },
+    {
+      "id": 1008,
+      "pMessage": "Trader"
+    },
+    {
+      "id": 1009,
+      "pMessage": "Combat Item Shop"
+    },
+    {
+      "id": 1010,
+      "pMessage": "Compound Shop"
+    },
+    {
+      "id": 2000,
+      "pMessage": "Construct this building?"
+    },
+    {
+      "id": 2001,
+      "pMessage": "Not enough people."
+    },
+    {
+      "id": 2002,
+      "pMessage": "Change number of people?"
+    },
+    {
+      "id": 2003,
+      "pMessage": "Area not yet reclaimed."
+    },
+    {
+      "id": 2004,
+      "pMessage": "This will be completed soon and cannot be changed."
+    },
+    {
+      "id": 3000,
+      "pMessage": "Time"
+    },
+    {
+      "id": 3001,
+      "pMessage": "Until Done"
+    },
+    {
+      "id": 3002,
+      "pMessage": "Max Level!"
+    },
+    {
+      "id": 3003,
+      "pMessage": "Remaining"
+    },
+    {
+      "id": 3004,
+      "pMessage": " "
+    },
+    {
+      "id": 4000,
+      "pMessage": "Special Moves Available"
+    },
+    {
+      "id": 4001,
+      "pMessage": "Special Move Parts Available"
+    },
+    {
+      "id": 4002,
+      "pMessage": "Special Move Parts Available"
+    },
+    {
+      "id": 4003,
+      "pMessage": "Special Move Parts Available"
+    },
+    {
+      "id": 4004,
+      "pMessage": "Special Move Parts Available"
+    },
+    {
+      "id": 4005,
+      "pMessage": "Weapons Available"
+    },
+    {
+      "id": 4006,
+      "pMessage": "Armor Available"
+    },
+    {
+      "id": 4007,
+      "pMessage": "Accessories Available"
+    },
+    {
+      "id": 4008,
+      "pMessage": "Items Available"
+    },
+    {
+      "id": 4009,
+      "pMessage": "Attack Items Available"
+    },
+    {
+      "id": 4010,
+      "pMessage": "Compounds Available"
+    },
+    {
+      "id": 4011,
+      "pMessage": "Bonus Equipment Available"
+    },
+    {
+      "id": 5000,
+      "pMessage": "Tangled Woods"
+    },
+    {
+      "id": 5001,
+      "pMessage": "Ancient Boulder"
+    },
+    {
+      "id": 5002,
+      "pMessage": "Blackwater Fen"
+    },
+    {
+      "id": 5003,
+      "pMessage": "Rigid Crag"
+    },
+    {
+      "id": 5004,
+      "pMessage": "Downstream Area"
+    },
+    {
+      "id": 5005,
+      "pMessage": "Collapsed Bridge"
+    },
+    {
+      "id": 6000,
+      "pMessage": "Cut trees to make a road?"
+    },
+    {
+      "id": 6001,
+      "pMessage": "Remove the boulder?"
+    },
+    {
+      "id": 6002,
+      "pMessage": "Build a walkway over the fen?"
+    },
+    {
+      "id": 6003,
+      "pMessage": "Dig a tunnel?"
+    },
+    {
+      "id": 6004,
+      "pMessage": "Construct a bridge?"
+    },
+    {
+      "id": 6005,
+      "pMessage": "Repair the suspension bridge?"
+    },
+    {
+      "id": 7000,
+      "pMessage": "Set the number of people and begin work."
+    },
+    {
+      "id": 7001,
+      "pMessage": "Change the number of people working."
+    },
+    {
+      "id": 8000,
+      "pMessage": "Area reclaimed!"
+    },
+    {
+      "id": 8001,
+      "pMessage": "The village’s population increased by %ls!"
+    },
+    {
+      "id": 8002,
+      "pMessage": "Received a gift from the %ls."
+    },
+    {
+      "id": 8003,
+      "pMessage": "%ls complete!"
+    },
+    {
+      "id": 9000,
+      "pMessage": "Close"
+    },
+    {
+      "id": 9001,
+      "pMessage": "Confirm"
+    },
+    {
+      "id": 9002,
+      "pMessage": "Send"
+    },
+    {
+      "id": 9003,
+      "pMessage": "Protect"
+    },
+    {
+      "id": 9004,
+      "pMessage": "Fight"
+    },
+    {
+      "id": 0,
+      "pMessage": "A nemesis was sent here!"
+    },
+    {
+      "id": 1,
+      "pMessage": "Fight this enemy?"
+    },
+    {
+      "id": 2,
+      "pMessage": "You can protect a nemesis so it is not\ndeleted when the limit is reached."
+    },
+    {
+      "id": 3,
+      "pMessage": "You are trying to protect seven nemeses.\nWhen your list is full and all nemeses\nare protected, you will cannot accept\nnew nemeses."
+    },
+    {
+      "id": 4,
+      "pMessage": "Protect this nemesis?"
+    },
+    {
+      "id": 5,
+      "pMessage": "Unprotect?"
+    },
+    {
+      "id": 6,
+      "pMessage": "If you send this nemesis, it will be\nsent to other players villages via\nStreetPass. It will not disappear from\nyour village."
+    },
+    {
+      "id": 7,
+      "pMessage": "Do you want to send it?"
+    },
+    {
+      "id": 8,
+      "pMessage": "Cancel send?"
+    },
+    {
+      "id": 9,
+      "pMessage": "Change the nemesis to send?"
+    },
+    {
+      "id": 10,
+      "pMessage": "Rec Lv"
+    },
+    {
+      "id": 11,
+      "pMessage": "Duration"
+    },
+    {
+      "id": 12,
+      "pMessage": "Source"
+    },
+    {
+      "id": 20,
+      "pMessage": " "
+    },
+    {
+      "id": 21,
+      "pMessage": "Next"
+    },
+    {
+      "id": 22,
+      "pMessage": "Rec Lv"
+    },
+    {
+      "id": 23,
+      "pMessage": "Close"
+    },
+    {
+      "id": 24,
+      "pMessage": "Facilities"
+    },
+    {
+      "id": 25,
+      "pMessage": "Work"
+    },
+    {
+      "id": 26,
+      "pMessage": "Toggle Icons"
+    },
+    {
+      "id": 27,
+      "pMessage": "Buildable Area"
+    },
+    {
+      "id": 28,
+      "pMessage": "Check the status of Norende Village."
+    },
+    {
+      "id": 29,
+      "pMessage": "This building has reached maximum level."
+    },
+    {
+      "id": 30,
+      "pMessage": "Norende Village"
+    },
+    {
+      "id": 31,
+      "pMessage": "hr"
+    },
+    {
+      "id": 32,
+      "pMessage": "min"
+    },
+    {
+      "id": 33,
+      "pMessage": "sec"
+    }
+  ]
+}

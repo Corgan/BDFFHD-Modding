@@ -1,0 +1,4694 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 70224,
+    "data_one_size": 20,
+    "data_num": 669,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "index": 1,
+      "pMessage": "My contract ends here. I’ll take my leave.",
+      "pVoice": "btmsg00001",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2,
+      "pMessage": "What!? Chief, I don’t… I don’t understand!",
+      "pVoice": "btmsg00002",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3,
+      "pMessage": "Your odds are poor, and I don’t take poor clients.",
+      "pVoice": "btmsg00003",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 4,
+      "pMessage": "Go, then! They all abandon me in the end!",
+      "pVoice": "btmsg00004",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 11,
+      "pMessage": "A fitting end… Everything…taken away. So…thirsty…",
+      "pVoice": "btmsg00011",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 21,
+      "pMessage": "Our agreement ends here. This is what your money buys.",
+      "pVoice": "btmsg00021",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 22,
+      "pMessage": "What!? I’ve paid you a small fortune!",
+      "pVoice": "btmsg00022",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 23,
+      "pMessage": "Any further, and I’ll be placing my life on the line.",
+      "pVoice": "btmsg00023",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 24,
+      "pMessage": "That bears a surcharge of 51.2 billion pg.",
+      "pVoice": "btmsg00024",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 25,
+      "pMessage": "Zat’s not a surcharge, it’s a national budget! You’re mad!",
+      "pVoice": "btmsg00025",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 26,
+      "pMessage": "Then this is farewell. Best of luck.",
+      "pVoice": "btmsg00026",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 27,
+      "pMessage": "Zis… Zis is fraud! I’ll see you reported for zis!",
+      "pVoice": "btmsg00027",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 41,
+      "pMessage": "M-money… All my money…! My…glkh…",
+      "pVoice": "btmsg00041",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 51,
+      "pMessage": "What, you aren’t running this time?",
+      "pVoice": "btmsg00051",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 52,
+      "pMessage": "A contract is a contract.",
+      "pVoice": "btmsg00052",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 53,
+      "pMessage": "…And many’s the coin I earned under the king’s auspices.",
+      "pVoice": "btmsg00053",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 54,
+      "pMessage": "It’s not in my nature, but I’m prepared to die for this one!",
+      "pVoice": "btmsg00054",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 61,
+      "pMessage": "Hngh… Very well.\nOnly fitting that money should be my end.",
+      "pVoice": "btmsg00061",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 62,
+      "pMessage": "My goal is met. I’ve no reason to…earn another coin.\nNo reason…",
+      "pVoice": "btmsg00062",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 71,
+      "pMessage": "Khint! This isn’t happening… Is there no one else!?",
+      "pVoice": "btmsg00071",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 81,
+      "pMessage": "I’ll give my throne to no one… No one…!",
+      "pVoice": "btmsg00081",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 151,
+      "pMessage": "Ah ha ha! Ah ha ha ha ha ha!",
+      "pVoice": "btmsg00151",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 152,
+      "pMessage": "They’re like little dolls.\nOne good twist, and off pops their head!",
+      "pVoice": "btmsg00152",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 153,
+      "pMessage": "You are ever demanding of your toys, Victoria.",
+      "pVoice": "btmsg00153",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 161,
+      "pMessage": "They’d been apart half a lifetime, and just finally…",
+      "pVoice": "btmsg00161",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 162,
+      "pMessage": "Have you no humanity!?",
+      "pVoice": "btmsg00162",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 163,
+      "pMessage": "Victor, were we to bring back the vestals, plural?",
+      "pVoice": "btmsg00163",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 164,
+      "pMessage": "No, Victoria. We were charged with securing only one.",
+      "pVoice": "btmsg00164",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 165,
+      "pMessage": "Then I think I’ll go ahead and kill the wind vestal.",
+      "pVoice": "btmsg00165",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 166,
+      "pMessage": "Yes, that sounds rather lovely.",
+      "pVoice": "btmsg00166",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 181,
+      "pMessage": "Were these my father’s orders!?",
+      "pVoice": "btmsg00181",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 182,
+      "pMessage": "Hmm? Ah, it’s the grand marshal’s girl.",
+      "pVoice": "btmsg00182",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 183,
+      "pMessage": "I was too distracted by the vestals to notice.",
+      "pVoice": "btmsg00183",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 184,
+      "pMessage": "Has my father truly performed such brutality\nall this time!?",
+      "pVoice": "btmsg00184",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 185,
+      "pMessage": "Quiet your wailing.\nHe was calm enough when he cast you off.",
+      "pVoice": "btmsg00185",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 186,
+      "pMessage": "Indeed, I see no issue with terminating her here.",
+      "pVoice": "btmsg00186",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 201,
+      "pMessage": "I grow bored, Victor.",
+      "pVoice": "btmsg00201",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 202,
+      "pMessage": "Then shall we conclude?",
+      "pVoice": "btmsg00202",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 203,
+      "pMessage": "Ha ha, erase all but the water vestal.",
+      "pVoice": "btmsg00203",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 204,
+      "pMessage": "The rest ar…argh…nng…nhh!",
+      "pVoice": "btmsg00204",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 205,
+      "pMessage": "…!? Victoria? Victoria!",
+      "pVoice": "btmsg00205",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 206,
+      "pMessage": "Nhh…ahh…nh…aah…aaagh!!",
+      "pVoice": "btmsg00206",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 207,
+      "pMessage": "Of course it would have to be now…",
+      "pVoice": "btmsg00207",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 208,
+      "pMessage": "I fear we must adjourn. My apologies!",
+      "pVoice": "btmsg00208",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 209,
+      "pMessage": "…Did we win?",
+      "pVoice": "btmsg00209",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 210,
+      "pMessage": "No, they let us…go?",
+      "pVoice": "btmsg00210",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 211,
+      "pMessage": "Artemia…prey…",
+      "pVoice": "btmsg00211",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 212,
+      "pMessage": "Sister…",
+      "pVoice": "btmsg00212",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 231,
+      "pMessage": "Since you’re clearly incapable of managing\nmy nickname…",
+      "pVoice": "btmsg00231",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 232,
+      "pMessage": "Let’s make this formal.",
+      "pVoice": "btmsg00232",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 233,
+      "pMessage": "I am captain of the Eternian Forces’\nBloodrose Legion—",
+      "pVoice": "btmsg00233",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 234,
+      "pMessage": "Red Mage Fiore DeRosa!",
+      "pVoice": "btmsg00234",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 241,
+      "pMessage": "Sp-sp-splendid!",
+      "pVoice": "btmsg00241",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 242,
+      "pMessage": "You dumb—I told you to stand firm…not to…",
+      "pVoice": "btmsg00242",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 301,
+      "pMessage": "You, a mere vestal, dare hinder my every move!",
+      "pVoice": "btmsg00301",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 302,
+      "pMessage": "Your early years may be tragic indeed!",
+      "pVoice": "btmsg00302",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 303,
+      "pMessage": "But I cannot forgive what you’ve done!",
+      "pVoice": "btmsg00303",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 304,
+      "pMessage": "You stole the life of a dear friend from me!",
+      "pVoice": "btmsg00304",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 305,
+      "pMessage": "Hmph, vengeance? I can relate to that.",
+      "pVoice": "btmsg00305",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 306,
+      "pMessage": "I’ve no interest in the grand marshal’s fancy ideals.",
+      "pVoice": "btmsg00306",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 307,
+      "pMessage": "But we do agree on one thing—\nthe need to crush the Orthodoxy.",
+      "pVoice": "btmsg00307",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 308,
+      "pMessage": "Total annihilation would be too easy on them!",
+      "pVoice": "btmsg00308",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 309,
+      "pMessage": "They’ll all pay for what they did to me!",
+      "pVoice": "btmsg00309",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 311,
+      "pMessage": "Ugh… I wish you…I wish you’d all drop dead.",
+      "pVoice": "btmsg00311",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 312,
+      "pMessage": "Victoria…? Victoria!",
+      "pVoice": "btmsg00312",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 321,
+      "pMessage": "Forgive me…Victoria.",
+      "pVoice": "btmsg00321",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 322,
+      "pMessage": "Fool. I didn’t say you could die before me.",
+      "pVoice": "btmsg00322",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 331,
+      "pMessage": "Unh, Victor… Victor, where are you?",
+      "pVoice": "btmsg00331",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 332,
+      "pMessage": "R-right here…by your side.",
+      "pVoice": "btmsg00332",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 333,
+      "pMessage": "I just wanted to say…I really hate you.",
+      "pVoice": "btmsg00333",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 334,
+      "pMessage": "But now, finally, I’m free. Free of this pain.",
+      "pVoice": "btmsg00334",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 335,
+      "pMessage": "No, I will not let you go.",
+      "pVoice": "btmsg00335",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 336,
+      "pMessage": "Fine, I suppose there’s no getting rid of you.",
+      "pVoice": "btmsg00336",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 337,
+      "pMessage": "Th-thank you, Victoria. Sweet Victoria…",
+      "pVoice": "btmsg00337",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 338,
+      "pMessage": "You wouldn’t let me die, though I suffered so.",
+      "pVoice": "btmsg00338",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 339,
+      "pMessage": "If I’m to die, my soul… It shall join you.",
+      "pVoice": "btmsg00339",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 341,
+      "pMessage": "I couldn’t possibly go on without Victor…",
+      "pVoice": "btmsg00341",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 342,
+      "pMessage": "It’s better this way. Now I can finally die…finally.",
+      "pVoice": "btmsg00342",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 343,
+      "pMessage": "Not that I was that fond of him,\nbut I did need his treatments.",
+      "pVoice": "btmsg00343",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 351,
+      "pMessage": "Heh heh, I am in your debt.",
+      "pVoice": "btmsg00351",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 352,
+      "pMessage": "I now go to be by Victoria’s side.",
+      "pVoice": "btmsg00352",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 353,
+      "pMessage": "You grant me the gift of death.",
+      "pVoice": "btmsg00353",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 354,
+      "pMessage": "Ha ha ha… Sweet Victoria. Sweet, sweet Vic…",
+      "pVoice": "btmsg00354",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 361,
+      "pMessage": "I am Braev Lee, the Templar…",
+      "pVoice": "btmsg00361",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 362,
+      "pMessage": "…Grand Marshal of Eternia! Prepare for battle!",
+      "pVoice": "btmsg00362",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 363,
+      "pMessage": "You shall not pass.",
+      "pVoice": "btmsg00363",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 364,
+      "pMessage": "You shall not pass!",
+      "pVoice": "btmsg00364",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 365,
+      "pMessage": "…Hrgh.",
+      "pVoice": "btmsg00365",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 366,
+      "pMessage": "You have grown strong, my daughter.",
+      "pVoice": "btmsg00366",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 381,
+      "pMessage": "This ship will tumble out of control\nif we don’t do something!",
+      "pVoice": "btmsg00381",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 382,
+      "pMessage": "This ship shall go crashing down along\nwith all on board!",
+      "pVoice": "btmsg00382",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 383,
+      "pMessage": "[PCF2]!",
+      "pVoice": "btmsg00383",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 384,
+      "pMessage": "You know not the Lord Marshal’s mind!",
+      "pVoice": "btmsg00384",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 385,
+      "pMessage": "We’ve already settled the matter between us!",
+      "pVoice": "btmsg00385",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 386,
+      "pMessage": "You have no business interfering now!",
+      "pVoice": "btmsg00386",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 387,
+      "pMessage": "Settled the matter? Nothing has been settled!",
+      "pVoice": "btmsg00387",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 388,
+      "pMessage": "All you have is a false sense of understanding.",
+      "pVoice": "btmsg00388",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 389,
+      "pMessage": "Wind Vestal! I should have killed you long ago.",
+      "pVoice": "btmsg00389",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 390,
+      "pMessage": "You have become the bane of Eternia…\nNay, all the world!",
+      "pVoice": "btmsg00390",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 391,
+      "pMessage": "Never again shall you deceive [PCF2]!",
+      "pVoice": "btmsg00391",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 392,
+      "pMessage": "I’ve no interest in your foul, twisted beliefs.",
+      "pVoice": "btmsg00392",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 393,
+      "pMessage": "It is my sworn task to save the world from ruin.",
+      "pVoice": "btmsg00393",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 394,
+      "pMessage": "And I shall not fall before my task is done!",
+      "pVoice": "btmsg00394",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 395,
+      "pMessage": "Open your eyes, [PCF2]!",
+      "pVoice": "btmsg00395",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 396,
+      "pMessage": "These traitorous scum have deceived you!",
+      "pVoice": "btmsg00396",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 397,
+      "pMessage": "Join me now in defeating the vestal!",
+      "pVoice": "btmsg00397",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 398,
+      "pMessage": "How could you say such a thing!?",
+      "pVoice": "btmsg00398",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 399,
+      "pMessage": "[PCF1] has become a dear friend of mine.",
+      "pVoice": "btmsg00399",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 400,
+      "pMessage": "Rgh!",
+      "pVoice": "btmsg00400",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 401,
+      "pMessage": "Grandship’s pitching even worse now!",
+      "pVoice": "btmsg00401",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 402,
+      "pMessage": "She won’t hold up much longer!",
+      "pVoice": "btmsg00402",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 403,
+      "pMessage": "In the foul, reeking underslums of Florem…",
+      "pVoice": "btmsg00403",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 404,
+      "pMessage": "…I survived on muddied waters and gritty sands.",
+      "pVoice": "btmsg00404",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 405,
+      "pMessage": "But what choice does one have\nwhen abandoned soon after birth!?",
+      "pVoice": "btmsg00405",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 406,
+      "pMessage": "Hatred for this accursed world\nhad been my sustenance.",
+      "pVoice": "btmsg00406",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 407,
+      "pMessage": "That is, until the grand marshal saved me!",
+      "pVoice": "btmsg00407",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 408,
+      "pMessage": "He took me in and raised me as if I were his own!",
+      "pVoice": "btmsg00408",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 409,
+      "pMessage": "To help him fulfill his ideals became my purpose…\nmy will to live!",
+      "pVoice": "btmsg00409",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 410,
+      "pMessage": "And now, you fools…you have…!",
+      "pVoice": "btmsg00410",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 411,
+      "pMessage": "Can we not go back to as before, [PCF2]?",
+      "pVoice": "btmsg00411",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 412,
+      "pMessage": "Did we not grow up together!?\nDid we not enjoy the closeness of family!?",
+      "pVoice": "btmsg00412",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 413,
+      "pMessage": "I…I had thought that once I had proven myself…",
+      "pVoice": "btmsg00413",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 414,
+      "pMessage": "…perhaps I would…would take you as my bride!",
+      "pVoice": "btmsg00414",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 415,
+      "pMessage": "Don’t be a fool!\nNow’s not the time for such rubbish!",
+      "pVoice": "btmsg00415",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 416,
+      "pMessage": "Rubbish…? …Arrrgh!!",
+      "pVoice": "btmsg00416",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 431,
+      "pMessage": "Waugh! D-d-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 432,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 441,
+      "pMessage": "Waugh! Dr-dr-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 442,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 451,
+      "pMessage": "Waugh! Dr-dr-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 452,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 461,
+      "pMessage": "Waugh! Dr-dr-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 462,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 471,
+      "pMessage": "Waugh! Dr-dr-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 472,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 481,
+      "pMessage": "Waugh! Dr-dr-dragon!",
+      "pVoice": "btmsg00431",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 482,
+      "pMessage": "Here it comes!",
+      "pVoice": "btmsg00432",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 491,
+      "pMessage": "H-how can this be?",
+      "pVoice": "btmsg00491",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 492,
+      "pMessage": "The immortal Lester DeRosso has been defeated?",
+      "pVoice": "btmsg00492",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 551,
+      "pMessage": "Do you know that fairy’s true objective?",
+      "pVoice": "btmsg00551",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 552,
+      "pMessage": "She intends to let the power of the crystals run wild!",
+      "pVoice": "btmsg00552",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 553,
+      "pMessage": "You have all fallen for her ruse.",
+      "pVoice": "btmsg00553",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 554,
+      "pMessage": "That includes you, Wind Vestal!",
+      "pVoice": "btmsg00554",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 555,
+      "pMessage": "Awakening the crystals will not save the world!",
+      "pVoice": "btmsg00555",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 556,
+      "pMessage": "On the contrary, it shall bring the world to ruin!",
+      "pVoice": "btmsg00556",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 557,
+      "pMessage": "I heard this from the grand marshal himself!",
+      "pVoice": "btmsg00557",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 558,
+      "pMessage": "Our true enemy is not the wind vestal,\nbut the cryst-fairy!",
+      "pVoice": "btmsg00558",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 559,
+      "pMessage": "But it is written in the scriptures!",
+      "pVoice": "btmsg00559",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 560,
+      "pMessage": "Cryst-fairies guide the vestals from the path\nof danger.",
+      "pVoice": "btmsg00560",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 561,
+      "pMessage": "They are the embodiment of the crystals’ light!",
+      "pVoice": "btmsg00561",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 562,
+      "pMessage": "Clearly deceptions fabricated by the Orthodoxy!",
+      "pVoice": "btmsg00562",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 571,
+      "pMessage": "If you’ve come to finish the job you started,\nyou’re in for a surprise!",
+      "pVoice": "btmsg00571",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 572,
+      "pMessage": "You forget, I’m a skilled white mage. Hah!",
+      "pVoice": "btmsg00572",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 573,
+      "pMessage": "I have already healed our wounds completely!",
+      "pVoice": "btmsg00573",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 574,
+      "pMessage": "Never underestimate your elders!",
+      "pVoice": "btmsg00574",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 575,
+      "pMessage": "Ha ha haaa! I’m back in action!",
+      "pVoice": "btmsg00575",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 576,
+      "pMessage": "Feel my fists of rage!",
+      "pVoice": "btmsg00576",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 591,
+      "pMessage": "Gwah… I guess this is the end…of the line…",
+      "pVoice": "btmsg00591",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 592,
+      "pMessage": "These muscles of steel…failed me…",
+      "pVoice": "btmsg00592",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 593,
+      "pMessage": "You’ve got to be kidding me, Barras!",
+      "pVoice": "btmsg00593",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 594,
+      "pMessage": "What are you doing? Stand up!",
+      "pVoice": "btmsg00594",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 595,
+      "pMessage": "Get on your feet and roar like you always do!",
+      "pVoice": "btmsg00595",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 596,
+      "pMessage": "I can’t get into my rhythm otherwise!",
+      "pVoice": "btmsg00596",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 597,
+      "pMessage": "… You worthless worm… What a dolt…",
+      "pVoice": "btmsg00597",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 598,
+      "pMessage": "There’s nothing worse than a man\nwho lets women down…",
+      "pVoice": "btmsg00598",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 611,
+      "pMessage": "Gah… You got…me…",
+      "pVoice": "btmsg00611",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 612,
+      "pMessage": "H-Holly! Oh, son of a…!",
+      "pVoice": "btmsg00612",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 613,
+      "pMessage": "I would tell you to calm down…",
+      "pVoice": "btmsg00613",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 614,
+      "pMessage": "But I don’t think you’re capable of it.",
+      "pVoice": "btmsg00614",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 615,
+      "pMessage": "Without me, who will heal your wounds?",
+      "pVoice": "btmsg00615",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 616,
+      "pMessage": "You must flee, and find another…partner…",
+      "pVoice": "btmsg00616",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 617,
+      "pMessage": "Don’t say that!",
+      "pVoice": "btmsg00617",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 618,
+      "pMessage": "You are the only one I need, Holly!",
+      "pVoice": "btmsg00618",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 619,
+      "pMessage": "I won’t let anyone else touch me!",
+      "pVoice": "btmsg00619",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 620,
+      "pMessage": "Hmph. You dunderhead. Thanks…anyway…",
+      "pVoice": "btmsg00620",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 641,
+      "pMessage": "Gah… No… I’m not…done…yet…",
+      "pVoice": "btmsg00641",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 642,
+      "pMessage": "Yarrgh!",
+      "pVoice": "btmsg00642",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 643,
+      "pMessage": "Nothing fazes these…muscles of steel!",
+      "pVoice": "btmsg00643",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 644,
+      "pMessage": "St-steel…",
+      "pVoice": "btmsg00644",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 645,
+      "pMessage": "……",
+      "pVoice": "btmsg00645",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 661,
+      "pMessage": "How could you…do this to your elder…?",
+      "pVoice": "btmsg00661",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 662,
+      "pMessage": "What cruel…brats…",
+      "pVoice": "btmsg00662",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 663,
+      "pMessage": "All that showing off…",
+      "pVoice": "btmsg00663",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 664,
+      "pMessage": "You really…make me…sick…",
+      "pVoice": "btmsg00664",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 671,
+      "pMessage": "What is with you people!? Stay away from me!",
+      "pVoice": "btmsg00671",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 672,
+      "pMessage": "It’s just not right! The cheek of it!",
+      "pVoice": "btmsg00672",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 673,
+      "pMessage": "Do you d-despise me that much!?",
+      "pVoice": "btmsg00673",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 674,
+      "pMessage": "I-it was all your fault, anyway!",
+      "pVoice": "btmsg00674",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 675,
+      "pMessage": "Yeah, that’s it. You’re the ones to blame!",
+      "pVoice": "btmsg00675",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 676,
+      "pMessage": "I…did nothing…wrong…",
+      "pVoice": "btmsg00676",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 681,
+      "pMessage": "Your father judged you to have come of age!",
+      "pVoice": "btmsg00681",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 682,
+      "pMessage": "That is why he assigned you to the Eternian\nSky Knights!",
+      "pVoice": "btmsg00682",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 683,
+      "pMessage": "But you throw it back in his face! For shame!",
+      "pVoice": "btmsg00683",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 691,
+      "pMessage": "Gah… My sword was not up to the task…",
+      "pVoice": "btmsg00691",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 701,
+      "pMessage": "Need a hand, Jackal?",
+      "pVoice": "btmsg00701",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 702,
+      "pMessage": "Ah, chief. Perfect timing!",
+      "pVoice": "btmsg00702",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 703,
+      "pMessage": "The usual fee, then?",
+      "pVoice": "btmsg00703",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 704,
+      "pMessage": "Heh, no problem!",
+      "pVoice": "btmsg00704",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 731,
+      "pMessage": "Cripes… If only I could see…one last time…",
+      "pVoice": "btmsg00731",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 732,
+      "pMessage": "Not…my parents… The boss…",
+      "pVoice": "btmsg00732",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 741,
+      "pMessage": "Need some assistance, Profiteur?",
+      "pVoice": "btmsg00741",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 742,
+      "pMessage": "Is zis not obvious!?",
+      "pVoice": "btmsg00742",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 743,
+      "pMessage": "I trust I will be compensated?",
+      "pVoice": "btmsg00743",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 744,
+      "pMessage": "You shall be richly rewarded.\nMake sure none survive!",
+      "pVoice": "btmsg00744",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 745,
+      "pMessage": "Then we have a deal.\nYour money will be well spent.",
+      "pVoice": "btmsg00745",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 746,
+      "pMessage": "Kill ze little pests!",
+      "pVoice": "btmsg00746",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 781,
+      "pMessage": "Gold… Zat is all you need…",
+      "pVoice": "btmsg00781",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 782,
+      "pMessage": "It buys status, fame, anything…",
+      "pVoice": "btmsg00782",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 791,
+      "pMessage": "So, you’re staying put this time!?",
+      "pVoice": "btmsg00791",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 792,
+      "pMessage": "Such a reward is worth taking a few risks.",
+      "pVoice": "btmsg00792",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 793,
+      "pMessage": "I must earn my keep by holding up\nmy end of the bargain.",
+      "pVoice": "btmsg00793",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 801,
+      "pMessage": "Grr… Just a bit…more…",
+      "pVoice": "btmsg00801",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 802,
+      "pMessage": "Still…the money has been…worth it…",
+      "pVoice": "btmsg00802",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 891,
+      "pMessage": "Yeah, we know.\nCaptain of the Bloodrose Legion—",
+      "pVoice": "btmsg00891",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 892,
+      "pMessage": "The Red Mage, Old Man DeRosa!",
+      "pVoice": "btmsg00892",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 893,
+      "pMessage": "Whoa, hold on there…",
+      "pVoice": "btmsg00893",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 901,
+      "pMessage": "Hah, it is the Susano-o I sought!",
+      "pVoice": "btmsg00901",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 902,
+      "pMessage": "Look at that beast! Such awesome power!",
+      "pVoice": "btmsg00902",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 903,
+      "pMessage": "I thank you for this gesture. Gah hah hah!",
+      "pVoice": "btmsg00903",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 911,
+      "pMessage": "What do you mean, I disgust you!?",
+      "pVoice": "btmsg00911",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 912,
+      "pMessage": "I don’t remember doing anything to you!",
+      "pVoice": "btmsg00912",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 913,
+      "pMessage": "Ah ha ha, but of course you don’t.",
+      "pVoice": "btmsg00913",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 914,
+      "pMessage": "You have your health,\nand blood relatives that care for you deeply.",
+      "pVoice": "btmsg00914",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 915,
+      "pMessage": "You live a life of comfort,\nwith many friends and teachers…",
+      "pVoice": "btmsg00915",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 916,
+      "pMessage": "Any yet despite these blessings, you rebelled.",
+      "pVoice": "btmsg00916",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 917,
+      "pMessage": "How can you display such arrogance, [PCF2]!?",
+      "pVoice": "btmsg00917",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 918,
+      "pMessage": "I find your very existence offensive!",
+      "pVoice": "btmsg00918",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 919,
+      "pMessage": "I…I fail to see how that is justified…",
+      "pVoice": "btmsg00919",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 920,
+      "pMessage": "Is that right?\nYou have no concept of the suffering of us have-nots!",
+      "pVoice": "btmsg00920",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 921,
+      "pMessage": "Justified or not, I despise you!",
+      "pVoice": "btmsg00921",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 922,
+      "pMessage": "Why don’t you just roll over and die now!?",
+      "pVoice": "btmsg00922",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 931,
+      "pMessage": "V-Victor… Where are you? I cannot see…",
+      "pVoice": "btmsg00931",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 941,
+      "pMessage": "I…am sorry…Victoria…",
+      "pVoice": "btmsg00941",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 942,
+      "pMessage": "Nonsense! Open your eyes, Victor!",
+      "pVoice": "btmsg00942",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 943,
+      "pMessage": "I will not permit you to die before me!",
+      "pVoice": "btmsg00943",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 971,
+      "pMessage": "With Victor gone, my treatment will stop.",
+      "pVoice": "btmsg00971",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 972,
+      "pMessage": "The next fit I have will be my last.",
+      "pVoice": "btmsg00972",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 973,
+      "pMessage": "So with the short time I have left…",
+      "pVoice": "btmsg00973",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 974,
+      "pMessage": "I’d like nothing more than to crush you all!",
+      "pVoice": "btmsg00974",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 981,
+      "pMessage": "Victoria… We have lost her…",
+      "pVoice": "btmsg00981",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 982,
+      "pMessage": "My sole reason for living, gone…",
+      "pVoice": "btmsg00982",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 983,
+      "pMessage": "Heh, ah ha ha. Then there is nothing else for it…",
+      "pVoice": "btmsg00983",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 984,
+      "pMessage": "I shall end this miserable life…\nand take you all with me!",
+      "pVoice": "btmsg00984",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 991,
+      "pMessage": "Victor… Do not…leave me…alone…",
+      "pVoice": "btmsg00991",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1001,
+      "pMessage": "Thank you…for killing me…",
+      "pVoice": "btmsg01001",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1002,
+      "pMessage": "Now Victoria…and I…",
+      "pVoice": "btmsg01002",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1003,
+      "pMessage": "shall be together…for eternity…",
+      "pVoice": "btmsg01003",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1051,
+      "pMessage": "Bah ha ha! Ze great Ciggma Khint…",
+      "pVoice": "btmsg01051",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1052,
+      "pMessage": "Former commander of Eternia’s occupation…",
+      "pVoice": "btmsg01052",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1053,
+      "pMessage": "Reduced to a lowly bodyguard to pay for his\ndaughter’s treatments.",
+      "pVoice": "btmsg01053",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1054,
+      "pMessage": "How far ze…mighty fall…",
+      "pVoice": "btmsg01054",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1055,
+      "pMessage": "He had his chance to share in ze spoils.",
+      "pVoice": "btmsg01055",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1056,
+      "pMessage": "But zat boat sailed fifteen years past…",
+      "pVoice": "btmsg01056",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1057,
+      "pMessage": "Treatments? Bah! What a…bald-faced…",
+      "pVoice": "btmsg01057",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1111,
+      "pMessage": "Forgive me…Father…",
+      "pVoice": "btmsg01111",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1112,
+      "pMessage": "Victor!",
+      "pVoice": "btmsg01112",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1121,
+      "pMessage": "Thank…you… Victor…",
+      "pVoice": "btmsg01121",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1131,
+      "pMessage": "That swordsmanship…\nIt is a mirror to Kamiizumi’s own.",
+      "pVoice": "btmsg01131",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1132,
+      "pMessage": "Then…you are [PCF2]!",
+      "pVoice": "btmsg01132",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1141,
+      "pMessage": "",
+      "pVoice": "btmsg01141",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1151,
+      "pMessage": "Aieeeeee!",
+      "pVoice": "btmsg01151",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1152,
+      "pMessage": "Mephilia! You’ve done enough. Withdraw!",
+      "pVoice": "btmsg01152",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1153,
+      "pMessage": "Mephilia not die. You run, you live.",
+      "pVoice": "btmsg01153",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1154,
+      "pMessage": "I suppose I’ve…no choice but retreat.",
+      "pVoice": "btmsg01154",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1161,
+      "pMessage": "Awwwrrr!",
+      "pVoice": "btmsg01161",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1162,
+      "pMessage": "Artemia! It’s too much for you! Fall back!",
+      "pVoice": "btmsg01162",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1163,
+      "pMessage": "Enough, Artemia! You’d best retreat!",
+      "pVoice": "btmsg01163",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1164,
+      "pMessage": "Hate retreat…but Artemia go.",
+      "pVoice": "btmsg01164",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1171,
+      "pMessage": "Hngh! How is this possible!?",
+      "pVoice": "btmsg01171",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1172,
+      "pMessage": "Einheria, please, you must retreat!",
+      "pVoice": "btmsg01172",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1173,
+      "pMessage": "Einheria not die. You run, you live.",
+      "pVoice": "btmsg01173",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1174,
+      "pMessage": "…You’ve grown strong, [PCF2].",
+      "pVoice": "btmsg01174",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1251,
+      "pMessage": "My fira will… I’ll s-see you burn…",
+      "pVoice": "btmsg01251",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1301,
+      "pMessage": "",
+      "pVoice": "btmsg01301",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1302,
+      "pMessage": "",
+      "pVoice": "btmsg01302",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1303,
+      "pMessage": "",
+      "pVoice": "btmsg01303",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1311,
+      "pMessage": "",
+      "pVoice": "btmsg01311",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1312,
+      "pMessage": "",
+      "pVoice": "btmsg01312",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1313,
+      "pMessage": "",
+      "pVoice": "btmsg01313",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1314,
+      "pMessage": "",
+      "pVoice": "btmsg01314",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1315,
+      "pMessage": "",
+      "pVoice": "btmsg01315",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1316,
+      "pMessage": "",
+      "pVoice": "btmsg01316",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1317,
+      "pMessage": "",
+      "pVoice": "btmsg01317",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1318,
+      "pMessage": "",
+      "pVoice": "btmsg01318",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1319,
+      "pMessage": "",
+      "pVoice": "btmsg01319",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1320,
+      "pMessage": "",
+      "pVoice": "btmsg01320",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1341,
+      "pMessage": "",
+      "pVoice": "btmsg01341",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1342,
+      "pMessage": "",
+      "pVoice": "btmsg01342",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1351,
+      "pMessage": "Hrrgh… Pesky mortals…heh heh heh.",
+      "pVoice": "btmsg01351",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1361,
+      "pMessage": "We first met on that precipice overlooking the Great Chasm.",
+      "pVoice": "btmsg01361",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1362,
+      "pMessage": "You had come forth from the chasm’s depths.",
+      "pVoice": "btmsg01362",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1363,
+      "pMessage": "But you had only just slain us! Our blood had yet to dry!",
+      "pVoice": "btmsg01363",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1364,
+      "pMessage": "Indeed, you have served me well.",
+      "pVoice": "btmsg01364",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1365,
+      "pMessage": "Now, die a bitter death knowing you served your enemy!",
+      "pVoice": "btmsg01365",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1366,
+      "pMessage": "…Unacceptable!!",
+      "pVoice": "btmsg01366",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1381,
+      "pMessage": "I’ll never forgive you for violating [PCF1]’s trust!",
+      "pVoice": "btmsg01381",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1382,
+      "pMessage": "Always the same. Always about [PCF1].",
+      "pVoice": "btmsg01382",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1383,
+      "pMessage": "I hate that about you most of all!",
+      "pVoice": "btmsg01383",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1391,
+      "pMessage": "My father and Master Kamiizumi warned us of you.",
+      "pVoice": "btmsg01391",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1392,
+      "pMessage": "Now, too late, I see the fool I’ve been.",
+      "pVoice": "btmsg01392",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1393,
+      "pMessage": "Those who act by emotion are the easiest to master.",
+      "pVoice": "btmsg01393",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1394,
+      "pMessage": "I pity your father.",
+      "pVoice": "btmsg01394",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1395,
+      "pMessage": "To know of me, only to be thwarted by his own daughter.",
+      "pVoice": "btmsg01395",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1411,
+      "pMessage": "I ought have seen through you sooner…",
+      "pVoice": "btmsg01411",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1412,
+      "pMessage": "I knew of your evils! I ought have…",
+      "pVoice": "btmsg01412",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1413,
+      "pMessage": "You style yourself a hero? Arrogance!",
+      "pVoice": "btmsg01413",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1414,
+      "pMessage": "You did nothing but stand in awe of my might!",
+      "pVoice": "btmsg01414",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1415,
+      "pMessage": "Rgh! I… I…!",
+      "pVoice": "btmsg01415",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1431,
+      "pMessage": "Quite tenacious, aren’t we?",
+      "pVoice": "btmsg01431",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1432,
+      "pMessage": "But all your efforts shall be in vain!",
+      "pVoice": "btmsg01432",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1441,
+      "pMessage": "You mortals shall know your place!",
+      "pVoice": "btmsg01441",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1451,
+      "pMessage": "This isn’t what happens…",
+      "pVoice": "btmsg01451",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1452,
+      "pMessage": "How… How are they different from the last?",
+      "pVoice": "btmsg01452",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1461,
+      "pMessage": "Warriors of light, bah! Mere mortals! Pawns!",
+      "pVoice": "btmsg01461",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1462,
+      "pMessage": "You shall pay dearly for this defiance!",
+      "pVoice": "btmsg01462",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1481,
+      "pMessage": "Ah, how sublime this flesh. Such magnificence!",
+      "pVoice": "btmsg01481",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1482,
+      "pMessage": "What are you talking about?",
+      "pVoice": "btmsg01482",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1483,
+      "pMessage": "The pattern on my wings…",
+      "pVoice": "btmsg01483",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1484,
+      "pMessage": "It heralds the beginning!",
+      "pVoice": "btmsg01484",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1485,
+      "pMessage": "I have attained a perfect form!",
+      "pVoice": "btmsg01485",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1486,
+      "pMessage": "So those were numbers!",
+      "pVoice": "btmsg01486",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1487,
+      "pMessage": "Ahh, yes. You’ve borne witness the longest.",
+      "pVoice": "btmsg01487",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1488,
+      "pMessage": "Heh he heh… Ha ha ha ha ha!",
+      "pVoice": "btmsg01488",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1489,
+      "pMessage": "From your hiding place in the shadows, frozen in fear.",
+      "pVoice": "btmsg01489",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1490,
+      "pMessage": "A lowly worm, too cowardly to save the one you loved.",
+      "pVoice": "btmsg01490",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1491,
+      "pMessage": "Rgh!",
+      "pVoice": "btmsg01491",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1501,
+      "pMessage": "…[PCF1]…",
+      "pVoice": "btmsg01501",
+      "wait": 1106247680,
+      "depth": 1092616192
+    },
+    {
+      "index": 1502,
+      "pMessage": "…Airy…you…you…",
+      "pVoice": "btmsg01502",
+      "wait": 1106247680,
+      "depth": 1092616192
+    },
+    {
+      "index": 1503,
+      "pMessage": "Everyone…I’m…",
+      "pVoice": "btmsg01503",
+      "wait": 1106247680,
+      "depth": 1092616192
+    },
+    {
+      "index": 1504,
+      "pMessage": "Again… Again, I couldn’t…",
+      "pVoice": "btmsg01504",
+      "wait": 1106247680,
+      "depth": 1092616192
+    },
+    {
+      "index": 1511,
+      "pMessage": "Ha ha ha, pesky mortals.",
+      "pVoice": "btmsg01511",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1521,
+      "pMessage": "We first met on that precipice overlooking the Great Chasm.",
+      "pVoice": "btmsg01361",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1522,
+      "pMessage": "You had come forth from the chasm’s depths.",
+      "pVoice": "btmsg01362",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1523,
+      "pMessage": "But you had only just slain us! Our blood had yet to dry!",
+      "pVoice": "btmsg01363",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1524,
+      "pMessage": "Indeed, you have served me well.",
+      "pVoice": "btmsg01364",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1525,
+      "pMessage": "Now, die a bitter death knowing you served your enemy!",
+      "pVoice": "btmsg01365",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1526,
+      "pMessage": "…Unacceptable!!",
+      "pVoice": "btmsg01366",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1541,
+      "pMessage": "I’ll never forgive you for violating [PCF1]’s trust!",
+      "pVoice": "btmsg01381",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1542,
+      "pMessage": "Always the same. Always about [PCF1].",
+      "pVoice": "btmsg01382",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1543,
+      "pMessage": "I hate that about you most of all!",
+      "pVoice": "btmsg01383",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1551,
+      "pMessage": "My father and Master Kamiizumi warned us of you.",
+      "pVoice": "btmsg01391",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1552,
+      "pMessage": "Now, too late, I see the fool I’ve been.",
+      "pVoice": "btmsg01392",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1553,
+      "pMessage": "Those who act by emotion are the easiest to master.",
+      "pVoice": "btmsg01393",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1554,
+      "pMessage": "I pity your father.",
+      "pVoice": "btmsg01394",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1555,
+      "pMessage": "To know of me, only to be thwarted by his own daughter.",
+      "pVoice": "btmsg01395",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1571,
+      "pMessage": "I ought have seen through you sooner…",
+      "pVoice": "btmsg01411",
+      "wait": 1084227584,
+      "depth": 1092616192
+    },
+    {
+      "index": 1572,
+      "pMessage": "I knew of your evils! I ought have…",
+      "pVoice": "btmsg01412",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1573,
+      "pMessage": "You style yourself a hero? Arrogance!",
+      "pVoice": "btmsg01413",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1574,
+      "pMessage": "You did nothing but stand in awe of my might!",
+      "pVoice": "btmsg01414",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1575,
+      "pMessage": "Rgh! I…!",
+      "pVoice": "btmsg01415",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1591,
+      "pMessage": "Quite tenacious, aren’t we?",
+      "pVoice": "btmsg01431",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1592,
+      "pMessage": "But all your efforts shall be in vain!",
+      "pVoice": "btmsg01432",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1601,
+      "pMessage": "You mortals shall know your place!",
+      "pVoice": "btmsg01441",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1611,
+      "pMessage": "This isn’t what happens…",
+      "pVoice": "btmsg01451",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1612,
+      "pMessage": "How… How are they different from the last?",
+      "pVoice": "btmsg01452",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1621,
+      "pMessage": "Warriors of light, bah! Mere mortals! Pawns!",
+      "pVoice": "btmsg01461",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1622,
+      "pMessage": "You shall pay dearly for this defiance!",
+      "pVoice": "btmsg01462",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1631,
+      "pMessage": "Wh-what’s this!?",
+      "pVoice": "btmsg01631",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1632,
+      "pMessage": "My Lord, I am forever in your debt!",
+      "pVoice": "btmsg01632",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1641,
+      "pMessage": "Lord Ouroboros, I beseech You!",
+      "pVoice": "btmsg01641",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1642,
+      "pMessage": "Ha ha ha ha! I am invincible!",
+      "pVoice": "btmsg01642",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1651,
+      "pMessage": "Lord Ouroboros, I must call on You—",
+      "pVoice": "btmsg01651",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1652,
+      "pMessage": "What? You’re…tired of me?",
+      "pVoice": "btmsg01652",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1653,
+      "pMessage": "No, Your Malevolence. Please! Lord Ourob—",
+      "pVoice": "btmsg01653",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1661,
+      "pMessage": "Hmm… Cumbersome indeed is the mortal form.",
+      "pVoice": "btmsg01661",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1671,
+      "pMessage": "What’s this? Have you lost heart?",
+      "pVoice": "btmsg01671",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1672,
+      "pMessage": "This is but child’s play.",
+      "pVoice": "btmsg01672",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1673,
+      "pMessage": "I grow bored.",
+      "pVoice": "btmsg01673",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1681,
+      "pMessage": "Hrm…!",
+      "pVoice": "btmsg01681",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1691,
+      "pMessage": "Hmm, a portion of my power is sealed…",
+      "pVoice": "btmsg01691",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1692,
+      "pMessage": "You are a formidable meal.",
+      "pVoice": "btmsg01692",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1701,
+      "pMessage": "Impressive. But what of this?",
+      "pVoice": "btmsg01701",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1711,
+      "pMessage": "Ha ha ha! Another world has been annihilated!",
+      "pVoice": "btmsg01711",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1721,
+      "pMessage": "Heh heh heh, yet another world gone forever.",
+      "pVoice": "btmsg01721",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1722,
+      "pMessage": "How does it feel to fail, young warriors of light?",
+      "pVoice": "btmsg01722",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1731,
+      "pMessage": "No! Stop!",
+      "pVoice": "btmsg01731",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1732,
+      "pMessage": "Foolish mortals. You’ve yet to understand.",
+      "pVoice": "btmsg01732",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1733,
+      "pMessage": "There is but one way for you to save those worlds.",
+      "pVoice": "btmsg01733",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1734,
+      "pMessage": "Lay down your weapons and bow before me.\nOffer yourselves willingly.",
+      "pVoice": "btmsg01734",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1735,
+      "pMessage": "Only then shall the remaining worlds be spared.\nHa ha ha!",
+      "pVoice": "btmsg01735",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1736,
+      "pMessage": "…stop…this…",
+      "pVoice": "btmsg01736",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1751,
+      "pMessage": "Impudent morsels… Still you resist me?",
+      "pVoice": "btmsg01751",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1752,
+      "pMessage": "You are too late! Behold!",
+      "pVoice": "btmsg01752",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1753,
+      "pMessage": "The Celestial Realm! Ha ha ha ha ha!",
+      "pVoice": "btmsg01753",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1754,
+      "pMessage": "I shall bring chaos and destruction upon\nthe world of the gods!",
+      "pVoice": "btmsg01754",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1755,
+      "pMessage": "All of creation will know its end!",
+      "pVoice": "btmsg01755",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1756,
+      "pMessage": "Then I shall make it anew…in my own image!",
+      "pVoice": "btmsg01756",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1757,
+      "pMessage": "Now, die! Begone, feeble warriors of light!",
+      "pVoice": "btmsg01757",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1771,
+      "pMessage": "All the…Celestial Realm…",
+      "pVoice": "btmsg01771",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1772,
+      "pMessage": "And all therein shall know my power…my terror…",
+      "pVoice": "btmsg01772",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1773,
+      "pMessage": "Mark…my…words…",
+      "pVoice": "btmsg01773",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1774,
+      "pMessage": "Arrghawwwaaarrrrrr!!",
+      "pVoice": "btmsg01774",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1801,
+      "pMessage": "You seem to be enjoying yourselves.",
+      "pVoice": "btmsg01801",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1802,
+      "pMessage": "Master!?",
+      "pVoice": "btmsg01802",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1803,
+      "pMessage": "Nobutsuna. It’s been too long.",
+      "pVoice": "btmsg01803",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1804,
+      "pMessage": "Forgive my intrusion upon the family reunion.",
+      "pVoice": "btmsg01804",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1805,
+      "pMessage": "…Might I join in the fun, Braev?",
+      "pVoice": "btmsg01805",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1806,
+      "pMessage": "Heh heh, as you like.\nYou’re family as much as any other.",
+      "pVoice": "btmsg01806",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1807,
+      "pMessage": "You honor me.",
+      "pVoice": "btmsg01807",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1808,
+      "pMessage": "Well, [PCF2]? May I?",
+      "pVoice": "btmsg01808",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1809,
+      "pMessage": "Yes, please, Master!",
+      "pVoice": "btmsg01809",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1810,
+      "pMessage": "Hm hm…\nSwordmaster Kamiizumi stands before you!",
+      "pVoice": "btmsg01810",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1821,
+      "pMessage": "Enjoying yourself, Braev? …Braev?",
+      "pVoice": "btmsg01821",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1822,
+      "pMessage": "Thank you, Father. Thank you, Alternis.",
+      "pVoice": "btmsg01822",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1823,
+      "pMessage": "Oh, Master Kamiizumi! What brings you here?",
+      "pVoice": "btmsg01823",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1824,
+      "pMessage": "What…brings me…?",
+      "pVoice": "btmsg01824",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1825,
+      "pMessage": "Argh!",
+      "pVoice": "btmsg01825",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1826,
+      "pMessage": "I wanted to battle with you and Braev, but…\nbut you…",
+      "pVoice": "btmsg01826",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1827,
+      "pMessage": "You half-wit, you finished too soon!",
+      "pVoice": "btmsg01827",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1828,
+      "pMessage": "Ack!?",
+      "pVoice": "btmsg01828",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 1841,
+      "pMessage": "B-Bahamut!",
+      "pVoice": "btmsg01841",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1842,
+      "pMessage": "F-f-flee! You’ve done enough, boy!",
+      "pVoice": "btmsg01842",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1843,
+      "pMessage": "Fiends! Your f-f…FOE is right here!",
+      "pVoice": "btmsg01843",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1851,
+      "pMessage": "Somebody need some help!?",
+      "pVoice": "btmsg01851",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1852,
+      "pMessage": "Who are you?",
+      "pVoice": "btmsg01852",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1853,
+      "pMessage": "On second thought, run away!",
+      "pVoice": "btmsg01853",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1861,
+      "pMessage": "What I do…I do for the good of…the people.",
+      "pVoice": "btmsg01861",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1871,
+      "pMessage": "Behold the joined might of\nthe Knights of the Eternian Sky!",
+      "pVoice": "btmsg01871",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1881,
+      "pMessage": "Arrrgh!\nThe mighty Barras, defeated by these children!?",
+      "pVoice": "btmsg01881",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1882,
+      "pMessage": "Fall back, you stubborn fool! That’s an order!",
+      "pVoice": "btmsg01882",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1891,
+      "pMessage": "…Uppity little things, aren’t they?",
+      "pVoice": "btmsg01891",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1892,
+      "pMessage": "Retreat, Holly! Save yourself, woman!",
+      "pVoice": "btmsg01892",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1901,
+      "pMessage": "Aaaaaagh!",
+      "pVoice": "btmsg01901",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1902,
+      "pMessage": "Augh, out of the way!\nIf you’re going to die, do it somewhere else!",
+      "pVoice": "btmsg01902",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1911,
+      "pMessage": "Arrrgh!",
+      "pVoice": "btmsg01911",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1912,
+      "pMessage": "Captain, I’ll take it from here. F-fall back!",
+      "pVoice": "btmsg01912",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1921,
+      "pMessage": "A gnat hits harder than that!\nStrike me, tiny bug children!",
+      "pVoice": "btmsg01921",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1922,
+      "pMessage": "Your ambitions will be dashed upon my rocky abs!",
+      "pVoice": "btmsg01922",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1923,
+      "pMessage": "Oh, come now!\nIt’ll take more than that to stop me!",
+      "pVoice": "btmsg01923",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1924,
+      "pMessage": "Hmph! Off come the kid gloves!",
+      "pVoice": "btmsg01924",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1925,
+      "pMessage": "Eep! Yowch! Y-you’ll pay for that!",
+      "pVoice": "btmsg01925",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1926,
+      "pMessage": "Heh hee hee! Now you’ll burn…BURN!",
+      "pVoice": "btmsg01926",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1927,
+      "pMessage": "Heh, is that all you have? All I feel is a slight breeze.",
+      "pVoice": "btmsg01927",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1928,
+      "pMessage": "Raaaaaah!",
+      "pVoice": "btmsg01928",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1941,
+      "pMessage": "Gah hah hah! Blood…boiled. Muscles…danced…",
+      "pVoice": "btmsg01941",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1951,
+      "pMessage": "Hm hmm. Better to go out in a blaze\nthan slowly fade away.",
+      "pVoice": "btmsg01951",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1961,
+      "pMessage": "M-my…firaga…",
+      "pVoice": "btmsg01961",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1962,
+      "pMessage": "You withstood its f-ff…flames. Heh heh…\nCheeky brats…",
+      "pVoice": "btmsg01962",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1971,
+      "pMessage": "Magnificent… Milady has…grown strong.",
+      "pVoice": "btmsg01971",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 1981,
+      "pMessage": "Eternian Forces, Second Division…",
+      "pVoice": "btmsg01981",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 1982,
+      "pMessage": "Khamer & Profiteur Merchantry, to battle!",
+      "pVoice": "btmsg01982",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1991,
+      "pMessage": "Augh!",
+      "pVoice": "btmsg01991",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 1992,
+      "pMessage": "Go, Jackal. You’ve done enough.",
+      "pVoice": "btmsg01992",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2001,
+      "pMessage": "Gah! I’ll not fall to zese proletarians!",
+      "pVoice": "btmsg02001",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2002,
+      "pMessage": "You just did! Now stand down and make room for us!",
+      "pVoice": "btmsg02002",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2011,
+      "pMessage": "Nngh… Seems it ends here.",
+      "pVoice": "btmsg02011",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2012,
+      "pMessage": "Ci-Ciggma!? I command you! Fall back!",
+      "pVoice": "btmsg02012",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2021,
+      "pMessage": "I…I must…hasten to…the duchy…",
+      "pVoice": "btmsg02021",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2022,
+      "pMessage": "You’re in my way, old man! Move!",
+      "pVoice": "btmsg02022",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2031,
+      "pMessage": "…This is thirsty work. My throat’s all daggers…",
+      "pVoice": "btmsg02031",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2032,
+      "pMessage": "I’ll teach you lot…some…respect!",
+      "pVoice": "btmsg02032",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2033,
+      "pMessage": "…Are we done yet?\nHurry up and name your price.",
+      "pVoice": "btmsg02033",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2034,
+      "pMessage": "I’m not ready to be leaving all my money just yet!",
+      "pVoice": "btmsg02034",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2035,
+      "pMessage": "…This blood-soaked body knows no regrets!",
+      "pVoice": "btmsg02035",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2036,
+      "pMessage": "Not yet. I’ll not end here!",
+      "pVoice": "btmsg02036",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2037,
+      "pMessage": "Eeaaagh! Minions, protect me!",
+      "pVoice": "btmsg02037",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2038,
+      "pMessage": "Onward! For Anticrystalism and Eternia!",
+      "pVoice": "btmsg02038",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2051,
+      "pMessage": "Chief, I…I gave it my best…",
+      "pVoice": "btmsg02051",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2061,
+      "pMessage": "So, what happens to my assets now?",
+      "pVoice": "btmsg02061",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2071,
+      "pMessage": "You fight well, but now I must bid you farewell.",
+      "pVoice": "btmsg02071",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2081,
+      "pMessage": "The duchy needs me! I’ll not end here…",
+      "pVoice": "btmsg02081",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2091,
+      "pMessage": "Sister, raise battle call!",
+      "pVoice": "btmsg02091",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2092,
+      "pMessage": "Me? But…!",
+      "pVoice": "btmsg02092",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2093,
+      "pMessage": "…Be my guest. But make it sound impressive.",
+      "pVoice": "btmsg02093",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2094,
+      "pMessage": "Oh, um… Eternian Forces, Third Division…",
+      "pVoice": "btmsg02094",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2095,
+      "pMessage": "Bloodrose Legion…! To battle!",
+      "pVoice": "btmsg02095",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2111,
+      "pMessage": "Ngh… Arrows gone, bow broken…",
+      "pVoice": "btmsg02111",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2112,
+      "pMessage": "Artemia! Retreat!",
+      "pVoice": "btmsg02112",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2121,
+      "pMessage": "Eeeeeek!",
+      "pVoice": "btmsg02121",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2122,
+      "pMessage": "Mephilia done enough! You run!",
+      "pVoice": "btmsg02122",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2131,
+      "pMessage": "Aaaaaah!",
+      "pVoice": "btmsg02131",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2132,
+      "pMessage": "Fall back, beautiful. Don’t be stubborn, now.",
+      "pVoice": "btmsg02132",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2141,
+      "pMessage": "Oh! That hurts!",
+      "pVoice": "btmsg02141",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2142,
+      "pMessage": "…Lame, weak, hard on eyes. Old man retreat!",
+      "pVoice": "btmsg02142",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2151,
+      "pMessage": "Artemia love to fight, live to fight!",
+      "pVoice": "btmsg02151",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2152,
+      "pMessage": "… … …\nStill…still fight more!",
+      "pVoice": "btmsg02152",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2153,
+      "pMessage": "I never let a little bad luck stand in my way!",
+      "pVoice": "btmsg02153",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2154,
+      "pMessage": "Suleiman…watch over me!",
+      "pVoice": "btmsg02154",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2155,
+      "pMessage": "You shall not lay a hand on my sisters! Not a finger!",
+      "pVoice": "btmsg02155",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2156,
+      "pMessage": "My spear was honed beneath the swordmaster.\nIt shall not waver!",
+      "pVoice": "btmsg02156",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2157,
+      "pMessage": "Woof, I’m getting too old for this.",
+      "pVoice": "btmsg02157",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2158,
+      "pMessage": "Heh heh… I can go all night.\nI’ve got a reputation to keep.",
+      "pVoice": "btmsg02158",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2171,
+      "pMessage": "Artemia, satisfied!",
+      "pVoice": "btmsg02171",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2181,
+      "pMessage": "I’m done with this. Goodbye.",
+      "pVoice": "btmsg02181",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2191,
+      "pMessage": "…Such difficult sisters.\nCome, let us return home.",
+      "pVoice": "btmsg02191",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2201,
+      "pMessage": "Old Red needs a break. Anyone care to join me?",
+      "pVoice": "btmsg02201",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2211,
+      "pMessage": "Hayreddin Barbarossa,\nFirst Mate of the Black Blades…",
+      "pVoice": "btmsg02211",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2212,
+      "pMessage": "First Division of the Eternian Forces!",
+      "pVoice": "btmsg02212",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2213,
+      "pMessage": "Till such time as our captain returns, you’ll face me.",
+      "pVoice": "btmsg02213",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2214,
+      "pMessage": "Now fight, you scallywags!",
+      "pVoice": "btmsg02214",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2221,
+      "pMessage": "Yarrgh! I can take no more!",
+      "pVoice": "btmsg02221",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2222,
+      "pMessage": "All brawn and no brains. Clear the way, you oaf!",
+      "pVoice": "btmsg02222",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2231,
+      "pMessage": "Ack! No, my performance has only just begun!",
+      "pVoice": "btmsg02231",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2232,
+      "pMessage": "Exit, stage left! Know when to bow out, lass!",
+      "pVoice": "btmsg02232",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2241,
+      "pMessage": "Gaaah! I’ll not die here… I’m pulling back!",
+      "pVoice": "btmsg02241",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2242,
+      "pMessage": "…………………Tsk!",
+      "pVoice": "btmsg02242",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2251,
+      "pMessage": "…………… ……………!",
+      "pVoice": "btmsg02251",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2252,
+      "pMessage": "Kikyo, retreat! Retreat now!",
+      "pVoice": "btmsg02252",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2261,
+      "pMessage": "Heh, well done. To think this day would ever come.",
+      "pVoice": "btmsg02261",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2262,
+      "pMessage": "Captain, it’s time! You’ve done enough!",
+      "pVoice": "btmsg02262",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2263,
+      "pMessage": "Captain, please! Retreat!",
+      "pVoice": "btmsg02263",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2264,
+      "pMessage": "Bah, hurry up and fall back, already!",
+      "pVoice": "btmsg02264",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2265,
+      "pMessage": "………!!",
+      "pVoice": "btmsg02265",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2271,
+      "pMessage": "Gah heh heh! Is that the best you’ve got!?",
+      "pVoice": "btmsg02271",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2272,
+      "pMessage": "I don’t think so, my little friends!",
+      "pVoice": "btmsg02272",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2273,
+      "pMessage": "Scarcely felt that one. Barely a scratch!",
+      "pVoice": "btmsg02273",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2274,
+      "pMessage": "Wounds such as these are nothing for my miracle salves!",
+      "pVoice": "btmsg02274",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2275,
+      "pMessage": "Ohhh, rude! You big meanie!",
+      "pVoice": "btmsg02275",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2276,
+      "pMessage": "Everyone, all together now! A-one and a-two…!",
+      "pVoice": "btmsg02276",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2277,
+      "pMessage": "………………",
+      "pVoice": "btmsg02277",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2278,
+      "pMessage": "………!!",
+      "pVoice": "btmsg02278",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2279,
+      "pMessage": "The battle’s end is nowhere in sight!",
+      "pVoice": "btmsg02279",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2280,
+      "pMessage": "Foolish child! Did you expect it to end so easily?",
+      "pVoice": "btmsg02280",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2291,
+      "pMessage": "Ha hah! I stand in awe of your battle skills!",
+      "pVoice": "btmsg02291",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2301,
+      "pMessage": "Mm heh heh. Not much left in the salve jar, so to speak.",
+      "pVoice": "btmsg02301",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2311,
+      "pMessage": "Let’s just skip the encore, shall we?",
+      "pVoice": "btmsg02311",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2321,
+      "pMessage": "……………… …………",
+      "pVoice": "btmsg02321",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2331,
+      "pMessage": "So, this is it. The rest is up to Braev now!",
+      "pVoice": "btmsg02331",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2341,
+      "pMessage": "Pardon my delay. …!? Barbarossa!",
+      "pVoice": "btmsg02341",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2342,
+      "pMessage": "Pardon my delay. …!? Qada!",
+      "pVoice": "btmsg02342",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2343,
+      "pMessage": "Pardon my delay. …!? Praline!",
+      "pVoice": "btmsg02343",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2344,
+      "pMessage": "Pardon my delay. …!? Kikyo!",
+      "pVoice": "btmsg02344",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2345,
+      "pMessage": "Pardon my delay. …!? We are down this many already!?",
+      "pVoice": "btmsg02345",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2361,
+      "pMessage": "Having fun, without me? Make room, make room!",
+      "pVoice": "btmsg02361",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2362,
+      "pMessage": "Sage… I trust you to contain yourself…",
+      "pVoice": "btmsg02362",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2363,
+      "pMessage": "Dreary as it is, I prefer my castle standing.",
+      "pVoice": "btmsg02363",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2364,
+      "pMessage": "We’re within the asterisk barrier. Absolutely impervious!",
+      "pVoice": "btmsg02364",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 2365,
+      "pMessage": "…In theory, at least. Hm hm hm!",
+      "pVoice": "btmsg02365",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2366,
+      "pMessage": "What!?",
+      "pVoice": "btmsg02366",
+      "wait": 1101004800,
+      "depth": 1092616192
+    },
+    {
+      "index": 2381,
+      "pMessage": "Hmm, stronger even than I’d expected. I leave them to you.",
+      "pVoice": "btmsg02381",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2382,
+      "pMessage": "Oh? That was fast. Starting to show your age?",
+      "pVoice": "btmsg02382",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2391,
+      "pMessage": "Agh! I’m done for… The old…flat foot…acting up…!",
+      "pVoice": "btmsg02391",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2392,
+      "pMessage": "Welp, nothing for it but to run!",
+      "pVoice": "btmsg02392",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2393,
+      "pMessage": "Good luck handling the rest, Your Lordship!\nHoo ho ho ho!",
+      "pVoice": "btmsg02393",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2394,
+      "pMessage": "First he barges in, then he leaves early…",
+      "pVoice": "btmsg02394",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2395,
+      "pMessage": "Capricious as ever…",
+      "pVoice": "btmsg02395",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2411,
+      "pMessage": "It will take far more than that to make me kneel!",
+      "pVoice": "btmsg02411",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2412,
+      "pMessage": "How intriguing… You do not fail to amuse!",
+      "pVoice": "btmsg02412",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2413,
+      "pMessage": "You wouldn’t harm an old man, would you?\nWait, you just did!",
+      "pVoice": "btmsg02413",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2414,
+      "pMessage": "Do not think you’ll vanquish me with the likes of that!",
+      "pVoice": "btmsg02414",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2421,
+      "pMessage": "Ha ha ha ha, a fine battle. Truly.",
+      "pVoice": "btmsg02421",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2431,
+      "pMessage": "…I have met my match. Farewell!",
+      "pVoice": "btmsg02431",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2441,
+      "pMessage": "Aaagh! Zis cannot be…",
+      "pVoice": "btmsg02441",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2442,
+      "pMessage": "Ugh, Profiteur! That was pathetic!",
+      "pVoice": "btmsg02442",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2451,
+      "pMessage": "Nngh! …They’re formidable. I must withdraw!",
+      "pVoice": "btmsg02451",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2452,
+      "pMessage": "Hurry up and get back, frills!",
+      "pVoice": "btmsg02452",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2461,
+      "pMessage": "Agh! I messed that up good!",
+      "pVoice": "btmsg02461",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2462,
+      "pMessage": "Bah, zis is no place for children!",
+      "pVoice": "btmsg02462",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2471,
+      "pMessage": "I’m still in this one! See, I’m fine!",
+      "pVoice": "btmsg02471",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2472,
+      "pMessage": "Zese rats are more persistent zan I had expected.",
+      "pVoice": "btmsg02472",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2473,
+      "pMessage": "I can still fly! For Lord Marshal and duchy!",
+      "pVoice": "btmsg02473",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2481,
+      "pMessage": "Heh. It’s always me alone in the end.",
+      "pVoice": "btmsg02481",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2491,
+      "pMessage": "Ze job of ze vanguard is done…",
+      "pVoice": "btmsg02491",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2501,
+      "pMessage": "You’ve grown strong, [PCF2].\nI almost forgot it was you.",
+      "pVoice": "btmsg02501",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2511,
+      "pMessage": "Aaagh! The iron wall is broken!",
+      "pVoice": "btmsg02511",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2512,
+      "pMessage": "Fall back, Captain! I’ll make these scum pay!",
+      "pVoice": "btmsg02512",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2521,
+      "pMessage": "Nngh!? Such brilliant swordsmanship…",
+      "pVoice": "btmsg02521",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2522,
+      "pMessage": "Stand back, swordmaster. I’ll take it from here!",
+      "pVoice": "btmsg02522",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2531,
+      "pMessage": "…………!!",
+      "pVoice": "btmsg02531",
+      "wait": 1125515264,
+      "depth": 1120403456
+    },
+    {
+      "index": 2532,
+      "pMessage": "Kikyo, retreat! I’ll tolerate no needless death!",
+      "pVoice": "btmsg02532",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2541,
+      "pMessage": "Just lovely… Looks like I slipped up.",
+      "pVoice": "btmsg02541",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2542,
+      "pMessage": "Fall back, Holly! I’m not listening to Barras blubber!",
+      "pVoice": "btmsg02542",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2551,
+      "pMessage": "You cheeky little—! No greenhorn is taking me down!",
+      "pVoice": "btmsg02551",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2552,
+      "pMessage": "What joy! Your growth far outstrips what I had imagined.",
+      "pVoice": "btmsg02552",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2553,
+      "pMessage": "…I will fight to the end for those who accepted me…!",
+      "pVoice": "btmsg02553",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2554,
+      "pMessage": "You people would get all hot and bothered over this!",
+      "pVoice": "btmsg02554",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2561,
+      "pMessage": "Heh heh. A brilliant victory on your part!",
+      "pVoice": "btmsg02561",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2571,
+      "pMessage": "Go now, [PCF2], and never look back!",
+      "pVoice": "btmsg02571",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2581,
+      "pMessage": "To fight to the bitter end… I feel nothing save joy…!",
+      "pVoice": "btmsg02581",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2591,
+      "pMessage": "Phew, it’s finally over. You lot aren’t half bad.",
+      "pVoice": "btmsg02591",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2601,
+      "pMessage": "Aww… I was almost to my best part!",
+      "pVoice": "btmsg02601",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2602,
+      "pMessage": "That’s curtains, lass! You’ll sing another day!",
+      "pVoice": "btmsg02602",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2611,
+      "pMessage": "Huh!? What am I doing on the ground?",
+      "pVoice": "btmsg02611",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2612,
+      "pMessage": "Barras! Fall back for now!",
+      "pVoice": "btmsg02612",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2621,
+      "pMessage": "Argh, but…[PCF2]! I still haven’t…!",
+      "pVoice": "btmsg02621",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2622,
+      "pMessage": "Eek, are you alright!?",
+      "pVoice": "btmsg02622",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2631,
+      "pMessage": "Gah hah hah! A fine mess I made of that!",
+      "pVoice": "btmsg02631",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2632,
+      "pMessage": "Please, Barbarossa, you must retreat!",
+      "pVoice": "btmsg02632",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2641,
+      "pMessage": "Watch out! I still have songs to sing…dances to dance!",
+      "pVoice": "btmsg02641",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2642,
+      "pMessage": "Rraaagh! Do you see these pecs!? They’re on fire!",
+      "pVoice": "btmsg02642",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2643,
+      "pMessage": "I’ll not fail the grand marshal! I won’t!",
+      "pVoice": "btmsg02643",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2644,
+      "pMessage": "Together we fight! Rally to me!",
+      "pVoice": "btmsg02644",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2651,
+      "pMessage": "Whew, did that feel good! I’m fresh out of songs!",
+      "pVoice": "btmsg02651",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2661,
+      "pMessage": "Oh, yeah. Nothing better than fighting to your last breath.",
+      "pVoice": "btmsg02661",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2671,
+      "pMessage": "Let this be the momentum that moves you ever forward!",
+      "pVoice": "btmsg02671",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2681,
+      "pMessage": "The sea…she’s calling me! You hear me, Suleiman?",
+      "pVoice": "btmsg02681",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2691,
+      "pMessage": "Ho ho! I’m getting careless in my old age.",
+      "pVoice": "btmsg02691",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2692,
+      "pMessage": "Sage, please, fall back!",
+      "pVoice": "btmsg02692",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2701,
+      "pMessage": "How dare you? Insolent f-fools, all of you!",
+      "pVoice": "btmsg02701",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2702,
+      "pMessage": "Alright. If you’re done here, clear the way.",
+      "pVoice": "btmsg02702",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2711,
+      "pMessage": "Rrgh! Did I use the wrong salve?",
+      "pVoice": "btmsg02711",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2712,
+      "pMessage": "Ugh, gross! Out of my way if you’re done!",
+      "pVoice": "btmsg02712",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2721,
+      "pMessage": "Eeeeeeeeek! Einheria…!",
+      "pVoice": "btmsg02721",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2722,
+      "pMessage": "Don’t overdo it, now. It’s terrible for the complexion.",
+      "pVoice": "btmsg02722",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2731,
+      "pMessage": "You mean little rascals. It’s not nice to bully old folk.",
+      "pVoice": "btmsg02731",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2732,
+      "pMessage": "I still haven’t p-pulled my best spells out of my hat…",
+      "pVoice": "btmsg02732",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2733,
+      "pMessage": "Careful now, you are all using far too much MP.",
+      "pVoice": "btmsg02733",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2734,
+      "pMessage": "Is that hope soaring down from the sky? Or perhaps it’s…",
+      "pVoice": "btmsg02734",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2741,
+      "pMessage": "Was that their plan?\nLeave the old man to be worked to death?",
+      "pVoice": "btmsg02741",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2751,
+      "pMessage": "Gah! Where’d everyone go!? This is…insubordination…",
+      "pVoice": "btmsg02751",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2761,
+      "pMessage": "Not a component left. Ahh…feels good…",
+      "pVoice": "btmsg02761",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2771,
+      "pMessage": "……I know my…sister would be proud.",
+      "pVoice": "btmsg02771",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2781,
+      "pMessage": "This is no fun at all…",
+      "pVoice": "btmsg02781",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2782,
+      "pMessage": "Stand back and let the grown-ups handle this!",
+      "pVoice": "btmsg02782",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2791,
+      "pMessage": "So, it ends here…",
+      "pVoice": "btmsg02791",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2792,
+      "pMessage": "If you’ve lost the stomach to fight, stand down, Khint!",
+      "pVoice": "btmsg02792",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2801,
+      "pMessage": "Hmm, a most spectacular failure…",
+      "pVoice": "btmsg02801",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2802,
+      "pMessage": "Retreat! I’ll handle matters from here.",
+      "pVoice": "btmsg02802",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2811,
+      "pMessage": "Heh… This isn’t old Red’s finest moment.",
+      "pVoice": "btmsg02811",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2812,
+      "pMessage": "I agree! Now move your miserable carcass out of my way!",
+      "pVoice": "btmsg02812",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2821,
+      "pMessage": "I won’t be bested by the likes of the vestal!",
+      "pVoice": "btmsg02821",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2822,
+      "pMessage": "How long has it been since I could fight with such abandon?",
+      "pVoice": "btmsg02822",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2823,
+      "pMessage": "I suppose the eldest here ought to pick up a bit more slack.",
+      "pVoice": "btmsg02823",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2824,
+      "pMessage": "I’m far from sated… If you know what I mean.",
+      "pVoice": "btmsg02824",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2831,
+      "pMessage": "How strange. I feel a little…refreshed.",
+      "pVoice": "btmsg02831",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2841,
+      "pMessage": "I fought to my fullest. I have no regrets.",
+      "pVoice": "btmsg02841",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2851,
+      "pMessage": "Impressive. I even felt a pang of envy for you mortals.\nJust a bit, mind you.",
+      "pVoice": "btmsg02851",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2861,
+      "pMessage": "Aw, you lot are no fun at all.",
+      "pVoice": "btmsg02861",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2871,
+      "pMessage": "Ngh! The rest is in your hands, Lord Khamer.",
+      "pVoice": "btmsg02871",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2872,
+      "pMessage": "In my hands!? I shall do my best, my good doctor!",
+      "pVoice": "btmsg02872",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2881,
+      "pMessage": "And here I had just begun to enjoy myself…",
+      "pVoice": "btmsg02881",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2882,
+      "pMessage": "Lord Marshal, be prudent. You must retreat.",
+      "pVoice": "btmsg02882",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2891,
+      "pMessage": "Ow!",
+      "pVoice": "btmsg02891",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2892,
+      "pMessage": "Down, girl! Home, Artemia!",
+      "pVoice": "btmsg02892",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2901,
+      "pMessage": "I’ve…failed to meet…the grand marshal’s…expectations…",
+      "pVoice": "btmsg02901",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2902,
+      "pMessage": "… Loser, run. In Artemia’s way.",
+      "pVoice": "btmsg02902",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2911,
+      "pMessage": "This will not do. I can afford no further blunders.",
+      "pVoice": "btmsg02911",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2912,
+      "pMessage": "I have plenty of fight left! I shall not fall!",
+      "pVoice": "btmsg02912",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2913,
+      "pMessage": "Rawr rawr!",
+      "pVoice": "btmsg02913",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2914,
+      "pMessage": "I am Time Mage Khamer, king! Know your place!",
+      "pVoice": "btmsg02914",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 2921,
+      "pMessage": "(I…I…fought to the end…Father…)",
+      "pVoice": "btmsg02921",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2931,
+      "pMessage": "So, it’s come to this. …Well done!",
+      "pVoice": "btmsg02931",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2941,
+      "pMessage": "[PCF2], Artemia want rematch, someday.",
+      "pVoice": "btmsg02941",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2951,
+      "pMessage": "I was the last sentinel standing. The very…last…",
+      "pVoice": "btmsg02951",
+      "wait": 1106247680,
+      "depth": 1120403456
+    },
+    {
+      "index": 2961,
+      "pMessage": "We shall be ze first to be fighting you!",
+      "pVoice": "btmsg02961",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3001,
+      "pMessage": "The air…it’s choked with evil.",
+      "pVoice": "btmsg03001",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3002,
+      "pMessage": "Ha ha ha ha haa! Don’t you recognize me?",
+      "pVoice": "btmsg03002",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3003,
+      "pMessage": "It’s your old friend Airy, boy!",
+      "pVoice": "btmsg03003",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3004,
+      "pMessage": "And after all the worlds we linked as one…",
+      "pVoice": "btmsg03004",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3005,
+      "pMessage": "All the battles we fought together!",
+      "pVoice": "btmsg03005",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3011,
+      "pMessage": "You’ve seen too much not to understand.",
+      "pVoice": "btmsg03011",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3012,
+      "pMessage": "The world is not a singular existence.",
+      "pVoice": "btmsg03012",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3013,
+      "pMessage": "An endless array of Luxendarcs exist at once.",
+      "pVoice": "btmsg03013",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3014,
+      "pMessage": "An infinite line of worlds in parallel…",
+      "pVoice": "btmsg03014",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3015,
+      "pMessage": "That’s obvious enough by now.",
+      "pVoice": "btmsg03015",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3016,
+      "pMessage": "And in piercing the walls that divide them, I’ve gained power.",
+      "pVoice": "btmsg03016",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3017,
+      "pMessage": "Power beyond the reckoning of mortals.",
+      "pVoice": "btmsg03017",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3018,
+      "pMessage": "Enough to bring about a grand and final end…",
+      "pVoice": "btmsg03018",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3019,
+      "pMessage": "To trigger the catastrophe!",
+      "pVoice": "btmsg03019",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3020,
+      "pMessage": "I owe you a great deal, my friends.",
+      "pVoice": "btmsg03020",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3021,
+      "pMessage": "For my power alone could not have broken the world-walls.",
+      "pVoice": "btmsg03021",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3022,
+      "pMessage": "Not without the aid of the crystals set to rampage!",
+      "pVoice": "btmsg03022",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3031,
+      "pMessage": "Then the Great Chasm… That’s your doing!",
+      "pVoice": "btmsg03031",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3032,
+      "pMessage": "Please, don’t be modest.",
+      "pVoice": "btmsg03032",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3033,
+      "pMessage": "Or have you forgotten your contribution?",
+      "pVoice": "btmsg03033",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3034,
+      "pMessage": "The lot of you were eager to assist.",
+      "pVoice": "btmsg03034",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3035,
+      "pMessage": "We tore that void open together.",
+      "pVoice": "btmsg03035",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3036,
+      "pMessage": "And siphoned through an army of monsters\nfrom the nether what’s more.",
+      "pVoice": "btmsg03036",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3037,
+      "pMessage": "I’m sure the locals were less than thrilled…\nHa ha ha ha ha!",
+      "pVoice": "btmsg03037",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3041,
+      "pMessage": "You lied to us!",
+      "pVoice": "btmsg03041",
+      "wait": 1101004800,
+      "depth": 1120403456
+    },
+    {
+      "index": 3042,
+      "pMessage": "And you made it so easy.",
+      "pVoice": "btmsg03042",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3043,
+      "pMessage": "A fine pack of puppets, you lot.",
+      "pVoice": "btmsg03043",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3044,
+      "pMessage": "Not a thought of your own, so eager to obey.",
+      "pVoice": "btmsg03044",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3045,
+      "pMessage": "Because obeying is so easy, hmm?",
+      "pVoice": "btmsg03045",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3046,
+      "pMessage": "You’re never responsible when you’re only\nfollowing orders.",
+      "pVoice": "btmsg03046",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3047,
+      "pMessage": "And who would doubt what seems so obvious?",
+      "pVoice": "btmsg03047",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3048,
+      "pMessage": "Who bears the courage to disobey?",
+      "pVoice": "btmsg03048",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3049,
+      "pMessage": "Precious few. Not one human in a thousand.",
+      "pVoice": "btmsg03049",
+      "wait": 1084227584,
+      "depth": 1120403456
+    },
+    {
+      "index": 3050,
+      "pMessage": "Now, my lambs, to slaughter.",
+      "pVoice": "btmsg03050",
+      "wait": 1101004800,
+      "depth": 1120403456
+    }
+  ]
+}

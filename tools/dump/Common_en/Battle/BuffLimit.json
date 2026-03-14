@@ -1,0 +1,19 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 152,
+    "data_one_size": 52,
+    "data_num": 2,
+    "ints_per_record": 13
+  },
+  "records": [
+    {
+      "max": 150,
+      "min": 150
+    },
+    {
+      "max": 75,
+      "min": 75
+    }
+  ]
+}

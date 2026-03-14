@@ -1,0 +1,395 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 2106,
+    "data_one_size": 4,
+    "data_num": 128,
+    "ints_per_record": 1
+  },
+  "records": [
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_01"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_02"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_03"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_04"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_05"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_06"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_07"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_08"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_09"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_10"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_11"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_12"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_13"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_14"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_15"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_16"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_17"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_18"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_19"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_20"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_21"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_22"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_23"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_24"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_25"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_26"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_27"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_28"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_29"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_30"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_31"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_32"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_33"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_34"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_35"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_36"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_37"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_38"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_39"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_40"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_41"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_42"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_43"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_44"
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": "N_event_01"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_02"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_03"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_04"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_05"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_06"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_07"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_08"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_09"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_10"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_11"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_12"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_13"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_14"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_15"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_16"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_17"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_18"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_19"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_20"
+    },
+    {
+      "ENTRANCE_NAME": "N_event_21"
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": "Ship_GetOff_01"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_PortCheck_01"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_01"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_GetOff_02"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_PortCheck_02"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_02"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_GetOff_03"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_PortCheck_03"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_03"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_GetOff_04"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_PortCheck_04"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_04"
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_01"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_02"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_03"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_04"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_05"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_06"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_07"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_08"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_09"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_10"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_11"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_12"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_13"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_14"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_15"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_16"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_17"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_18"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_19"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_20"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_21"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_22"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_23"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_24"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_25"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_26"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_27"
+    },
+    {
+      "ENTRANCE_NAME": "N_AirShipWarp_28"
+    }
+  ]
+}

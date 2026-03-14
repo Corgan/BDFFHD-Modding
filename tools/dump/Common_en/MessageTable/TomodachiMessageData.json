@@ -1,0 +1,879 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 22166,
+    "data_one_size": 8,
+    "data_num": 217,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 2,
+      "pMessage": "No"
+    },
+    {
+      "id": 3,
+      "pMessage": "Back"
+    },
+    {
+      "id": 4,
+      "pMessage": ""
+    },
+    {
+      "id": 5,
+      "pMessage": "Host Unit"
+    },
+    {
+      "id": 6,
+      "pMessage": "Client Unit"
+    },
+    {
+      "id": 7,
+      "pMessage": "Friends"
+    },
+    {
+      "id": 8,
+      "pMessage": "Guest List"
+    },
+    {
+      "id": 9,
+      "pMessage": ""
+    },
+    {
+      "id": 10,
+      "pMessage": ""
+    },
+    {
+      "id": 11,
+      "pMessage": "Communications were\ninterrupted."
+    },
+    {
+      "id": 12,
+      "pMessage": "No friends to update."
+    },
+    {
+      "id": 13,
+      "pMessage": "Delete this data?"
+    },
+    {
+      "id": 14,
+      "pMessage": "Data deleted."
+    },
+    {
+      "id": 15,
+      "pMessage": "The data is protected and\ncannot be deleted."
+    },
+    {
+      "id": 16,
+      "pMessage": ""
+    },
+    {
+      "id": 17,
+      "pMessage": "You have too many friends!\nOnce you reach 20 friends,\nyou’ll have to delete some\nto add more."
+    },
+    {
+      "id": 18,
+      "pMessage": "This friend is Abilinked\nwith %ls.\nDelete this data?"
+    },
+    {
+      "id": 19,
+      "pMessage": "Data updated."
+    },
+    {
+      "id": 20,
+      "pMessage": ""
+    },
+    {
+      "id": 21,
+      "pMessage": "You became friends\nwith %ls."
+    },
+    {
+      "id": 22,
+      "pMessage": "You have made %d friend(s)."
+    },
+    {
+      "id": 23,
+      "pMessage": "There were no friends registered on\nthe system that could be added."
+    },
+    {
+      "id": 24,
+      "pMessage": "%ls’s\ndata has been updated."
+    },
+    {
+      "id": 25,
+      "pMessage": "Data for %d people updated."
+    },
+    {
+      "id": 26,
+      "pMessage": ""
+    },
+    {
+      "id": 27,
+      "pMessage": "You sent %d Net Friend Invite(s)."
+    },
+    {
+      "id": 28,
+      "pMessage": "You encountered %d other(s) with StreetPass."
+    },
+    {
+      "id": 29,
+      "pMessage": "You are already friends\nwith %ls."
+    },
+    {
+      "id": 30,
+      "pMessage": ""
+    },
+    {
+      "id": 31,
+      "pMessage": "Communication in process"
+    },
+    {
+      "id": 32,
+      "pMessage": "Waiting for client unit..."
+    },
+    {
+      "id": 33,
+      "pMessage": "Waiting for response from host unit..."
+    },
+    {
+      "id": 34,
+      "pMessage": "Adding friend..."
+    },
+    {
+      "id": 35,
+      "pMessage": "Updating data..."
+    },
+    {
+      "id": 36,
+      "pMessage": "Updating StreetPass data…"
+    },
+    {
+      "id": 37,
+      "pMessage": "Closing the Nintendo 3DS system\nor opening the HOME Menu may\ninterrupt the connection."
+    },
+    {
+      "id": 38,
+      "pMessage": "Registering StreetPass data..."
+    },
+    {
+      "id": 39,
+      "pMessage": "Searching for host unit..."
+    },
+    {
+      "id": 40,
+      "pMessage": "Do not turn the system off during communications."
+    },
+    {
+      "id": 41,
+      "pMessage": "To use this feature, you must accept\nthe terms of the Nintendo 3DS\nService User Agreement.\nIn System Settings, select Internet\nSettings > Other Information >\nUser Agreement and agree to the terms."
+    },
+    {
+      "id": 42,
+      "pMessage": "Cannot communicate because\n“Online Interaction” is\nrestricted under Parental\nControls."
+    },
+    {
+      "id": 43,
+      "pMessage": "Your Mii, character names,\ncomments, etc., will be\nvisible when communicating.\nDo you want to proceed?"
+    },
+    {
+      "id": 44,
+      "pMessage": "Keep in mind that\ninformation written in\ncomments may be sent to\nthird parties when using\nonline services."
+    },
+    {
+      "id": 45,
+      "pMessage": "Registering friend…"
+    },
+    {
+      "id": 46,
+      "pMessage": "You registered %ls\nas a friend."
+    },
+    {
+      "id": 47,
+      "pMessage": ""
+    },
+    {
+      "id": 101,
+      "pMessage": "Sort"
+    },
+    {
+      "id": 102,
+      "pMessage": "Stop/Resume Updating"
+    },
+    {
+      "id": 103,
+      "pMessage": "Delete"
+    },
+    {
+      "id": 104,
+      "pMessage": "Sort by Time"
+    },
+    {
+      "id": 105,
+      "pMessage": "Sort by Power"
+    },
+    {
+      "id": 106,
+      "pMessage": "Sort by Affinity"
+    },
+    {
+      "id": 107,
+      "pMessage": ""
+    },
+    {
+      "id": 108,
+      "pMessage": ""
+    },
+    {
+      "id": 109,
+      "pMessage": ""
+    },
+    {
+      "id": 110,
+      "pMessage": ""
+    },
+    {
+      "id": 111,
+      "pMessage": "Sort"
+    },
+    {
+      "id": 112,
+      "pMessage": "Protect/Unprotect"
+    },
+    {
+      "id": 113,
+      "pMessage": "Delete"
+    },
+    {
+      "id": 114,
+      "pMessage": "Sorted by Time"
+    },
+    {
+      "id": 115,
+      "pMessage": "Sorted by Power"
+    },
+    {
+      "id": 116,
+      "pMessage": "Sorted by Affinity"
+    },
+    {
+      "id": 117,
+      "pMessage": "Data protected."
+    },
+    {
+      "id": 118,
+      "pMessage": "Data no longer protected."
+    },
+    {
+      "id": 119,
+      "pMessage": "You can only protect up to\nfive guests."
+    },
+    {
+      "id": 120,
+      "pMessage": "The data you enter may be seen by\nothers. Do not enter any personal\ninformation."
+    },
+    {
+      "id": 121,
+      "pMessage": "Send complete.\nUpload via Internet communication?"
+    },
+    {
+      "id": 122,
+      "pMessage": ""
+    },
+    {
+      "id": 123,
+      "pMessage": ""
+    },
+    {
+      "id": 124,
+      "pMessage": ""
+    },
+    {
+      "id": 125,
+      "pMessage": ""
+    },
+    {
+      "id": 126,
+      "pMessage": ""
+    },
+    {
+      "id": 127,
+      "pMessage": ""
+    },
+    {
+      "id": 128,
+      "pMessage": ""
+    },
+    {
+      "id": 129,
+      "pMessage": ""
+    },
+    {
+      "id": 130,
+      "pMessage": "Do not turn the system off during registration."
+    },
+    {
+      "id": 131,
+      "pMessage": "Do not turn the system off during update."
+    },
+    {
+      "id": 132,
+      "pMessage": "StreetPass registration may\nbe interrupted if you turn\nthe system power off while\nregistering."
+    },
+    {
+      "id": 133,
+      "pMessage": "The update of StreetPass\ndata may be interrupted if\nyou turn the system power\noff while updating."
+    },
+    {
+      "id": 134,
+      "pMessage": ""
+    },
+    {
+      "id": 135,
+      "pMessage": ""
+    },
+    {
+      "id": 201,
+      "pMessage": "To use this feature, you must accept\nthe terms of the Nintendo 3DS\nService User Agreement. In System\nSettings, select Internet Settings >\nOther Information > User Agreement\nand agree to the terms."
+    },
+    {
+      "id": 202,
+      "pMessage": ""
+    },
+    {
+      "id": 203,
+      "pMessage": "Internet Settings can be found\nunder the System Settings."
+    },
+    {
+      "id": 204,
+      "pMessage": "To communicate over the Internet,\nturn wireless communication on by\npushing the wireless switch."
+    },
+    {
+      "id": 205,
+      "pMessage": "Your Mii, character names,\ncomments, etc., will be\nvisible when communicating.\nDo you want to proceed?"
+    },
+    {
+      "id": 206,
+      "pMessage": ""
+    },
+    {
+      "id": 207,
+      "pMessage": ""
+    },
+    {
+      "id": 208,
+      "pMessage": ""
+    },
+    {
+      "id": 209,
+      "pMessage": ""
+    },
+    {
+      "id": 210,
+      "pMessage": ""
+    },
+    {
+      "id": 211,
+      "pMessage": "Internet communication can\ntake some time to complete.\nDo you want to proceed?"
+    },
+    {
+      "id": 212,
+      "pMessage": "Profile information uploaded."
+    },
+    {
+      "id": 213,
+      "pMessage": "You have already sent a Net Friend\nInvite today. Try again tomorrow."
+    },
+    {
+      "id": 214,
+      "pMessage": ""
+    },
+    {
+      "id": 215,
+      "pMessage": ""
+    },
+    {
+      "id": 216,
+      "pMessage": ""
+    },
+    {
+      "id": 217,
+      "pMessage": ""
+    },
+    {
+      "id": 218,
+      "pMessage": ""
+    },
+    {
+      "id": 219,
+      "pMessage": ""
+    },
+    {
+      "id": 220,
+      "pMessage": ""
+    },
+    {
+      "id": 301,
+      "pMessage": "Local wireless cannot be used\nbecause of parental control\nrestrictions."
+    },
+    {
+      "id": 302,
+      "pMessage": "To use local wireless, turn wireless\ncommunication on by pushing the\nwireless switch."
+    },
+    {
+      "id": 303,
+      "pMessage": "Your Mii, character names,\ncomments, etc., will be\nvisible when communicating.\nDo you want to proceed?"
+    },
+    {
+      "id": 304,
+      "pMessage": ""
+    },
+    {
+      "id": 305,
+      "pMessage": ""
+    },
+    {
+      "id": 306,
+      "pMessage": ""
+    },
+    {
+      "id": 307,
+      "pMessage": ""
+    },
+    {
+      "id": 308,
+      "pMessage": ""
+    },
+    {
+      "id": 309,
+      "pMessage": ""
+    },
+    {
+      "id": 310,
+      "pMessage": ""
+    },
+    {
+      "id": 311,
+      "pMessage": "Add friends using local\nwireless."
+    },
+    {
+      "id": 312,
+      "pMessage": "Select a user to act as the host unit."
+    },
+    {
+      "id": 313,
+      "pMessage": "Add %ls as a friend and\nadd them as a friend on your system?"
+    },
+    {
+      "id": 314,
+      "pMessage": ""
+    },
+    {
+      "id": 315,
+      "pMessage": ""
+    },
+    {
+      "id": 316,
+      "pMessage": ""
+    },
+    {
+      "id": 317,
+      "pMessage": ""
+    },
+    {
+      "id": 318,
+      "pMessage": ""
+    },
+    {
+      "id": 319,
+      "pMessage": ""
+    },
+    {
+      "id": 320,
+      "pMessage": ""
+    },
+    {
+      "id": 401,
+      "pMessage": "Register Bravely Default StreetPass\ndata to the system?"
+    },
+    {
+      "id": 402,
+      "pMessage": "StreetPass data registered.\nStreetPass will work automatically\neven when not playing this game."
+    },
+    {
+      "id": 403,
+      "pMessage": "You cannot register any more\nStreetPass data to the system.\nCancel StreetPass for other software\nusing StreetPass Management under\nSystem Settings."
+    },
+    {
+      "id": 404,
+      "pMessage": "To use this feature, you must accept\nthe terms of the Nintendo 3DS\nService User Agreement. In System\nSettings, select Internet Settings >\nOther Information > User Agreement\nand agree to the terms."
+    },
+    {
+      "id": 405,
+      "pMessage": "StreetPass unavailable because\n\"StreetPass\" is restricted under\nParental Controls."
+    },
+    {
+      "id": 406,
+      "pMessage": "Your Mii, character names,\ncomments, etc., will be\nvisible when communicating.\nDo you want to proceed?"
+    },
+    {
+      "id": 407,
+      "pMessage": "StreetPass data is corrupted.\nDelete the StreetPass data for\nBravely Default using StreetPass\nManagement under System Settings."
+    },
+    {
+      "id": 408,
+      "pMessage": ""
+    },
+    {
+      "id": 409,
+      "pMessage": ""
+    },
+    {
+      "id": 410,
+      "pMessage": "To update StreetPass data,\ntouch the Inbox icon on the\nmap menu."
+    },
+    {
+      "id": 411,
+      "pMessage": "StreetPass data updated."
+    },
+    {
+      "id": 412,
+      "pMessage": "You did not pass by anybody."
+    },
+    {
+      "id": 413,
+      "pMessage": "No host unit found."
+    },
+    {
+      "id": 414,
+      "pMessage": ""
+    },
+    {
+      "id": 415,
+      "pMessage": ""
+    },
+    {
+      "id": 416,
+      "pMessage": ""
+    },
+    {
+      "id": 417,
+      "pMessage": ""
+    },
+    {
+      "id": 418,
+      "pMessage": ""
+    },
+    {
+      "id": 419,
+      "pMessage": ""
+    },
+    {
+      "id": 420,
+      "pMessage": ""
+    },
+    {
+      "id": 501,
+      "pMessage": "Add friends."
+    },
+    {
+      "id": 502,
+      "pMessage": "Update data."
+    },
+    {
+      "id": 503,
+      "pMessage": "Show Friends."
+    },
+    {
+      "id": 504,
+      "pMessage": "Show Guest List."
+    },
+    {
+      "id": 505,
+      "pMessage": "Showing friend profiles."
+    },
+    {
+      "id": 506,
+      "pMessage": "Showing guest profiles."
+    },
+    {
+      "id": 507,
+      "pMessage": "Showing data received via Internet communication."
+    },
+    {
+      "id": 508,
+      "pMessage": "Showing data received via local wireless."
+    },
+    {
+      "id": 509,
+      "pMessage": "Showing data received via StreetPass."
+    },
+    {
+      "id": 510,
+      "pMessage": "Select a friend to delete."
+    },
+    {
+      "id": 511,
+      "pMessage": "Select a friend to update."
+    },
+    {
+      "id": 512,
+      "pMessage": "Add a friend using Internet communication."
+    },
+    {
+      "id": 513,
+      "pMessage": "Add a friend using local wireless."
+    },
+    {
+      "id": 514,
+      "pMessage": "Update data using Internet communication."
+    },
+    {
+      "id": 515,
+      "pMessage": "Update data using local wireless."
+    },
+    {
+      "id": 516,
+      "pMessage": "Update StreetPass data."
+    },
+    {
+      "id": 517,
+      "pMessage": "Change the sorting order of friends."
+    },
+    {
+      "id": 518,
+      "pMessage": "Select a friend to stop updating data for."
+    },
+    {
+      "id": 519,
+      "pMessage": "Delete a friend from the list."
+    },
+    {
+      "id": 520,
+      "pMessage": "Change the sorting order of guests."
+    },
+    {
+      "id": 521,
+      "pMessage": "Protect or unprotect guest data."
+    },
+    {
+      "id": 522,
+      "pMessage": "Delete a guest from the list."
+    },
+    {
+      "id": 600,
+      "pMessage": "You are now friends\nwith %ls.\nUpdated data\nfor %ls."
+    },
+    {
+      "id": 601,
+      "pMessage": "You are now friends\nwith %ls.\nYou have made %d friend(s)."
+    },
+    {
+      "id": 602,
+      "pMessage": "You have made %d friend(s).\nUpdated data for %ls."
+    },
+    {
+      "id": 603,
+      "pMessage": "You have made %d friend(s).\nUpdated data for %d friend(s)."
+    },
+    {
+      "id": 700,
+      "pMessage": "Data List"
+    },
+    {
+      "id": 800,
+      "pMessage": "Saving data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 801,
+      "pMessage": "Failed to save data.\nReturn to the title screen and\ndelete the data."
+    },
+    {
+      "id": 900,
+      "pMessage": "Cannot connect to the network.\nPerform a System Transfer for the\nNintendo 3DS or contact the Support\nCenter."
+    },
+    {
+      "id": 901,
+      "pMessage": "An error has occurred.\nPlease try connecting again later."
+    },
+    {
+      "id": 902,
+      "pMessage": "Cannot access the network."
+    },
+    {
+      "id": 1000,
+      "pMessage": "To prevent data updates after using\nSend in battle, set “Update data\nupon Send” to “No” under Tactics >\nConfig on the menu screen."
+    },
+    {
+      "id": 1001,
+      "pMessage": "Close"
+    },
+    {
+      "id": 1100,
+      "pMessage": "OK"
+    },
+    {
+      "id": 1101,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 1200,
+      "pMessage": "Protect or unprotect friend data."
+    },
+    {
+      "id": 1201,
+      "pMessage": "Edit profile."
+    },
+    {
+      "id": 1202,
+      "pMessage": "Edit profile comment."
+    },
+    {
+      "id": 1203,
+      "pMessage": "Check ability acquisition progress."
+    },
+    {
+      "id": 1204,
+      "pMessage": "Change Icons"
+    },
+    {
+      "id": 1205,
+      "pMessage": "Change World Icon"
+    },
+    {
+      "id": 1206,
+      "pMessage": "Select another profile icon."
+    },
+    {
+      "id": 1207,
+      "pMessage": "Change world icon"
+    },
+    {
+      "id": 1208,
+      "pMessage": "Score"
+    },
+    {
+      "id": 1209,
+      "pMessage": "Friend’s Best In-Game Score"
+    },
+    {
+      "id": 1210,
+      "pMessage": "Your Best In-Game Score"
+    },
+    {
+      "id": 1211,
+      "pMessage": "Avatar"
+    },
+    {
+      "id": 2000,
+      "pMessage": "<size=110%>About connecting the game to the network:</size>\nTo further enjoy the game, the following bonuses become available\nwhen connected to the network.\n————————————————————————————————————————————————\n<align=\"left\"><indent=5%>• Summoning other players’ characters for help in battle\n• Sending registered moves for other players to use\n• Registering friends playing the game to your friend list,\nand abilinking with them to use abilities they have learned\n\n*You will be connected to the service automatically when a network becomes available during play.\n*Network connection settings can be adjusted in the Config menu.\n*A network connection is not required to play the game.\n</indent></align>\n————————————————————————————————————————————————\n<size=110%>The following information will be visible to other players when using network functions:</size>\n<align=\"left\"><indent=15%>Account icon; user name; comments; in-game language settings;\nand character’s jobs, equipment, levels, stats, special moves, special move dialogue, etc.</indent></align>\n————————————————————————————————————————————————\n<size=110%>You must accept the terms of the User Agreement in order to use network functions.</size>\n\nPlease confirm that you agree to our Terms of Service.\n\nConnect the game to the network?\n<size=90%>Please review the User Agreement before accepting.</size>"
+    },
+    {
+      "id": 2001,
+      "pMessage": "View the Privacy Notice <size=70%>(will open in a browser)</size>"
+    },
+    {
+      "id": 2002,
+      "pMessage": "https://weblet.square-enix.com/geojmp.php?d=DOCUMENTS&l=privacyingame"
+    },
+    {
+      "id": 2003,
+      "pMessage": "View the User Agreement <size=70%>(will open in a browser)</size>"
+    },
+    {
+      "id": 2004,
+      "pMessage": "https://www.square-enix-games.com/en_gb/simpleDocument/bravely-default-flying-fairy-hd-remaster-online-services-guidelines"
+    },
+    {
+      "id": 2005,
+      "pMessage": "Agree to the terms and connect to the network"
+    },
+    {
+      "id": 2006,
+      "pMessage": "Do not connect to the network"
+    },
+    {
+      "id": 2007,
+      "pMessage": "<size=110%>Could not connect to the internet.</size>\n\nTo further enjoy the game, the following bonuses become available\nwhen connected to the network.\n————————————————————————————————————————————————\n<align=\"left\"><indent=5%>• Summoning other players’ characters for help in battle\n\n• Sending registered moves for other players to use\n\n• Registering friends playing the game to your friend list,\nand abilinking with them to use abilities they have learned\n\n*Network connection settings can be adjusted in the Config menu.\n*A network connection is not required to play the game.</indent></align>\n————————————————————————————————————————————————\n<size=110%>Please check the Nintendo Switch 2 console’s network connection settings.</size>"
+    },
+    {
+      "id": 2008,
+      "pMessage": "<size=125%>Not connected to the internet.</size>\n<align=\"left\">\nAbilinks other than with the friend-bots have been removed.\n\nFriends and guests other than the friend-bots will be unavailable.\n\nFriends and guests will become available again\nafter connecting to the internet.</align>"
+    },
+    {
+      "id": 2009,
+      "pMessage": "Abilink removed as the abilinked friend is no longer available."
+    },
+    {
+      "id": 2010,
+      "pMessage": "<size=125%>Please confirm that you have read and understand our <sprite name=\"button_x\"><color=#007fff><u>Privacy Notice</u></color>.</size>"
+    },
+    {
+      "id": 2011,
+      "pMessage": "The protected guest is no longer available."
+    },
+    {
+      "id": 2012,
+      "pMessage": "The friend is no longer available."
+    },
+    {
+      "id": 2013,
+      "pMessage": "<size=125%>Synchronization with network incomplete.</size>\n<align=\"left\">\nAbilinks other than with the friend-bots have been removed.\n\nFriends and guests other than the friend-bots will be unavailable.\n\nFriends and guests will become available again\nafter network synchronization is complete.</align>"
+    },
+    {
+      "id": 2014,
+      "pMessage": "Luxencheer\nRhythm Catch"
+    },
+    {
+      "id": 2015,
+      "pMessage": "Ringabel’s\nPanic Cruise"
+    },
+    {
+      "id": 2200,
+      "pMessage": ""
+    },
+    {
+      "id": 2201,
+      "pMessage": ""
+    },
+    {
+      "id": 2202,
+      "pMessage": ""
+    },
+    {
+      "id": 2203,
+      "pMessage": ""
+    },
+    {
+      "id": 2204,
+      "pMessage": "It’s a pleasure!"
+    },
+    {
+      "id": 2205,
+      "pMessage": "Edit profile"
+    },
+    {
+      "id": 2206,
+      "pMessage": "Select icon"
+    },
+    {
+      "id": 2207,
+      "pMessage": "Edit comment"
+    },
+    {
+      "id": 2208,
+      "pMessage": "Display a user icon for\nyour profile.\n*Icons also display for\nfriends and guests."
+    },
+    {
+      "id": 2209,
+      "pMessage": "Display a world icon for\nyour profile.\n*Icons also display for\nfriends and guests."
+    },
+    {
+      "id": 2300,
+      "pMessage": "<size=110%>Could not connect to the internet.</size>\n\nTo further enjoy the game, the following bonuses become available\nwhen connected to the network.\n————————————————————————————————————————————————\n<align=\"left\"><indent=5%>• Summoning other players’ characters for help in battle\n\n• Sending registered moves for other players to use\n\n• Registering friends playing the game to your friend list,\nand abilinking with them to use abilities they have learned\n\n*Network connection settings can be adjusted in the Config menu.\n*A network connection is not required to play the game.</indent></align>\n————————————————————————————————————————————————\n<size=110%>Please check your network connection settings.</size>"
+    }
+  ]
+}

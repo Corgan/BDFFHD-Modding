@@ -1,0 +1,423 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3658,
+    "data_one_size": 8,
+    "data_num": 103,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "label": "-",
+      "text": "GAME START"
+    },
+    {
+      "label": "-",
+      "text": "MenuTestGame"
+    },
+    {
+      "label": "-",
+      "text": "Select Scene"
+    },
+    {
+      "label": "-",
+      "text": "Select Map"
+    },
+    {
+      "label": "-",
+      "text": "Day"
+    },
+    {
+      "label": "-",
+      "text": "Night"
+    },
+    {
+      "label": "-",
+      "text": "イベントビュアー"
+    },
+    {
+      "label": "-",
+      "text": "モデルビュアー"
+    },
+    {
+      "label": "-",
+      "text": "パーティーチャットモデルビュアー"
+    },
+    {
+      "label": "-",
+      "text": "Steamworks"
+    },
+    {
+      "label": "-",
+      "text": "ミニゲーム"
+    },
+    {
+      "label": "-",
+      "text": "飛空艇クルーズ"
+    },
+    {
+      "label": "-",
+      "text": "ダンス"
+    },
+    {
+      "label": "-",
+      "text": "Text Language"
+    },
+    {
+      "label": "-",
+      "text": "etc"
+    },
+    {
+      "label": "-",
+      "text": "Load Game"
+    },
+    {
+      "label": "-",
+      "text": "BattleTest"
+    },
+    {
+      "label": "-",
+      "text": "ＢＧＭ"
+    },
+    {
+      "label": "-",
+      "text": "PawnLogLevel"
+    },
+    {
+      "label": "-",
+      "text": "Disp Script Debug Text"
+    },
+    {
+      "label": "-",
+      "text": "Reject Privacy Policy"
+    },
+    {
+      "label": "-",
+      "text": "Reset First Boot"
+    },
+    {
+      "label": "-",
+      "text": "PawnLogInDKlog"
+    },
+    {
+      "label": "-",
+      "text": "プライバシーポリシー確認のみ"
+    },
+    {
+      "label": "-",
+      "text": "プライバシーポリシーキャンセル？"
+    },
+    {
+      "label": "-",
+      "text": "プライバシーポリシー動作確認"
+    },
+    {
+      "label": "-",
+      "text": "Sound Test"
+    },
+    {
+      "label": "-",
+      "text": "CollisionWall"
+    },
+    {
+      "label": "-",
+      "text": "EncountMonster"
+    },
+    {
+      "label": "-",
+      "text": "World Update CTRL"
+    },
+    {
+      "label": "-",
+      "text": "Script CTRL"
+    },
+    {
+      "label": "-",
+      "text": "Set Hold Day"
+    },
+    {
+      "label": "-",
+      "text": "Set Hold Night"
+    },
+    {
+      "label": "-",
+      "text": "Set Hold Time"
+    },
+    {
+      "label": "-",
+      "text": "[Map Jump]"
+    },
+    {
+      "label": "-",
+      "text": "[Select Scene]"
+    },
+    {
+      "label": "-",
+      "text": "Sea ship Postion No."
+    },
+    {
+      "label": "-",
+      "text": "Sea ship alive."
+    },
+    {
+      "label": "-",
+      "text": "Sea ship broken."
+    },
+    {
+      "label": "-",
+      "text": "Sea ship call"
+    },
+    {
+      "label": "-",
+      "text": "Granship forced call"
+    },
+    {
+      "label": "-",
+      "text": "PROGRESS_ID"
+    },
+    {
+      "label": "-",
+      "text": "CRYSTAL_FIRE"
+    },
+    {
+      "label": "-",
+      "text": "CRYSTAL_WATER"
+    },
+    {
+      "label": "-",
+      "text": "CRYSTAL_WIND"
+    },
+    {
+      "label": "-",
+      "text": "CRYSTAL_EARTH"
+    },
+    {
+      "label": "-",
+      "text": "AIRY"
+    },
+    {
+      "label": "-",
+      "text": "JOB"
+    },
+    {
+      "label": "-",
+      "text": "ABILITY"
+    },
+    {
+      "label": "-",
+      "text": "ABILINK"
+    },
+    {
+      "label": "-",
+      "text": "ITEM"
+    },
+    {
+      "label": "-",
+      "text": "MAGIC"
+    },
+    {
+      "label": "-",
+      "text": "EQUIP"
+    },
+    {
+      "label": "-",
+      "text": "FINISHER"
+    },
+    {
+      "label": "-",
+      "text": "COMMAND"
+    },
+    {
+      "label": "-",
+      "text": "COM_STATUS"
+    },
+    {
+      "label": "-",
+      "text": "COM_FORMATION"
+    },
+    {
+      "label": "-",
+      "text": "COM_FRIEND"
+    },
+    {
+      "label": "-",
+      "text": "COM_CONFIG"
+    },
+    {
+      "label": "-",
+      "text": "QUEST"
+    },
+    {
+      "label": "-",
+      "text": "COLONY"
+    },
+    {
+      "label": "-",
+      "text": "SHIP"
+    },
+    {
+      "label": "-",
+      "text": "NOTE"
+    },
+    {
+      "label": "-",
+      "text": "BRAVE_DEFAULT"
+    },
+    {
+      "label": "-",
+      "text": "PROFILE_ATTENTION"
+    },
+    {
+      "label": "-",
+      "text": "FINISHER_ATTENTION"
+    },
+    {
+      "label": "-",
+      "text": "SAVE"
+    },
+    {
+      "label": "-",
+      "text": "WIFI"
+    },
+    {
+      "label": "-",
+      "text": "MAGIC_SORT"
+    },
+    {
+      "label": "-",
+      "text": "Set Default Flag"
+    },
+    {
+      "label": "-",
+      "text": "Set All Flag"
+    },
+    {
+      "label": "-",
+      "text": "Game Flag"
+    },
+    {
+      "label": "-",
+      "text": "Game Intenger (Pad.A press with Pad.L | Pad.R"
+    },
+    {
+      "label": "-",
+      "text": "Reset Dungeon Mask"
+    },
+    {
+      "label": "-",
+      "text": "QuickSave"
+    },
+    {
+      "label": "-",
+      "text": "Party"
+    },
+    {
+      "label": "-",
+      "text": "Quick Set"
+    },
+    {
+      "label": "-",
+      "text": "Target Level All"
+    },
+    {
+      "label": "-",
+      "text": "Set Target Level All"
+    },
+    {
+      "label": "-",
+      "text": "Target Job Level All"
+    },
+    {
+      "label": "-",
+      "text": "Set Target Job Level All. Only those Job"
+    },
+    {
+      "label": "-",
+      "text": "Add All Special"
+    },
+    {
+      "label": "-",
+      "text": "Add All Special Parts"
+    },
+    {
+      "label": "-",
+      "text": "Get All Item"
+    },
+    {
+      "label": "-",
+      "text": "Lost All Item"
+    },
+    {
+      "label": "-",
+      "text": "Set PQ"
+    },
+    {
+      "label": "-",
+      "text": "Set Cost"
+    },
+    {
+      "label": "-",
+      "text": "[Job]"
+    },
+    {
+      "label": "-",
+      "text": "Log & Info Disp"
+    },
+    {
+      "label": "-",
+      "text": "Show Frame Time"
+    },
+    {
+      "label": "-",
+      "text": "Disp Debug Text"
+    },
+    {
+      "label": "-",
+      "text": "Sound Volume"
+    },
+    {
+      "label": "-",
+      "text": "SE"
+    },
+    {
+      "label": "-",
+      "text": "BGM"
+    },
+    {
+      "label": "-",
+      "text": "Voice"
+    },
+    {
+      "label": "-",
+      "text": "Sound Disp"
+    },
+    {
+      "label": "-",
+      "text": "すれ違い配置"
+    },
+    {
+      "label": "-",
+      "text": "Passenger"
+    },
+    {
+      "label": "-",
+      "text": "常時すれ違い"
+    },
+    {
+      "label": "-",
+      "text": "必ず友達"
+    },
+    {
+      "label": "-",
+      "text": "フレンド全削除(要:アビリンク解除)"
+    },
+    {
+      "label": "-",
+      "text": "ゲスト全削除"
+    },
+    {
+      "label": "-",
+      "text": "Exit Game (Press hold X and push A) "
+    }
+  ]
+}

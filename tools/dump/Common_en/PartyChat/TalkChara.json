@@ -1,0 +1,43 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 236,
+    "data_one_size": 8,
+    "data_num": 8,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "m_pPlateName": "ティズ",
+      "m_pNameLabel": "PCM1"
+    },
+    {
+      "m_pPlateName": "アニエス",
+      "m_pNameLabel": "PCF1"
+    },
+    {
+      "m_pPlateName": "リングアベル",
+      "m_pNameLabel": "PCM2"
+    },
+    {
+      "m_pPlateName": "イデア",
+      "m_pNameLabel": "PCF2"
+    },
+    {
+      "m_pPlateName": "Airy",
+      "m_pNameLabel": "AIRY"
+    },
+    {
+      "m_pPlateName": "Datz",
+      "m_pNameLabel": "GST_D"
+    },
+    {
+      "m_pPlateName": "Zatz",
+      "m_pNameLabel": "GST_R"
+    },
+    {
+      "m_pPlateName": "Egil",
+      "m_pNameLabel": "GST_E"
+    }
+  ]
+}

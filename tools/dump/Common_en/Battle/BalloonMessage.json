@@ -1,0 +1,315 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1112,
+    "data_one_size": 24,
+    "data_num": 38,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "index": 0,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 10,
+      "friendship": 1,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 11,
+      "friendship": 2,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 12,
+      "friendship": 3,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 13,
+      "friendship": 4,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 14,
+      "friendship": 5,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 20,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 100,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 110,
+      "friendship": 1,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 111,
+      "friendship": 2,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 112,
+      "friendship": 3,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 113,
+      "friendship": 4,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 114,
+      "friendship": 5,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 120,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 200,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 210,
+      "friendship": 1,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 211,
+      "friendship": 2,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 212,
+      "friendship": 3,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 213,
+      "friendship": 4,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 214,
+      "friendship": 5,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 220,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 300,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 310,
+      "friendship": 1,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 311,
+      "friendship": 2,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 312,
+      "friendship": 3,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 313,
+      "friendship": 4,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 314,
+      "friendship": 5,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 320,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 900,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 901,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 902,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 903,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 904,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 905,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 906,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 907,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 908,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    },
+    {
+      "index": 909,
+      "friendship": 0,
+      "window1": 0,
+      "text1": "",
+      "window2": 0,
+      "text2": ""
+    }
+  ]
+}

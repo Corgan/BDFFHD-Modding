@@ -1,0 +1,91 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 208,
+    "data_one_size": 8,
+    "data_num": 20,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "index": 1,
+      "charaID": 51505
+    },
+    {
+      "index": 2,
+      "charaID": 51506
+    },
+    {
+      "index": 3,
+      "charaID": 53315
+    },
+    {
+      "index": 4,
+      "charaID": 53316
+    },
+    {
+      "index": 5,
+      "charaID": 53405
+    },
+    {
+      "index": 6,
+      "charaID": 53406
+    },
+    {
+      "index": 7,
+      "charaID": 53415
+    },
+    {
+      "index": 8,
+      "charaID": 61510
+    },
+    {
+      "index": 9,
+      "charaID": 62300
+    },
+    {
+      "index": 10,
+      "charaID": 65850
+    },
+    {
+      "index": 11,
+      "charaID": 90605
+    },
+    {
+      "index": 12,
+      "charaID": 90606
+    },
+    {
+      "index": 13,
+      "charaID": 90705
+    },
+    {
+      "index": 14,
+      "charaID": 90706
+    },
+    {
+      "index": 15,
+      "charaID": 90905
+    },
+    {
+      "index": 16,
+      "charaID": 90906
+    },
+    {
+      "index": 17,
+      "charaID": 91105
+    },
+    {
+      "index": 18,
+      "charaID": 91106
+    },
+    {
+      "index": 19,
+      "charaID": 67030
+    },
+    {
+      "index": 20,
+      "charaID": 65830
+    }
+  ]
+}

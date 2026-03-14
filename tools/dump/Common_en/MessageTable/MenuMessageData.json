@@ -1,0 +1,3039 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 41614,
+    "data_one_size": 8,
+    "data_num": 757,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "ID": 0,
+      "pMessage": "Change jobs?"
+    },
+    {
+      "ID": 1,
+      "pMessage": "Go to Abilities"
+    },
+    {
+      "ID": 2,
+      "pMessage": "Go to Equip"
+    },
+    {
+      "ID": 3,
+      "pMessage": "Back"
+    },
+    {
+      "ID": 4,
+      "pMessage": "Set a job command."
+    },
+    {
+      "ID": 5,
+      "pMessage": "Set support abilities."
+    },
+    {
+      "ID": 6,
+      "pMessage": "Commands currently available."
+    },
+    {
+      "ID": 7,
+      "pMessage": "Job characteristics."
+    },
+    {
+      "ID": 8,
+      "pMessage": "Remove the set job command."
+    },
+    {
+      "ID": 9,
+      "pMessage": "Job Command"
+    },
+    {
+      "ID": 10,
+      "pMessage": "Equip a support ability."
+    },
+    {
+      "ID": 11,
+      "pMessage": "Select an ability from %ls."
+    },
+    {
+      "ID": 12,
+      "pMessage": "Select a job."
+    },
+    {
+      "ID": 13,
+      "pMessage": "Remove the selected ability."
+    },
+    {
+      "ID": 14,
+      "pMessage": "Warning! All other abilities will\nbe removed when this is equipped.\nDo you want to continue?"
+    },
+    {
+      "ID": 15,
+      "pMessage": "Equipment changed."
+    },
+    {
+      "ID": 16,
+      "pMessage": "Add friends to use the\nAbilink feature.\nTry adding some friends!"
+    },
+    {
+      "ID": 17,
+      "pMessage": "[%ls]"
+    },
+    {
+      "ID": 18,
+      "pMessage": "%ls is already abilinked\nwith %ls."
+    },
+    {
+      "ID": 19,
+      "pMessage": "Change Abilink partner?"
+    },
+    {
+      "ID": 20,
+      "pMessage": "The following support abilities will be\nremoved if you change the abilink."
+    },
+    {
+      "ID": 21,
+      "pMessage": "Show and use recovery items."
+    },
+    {
+      "ID": 22,
+      "pMessage": "Show new items."
+    },
+    {
+      "ID": 23,
+      "pMessage": "Show attack items."
+    },
+    {
+      "ID": 24,
+      "pMessage": "Show compounding items."
+    },
+    {
+      "ID": 25,
+      "pMessage": "Show key items."
+    },
+    {
+      "ID": 26,
+      "pMessage": "Show weapons."
+    },
+    {
+      "ID": 27,
+      "pMessage": "Show shields, armor, and accessories."
+    },
+    {
+      "ID": 28,
+      "pMessage": "Show outfits that change appearance."
+    },
+    {
+      "ID": 29,
+      "pMessage": "There are no items."
+    },
+    {
+      "ID": 30,
+      "pMessage": "%ls increased by %d!"
+    },
+    {
+      "ID": 31,
+      "pMessage": "%ls"
+    },
+    {
+      "ID": 32,
+      "pMessage": "Cannot be used now."
+    },
+    {
+      "ID": 33,
+      "pMessage": "Use white magic."
+    },
+    {
+      "ID": 34,
+      "pMessage": "Use black magic."
+    },
+    {
+      "ID": 35,
+      "pMessage": "Use time magic."
+    },
+    {
+      "ID": 36,
+      "pMessage": "Use sword magic."
+    },
+    {
+      "ID": 37,
+      "pMessage": "Use summoning magic."
+    },
+    {
+      "ID": 38,
+      "pMessage": "You have no commands for using magic."
+    },
+    {
+      "ID": 39,
+      "pMessage": "You haven’t learned any magic."
+    },
+    {
+      "ID": 40,
+      "pMessage": "Nothing equipped."
+    },
+    {
+      "ID": 41,
+      "pMessage": "Nothing equipped."
+    },
+    {
+      "ID": 42,
+      "pMessage": "Equip head armor."
+    },
+    {
+      "ID": 43,
+      "pMessage": "Equip torso armor."
+    },
+    {
+      "ID": 44,
+      "pMessage": "Equip accessories."
+    },
+    {
+      "ID": 45,
+      "pMessage": "Equip outfits that change appearance."
+    },
+    {
+      "ID": 46,
+      "pMessage": "Select all recommended equipment from your inventory."
+    },
+    {
+      "ID": 47,
+      "pMessage": "Select a weapon."
+    },
+    {
+      "ID": 48,
+      "pMessage": "Select a newly acquired weapon."
+    },
+    {
+      "ID": 49,
+      "pMessage": "Select a sword."
+    },
+    {
+      "ID": 50,
+      "pMessage": "Select an axe."
+    },
+    {
+      "ID": 51,
+      "pMessage": "Select a spear."
+    },
+    {
+      "ID": 52,
+      "pMessage": "Select a rod."
+    },
+    {
+      "ID": 53,
+      "pMessage": "Select a staff."
+    },
+    {
+      "ID": 54,
+      "pMessage": "Select a dagger."
+    },
+    {
+      "ID": 55,
+      "pMessage": "Select a bow."
+    },
+    {
+      "ID": 56,
+      "pMessage": "Select a katana."
+    },
+    {
+      "ID": 57,
+      "pMessage": "Select knuckles."
+    },
+    {
+      "ID": 58,
+      "pMessage": "Select an outfit that changes appearance."
+    },
+    {
+      "ID": 59,
+      "pMessage": "Select a weapon or shield."
+    },
+    {
+      "ID": 60,
+      "pMessage": "Select a newly acquired weapon or shield."
+    },
+    {
+      "ID": 61,
+      "pMessage": "Select a shield."
+    },
+    {
+      "ID": 62,
+      "pMessage": "Select head armor."
+    },
+    {
+      "ID": 63,
+      "pMessage": "Select newly acquired head armor."
+    },
+    {
+      "ID": 64,
+      "pMessage": "Select a hat."
+    },
+    {
+      "ID": 65,
+      "pMessage": "Select a helm."
+    },
+    {
+      "ID": 66,
+      "pMessage": "Select torso armor."
+    },
+    {
+      "ID": 67,
+      "pMessage": "Select newly acquired torso armor."
+    },
+    {
+      "ID": 68,
+      "pMessage": "Select a piece of light armor."
+    },
+    {
+      "ID": 69,
+      "pMessage": "Select a piece of heavy armor."
+    },
+    {
+      "ID": 70,
+      "pMessage": "Select an accessory."
+    },
+    {
+      "ID": 71,
+      "pMessage": "Select a newly acquired accessory."
+    },
+    {
+      "ID": 72,
+      "pMessage": "Select a newly acquired outfit that changes appearance."
+    },
+    {
+      "ID": 73,
+      "pMessage": "Remove the equipped item."
+    },
+    {
+      "ID": 74,
+      "pMessage": "Select recommended equipment from your inventory."
+    },
+    {
+      "ID": 75,
+      "pMessage": "Empty"
+    },
+    {
+      "ID": 76,
+      "pMessage": "Recommended"
+    },
+    {
+      "ID": 77,
+      "pMessage": "Equipping a two-handed weapon."
+    },
+    {
+      "ID": 78,
+      "pMessage": "Switching left hand\nequipment to right hand."
+    },
+    {
+      "ID": 79,
+      "pMessage": "Switching right hand\nequipment to left hand."
+    },
+    {
+      "ID": 80,
+      "pMessage": "Switching weapon to right hand."
+    },
+    {
+      "ID": 81,
+      "pMessage": "Optimum"
+    },
+    {
+      "ID": 82,
+      "pMessage": "2-Hand"
+    },
+    {
+      "ID": 83,
+      "pMessage": "Right Hand"
+    },
+    {
+      "ID": 84,
+      "pMessage": "Left Hand"
+    },
+    {
+      "ID": 85,
+      "pMessage": "Phy DEF"
+    },
+    {
+      "ID": 86,
+      "pMessage": "Mag ATK"
+    },
+    {
+      "ID": 87,
+      "pMessage": "Mag DEF"
+    },
+    {
+      "ID": 88,
+      "pMessage": "AIM"
+    },
+    {
+      "ID": 89,
+      "pMessage": "EVD"
+    },
+    {
+      "ID": 90,
+      "pMessage": "HP"
+    },
+    {
+      "ID": 91,
+      "pMessage": "MP"
+    },
+    {
+      "ID": 92,
+      "pMessage": "STR"
+    },
+    {
+      "ID": 93,
+      "pMessage": "VIT"
+    },
+    {
+      "ID": 94,
+      "pMessage": "INT"
+    },
+    {
+      "ID": 95,
+      "pMessage": "MND"
+    },
+    {
+      "ID": 96,
+      "pMessage": "DEX"
+    },
+    {
+      "ID": 97,
+      "pMessage": "AGI"
+    },
+    {
+      "ID": 98,
+      "pMessage": "Physical attack power for both hands."
+    },
+    {
+      "ID": 99,
+      "pMessage": "Physical attack power for the right hand."
+    },
+    {
+      "ID": 100,
+      "pMessage": "Physical attack power for the left hand."
+    },
+    {
+      "ID": 101,
+      "pMessage": "Defense against physical attacks."
+    },
+    {
+      "ID": 102,
+      "pMessage": "Magic attack power."
+    },
+    {
+      "ID": 103,
+      "pMessage": "Defense against magic attacks."
+    },
+    {
+      "ID": 104,
+      "pMessage": "Ability to hit with physical attacks."
+    },
+    {
+      "ID": 105,
+      "pMessage": "Ability to evade physical attacks.\nAlso affects enemy attack hit count."
+    },
+    {
+      "ID": 106,
+      "pMessage": "Maximum HP."
+    },
+    {
+      "ID": 107,
+      "pMessage": "Maximum MP."
+    },
+    {
+      "ID": 108,
+      "pMessage": "Affects physical attack power."
+    },
+    {
+      "ID": 109,
+      "pMessage": "Affects physical defense ability."
+    },
+    {
+      "ID": 110,
+      "pMessage": "Affects magic attack power and\nchance to inflict status ailments."
+    },
+    {
+      "ID": 111,
+      "pMessage": "Affects magic defense, healing power,\nand chance to avoid status ailments."
+    },
+    {
+      "ID": 112,
+      "pMessage": "Affects physical attack accuracy and\nBrave Attack rate."
+    },
+    {
+      "ID": 113,
+      "pMessage": "Affects physical attack evasion, hit\ncount, speed, and first strike rate."
+    },
+    {
+      "ID": 114,
+      "pMessage": "Reduces damage from the specified\nelement."
+    },
+    {
+      "ID": 115,
+      "pMessage": "Nullifies damage from the specified\nelement."
+    },
+    {
+      "ID": 116,
+      "pMessage": "Deals minor damage each combat turn,\nor after traveling a certain distance."
+    },
+    {
+      "ID": 117,
+      "pMessage": "Greatly reduces physical attack\naccuracy. Cannot evade physical attacks."
+    },
+    {
+      "ID": 118,
+      "pMessage": "Unable to use abilities such as magic\nthat require you to speak."
+    },
+    {
+      "ID": 119,
+      "pMessage": "Unable to act or evade physical attacks.\nRemoved when hit by a physical attack."
+    },
+    {
+      "ID": 120,
+      "pMessage": "Unable to act or evade physical attacks."
+    },
+    {
+      "ID": 121,
+      "pMessage": "Unable to use Brave or Default, and\nBP of 1 or more is reduced to 0."
+    },
+    {
+      "ID": 122,
+      "pMessage": "Performs random actions against\na random target."
+    },
+    {
+      "ID": 123,
+      "pMessage": "Acts as if allied with the enemy."
+    },
+    {
+      "ID": 124,
+      "pMessage": "Knocked out regardless of HP remaining."
+    },
+    {
+      "ID": 125,
+      "pMessage": "Unable to act or evade physical\nattacks. Can be removed with dispel."
+    },
+    {
+      "ID": 126,
+      "pMessage": "Show on Top"
+    },
+    {
+      "ID": 127,
+      "pMessage": "Show on Bottom"
+    },
+    {
+      "ID": 128,
+      "pMessage": "You have no special moves."
+    },
+    {
+      "ID": 129,
+      "pMessage": "Select a sword special move."
+    },
+    {
+      "ID": 130,
+      "pMessage": "Select an axe special move."
+    },
+    {
+      "ID": 131,
+      "pMessage": "Select a spear special move."
+    },
+    {
+      "ID": 132,
+      "pMessage": "Select a rod special move."
+    },
+    {
+      "ID": 133,
+      "pMessage": "Select a staff special move."
+    },
+    {
+      "ID": 134,
+      "pMessage": "Select a dagger special move."
+    },
+    {
+      "ID": 135,
+      "pMessage": "Select a bow special move."
+    },
+    {
+      "ID": 136,
+      "pMessage": "Select a katana special move."
+    },
+    {
+      "ID": 137,
+      "pMessage": "Select a knuckles/unarmed special move."
+    },
+    {
+      "ID": 138,
+      "pMessage": "Select a part that adds elemental damage."
+    },
+    {
+      "ID": 139,
+      "pMessage": "Select a part that adds power."
+    },
+    {
+      "ID": 140,
+      "pMessage": "Select a part that adds damage to a certain enemy family."
+    },
+    {
+      "ID": 141,
+      "pMessage": "Select a part that inflicts a status ailment."
+    },
+    {
+      "ID": 142,
+      "pMessage": "Select a part that increases HP recovered."
+    },
+    {
+      "ID": 143,
+      "pMessage": "Select a part that cures status ailments."
+    },
+    {
+      "ID": 144,
+      "pMessage": "Select a part that increases MP recovered."
+    },
+    {
+      "ID": 145,
+      "pMessage": "Select a part that increases BP."
+    },
+    {
+      "ID": 146,
+      "pMessage": "Select a part that adds turns."
+    },
+    {
+      "ID": 147,
+      "pMessage": "Select a part that boosts stats."
+    },
+    {
+      "ID": 148,
+      "pMessage": "Select a part granting resistance to status ailments."
+    },
+    {
+      "ID": 149,
+      "pMessage": "Select a part that boosts elemental resistance."
+    },
+    {
+      "ID": 150,
+      "pMessage": "Select a part that reduces stats."
+    },
+    {
+      "ID": 151,
+      "pMessage": "Select a part that reduces status ailment resistance."
+    },
+    {
+      "ID": 152,
+      "pMessage": "Select a part that weakens elemental resistance."
+    },
+    {
+      "ID": 153,
+      "pMessage": "Remove a special move part."
+    },
+    {
+      "ID": 154,
+      "pMessage": "The data you enter may be seen by others.\nDo not enter any personal information."
+    },
+    {
+      "ID": 155,
+      "pMessage": "[PCM1] Arrior"
+    },
+    {
+      "ID": 156,
+      "pMessage": "[PCF1] Oblige"
+    },
+    {
+      "ID": 157,
+      "pMessage": "[PCM2]"
+    },
+    {
+      "ID": 158,
+      "pMessage": "[PCF2] Lee"
+    },
+    {
+      "ID": 159,
+      "pMessage": "Set the cursor behavior in the game."
+    },
+    {
+      "ID": 160,
+      "pMessage": "Set the volume of sound effects in the game."
+    },
+    {
+      "ID": 161,
+      "pMessage": "Set the volume of music in the game (movies included)."
+    },
+    {
+      "ID": 162,
+      "pMessage": "Set the volume of voices in the game."
+    },
+    {
+      "ID": 163,
+      "pMessage": "Set the message speed in the game."
+    },
+    {
+      "ID": 164,
+      "pMessage": "Set whether to update data after using Send in battle."
+    },
+    {
+      "ID": 165,
+      "pMessage": "Reset all settings."
+    },
+    {
+      "ID": 166,
+      "pMessage": "Keep the cursor position after closing windows."
+    },
+    {
+      "ID": 167,
+      "pMessage": "Reset the cursor position after closing windows."
+    },
+    {
+      "ID": 168,
+      "pMessage": "Press up/down to set the sound effect volume."
+    },
+    {
+      "ID": 169,
+      "pMessage": "Press up/down to set the music volume."
+    },
+    {
+      "ID": 170,
+      "pMessage": "Press up/down to set the voice volume."
+    },
+    {
+      "ID": 171,
+      "pMessage": "Set the slowest message speed."
+    },
+    {
+      "ID": 172,
+      "pMessage": "Set normal message speed."
+    },
+    {
+      "ID": 173,
+      "pMessage": "Set the fastest message speed."
+    },
+    {
+      "ID": 174,
+      "pMessage": "This is how fast messages will appear."
+    },
+    {
+      "ID": 175,
+      "pMessage": "Update your data after using Send in battle."
+    },
+    {
+      "ID": 176,
+      "pMessage": "Do not update your data after using Send in battle."
+    },
+    {
+      "ID": 177,
+      "pMessage": "Reset all settings."
+    },
+    {
+      "ID": 178,
+      "pMessage": "Return to Config without resetting."
+    },
+    {
+      "ID": 179,
+      "pMessage": "Remember"
+    },
+    {
+      "ID": 180,
+      "pMessage": "Fixed"
+    },
+    {
+      "ID": 181,
+      "pMessage": "Cursor Position"
+    },
+    {
+      "ID": 182,
+      "pMessage": "Slow"
+    },
+    {
+      "ID": 183,
+      "pMessage": "Normal"
+    },
+    {
+      "ID": 184,
+      "pMessage": "Fast"
+    },
+    {
+      "ID": 185,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 186,
+      "pMessage": "No"
+    },
+    {
+      "ID": 187,
+      "pMessage": "Remove"
+    },
+    {
+      "ID": 188,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 189,
+      "pMessage": "No"
+    },
+    {
+      "ID": 190,
+      "pMessage": "None"
+    },
+    {
+      "ID": 191,
+      "pMessage": "Buy or use SP drinks."
+    },
+    {
+      "ID": 192,
+      "pMessage": "Select the number of drinks to buy."
+    },
+    {
+      "ID": 193,
+      "pMessage": "Touch Confirm to use."
+    },
+    {
+      "ID": 194,
+      "pMessage": "Adjust battle settings."
+    },
+    {
+      "ID": 195,
+      "pMessage": "Adjust sound settings."
+    },
+    {
+      "ID": 196,
+      "pMessage": "Adjust message settings."
+    },
+    {
+      "ID": 197,
+      "pMessage": "Adjust game settings."
+    },
+    {
+      "ID": 198,
+      "pMessage": "Set the difficulty."
+    },
+    {
+      "ID": 199,
+      "pMessage": "Restore %s\nto the default?"
+    },
+    {
+      "ID": 200,
+      "pMessage": "%ls restored to the default."
+    },
+    {
+      "ID": 201,
+      "pMessage": "%ls restored to the default."
+    },
+    {
+      "ID": 202,
+      "pMessage": "Return to %ls settings without resetting."
+    },
+    {
+      "ID": 203,
+      "pMessage": "Set whether to confirm at turn start."
+    },
+    {
+      "ID": 204,
+      "pMessage": "Set the button assignments."
+    },
+    {
+      "ID": 205,
+      "pMessage": "Set whether to update data after using Send in battle."
+    },
+    {
+      "ID": 206,
+      "pMessage": "Confirm when starting a turn."
+    },
+    {
+      "ID": 207,
+      "pMessage": "Do not confirm at turn start. (Cannot change commands.)"
+    },
+    {
+      "ID": 208,
+      "pMessage": "Set the Brave and Default button assignments."
+    },
+    {
+      "ID": 209,
+      "pMessage": "Update your data after using Send in battle."
+    },
+    {
+      "ID": 210,
+      "pMessage": "Do not update your data after using Send in battle."
+    },
+    {
+      "ID": 211,
+      "pMessage": "Set the volume of sound effects in the game."
+    },
+    {
+      "ID": 212,
+      "pMessage": "Set the volume of music in the game (movies included)."
+    },
+    {
+      "ID": 213,
+      "pMessage": "Set the volume of voices in the game."
+    },
+    {
+      "ID": 214,
+      "pMessage": "Press up/down to set the sound effect volume."
+    },
+    {
+      "ID": 215,
+      "pMessage": "Press up/down to set the music volume."
+    },
+    {
+      "ID": 216,
+      "pMessage": "Press up/down to set the voice volume."
+    },
+    {
+      "ID": 217,
+      "pMessage": "Select a language for voices in the game."
+    },
+    {
+      "ID": 218,
+      "pMessage": "Select a language for text in the game."
+    },
+    {
+      "ID": 219,
+      "pMessage": "Set the message speed in the game."
+    },
+    {
+      "ID": 220,
+      "pMessage": "Select how to view messages during events."
+    },
+    {
+      "ID": 221,
+      "pMessage": "In-game voices set to %ls."
+    },
+    {
+      "ID": 222,
+      "pMessage": "In-game text set to %ls."
+    },
+    {
+      "ID": 223,
+      "pMessage": "Set the fastest message speed."
+    },
+    {
+      "ID": 224,
+      "pMessage": "Set normal message speed."
+    },
+    {
+      "ID": 225,
+      "pMessage": "Set the slowest message speed."
+    },
+    {
+      "ID": 226,
+      "pMessage": "Messages will appear at this speed."
+    },
+    {
+      "ID": 227,
+      "pMessage": "Press the confirm button to see the next message."
+    },
+    {
+      "ID": 228,
+      "pMessage": "Messages are displayed in sync with voices."
+    },
+    {
+      "ID": 229,
+      "pMessage": "Set the controls using +Control Pad left/right."
+    },
+    {
+      "ID": 230,
+      "pMessage": "Set the cursor behavior in the game."
+    },
+    {
+      "ID": 231,
+      "pMessage": "Set whether to use the autosave feature."
+    },
+    {
+      "ID": 232,
+      "pMessage": "Keep the cursor position after closing windows."
+    },
+    {
+      "ID": 233,
+      "pMessage": "Reset the cursor position after closing windows."
+    },
+    {
+      "ID": 234,
+      "pMessage": "Confirm/cancel with +Control Pad left/right."
+    },
+    {
+      "ID": 235,
+      "pMessage": "Do not confirm/cancel with +Control Pad left/right."
+    },
+    {
+      "ID": 236,
+      "pMessage": "Overwrite save data automatically when switching maps, etc."
+    },
+    {
+      "ID": 237,
+      "pMessage": "Do not use the autosave feature."
+    },
+    {
+      "ID": 238,
+      "pMessage": "Set whether to display destination markers."
+    },
+    {
+      "ID": 239,
+      "pMessage": "Set whether to acquire EXP after battle."
+    },
+    {
+      "ID": 240,
+      "pMessage": "Set whether to acquire money after battle."
+    },
+    {
+      "ID": 241,
+      "pMessage": "Set whether to acquire job points after battle."
+    },
+    {
+      "ID": 242,
+      "pMessage": "Set the strength of enemies."
+    },
+    {
+      "ID": 243,
+      "pMessage": "Set the enemy encounter rate when traveling."
+    },
+    {
+      "ID": 244,
+      "pMessage": "Show destination markers."
+    },
+    {
+      "ID": 245,
+      "pMessage": "Do not show destination markers."
+    },
+    {
+      "ID": 246,
+      "pMessage": "Acquire EXP."
+    },
+    {
+      "ID": 247,
+      "pMessage": "Do not acquire EXP."
+    },
+    {
+      "ID": 248,
+      "pMessage": "Acquire money."
+    },
+    {
+      "ID": 249,
+      "pMessage": "Do not acquire money."
+    },
+    {
+      "ID": 250,
+      "pMessage": "Acquire job points."
+    },
+    {
+      "ID": 251,
+      "pMessage": "Do not acquire job points."
+    },
+    {
+      "ID": 252,
+      "pMessage": "Press up/down to set the encounter rate."
+    },
+    {
+      "ID": 253,
+      "pMessage": "The encounter rate has been\nset to a low value. Note that\nthis will make it harder to\ngain levels."
+    },
+    {
+      "ID": 254,
+      "pMessage": "You will no longer encounter\nenemies while moving. Note\nthat this will make it harder to\ngain levels.\n"
+    },
+    {
+      "ID": 255,
+      "pMessage": "You won’t be able to complete the\nfollowing achievements. Proceed anyway?"
+    },
+    {
+      "ID": 256,
+      "pMessage": "Play the game until The End on Hard"
+    },
+    {
+      "ID": 257,
+      "pMessage": "Play the game until The End with zero monster encounters"
+    },
+    {
+      "ID": 258,
+      "pMessage": "Play the game with zero monster encounters on Hard"
+    },
+    {
+      "ID": 259,
+      "pMessage": "Enemies are weaker."
+    },
+    {
+      "ID": 260,
+      "pMessage": "Standard difficulty."
+    },
+    {
+      "ID": 261,
+      "pMessage": "Enemies are stronger."
+    },
+    {
+      "ID": 262,
+      "pMessage": "On"
+    },
+    {
+      "ID": 263,
+      "pMessage": "Off"
+    },
+    {
+      "ID": 264,
+      "pMessage": "日本語"
+    },
+    {
+      "ID": 265,
+      "pMessage": "English"
+    },
+    {
+      "ID": 266,
+      "pMessage": "Français"
+    },
+    {
+      "ID": 267,
+      "pMessage": "Italiano"
+    },
+    {
+      "ID": 268,
+      "pMessage": "Deutsch"
+    },
+    {
+      "ID": 269,
+      "pMessage": "Español"
+    },
+    {
+      "ID": 270,
+      "pMessage": "Brave"
+    },
+    {
+      "ID": 271,
+      "pMessage": "Default"
+    },
+    {
+      "ID": 272,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 273,
+      "pMessage": "No"
+    },
+    {
+      "ID": 274,
+      "pMessage": "Remember"
+    },
+    {
+      "ID": 275,
+      "pMessage": "Fixed"
+    },
+    {
+      "ID": 276,
+      "pMessage": "Fast"
+    },
+    {
+      "ID": 277,
+      "pMessage": "Normal"
+    },
+    {
+      "ID": 278,
+      "pMessage": "Slow"
+    },
+    {
+      "ID": 279,
+      "pMessage": "Easy"
+    },
+    {
+      "ID": 280,
+      "pMessage": "Normal"
+    },
+    {
+      "ID": 281,
+      "pMessage": "Hard"
+    },
+    {
+      "ID": 282,
+      "pMessage": "Confirm at Turn Start"
+    },
+    {
+      "ID": 283,
+      "pMessage": "Update data upon Send"
+    },
+    {
+      "ID": 284,
+      "pMessage": "SFX Volume"
+    },
+    {
+      "ID": 285,
+      "pMessage": "Music Volume"
+    },
+    {
+      "ID": 286,
+      "pMessage": "Voice Volume"
+    },
+    {
+      "ID": 287,
+      "pMessage": "Voice Language"
+    },
+    {
+      "ID": 288,
+      "pMessage": "Text Language"
+    },
+    {
+      "ID": 289,
+      "pMessage": "Message Speed"
+    },
+    {
+      "ID": 290,
+      "pMessage": "Autoplay"
+    },
+    {
+      "ID": 291,
+      "pMessage": "Cursor Position"
+    },
+    {
+      "ID": 292,
+      "pMessage": "Autosave"
+    },
+    {
+      "ID": 293,
+      "pMessage": "Destination Marker"
+    },
+    {
+      "ID": 294,
+      "pMessage": "EXP Acquired"
+    },
+    {
+      "ID": 295,
+      "pMessage": "pg Acquired"
+    },
+    {
+      "ID": 296,
+      "pMessage": "JP Acquired"
+    },
+    {
+      "ID": 297,
+      "pMessage": "Encounter Rate"
+    },
+    {
+      "ID": 298,
+      "pMessage": "Config"
+    },
+    {
+      "ID": 299,
+      "pMessage": "Battle"
+    },
+    {
+      "ID": 300,
+      "pMessage": "Sound"
+    },
+    {
+      "ID": 301,
+      "pMessage": "Messages"
+    },
+    {
+      "ID": 302,
+      "pMessage": "Game"
+    },
+    {
+      "ID": 303,
+      "pMessage": "Difficulty"
+    },
+    {
+      "ID": 304,
+      "pMessage": "%d"
+    },
+    {
+      "ID": 305,
+      "pMessage": "%d%"
+    },
+    {
+      "ID": 306,
+      "pMessage": "＋%d%"
+    },
+    {
+      "ID": 307,
+      "pMessage": "±%d%"
+    },
+    {
+      "ID": 308,
+      "pMessage": "The language settings have been changed.\nDo you want to use these settings?\n\nVoice: 【%ls】\nText: 【%ls】"
+    },
+    {
+      "ID": 309,
+      "pMessage": "－－－"
+    },
+    {
+      "ID": 310,
+      "pMessage": "－－－－－"
+    },
+    {
+      "ID": 311,
+      "pMessage": "%ls（%ls）"
+    },
+    {
+      "ID": 312,
+      "pMessage": "－"
+    },
+    {
+      "ID": 313,
+      "pMessage": "An SP Drink restores 3 SP when you drink one!\nThe upper limit for SP is 3, so you can’t gain\nmore than that. But don’t worry—if you’re in\ndanger of wasting SP, you won't be able to\nuse the drink. You can’t use Bravely Second\nif your SP is negative, so restore it when you\ncan!\n\nSupport number\n%ls"
+    },
+    {
+      "ID": 314,
+      "pMessage": "The first one is available at a special price!\n\nTake advantage of this offer to see for yourself\nwhat an SP Drink can do."
+    },
+    {
+      "ID": 315,
+      "pMessage": "Select how many you want to use."
+    },
+    {
+      "ID": 316,
+      "pMessage": "Could not recognize SD Card."
+    },
+    {
+      "ID": 317,
+      "pMessage": "There is nothing you can buy right now.\nPlease see the official website for details."
+    },
+    {
+      "ID": 318,
+      "pMessage": "A network error has occurred.\nPlease try again later."
+    },
+    {
+      "ID": 319,
+      "pMessage": "Communicating over the Internet..."
+    },
+    {
+      "ID": 320,
+      "pMessage": "-------------"
+    },
+    {
+      "ID": 321,
+      "pMessage": "OK"
+    },
+    {
+      "ID": 322,
+      "pMessage": "Cancel"
+    },
+    {
+      "ID": 323,
+      "pMessage": "Internet communication can\ntake some time to complete.\nDo you want to proceed?"
+    },
+    {
+      "ID": 324,
+      "pMessage": "Change character name(s) to the\ndefault name(s) for %ls?"
+    },
+    {
+      "ID": 325,
+      "pMessage": "You cannot carry any more."
+    },
+    {
+      "ID": 326,
+      "pMessage": "You cannot use an SP Drink now, as it will put you\nover the max SP limit.\n\n* The max SP limit is 3."
+    },
+    {
+      "ID": 327,
+      "pMessage": "Restore %s\nto the default?\n* The following settings will not be changed:\n- Autosave\n- Network connection\n- Difficulty"
+    },
+    {
+      "ID": 328,
+      "pMessage": "SP Drink"
+    },
+    {
+      "ID": 329,
+      "pMessage": "An item which adds 3 SP when\nconsumed."
+    },
+    {
+      "ID": 330,
+      "pMessage": "Yes"
+    },
+    {
+      "ID": 331,
+      "pMessage": "No"
+    },
+    {
+      "ID": 332,
+      "pMessage": "Item"
+    },
+    {
+      "ID": 333,
+      "pMessage": "Magic"
+    },
+    {
+      "ID": 334,
+      "pMessage": "Job"
+    },
+    {
+      "ID": 335,
+      "pMessage": "Ability"
+    },
+    {
+      "ID": 336,
+      "pMessage": "Equip"
+    },
+    {
+      "ID": 337,
+      "pMessage": "Special"
+    },
+    {
+      "ID": 338,
+      "pMessage": "Tactics"
+    },
+    {
+      "ID": 339,
+      "pMessage": "Friends"
+    },
+    {
+      "ID": 340,
+      "pMessage": "Abilink"
+    },
+    {
+      "ID": 341,
+      "pMessage": "Status"
+    },
+    {
+      "ID": 342,
+      "pMessage": "Sort"
+    },
+    {
+      "ID": 343,
+      "pMessage": "Config"
+    },
+    {
+      "ID": 344,
+      "pMessage": "Funds"
+    },
+    {
+      "ID": 345,
+      "pMessage": "Lv"
+    },
+    {
+      "ID": 346,
+      "pMessage": "Config"
+    },
+    {
+      "ID": 347,
+      "pMessage": "Set"
+    },
+    {
+      "ID": 348,
+      "pMessage": "Item List"
+    },
+    {
+      "ID": 349,
+      "pMessage": "Party Info"
+    },
+    {
+      "ID": 350,
+      "pMessage": "Purchasing"
+    },
+    {
+      "ID": 351,
+      "pMessage": "Selling"
+    },
+    {
+      "ID": 352,
+      "pMessage": "Item Details"
+    },
+    {
+      "ID": 353,
+      "pMessage": "Party Information"
+    },
+    {
+      "ID": 354,
+      "pMessage": "Item Details"
+    },
+    {
+      "ID": 355,
+      "pMessage": "Guide"
+    },
+    {
+      "ID": 356,
+      "pMessage": "Remaining"
+    },
+    {
+      "ID": 357,
+      "pMessage": "Job Command"
+    },
+    {
+      "ID": 358,
+      "pMessage": "Ability List"
+    },
+    {
+      "ID": 359,
+      "pMessage": "Magic Used"
+    },
+    {
+      "ID": 360,
+      "pMessage": "Sort"
+    },
+    {
+      "ID": 361,
+      "pMessage": "Sort"
+    },
+    {
+      "ID": 362,
+      "pMessage": "Mastered!"
+    },
+    {
+      "ID": 363,
+      "pMessage": "Job Info"
+    },
+    {
+      "ID": 364,
+      "pMessage": "Stat Changes"
+    },
+    {
+      "ID": 365,
+      "pMessage": "Fixed Command"
+    },
+    {
+      "ID": 366,
+      "pMessage": "Destination"
+    },
+    {
+      "ID": 367,
+      "pMessage": "Helms"
+    },
+    {
+      "ID": 368,
+      "pMessage": "Armor"
+    },
+    {
+      "ID": 369,
+      "pMessage": "To Ability"
+    },
+    {
+      "ID": 370,
+      "pMessage": "To Equip"
+    },
+    {
+      "ID": 371,
+      "pMessage": "Current Job"
+    },
+    {
+      "ID": 372,
+      "pMessage": "Support Abilities"
+    },
+    {
+      "ID": 373,
+      "pMessage": "Unused Cost"
+    },
+    {
+      "ID": 374,
+      "pMessage": "Required"
+    },
+    {
+      "ID": 375,
+      "pMessage": "Cost"
+    },
+    {
+      "ID": 376,
+      "pMessage": "Resistances"
+    },
+    {
+      "ID": 377,
+      "pMessage": "Immunities"
+    },
+    {
+      "ID": 378,
+      "pMessage": "Physical Attack"
+    },
+    {
+      "ID": 379,
+      "pMessage": "Magic Attack"
+    },
+    {
+      "ID": 380,
+      "pMessage": "Boost"
+    },
+    {
+      "ID": 381,
+      "pMessage": "Enfeeble"
+    },
+    {
+      "ID": 382,
+      "pMessage": "Inflict Status Ailment"
+    },
+    {
+      "ID": 383,
+      "pMessage": "Recover"
+    },
+    {
+      "ID": 384,
+      "pMessage": "Special"
+    },
+    {
+      "ID": 385,
+      "pMessage": "Add Function"
+    },
+    {
+      "ID": 386,
+      "pMessage": "Boost Action"
+    },
+    {
+      "ID": 387,
+      "pMessage": "Equipment"
+    },
+    {
+      "ID": 388,
+      "pMessage": "Boost Damage"
+    },
+    {
+      "ID": 389,
+      "pMessage": "Boost Stat"
+    },
+    {
+      "ID": 390,
+      "pMessage": "Field"
+    },
+    {
+      "ID": 391,
+      "pMessage": "Reaction"
+    },
+    {
+      "ID": 392,
+      "pMessage": "Boost Resistance"
+    },
+    {
+      "ID": 393,
+      "pMessage": "Nullify"
+    },
+    {
+      "ID": 394,
+      "pMessage": "Resist"
+    },
+    {
+      "ID": 395,
+      "pMessage": ""
+    },
+    {
+      "ID": 396,
+      "pMessage": ""
+    },
+    {
+      "ID": 397,
+      "pMessage": "Stats"
+    },
+    {
+      "ID": 398,
+      "pMessage": "Basic"
+    },
+    {
+      "ID": 399,
+      "pMessage": "Imm."
+    },
+    {
+      "ID": 400,
+      "pMessage": "Res."
+    },
+    {
+      "ID": 401,
+      "pMessage": "Both"
+    },
+    {
+      "ID": 402,
+      "pMessage": "Right"
+    },
+    {
+      "ID": 403,
+      "pMessage": "Left"
+    },
+    {
+      "ID": 404,
+      "pMessage": "P ATK"
+    },
+    {
+      "ID": 405,
+      "pMessage": "P DEF"
+    },
+    {
+      "ID": 406,
+      "pMessage": "M ATK"
+    },
+    {
+      "ID": 407,
+      "pMessage": "M DEF"
+    },
+    {
+      "ID": 408,
+      "pMessage": "Aim"
+    },
+    {
+      "ID": 409,
+      "pMessage": "Evade"
+    },
+    {
+      "ID": 410,
+      "pMessage": "Max HP"
+    },
+    {
+      "ID": 411,
+      "pMessage": "Max MP"
+    },
+    {
+      "ID": 412,
+      "pMessage": "STR"
+    },
+    {
+      "ID": 413,
+      "pMessage": "Critical"
+    },
+    {
+      "ID": 414,
+      "pMessage": "Variable Info"
+    },
+    {
+      "ID": 415,
+      "pMessage": "Optimum"
+    },
+    {
+      "ID": 416,
+      "pMessage": "Base Values"
+    },
+    {
+      "ID": 417,
+      "pMessage": "Stat Values"
+    },
+    {
+      "ID": 418,
+      "pMessage": "Full Screen"
+    },
+    {
+      "ID": 419,
+      "pMessage": "Remove"
+    },
+    {
+      "ID": 420,
+      "pMessage": "Special List"
+    },
+    {
+      "ID": 421,
+      "pMessage": "Set Parts"
+    },
+    {
+      "ID": 422,
+      "pMessage": "Use Condition"
+    },
+    {
+      "ID": 423,
+      "pMessage": "Part List"
+    },
+    {
+      "ID": 424,
+      "pMessage": "Attack Messages"
+    },
+    {
+      "ID": 425,
+      "pMessage": "Support Messages"
+    },
+    {
+      "ID": 426,
+      "pMessage": "All"
+    },
+    {
+      "ID": 427,
+      "pMessage": "One"
+    },
+    {
+      "ID": 428,
+      "pMessage": "Aid"
+    },
+    {
+      "ID": 429,
+      "pMessage": "Heal"
+    },
+    {
+      "ID": 430,
+      "pMessage": "Single"
+    },
+    {
+      "ID": 431,
+      "pMessage": "All"
+    },
+    {
+      "ID": 432,
+      "pMessage": "Healing"
+    },
+    {
+      "ID": 433,
+      "pMessage": "Support"
+    },
+    {
+      "ID": 434,
+      "pMessage": "Edit Special Move Name"
+    },
+    {
+      "ID": 435,
+      "pMessage": "Edit Message"
+    },
+    {
+      "ID": 436,
+      "pMessage": "Edit the message that appears when a special move is triggered."
+    },
+    {
+      "ID": 437,
+      "pMessage": "Edit"
+    },
+    {
+      "ID": 438,
+      "pMessage": "Friend"
+    },
+    {
+      "ID": 439,
+      "pMessage": "Guest List"
+    },
+    {
+      "ID": 440,
+      "pMessage": "Friend Menu"
+    },
+    {
+      "ID": 441,
+      "pMessage": "Guest Menu"
+    },
+    {
+      "ID": 442,
+      "pMessage": "Register"
+    },
+    {
+      "ID": 443,
+      "pMessage": "Update"
+    },
+    {
+      "ID": 444,
+      "pMessage": "List"
+    },
+    {
+      "ID": 445,
+      "pMessage": "Register Friend"
+    },
+    {
+      "ID": 446,
+      "pMessage": "Update Data"
+    },
+    {
+      "ID": 447,
+      "pMessage": "Move"
+    },
+    {
+      "ID": 448,
+      "pMessage": "Status"
+    },
+    {
+      "ID": 449,
+      "pMessage": "Play Time"
+    },
+    {
+      "ID": 450,
+      "pMessage": "Norende Population"
+    },
+    {
+      "ID": 451,
+      "pMessage": "Job Count"
+    },
+    {
+      "ID": 452,
+      "pMessage": "Ability Count"
+    },
+    {
+      "ID": 453,
+      "pMessage": "Data List"
+    },
+    {
+      "ID": 454,
+      "pMessage": "Update via Internet"
+    },
+    {
+      "ID": 455,
+      "pMessage": "Update via Local Wireless"
+    },
+    {
+      "ID": 456,
+      "pMessage": "Update Passing Soul Data"
+    },
+    {
+      "ID": 457,
+      "pMessage": "Register via Internet"
+    },
+    {
+      "ID": 458,
+      "pMessage": "Register via Local Wireless"
+    },
+    {
+      "ID": 459,
+      "pMessage": "Update Stopped"
+    },
+    {
+      "ID": 460,
+      "pMessage": "Guests"
+    },
+    {
+      "ID": 461,
+      "pMessage": "HARD"
+    },
+    {
+      "ID": 462,
+      "pMessage": "Net"
+    },
+    {
+      "ID": 463,
+      "pMessage": "Abilities"
+    },
+    {
+      "ID": 464,
+      "pMessage": "Protect On/Off"
+    },
+    {
+      "ID": 465,
+      "pMessage": "Stop/Resume Updating"
+    },
+    {
+      "ID": 466,
+      "pMessage": "Delete"
+    },
+    {
+      "ID": 467,
+      "pMessage": "Player Information"
+    },
+    {
+      "ID": 468,
+      "pMessage": "Profile"
+    },
+    {
+      "ID": 469,
+      "pMessage": "Edit Comment"
+    },
+    {
+      "ID": 470,
+      "pMessage": "Updated"
+    },
+    {
+      "ID": 471,
+      "pMessage": "Toggle Page"
+    },
+    {
+      "ID": 472,
+      "pMessage": ""
+    },
+    {
+      "ID": 473,
+      "pMessage": ""
+    },
+    {
+      "ID": 474,
+      "pMessage": "None"
+    },
+    {
+      "ID": 475,
+      "pMessage": "Command"
+    },
+    {
+      "ID": 476,
+      "pMessage": "Experience"
+    },
+    {
+      "ID": 477,
+      "pMessage": "Current Lv"
+    },
+    {
+      "ID": 478,
+      "pMessage": "To Next Lv"
+    },
+    {
+      "ID": 479,
+      "pMessage": "Total EXP"
+    },
+    {
+      "ID": 480,
+      "pMessage": "Total JP"
+    },
+    {
+      "ID": 481,
+      "pMessage": "■Character Display"
+    },
+    {
+      "ID": 482,
+      "pMessage": "Attack Animation"
+    },
+    {
+      "ID": 483,
+      "pMessage": "Back"
+    },
+    {
+      "ID": 484,
+      "pMessage": "Rotate Character"
+    },
+    {
+      "ID": 485,
+      "pMessage": "Battle Settings"
+    },
+    {
+      "ID": 486,
+      "pMessage": "Sound Settings"
+    },
+    {
+      "ID": 487,
+      "pMessage": "Message Settings"
+    },
+    {
+      "ID": 488,
+      "pMessage": "System Settings"
+    },
+    {
+      "ID": 489,
+      "pMessage": "Difficulty Settings"
+    },
+    {
+      "ID": 490,
+      "pMessage": "Restore Defaults"
+    },
+    {
+      "ID": 491,
+      "pMessage": "Confirm Turn Start"
+    },
+    {
+      "ID": 492,
+      "pMessage": "Battle Shortcut Settings"
+    },
+    {
+      "ID": 493,
+      "pMessage": "Update Data at Send"
+    },
+    {
+      "ID": 494,
+      "pMessage": "■Brave"
+    },
+    {
+      "ID": 495,
+      "pMessage": "■Default"
+    },
+    {
+      "ID": 496,
+      "pMessage": "Voice Volume"
+    },
+    {
+      "ID": 497,
+      "pMessage": "MAX"
+    },
+    {
+      "ID": 498,
+      "pMessage": "MIN"
+    },
+    {
+      "ID": 499,
+      "pMessage": "Message Speed"
+    },
+    {
+      "ID": 500,
+      "pMessage": "Autoplay"
+    },
+    {
+      "ID": 501,
+      "pMessage": "繁體中文"
+    },
+    {
+      "ID": 502,
+      "pMessage": "简体中文"
+    },
+    {
+      "ID": 503,
+      "pMessage": "한국어"
+    },
+    {
+      "ID": 504,
+      "pMessage": "Normal"
+    },
+    {
+      "ID": 505,
+      "pMessage": "Slow"
+    },
+    {
+      "ID": 506,
+      "pMessage": "Would you like this message speed?"
+    },
+    {
+      "ID": 507,
+      "pMessage": "On"
+    },
+    {
+      "ID": 508,
+      "pMessage": "■ to Confirm/Cancel"
+    },
+    {
+      "ID": 509,
+      "pMessage": "Autosave"
+    },
+    {
+      "ID": 510,
+      "pMessage": "Fixed"
+    },
+    {
+      "ID": 511,
+      "pMessage": "Destination Marker"
+    },
+    {
+      "ID": 512,
+      "pMessage": "Gain EXP"
+    },
+    {
+      "ID": 513,
+      "pMessage": "Acquire ■"
+    },
+    {
+      "ID": 514,
+      "pMessage": "Gain Job Points"
+    },
+    {
+      "ID": 515,
+      "pMessage": "Encounter Rate"
+    },
+    {
+      "ID": 516,
+      "pMessage": "Difficulty"
+    },
+    {
+      "ID": 517,
+      "pMessage": "Easy"
+    },
+    {
+      "ID": 518,
+      "pMessage": "Hard"
+    },
+    {
+      "ID": 519,
+      "pMessage": "Set Details"
+    },
+    {
+      "ID": 520,
+      "pMessage": "Set List"
+    },
+    {
+      "ID": 521,
+      "pMessage": "Edit Sets"
+    },
+    {
+      "ID": 522,
+      "pMessage": "cannot be set as it is not in your possession."
+    },
+    {
+      "ID": 523,
+      "pMessage": "Apply"
+    },
+    {
+      "ID": 524,
+      "pMessage": "Save Current Settings"
+    },
+    {
+      "ID": 525,
+      "pMessage": "Copy"
+    },
+    {
+      "ID": 526,
+      "pMessage": "Change Name"
+    },
+    {
+      "ID": 527,
+      "pMessage": "<color=#cd2727>Save data already exists.</color>\nDo you want to save anyway?"
+    },
+    {
+      "ID": 528,
+      "pMessage": "Select Copy Destination"
+    },
+    {
+      "ID": 529,
+      "pMessage": "<color=#cd2727>Data already exists.</color>\nDo you want to copy anyway?"
+    },
+    {
+      "ID": 530,
+      "pMessage": "Your data will be deleted.\nProceed anyway?"
+    },
+    {
+      "ID": 531,
+      "pMessage": "Select a set."
+    },
+    {
+      "ID": 532,
+      "pMessage": "Apply the selected set."
+    },
+    {
+      "ID": 533,
+      "pMessage": "Save current job, abilities, and equipment settings."
+    },
+    {
+      "ID": 534,
+      "pMessage": "Select copy destination."
+    },
+    {
+      "ID": 535,
+      "pMessage": "Delete the selected set."
+    },
+    {
+      "ID": 536,
+      "pMessage": "Change the name of the selected set."
+    },
+    {
+      "ID": 537,
+      "pMessage": "Toggle Information"
+    },
+    {
+      "ID": 538,
+      "pMessage": "Requirements not met to equip this."
+    },
+    {
+      "ID": 539,
+      "pMessage": "This cannot be used without first obtaining\nan appropriate asterisk."
+    },
+    {
+      "ID": 540,
+      "pMessage": "Travel to\n<Text>?"
+    },
+    {
+      "ID": 541,
+      "pMessage": "Airship Menu"
+    },
+    {
+      "ID": 542,
+      "pMessage": "Select a destination."
+    },
+    {
+      "ID": 543,
+      "pMessage": "Tutorial Quests"
+    },
+    {
+      "ID": 544,
+      "pMessage": "Reward"
+    },
+    {
+      "ID": 545,
+      "pMessage": "Achievements"
+    },
+    {
+      "ID": 546,
+      "pMessage": "Auto Menu"
+    },
+    {
+      "ID": 547,
+      "pMessage": "Copied."
+    },
+    {
+      "ID": 548,
+      "pMessage": "Auto has been stopped as certain actions cannot be repeated."
+    },
+    {
+      "ID": 549,
+      "pMessage": "GO!"
+    },
+    {
+      "ID": 550,
+      "pMessage": "“Attack” will be used instead as this is not in your possession."
+    },
+    {
+      "ID": 551,
+      "pMessage": "Completed"
+    },
+    {
+      "ID": 552,
+      "pMessage": "Undertake quests to learn the skills you will need on your adventure."
+    },
+    {
+      "ID": 553,
+      "pMessage": "Undertake a variety of tasks to earn achievements."
+    },
+    {
+      "ID": 554,
+      "pMessage": "Achievement Accomplished!"
+    },
+    {
+      "ID": 555,
+      "pMessage": "CLEARED!"
+    },
+    {
+      "ID": 556,
+      "pMessage": "NEW"
+    },
+    {
+      "ID": 557,
+      "pMessage": "Discarded what you couldn’t carry."
+    },
+    {
+      "ID": 558,
+      "pMessage": "Set <num>"
+    },
+    {
+      "ID": 559,
+      "pMessage": "Check abilities."
+    },
+    {
+      "ID": 560,
+      "pMessage": "Affinity"
+    },
+    {
+      "ID": 561,
+      "pMessage": "Friends/Friend List"
+    },
+    {
+      "ID": 562,
+      "pMessage": "Friends/Guest List"
+    },
+    {
+      "ID": 563,
+      "pMessage": " "
+    },
+    {
+      "ID": 564,
+      "pMessage": "No. <num>"
+    },
+    {
+      "ID": 565,
+      "pMessage": "Abilinked"
+    },
+    {
+      "ID": 566,
+      "pMessage": "Icon"
+    },
+    {
+      "ID": 567,
+      "pMessage": "Select a Friend to abilink with."
+    },
+    {
+      "ID": 568,
+      "pMessage": "Check Friend’s abilities."
+    },
+    {
+      "ID": 569,
+      "pMessage": "Abilities"
+    },
+    {
+      "ID": 570,
+      "pMessage": "Equipment and support abilities not in your possession have been removed."
+    },
+    {
+      "ID": 571,
+      "pMessage": "Changing abilinks will remove\ncurrently equipped support abilities."
+    },
+    {
+      "ID": 572,
+      "pMessage": "Quests"
+    },
+    {
+      "ID": 573,
+      "pMessage": "Power"
+    },
+    {
+      "ID": 574,
+      "pMessage": "Maximum Power"
+    },
+    {
+      "ID": 575,
+      "pMessage": "---"
+    },
+    {
+      "ID": 576,
+      "pMessage": ":"
+    },
+    {
+      "ID": 577,
+      "pMessage": "Game Settings"
+    },
+    {
+      "ID": 578,
+      "pMessage": "Network Connection"
+    },
+    {
+      "ID": 579,
+      "pMessage": "Camera Arcing"
+    },
+    {
+      "ID": 580,
+      "pMessage": "Low"
+    },
+    {
+      "ID": 581,
+      "pMessage": "Normal"
+    },
+    {
+      "ID": 582,
+      "pMessage": "Enable or disable the friend network function."
+    },
+    {
+      "ID": 583,
+      "pMessage": "Set the level of camera movement in town and other locations."
+    },
+    {
+      "ID": 584,
+      "pMessage": "Graphics Settings"
+    },
+    {
+      "ID": 585,
+      "pMessage": "Screen Resolution"
+    },
+    {
+      "ID": 586,
+      "pMessage": "Display Mode"
+    },
+    {
+      "ID": 587,
+      "pMessage": "Windowed"
+    },
+    {
+      "ID": 588,
+      "pMessage": "Borderless"
+    },
+    {
+      "ID": 589,
+      "pMessage": "Full-screen"
+    },
+    {
+      "ID": 590,
+      "pMessage": "Screen Brightness"
+    },
+    {
+      "ID": 591,
+      "pMessage": "Graphics Quality"
+    },
+    {
+      "ID": 592,
+      "pMessage": "Set the screen resolution for the game."
+    },
+    {
+      "ID": 593,
+      "pMessage": "Set the display mode for the game screen."
+    },
+    {
+      "ID": 594,
+      "pMessage": "Set the screen brightness for the game."
+    },
+    {
+      "ID": 595,
+      "pMessage": "Set the quality of graphics."
+    },
+    {
+      "ID": 596,
+      "pMessage": "Master Volume"
+    },
+    {
+      "ID": 597,
+      "pMessage": "Set the overall volume for the game."
+    },
+    {
+      "ID": 598,
+      "pMessage": "Display Settings"
+    },
+    {
+      "ID": 599,
+      "pMessage": "Movie Subtitles"
+    },
+    {
+      "ID": 600,
+      "pMessage": "Control Settings"
+    },
+    {
+      "ID": 601,
+      "pMessage": "Controls"
+    },
+    {
+      "ID": 602,
+      "pMessage": "Button Display"
+    },
+    {
+      "ID": 603,
+      "pMessage": "BAYX"
+    },
+    {
+      "ID": 604,
+      "pMessage": "ABXY"
+    },
+    {
+      "ID": 605,
+      "pMessage": "〇×△□"
+    },
+    {
+      "ID": 606,
+      "pMessage": ""
+    },
+    {
+      "ID": 607,
+      "pMessage": "L Stick"
+    },
+    {
+      "ID": 608,
+      "pMessage": "Directional Buttons"
+    },
+    {
+      "ID": 609,
+      "pMessage": ""
+    },
+    {
+      "ID": 610,
+      "pMessage": ""
+    },
+    {
+      "ID": 611,
+      "pMessage": ""
+    },
+    {
+      "ID": 612,
+      "pMessage": ""
+    },
+    {
+      "ID": 613,
+      "pMessage": "Dash by Default"
+    },
+    {
+      "ID": 614,
+      "pMessage": ""
+    },
+    {
+      "ID": 615,
+      "pMessage": ""
+    },
+    {
+      "ID": 616,
+      "pMessage": ""
+    },
+    {
+      "ID": 617,
+      "pMessage": ""
+    },
+    {
+      "ID": 618,
+      "pMessage": "Key Configuration"
+    },
+    {
+      "ID": 619,
+      "pMessage": "Confirm/Talk/Inspect"
+    },
+    {
+      "ID": 620,
+      "pMessage": "Cancel/Back/Close"
+    },
+    {
+      "ID": 621,
+      "pMessage": "Party Chat"
+    },
+    {
+      "ID": 622,
+      "pMessage": "Main Menu"
+    },
+    {
+      "ID": 623,
+      "pMessage": "Minimap Switching"
+    },
+    {
+      "ID": 624,
+      "pMessage": "Set the type of button display for the game."
+    },
+    {
+      "ID": 625,
+      "pMessage": ""
+    },
+    {
+      "ID": 626,
+      "pMessage": ""
+    },
+    {
+      "ID": 627,
+      "pMessage": "Set whether to walk or run by default."
+    },
+    {
+      "ID": 628,
+      "pMessage": ""
+    },
+    {
+      "ID": 629,
+      "pMessage": ""
+    },
+    {
+      "ID": 630,
+      "pMessage": "Set the position of the Brave/Default buttons."
+    },
+    {
+      "ID": 631,
+      "pMessage": "Set which button to use for Confirm."
+    },
+    {
+      "ID": 632,
+      "pMessage": "Set which button to use for Cancel."
+    },
+    {
+      "ID": 633,
+      "pMessage": "Set which button to use to call up party chat."
+    },
+    {
+      "ID": 634,
+      "pMessage": "Set which button to use to open the main menu."
+    },
+    {
+      "ID": 635,
+      "pMessage": "Set which button to use to switch the minimap."
+    },
+    {
+      "ID": 636,
+      "pMessage": "Switch Screens"
+    },
+    {
+      "ID": 637,
+      "pMessage": "HP"
+    },
+    {
+      "ID": 638,
+      "pMessage": "MP"
+    },
+    {
+      "ID": 639,
+      "pMessage": "Current Level"
+    },
+    {
+      "ID": 640,
+      "pMessage": "Equipment Aptitude"
+    },
+    {
+      "ID": 641,
+      "pMessage": "Sort Abilities"
+    },
+    {
+      "ID": 642,
+      "pMessage": "Check status effects."
+    },
+    {
+      "ID": 643,
+      "pMessage": "Illustration Switch"
+    },
+    {
+      "ID": 644,
+      "pMessage": "Battle Help Display"
+    },
+    {
+      "ID": 645,
+      "pMessage": "Volume Settings"
+    },
+    {
+      "ID": 646,
+      "pMessage": "Apply"
+    },
+    {
+      "ID": 647,
+      "pMessage": "Some settings have been changed.\nApply changes and move tabs?"
+    },
+    {
+      "ID": 648,
+      "pMessage": "Your changes have not been applied.\nDiscard changes?"
+    },
+    {
+      "ID": 649,
+      "pMessage": "Language Settings"
+    },
+    {
+      "ID": 650,
+      "pMessage": "Set whether or not to display subtitles during movies."
+    },
+    {
+      "ID": 651,
+      "pMessage": "Privacy Notice Confirmation"
+    },
+    {
+      "ID": 652,
+      "pMessage": "Heal All"
+    },
+    {
+      "ID": 653,
+      "pMessage": "0"
+    },
+    {
+      "ID": 654,
+      "pMessage": "50"
+    },
+    {
+      "ID": 655,
+      "pMessage": "100"
+    },
+    {
+      "ID": 656,
+      "pMessage": "150"
+    },
+    {
+      "ID": 657,
+      "pMessage": "200"
+    },
+    {
+      "ID": 658,
+      "pMessage": "400"
+    },
+    {
+      "ID": 659,
+      "pMessage": "%"
+    },
+    {
+      "ID": 660,
+      "pMessage": "Resume View All"
+    },
+    {
+      "ID": 661,
+      "pMessage": "pg"
+    },
+    {
+      "ID": 662,
+      "pMessage": "Return to the entrance?"
+    },
+    {
+      "ID": 663,
+      "pMessage": "Apply?"
+    },
+    {
+      "ID": 664,
+      "pMessage": "Are you sure?"
+    },
+    {
+      "ID": 665,
+      "pMessage": "Japanese"
+    },
+    {
+      "ID": 666,
+      "pMessage": "English"
+    },
+    {
+      "ID": 667,
+      "pMessage": "Cursor Page"
+    },
+    {
+      "ID": 668,
+      "pMessage": "User Agreement"
+    },
+    {
+      "ID": 669,
+      "pMessage": "キーボード＆マウス設定"
+    },
+    {
+      "ID": 670,
+      "pMessage": "Icon"
+    },
+    {
+      "ID": 671,
+      "pMessage": "Scroll through list"
+    },
+    {
+      "ID": 672,
+      "pMessage": "Scroll through list"
+    },
+    {
+      "ID": 673,
+      "pMessage": "Not currently connected to a network.\nYou will be connected to the service\nautomatically when a network\nbecomes available."
+    },
+    {
+      "ID": 674,
+      "pMessage": "This cannot be used without first learning\nthe appropriate ability."
+    },
+    {
+      "ID": 675,
+      "pMessage": "BP"
+    },
+    {
+      "ID": 676,
+      "pMessage": "Jobs or job commands that you\ndo not yet possess have not\nbeen set."
+    },
+    {
+      "ID": 677,
+      "pMessage": "Check Profile ID"
+    },
+    {
+      "ID": 1000,
+      "pMessage": "Controller Type"
+    },
+    {
+      "ID": 1001,
+      "pMessage": "Type A"
+    },
+    {
+      "ID": 1002,
+      "pMessage": "Type B"
+    },
+    {
+      "ID": 1003,
+      "pMessage": "Type C"
+    },
+    {
+      "ID": 1004,
+      "pMessage": "Type D"
+    },
+    {
+      "ID": 1005,
+      "pMessage": "Type E"
+    },
+    {
+      "ID": 1006,
+      "pMessage": "Set the controller type for use in the game."
+    },
+    {
+      "ID": 1007,
+      "pMessage": "Character movement (up)"
+    },
+    {
+      "ID": 1008,
+      "pMessage": "Character movement (down)"
+    },
+    {
+      "ID": 1009,
+      "pMessage": "Character movement (left)"
+    },
+    {
+      "ID": 1010,
+      "pMessage": "Character movement (right)"
+    },
+    {
+      "ID": 1011,
+      "pMessage": "Rotate character model (up)"
+    },
+    {
+      "ID": 1012,
+      "pMessage": "Rotate character model (down)"
+    },
+    {
+      "ID": 1013,
+      "pMessage": "Rotate character model (left)"
+    },
+    {
+      "ID": 1014,
+      "pMessage": "Rotate character model (right)"
+    },
+    {
+      "ID": 1015,
+      "pMessage": "Move cursor (up)"
+    },
+    {
+      "ID": 1016,
+      "pMessage": "Move cursor (down)"
+    },
+    {
+      "ID": 1017,
+      "pMessage": "Display enemy information"
+    },
+    {
+      "ID": 1018,
+      "pMessage": "Open map menu"
+    },
+    {
+      "ID": 1019,
+      "pMessage": "Confirm/Talk/Inspect"
+    },
+    {
+      "ID": 1020,
+      "pMessage": "Cancel/Back/Close/Dash"
+    },
+    {
+      "ID": 1021,
+      "pMessage": "Open menu"
+    },
+    {
+      "ID": 1022,
+      "pMessage": "Party chat"
+    },
+    {
+      "ID": 1023,
+      "pMessage": "Default / Switch characters (left)"
+    },
+    {
+      "ID": 1024,
+      "pMessage": "Brave / Switch characters (right)"
+    },
+    {
+      "ID": 1025,
+      "pMessage": "Switch tabs (left)"
+    },
+    {
+      "ID": 1026,
+      "pMessage": "Switch tabs (right)"
+    },
+    {
+      "ID": 1027,
+      "pMessage": "Switch minimaps"
+    },
+    {
+      "ID": 1028,
+      "pMessage": "Save"
+    },
+    {
+      "ID": 1029,
+      "pMessage": "Set the controls for character/cursor movement (up)."
+    },
+    {
+      "ID": 1030,
+      "pMessage": "Set the controls for character/cursor movement (down)."
+    },
+    {
+      "ID": 1031,
+      "pMessage": "Set the controls for character movement (left) / cursor skip (up)."
+    },
+    {
+      "ID": 1032,
+      "pMessage": "Set the controls for character movement (right) / cursor skip (down)."
+    },
+    {
+      "ID": 1033,
+      "pMessage": "Set the controls for character model rotation (up)."
+    },
+    {
+      "ID": 1034,
+      "pMessage": "Set the controls for character model rotation (down)."
+    },
+    {
+      "ID": 1035,
+      "pMessage": "Set the controls for decreasing battle speed / character model rotation (left)."
+    },
+    {
+      "ID": 1036,
+      "pMessage": "Set the controls for increasing battle speed / character model rotation (right)."
+    },
+    {
+      "ID": 1037,
+      "pMessage": "Set the controls for cursor movement (up)."
+    },
+    {
+      "ID": 1038,
+      "pMessage": "Set the controls for cursor movement (down)."
+    },
+    {
+      "ID": 1039,
+      "pMessage": "Set the controls for displaying enemy information."
+    },
+    {
+      "ID": 1040,
+      "pMessage": "Set the controls for opening the map menu / displaying ally information."
+    },
+    {
+      "ID": 1041,
+      "pMessage": "Set the controls for Confirm/Talk/Inspect."
+    },
+    {
+      "ID": 1042,
+      "pMessage": "Set the controls for Cancel/Back/Close/Dash."
+    },
+    {
+      "ID": 1043,
+      "pMessage": "Set the controls for opening the main menu / Show Guide / Skip."
+    },
+    {
+      "ID": 1044,
+      "pMessage": "Set the controls for party chat / toggling autoplay."
+    },
+    {
+      "ID": 1045,
+      "pMessage": "Set the controls for Default / Switch characters (left)."
+    },
+    {
+      "ID": 1046,
+      "pMessage": "Set the controls for Brave / Switch characters (right)."
+    },
+    {
+      "ID": 1047,
+      "pMessage": "Set the controls for switching tabs (left)."
+    },
+    {
+      "ID": 1048,
+      "pMessage": "Set the controls for switching tabs (right)."
+    },
+    {
+      "ID": 1049,
+      "pMessage": "Set the controls for switching minimaps."
+    },
+    {
+      "ID": 1050,
+      "pMessage": "Set the controls for saving."
+    },
+    {
+      "ID": 1051,
+      "pMessage": "Controller"
+    },
+    {
+      "ID": 1052,
+      "pMessage": "Keyboard"
+    },
+    {
+      "ID": 1053,
+      "pMessage": "Press the key to change."
+    },
+    {
+      "ID": 1054,
+      "pMessage": "Press the button to change."
+    },
+    {
+      "ID": 1055,
+      "pMessage": "Cancel"
+    },
+    {
+      "ID": 1060,
+      "pMessage": "Vsync"
+    },
+    {
+      "ID": 1061,
+      "pMessage": "Preset"
+    },
+    {
+      "ID": 1062,
+      "pMessage": "Low"
+    },
+    {
+      "ID": 1063,
+      "pMessage": "Mid"
+    },
+    {
+      "ID": 1064,
+      "pMessage": "High"
+    },
+    {
+      "ID": 1065,
+      "pMessage": "Custom"
+    },
+    {
+      "ID": 1066,
+      "pMessage": "Frame rate"
+    },
+    {
+      "ID": 1067,
+      "pMessage": "60 FPS"
+    },
+    {
+      "ID": 1068,
+      "pMessage": "Unlimited"
+    },
+    {
+      "ID": 1069,
+      "pMessage": "Anti-aliasing"
+    },
+    {
+      "ID": 1070,
+      "pMessage": "FXAA"
+    },
+    {
+      "ID": 1071,
+      "pMessage": "TAA"
+    },
+    {
+      "ID": 1072,
+      "pMessage": "Shadows"
+    },
+    {
+      "ID": 1073,
+      "pMessage": "Depth of field"
+    },
+    {
+      "ID": 1074,
+      "pMessage": "Enabling can decrease flickering, but may also increase video judder."
+    },
+    {
+      "ID": 1075,
+      "pMessage": "Set graphic quality all at once."
+    },
+    {
+      "ID": 1076,
+      "pMessage": "Setting as unlimited will smooth movements, but lower stability."
+    },
+    {
+      "ID": 1077,
+      "pMessage": "Set the type of graphic smoothing (FXAA: prioritize processing; TAA: prioritize image quality)."
+    },
+    {
+      "ID": 1078,
+      "pMessage": "Setting as high will increase shadow quality, but place a higher load on the GPU."
+    },
+    {
+      "ID": 1079,
+      "pMessage": "Enabling will add blur effects to the background, but place a higher load on the GPU."
+    },
+    {
+      "ID": 1080,
+      "pMessage": "Graphics settings can only be changed from the title screen or while in town."
+    },
+    {
+      "ID": 1081,
+      "pMessage": "Confirm that a connection to the internet can be established."
+    },
+    {
+      "ID": 1082,
+      "pMessage": "Gamertag"
+    }
+  ]
+}

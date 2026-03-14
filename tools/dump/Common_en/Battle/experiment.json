@@ -1,0 +1,407 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1280,
+    "data_one_size": 28,
+    "data_num": 44,
+    "ints_per_record": 7
+  },
+  "records": [
+    {
+      "selectitem": 40000,
+      "firstitem": 40015,
+      "firstitemprobability": 34,
+      "seconditem": 40023,
+      "seconditemprobability": 33,
+      "thirditem": 40021,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40001,
+      "firstitem": 40017,
+      "firstitemprobability": 34,
+      "seconditem": 40015,
+      "seconditemprobability": 33,
+      "thirditem": 40023,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40002,
+      "firstitem": 40019,
+      "firstitemprobability": 34,
+      "seconditem": 40017,
+      "seconditemprobability": 33,
+      "thirditem": 40015,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40003,
+      "firstitem": 40021,
+      "firstitemprobability": 34,
+      "seconditem": 40019,
+      "seconditemprobability": 33,
+      "thirditem": 40017,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40004,
+      "firstitem": 40023,
+      "firstitemprobability": 34,
+      "seconditem": 40021,
+      "seconditemprobability": 33,
+      "thirditem": 40019,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40005,
+      "firstitem": 40015,
+      "firstitemprobability": 34,
+      "seconditem": 40019,
+      "seconditemprobability": 33,
+      "thirditem": 40017,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40006,
+      "firstitem": 40017,
+      "firstitemprobability": 34,
+      "seconditem": 40021,
+      "seconditemprobability": 33,
+      "thirditem": 40019,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40007,
+      "firstitem": 40019,
+      "firstitemprobability": 34,
+      "seconditem": 40023,
+      "seconditemprobability": 33,
+      "thirditem": 40021,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40008,
+      "firstitem": 40021,
+      "firstitemprobability": 34,
+      "seconditem": 40015,
+      "seconditemprobability": 33,
+      "thirditem": 40023,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40009,
+      "firstitem": 40023,
+      "firstitemprobability": 34,
+      "seconditem": 40017,
+      "seconditemprobability": 33,
+      "thirditem": 40015,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40010,
+      "firstitem": 40016,
+      "firstitemprobability": 34,
+      "seconditem": 40024,
+      "seconditemprobability": 33,
+      "thirditem": 40022,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40011,
+      "firstitem": 40016,
+      "firstitemprobability": 34,
+      "seconditem": 40020,
+      "seconditemprobability": 33,
+      "thirditem": 40018,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40012,
+      "firstitem": 40020,
+      "firstitemprobability": 34,
+      "seconditem": 40018,
+      "seconditemprobability": 33,
+      "thirditem": 40016,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40013,
+      "firstitem": 40020,
+      "firstitemprobability": 34,
+      "seconditem": 40022,
+      "seconditemprobability": 33,
+      "thirditem": 40024,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40014,
+      "firstitem": 40023,
+      "firstitemprobability": 34,
+      "seconditem": 40021,
+      "seconditemprobability": 33,
+      "thirditem": 40019,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40015,
+      "firstitem": 40016,
+      "firstitemprobability": 20,
+      "seconditem": 40015,
+      "seconditemprobability": 40,
+      "thirditem": 40021,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40016,
+      "firstitem": 40018,
+      "firstitemprobability": 20,
+      "seconditem": 40017,
+      "seconditemprobability": 40,
+      "thirditem": 40015,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40017,
+      "firstitem": 40018,
+      "firstitemprobability": 20,
+      "seconditem": 40017,
+      "seconditemprobability": 40,
+      "thirditem": 40015,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40018,
+      "firstitem": 40020,
+      "firstitemprobability": 20,
+      "seconditem": 40019,
+      "seconditemprobability": 40,
+      "thirditem": 40017,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40019,
+      "firstitem": 40020,
+      "firstitemprobability": 20,
+      "seconditem": 40019,
+      "seconditemprobability": 40,
+      "thirditem": 40017,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40020,
+      "firstitem": 40024,
+      "firstitemprobability": 20,
+      "seconditem": 40023,
+      "seconditemprobability": 40,
+      "thirditem": 40019,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40021,
+      "firstitem": 40022,
+      "firstitemprobability": 20,
+      "seconditem": 40021,
+      "seconditemprobability": 40,
+      "thirditem": 40023,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40022,
+      "firstitem": 40016,
+      "firstitemprobability": 20,
+      "seconditem": 40015,
+      "seconditemprobability": 40,
+      "thirditem": 40021,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40023,
+      "firstitem": 40024,
+      "firstitemprobability": 20,
+      "seconditem": 40023,
+      "seconditemprobability": 40,
+      "thirditem": 40019,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40024,
+      "firstitem": 40022,
+      "firstitemprobability": 20,
+      "seconditem": 40021,
+      "seconditemprobability": 40,
+      "thirditem": 40023,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40025,
+      "firstitem": 40022,
+      "firstitemprobability": 34,
+      "seconditem": 40018,
+      "seconditemprobability": 33,
+      "thirditem": 40024,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40026,
+      "firstitem": 40022,
+      "firstitemprobability": 34,
+      "seconditem": 40016,
+      "seconditemprobability": 33,
+      "thirditem": 40020,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40027,
+      "firstitem": 40024,
+      "firstitemprobability": 34,
+      "seconditem": 40016,
+      "seconditemprobability": 33,
+      "thirditem": 40022,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40028,
+      "firstitem": 40024,
+      "firstitemprobability": 34,
+      "seconditem": 40020,
+      "seconditemprobability": 33,
+      "thirditem": 40018,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40029,
+      "firstitem": 40018,
+      "firstitemprobability": 34,
+      "seconditem": 40016,
+      "seconditemprobability": 33,
+      "thirditem": 40024,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40030,
+      "firstitem": 40015,
+      "firstitemprobability": 34,
+      "seconditem": 40023,
+      "seconditemprobability": 33,
+      "thirditem": 40021,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40031,
+      "firstitem": 40017,
+      "firstitemprobability": 34,
+      "seconditem": 40015,
+      "seconditemprobability": 33,
+      "thirditem": 40023,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40032,
+      "firstitem": 40019,
+      "firstitemprobability": 34,
+      "seconditem": 40017,
+      "seconditemprobability": 33,
+      "thirditem": 40015,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40033,
+      "firstitem": 40021,
+      "firstitemprobability": 34,
+      "seconditem": 40019,
+      "seconditemprobability": 33,
+      "thirditem": 40017,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40034,
+      "firstitem": 40023,
+      "firstitemprobability": 34,
+      "seconditem": 40021,
+      "seconditemprobability": 33,
+      "thirditem": 40019,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40035,
+      "firstitem": 40015,
+      "firstitemprobability": 34,
+      "seconditem": 40019,
+      "seconditemprobability": 33,
+      "thirditem": 40017,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40036,
+      "firstitem": 40018,
+      "firstitemprobability": 34,
+      "seconditem": 40020,
+      "seconditemprobability": 33,
+      "thirditem": 40022,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40037,
+      "firstitem": 40016,
+      "firstitemprobability": 20,
+      "seconditem": 40015,
+      "seconditemprobability": 40,
+      "thirditem": 40021,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40038,
+      "firstitem": 40018,
+      "firstitemprobability": 20,
+      "seconditem": 40017,
+      "seconditemprobability": 40,
+      "thirditem": 40015,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40039,
+      "firstitem": 40022,
+      "firstitemprobability": 20,
+      "seconditem": 40021,
+      "seconditemprobability": 40,
+      "thirditem": 40023,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40040,
+      "firstitem": 40020,
+      "firstitemprobability": 20,
+      "seconditem": 40019,
+      "seconditemprobability": 40,
+      "thirditem": 40017,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40041,
+      "firstitem": 40024,
+      "firstitemprobability": 20,
+      "seconditem": 40023,
+      "seconditemprobability": 40,
+      "thirditem": 40019,
+      "thirditemprobability": 40
+    },
+    {
+      "selectitem": 40042,
+      "firstitem": 40015,
+      "firstitemprobability": 34,
+      "seconditem": 40023,
+      "seconditemprobability": 33,
+      "thirditem": 40019,
+      "thirditemprobability": 33
+    },
+    {
+      "selectitem": 40043,
+      "firstitem": 40021,
+      "firstitemprobability": 34,
+      "seconditem": 40019,
+      "seconditemprobability": 33,
+      "thirditem": 40017,
+      "thirditemprobability": 33
+    }
+  ]
+}

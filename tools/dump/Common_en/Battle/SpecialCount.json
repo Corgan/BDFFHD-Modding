@@ -1,0 +1,65 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 192,
+    "data_one_size": 16,
+    "data_num": 9,
+    "ints_per_record": 4
+  },
+  "records": [
+    {
+      "wepType": 1,
+      "count_0": 10,
+      "count_1": 20,
+      "count_2": 30
+    },
+    {
+      "wepType": 2,
+      "count_0": 5,
+      "count_1": 10,
+      "count_2": 15
+    },
+    {
+      "wepType": 3,
+      "count_0": 10,
+      "count_1": 20,
+      "count_2": 30
+    },
+    {
+      "wepType": 4,
+      "count_0": 10,
+      "count_1": 20,
+      "count_2": 30
+    },
+    {
+      "wepType": 5,
+      "count_0": 10,
+      "count_1": 20,
+      "count_2": 30
+    },
+    {
+      "wepType": 6,
+      "count_0": 5,
+      "count_1": 10,
+      "count_2": 15
+    },
+    {
+      "wepType": 7,
+      "count_0": 5,
+      "count_1": 10,
+      "count_2": 15
+    },
+    {
+      "wepType": 8,
+      "count_0": 5,
+      "count_1": 10,
+      "count_2": 15
+    },
+    {
+      "wepType": 9,
+      "count_0": 3,
+      "count_1": 6,
+      "count_2": 9
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 378,
+    "data_one_size": 4,
+    "data_num": 18,
+    "ints_per_record": 1
+  },
+  "records": [
+    {
+      "ENTRANCE_NAME": ""
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_01"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_02"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_03"
+    },
+    {
+      "ENTRANCE_NAME": "Ship_Position_04"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_01"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_02"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_03"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_04"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_05"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_39"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_40"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_41"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_42"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_43"
+    },
+    {
+      "ENTRANCE_NAME": "N_map_jump_44"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_06"
+    },
+    {
+      "ENTRANCE_NAME": "N_ShipEvent_07"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 272,
+    "data_one_size": 28,
+    "data_num": 8,
+    "ints_per_record": 7
+  },
+  "records": [
+    {
+      "m_ItemId": 40148,
+      "m_Type": 1,
+      "m_HiUpValue": 300,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 200,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 100
+    },
+    {
+      "m_ItemId": 40149,
+      "m_Type": 2,
+      "m_HiUpValue": 150,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 100,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 50
+    },
+    {
+      "m_ItemId": 40150,
+      "m_Type": 3,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    },
+    {
+      "m_ItemId": 40151,
+      "m_Type": 4,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    },
+    {
+      "m_ItemId": 40152,
+      "m_Type": 5,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    },
+    {
+      "m_ItemId": 40153,
+      "m_Type": 6,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    },
+    {
+      "m_ItemId": 40154,
+      "m_Type": 7,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    },
+    {
+      "m_ItemId": 40155,
+      "m_Type": 8,
+      "m_HiUpValue": 3,
+      "m_HiUpPercent": 5,
+      "m_MidUpValue": 2,
+      "m_MidUpPercent": 10,
+      "m_LowUpValue": 1
+    }
+  ]
+}

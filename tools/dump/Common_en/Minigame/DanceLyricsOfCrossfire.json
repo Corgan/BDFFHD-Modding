@@ -1,0 +1,135 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3386,
+    "data_one_size": 8,
+    "data_num": 31,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "ID": 2001,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nAiming at your heart and fire!"
+    },
+    {
+      "ID": 2002,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nLooking right into your eyes—"
+    },
+    {
+      "ID": 2003,
+      "pMessage": "→ Kiss of Fire!"
+    },
+    {
+      "ID": 2004,
+      "pMessage": "Love is war,\nand after a mere 3 seconds of looking,"
+    },
+    {
+      "ID": 2005,
+      "pMessage": "I <locked on> to you"
+    },
+    {
+      "ID": 2006,
+      "pMessage": "The battlefield doesn’t care what time it is,"
+    },
+    {
+      "ID": 2007,
+      "pMessage": "and it’s <game over> the moment I give up"
+    },
+    {
+      "ID": 2008,
+      "pMessage": "I take a ton of damage when I lose, no joke!"
+    },
+    {
+      "ID": 2009,
+      "pMessage": "But yes! Girls have guts,\nso I’ll prepare myself and go Full Brave!"
+    },
+    {
+      "ID": 2010,
+      "pMessage": "I want to become an\n<invincible and awesome sparkling girl>"
+    },
+    {
+      "ID": 2011,
+      "pMessage": "So cute that you go totally crazy for me!"
+    },
+    {
+      "ID": 2012,
+      "pMessage": "But…but…I can’t bring myself to be honest,\nI can’t be cute"
+    },
+    {
+      "ID": 2013,
+      "pMessage": "I want to change myself…"
+    },
+    {
+      "ID": 2014,
+      "pMessage": "Hmph… I’ll go for broke with this shot!"
+    },
+    {
+      "ID": 2015,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nA maiden in love is invincible—fire!"
+    },
+    {
+      "ID": 2016,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nMy love is about to explode—"
+    },
+    {
+      "ID": 2017,
+      "pMessage": "→ Kiss of Fire!"
+    },
+    {
+      "ID": 2018,
+      "pMessage": "What kind of girl do you like?\nI asked jokingly,"
+    },
+    {
+      "ID": 2019,
+      "pMessage": "while <firmly memorizing> your response"
+    },
+    {
+      "ID": 2020,
+      "pMessage": "The battlefield doesn’t care where it is,"
+    },
+    {
+      "ID": 2021,
+      "pMessage": "and <love is over> if all I do is run!"
+    },
+    {
+      "ID": 2022,
+      "pMessage": "I’m mega traumatized\nwhen it all blows up in my face, no joke!"
+    },
+    {
+      "ID": 2023,
+      "pMessage": "But yes! Girls have nerves of steel,\nso I’ll brace myself applying “No Defaulting”!"
+    },
+    {
+      "ID": 2024,
+      "pMessage": "If I become\n<an invincible and awesome sparkling girl>"
+    },
+    {
+      "ID": 2025,
+      "pMessage": "Will you never let me out of your sight?"
+    },
+    {
+      "ID": 2026,
+      "pMessage": "But…but…I’m not meant for that,\nI have no self confidence"
+    },
+    {
+      "ID": 2027,
+      "pMessage": "I want to change myself…"
+    },
+    {
+      "ID": 2028,
+      "pMessage": "Hmph… I’m prepared for the worst!"
+    },
+    {
+      "ID": 2029,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nI’ll pour my heart and soul in this–fire!"
+    },
+    {
+      "ID": 2030,
+      "pMessage": "Love in the crossfire! Love in the crossfire!\nOh, I see an opening—"
+    },
+    {
+      "ID": 2031,
+      "pMessage": "→ Kiss of Fire!"
+    }
+  ]
+}

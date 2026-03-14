@@ -1,0 +1,227 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 624,
+    "data_one_size": 48,
+    "data_num": 12,
+    "ints_per_record": 12
+  },
+  "records": [
+    {
+      "SCRIPT_ID": 119,
+      "PRI": 87,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2350,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        12,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 120,
+      "PRI": 86,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        3,
+        23,
+        1
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 121,
+      "PRI": 85,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        3,
+        10,
+        1
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 129,
+      "PRI": 77,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 130,
+      "PRI": 76,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 132,
+      "PRI": 74,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        3,
+        5,
+        1
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 140,
+      "PRI": 66,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2504,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 142,
+      "PRI": 64,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2410,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 155,
+      "PRI": 51,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 163,
+      "PRI": 50,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2947,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 165,
+      "PRI": 49,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2499,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 203,
+      "PRI": 48,
+      "TABLEINDEX": 6,
+      "ENABLE_REQUEST": [
+        0,
+        2389,
+        3,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

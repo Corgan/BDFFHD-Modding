@@ -1,0 +1,1291 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 60196,
+    "data_one_size": 32,
+    "data_num": 128,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": 1,
+      "pTitle": "愛しすぎるイデア１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/20\nThe steel airlock door creaked shut behind me.\n\nFootsteps investigating the noise drew close for a moment, but soon faded.\n\nI lowered myself into bed with a sigh.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 2,
+      "pTitle": "愛しすぎるイデア２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My right hand unconsciously drifted to the back of my head.\n\nThere, beneath my pillow, it fell upon a picture frame.\n\nWithin it, a disheveled room full of scrap iron, oil stains, and a single, beautiful flower…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 3,
+      "pTitle": "愛しすぎるイデア３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "[PCF2]…",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_00",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 4,
+      "pTitle": "愛しすぎるイデア４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My beloved [PCF2]…\n\nI pine for the chance to see a smile unfurl across your face set in equal parts courageous fire and innocence.\n\nI long to hear your voice, sweet like a spring breeze. Let it speak my name, and I shall die a happy man.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 5,
+      "pTitle": "愛しすぎるイデア５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I could hear the nervous shuffling outside my door of someone afraid to disturb me. Not afraid enough, it seems.\n\nI returned the photo to its hiding place and answered without bothering to conceal my irritation.\n\n“I’m awake. What is it?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 6,
+      "pTitle": "愛しすぎるイデア６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I skimmed the manual I’d been given, then tossed it on the bed.\n\nI returned to [PCF2]’s smile, perfectly preserved within the picture frame.\n\nThe Eschalot. My lips formed the word time and again as I watched the new ship in tow from my cabin porthole.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 7,
+      "pTitle": "潜入成功１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/26\nI hurried for the capital as the sun dipped below the Norende Plateau.\n\nMy steps are unnervingly light without my armor, and these clothes hang oddly on me. Most of all, I feel naked without a weapon.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 8,
+      "pTitle": "潜入成功２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I was greeted at the city’s edge by the sound of a whistle marking the arrival of a merchant ship.\n\nBetween the merchants and wholesalers, the dock workers unloading crates, the tired crewmen, and the eager children excited by the exotic wares, the port was buzzing with people.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 9,
+      "pTitle": "潜入成功３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As I pushed my way upstream through the crowd and along the avenue toward the palace, I spotted a splendid building, its roof a rich navy.\n\nThis must be the inn the old fisherman described.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 10,
+      "pTitle": "潜入成功４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Inside, I found a man with a gentle mien sitting behind a well-polished counter.\n\nI asked after any vacancies, but he replied with a chagrined, “Sorry, we’re all full up tonight.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 11,
+      "pTitle": "潜入成功５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It feels quiet for a full inn, but I don’t suppose I can blame him.\n\nA walk-in customer, at this hour. Clearly not a local. No one to vouch for me.\n\nAny respectable innkeep would offer some version of the same excuse.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 12,
+      "pTitle": "潜入成功６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When I inquired after a place to eat, he said down by the port there should be a cheap pub catering to sailors that’s open until morning.\n\nLovely. Back down I go…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 13,
+      "pTitle": "潜入成功７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "At the hill’s bottom I ate my fill at a food cart aimed at drunken sailors. Now it’s back up to the inn.\n\nI refuse to spend the night kept awake by carousing seamen.\n\nI let myself into the empty house next door to the inn. I’ll just have to sleep lightly.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 14,
+      "pTitle": "大イノシシ狩り１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/27\nI was awakened by the sound of sword practice, shouts of exertion, and the pleasant smell of toast.\n\nOne of the king’s guard, perhaps? Looks about my age, and reasonably skilled. I lay in my makeshift bed, lazily counting his swings.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 15,
+      "pTitle": "大イノシシ狩り２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Hurry up, Owen. You’ll be late.”\n\nUpon hearing the innkeep’s words, the youth replied and made his way down from the misty hilltop and into the inn.\n\nThe scent of breakfast coming from next door has me drooling…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 16,
+      "pTitle": "大イノシシ狩り３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One bite of my rock-hard bread brought me back to reality. The bacon burnt coal black and the murky, bitter coffee made me wish it hadn’t. I suppose I can expect no more from a shabby stand in the port.\n\nAfter choking down my fill, I climbed the hill toward the palace.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 17,
+      "pTitle": "大イノシシ狩り４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Supplied by a series of lush waterways, Caldisla was once a formidable city-fortress. These days, its hooked central avenue is lined with a magic shop, general store, armory, and other businesses.\n\nA large gate stands as a vestige of that era, though now it serves mostly as a site for the town bulletin board.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 18,
+      "pTitle": "大イノシシ狩り５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“This year’s boar hunt is set to begin once the final slot is filled! *Weapons provided by the hunting committee.”\n\nA boar hunt? With the duchy attacking?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 19,
+      "pTitle": "大イノシシ狩り６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I was speechless. As I made to leave, I felt someone grasp my shoulder.\n\n“This fellow says he’ll join the hunt! We ride today!”\n\nI turned, shock and irritation laid bare, only to find Owen, the young man I had seen practicing in the fog that morning.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 20,
+      "pTitle": "大イノシシ狩り７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My initial protests were drowned in a rising cheer, and as the smith handed me a broadsword and buckler, I dumbly accepted. Potions from the town chemist followed.\n\nBetween their expectant smiles and Owen’s grin, I found myself unable to say no.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 21,
+      "pTitle": "大イノシシ狩り８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "On the road, I was told a litany of facts I cared nothing about.\n\nThe search for food to fatten up before hibernating apparently drives the giant boars to local farms, where they raid crops and injure workers. As a result, the city gathers volunteers each year to hunt them.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 22,
+      "pTitle": "大イノシシ狩り９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As captain of the guard (I discover), responsibility for overseeing the hunt falls upon Owen.\n\nThe armorer was slated to participate, but a leg injury has him on crutches. Owen says he was searching for a replacement when he found a promising candidate during his morning practice. Lucky him.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 23,
+      "pTitle": "大イノシシ狩り１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We walked a full, tiring day stalking our prey. First the trader gave out, then chatter dried up between the two young castle guards.\n\nSunset found us upriver from the city, at the entrance to the Norende Canyon. Just as we decided to make camp, a rustling came from the thickets behind us!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 24,
+      "pTitle": "大イノシシ狩り１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The boar that leapt out was indeed a giant—a vicious, one-tusked monster that had survived the last year’s hunt. In a flash, it gored one of the guards, then the other, leaving only Owen, me, and the trader. The boar stamped the ground, preparing to charge the old man now paralyzed with fear.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 25,
+      "pTitle": "大イノシシ狩り１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I expect we’d all given up hope for the kindly old merchant, when the beast suddenly changed course.\n\nWith only seconds to react, Owen landed a mighty blow, felling the monster in a single strike!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 26,
+      "pTitle": "大イノシシ狩り１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I set about treating the young guards’ injuries.\n\nThe trader, clearly still worked up, narrated Owen’s victory to the two boys. With every reverent word, I felt as though I was being derided as useless.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 27,
+      "pTitle": "大イノシシ狩り１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The others took to sleep, while I sat watch to keep the fire going. Owen rose, and came to sit beside me.\n\n“Thanks for before.”\n\nI kept silent, but he pressed on.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 28,
+      "pTitle": "大イノシシ狩り１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_09",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 29,
+      "pTitle": "大イノシシ狩り１６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The boar only changed targets because you circled behind me and channeled your energy at it. It’s thanks to you we’re not carting home a corpse.”\n\nHe sat waiting, apparently bent on receiving a response. His grin is infectious.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 30,
+      "pTitle": "大イノシシ狩り１７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I took the surest course of action,” I replied as I held aloft my broadsword.\n\n“I had my doubts this blade was up to the task.”\n\nThe weapon’s edge was chipped in places, its length bent. With a gentle shake, the pommel gave an unsettling rattle. Owen burst into laughter at the noise.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 31,
+      "pTitle": "大イノシシ狩り１８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Apparently my response passed muster. He continued, his grin never flagging.\n\n“Starting tomorrow, you’ll stay at my place. I’ll give word to my father to open a room for you.”\n\nI was dragged on this hunt, but if it earns me a real breakfast, it’s a bargain I’d take gladly.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 32,
+      "pTitle": "宿屋に逗留１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/28\nThe innkeep’s voice and the smell of coffee being laid on the table roused me from my thoughts.\n\n“You’re from Ancheim, eh? You’ll be wanting extra sugar, then.”\n\nPolitely declining, I took a sip. Quality beans, roasted to perfection… Exquisite.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 33,
+      "pTitle": "宿屋に逗留２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After the hunt, we’d carried the wounded back to town. We tied the boar to a high tree branch; Owen said the townspeople would come for it later.\n\nAfter seeing to the boys’ treatment, Owen invited me to his home, the inn.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 34,
+      "pTitle": "宿屋に逗留３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Savior” was the title he used when introducing me to his father. I was mortified.\n\nI was on a journey of personal discovery, originally come from Ancheim… They bought my arbitrary lies without hesitation. They welcomed me.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 35,
+      "pTitle": "宿屋に逗留４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "That evening, we dined early, and well. The boar had been carted back to town, and our share of the meat filled a table.\n\nOnce Owen returned from the palace, we sat down to feast. The innkeep is a brilliant cook, and we ate, drank, and reveled into the night.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 36,
+      "pTitle": "宿屋に逗留５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Come by the palace tomorrow. I want you to meet the king.”\n\nHe repeated himself time and again, words slurred from the wine, despite my pretending to be asleep.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 37,
+      "pTitle": "大地震１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/03\nI’ve been in Caldisla a week, with no sign of the smoke signal. I join Owen in his training some mornings, walk the city streets, chat with the elderly, drink with the sailors at the docks, arm wrestle the drunks… Mostly, I just pass the time.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 38,
+      "pTitle": "大地震２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Today was another peaceful afternoon, the same as any other.\n\nOwen was at the palace since morning. I was enjoying a cup of the innkeep’s coffee.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 39,
+      "pTitle": "大地震３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It happened in an instant. I felt as if someone was set to plunge a knife into my back. I turned, and saw a window.\n\nThrough it, the northern sky was on fire in a flash of pure white.\n\nMoments later, the inn shook. An earthquake? Shock wave?\n\nAll of Caldisla trembled.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 40,
+      "pTitle": "大地震４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The innkeep moaned about a set of heirloom teacups breaking. I had my doubts that teacups would be the worst of the damage.\n\nOutside, I spied some injured people, but the city and palace stood unharmed.\n\nAnother flash lit the sky to the northwest. Close. The Norende Heights, perhaps…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 41,
+      "pTitle": "魔物１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/04\nIt wasn’t till the following morning that Owen came home. By the time he finished muttering about his morning training, he was snoring.\n\nA knock at his door put an end to that brief rest that afternoon.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 42,
+      "pTitle": "魔物２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The river’s jammed with rubble!”\n\nAfter receiving the scout’s report, Owen wolfed down the late breakfast his father had readied, then turned to me.\n\n“Sounds like I may need a hand later.”\n\nI nodded, eyes fixed on the northwestern sky.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 43,
+      "pTitle": "魔物３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The bridge across the Caldisla River has lain in ruin since the duchy felled it. Now, a flotilla of further rubble and countless corpses approach from upstream.\n\nUpstream means the Norende Canyon, and the village of Norende at its source. I suppose that’s our epicenter.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 44,
+      "pTitle": "魔物４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Owen and I split up and joined the others searching for victims.\n\nOwen’s team searched the river’s mouth, while I gathered men from town to search further upstream.\n\nI’ve a long sword at my side—a new one, this time, in good condition. Seems the smithy’s been busy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 45,
+      "pTitle": "魔物５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The armorer, the old trader, and a dockhand joined me on the shadowy path through the canyon.\n\nA few paces in, the armorer spotted something floating by:\na young man, floating face up and snagged on the rocks.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 46,
+      "pTitle": "魔物６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_10",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 47,
+      "pTitle": "魔物７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We ran to his side.\n\n“He’s breathing! The boy’s alive!”\n\nWhile the others rejoiced, I was more concerned with the ominous shadows surrounding us.\n\n“Goblins!?” “What are monsters doing here?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 48,
+      "pTitle": "魔物８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "There ought not be monsters so close to human settlement. Not in these numbers.\n\nThe townspeople were clearly overwhelmed. No doubt this was their first such encounter.\n\nI hesitated, unsure for a moment. But no, I had to take action.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 49,
+      "pTitle": "魔物９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“When I give the signal, hoist this boy out and sprint for the canyon’s mouth. Is that clear!?”\n\nA nod returned from each of them.\n\nSudden movement would distract the creatures for a moment. I hoped that was all I’d need.\n\n“Now! GO!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 50,
+      "pTitle": "魔物１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Thankfully, both merchants escaped, as well as the dockhand with the unconscious boy across his shoulders.\n\nLeft alone, I faced a quickly closing circle of enemies. So be it, I thought. Come closer, then. A bit more… A deep growl emerged from my chest.\n\n“…Black Bane!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 51,
+      "pTitle": "魔物１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When I emerged from the canyon on shaky legs, I was greeted by three anxious faces.\n\n“It was this fellow that saved me,” I said, holding aloft the badly worn long sword. A huge, proud grin threatened to split the armorer’s cheeks.\n\nWe hurried the boy back to town.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 52,
+      "pTitle": "魔物１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I carried him to the inn.\n\n“I need spirits and all the bandages you’ve got. And gramps, all the potions you’ve got, too!”\n\nI laid him in a bed by the window, stripped him down, and had a look at his wounds. Thankfully, they were light, though he still showed no sign of stirring.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 53,
+      "pTitle": "魔物１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Owen’s group returned soon after, a few of his men wounded. They’d run into monsters as well. Leaving men to guard the gates, he made for the palace to report and formulate a plan.\n\nWhen he came by to deliver the medicine, the old trader remarked that the boy’s clothing bore a Norende pattern.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 54,
+      "pTitle": "謎の少女１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/07\nThree days the boy has stayed at the inn, and still no sign of waking. The innkeep says he’s run a fever the entire time.\n\nThis afternoon is a warm one. Now I’m watching the innkeep nod off at the counter.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 55,
+      "pTitle": "謎の少女２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The aftershocks have stopped, and peace is slowly returning to the city, but a shadow lingers over the earth, the sky, and the townspeople’s hearts.\n\nGlancing through the window, I saw people motioning toward the port. Another merchant ship, I thought, but no. Their shouts were anxious, not excited.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 56,
+      "pTitle": "謎の少女３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I stepped outside. Following the gaze of the others in the street, I saw a merchant vessel drifting into port.\n\nBut something was wrong. The ship was listing hard, its aft mast broken.\n\nI sprinted down the hill.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 57,
+      "pTitle": "謎の少女４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As I ran, I noticed a dark, heavy color spreading through the water from the mouth of the bay inward.\n\nI caught snippets as I passed. “The sea’s begun to rot.” “Ships can’t leave the bay.” “No fish in the last few days.”\n\nA few days? Then the change began when the quake hit…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 58,
+      "pTitle": "謎の少女５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The ship listed further, rescue boats surrounding it.\n\nMost of the cargo had already been cast overboard.\n\nWhen the boats reached the pier, a parade of passengers and crew emerged, each looking more exhausted than the next.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 59,
+      "pTitle": "謎の少女６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "By some miracle, there were no lives lost, though most of the freight followed the ship to the bottom of the bay.\n\nThe merchants mourned their lost profits and the crew their vessel. The seamen had lost their sea, and the passengers were now stranded. Despair ran rampant.\n\nExcept for one young girl.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 60,
+      "pTitle": "謎の少女７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_01",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 61,
+      "pTitle": "謎の少女８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She was full of questions. About the quake four days prior. About the flash that lit the sky. About Norende.\n\n“Did you know someone in the village? Family, perhaps?”\n\nHer jaw set at my query. Was it anger? Fear? She wordlessly shook her head from side to side.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 62,
+      "pTitle": "謎の少女９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“No? I just figured, hearing you ask about the quake so soon after weathering the sea. I thought maybe you were a friend of that boy’s.”\n\n“Boy? What boy?” came her reply. Suspicion played on her face. But as the next boat reached the pier, we were shooed out of the harbor.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 63,
+      "pTitle": "謎の少女１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Another visitor from Ancheim, eh? You must be tired. Why don’t you stay with us till you’re settled?”\n\nHmph. I recall a different sort of greeting. I cast a sour smile his way, and he responded with a grin.\n\n“We’ve a sick one in the back. I hope you won’t mind.”\n\nThe girl replied with a nod.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 64,
+      "pTitle": "謎の少女１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Her name, I learned, was [PCF1].\n\nShe seems guarded about her past. Not that I can talk.\n\nConversation continues to be awkward.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 65,
+      "pTitle": "謎の少女１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She shows interest in what was happening in this country when the quake hit. For my part, I ask her about the sea.\n\nHer ship had left before the earthquake struck. She says about halfway between Ancheim and Caldisla, their pace began to slow.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 66,
+      "pTitle": "謎の少女１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The seawater clouded, and dead fish began to float to the surface. First small ones, then larger.\n\nAs they neared port, the wind died. It was pure luck the ship drifted in before going calm.\n\nOther vessels they’d passed in the bay, she reported, were less fortunate.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 67,
+      "pTitle": "謎の少女１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She listened as I recounted what happened in the canyon, the color draining from her face.\n\nI told her the village was likely at the quake’s epicenter, and that monsters had flooded the area in its wake.\n\nWe talked late into the night.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 68,
+      "pTitle": "謎の少女１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_15",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 69,
+      "pTitle": "無電１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/25\nAn urgent wire from Caldisla came during the night.\n\n“Sky Knights routed.\n\n“The vestal and crew commandeered the S.K. ship, with [PCF2] in tow.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 70,
+      "pTitle": "無電２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_02",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 71,
+      "pTitle": "ラ国派遣１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/13\nThe Flor-Cheim Inner Sea remains unsullied, and serves now as a holding place for ships from neighboring waters as well.\n\nI walked the port asking after the vestal’s whereabouts (or those of the ship she stole, at least), but was unable to uncover anything useful.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 72,
+      "pTitle": "ラ国派遣２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My continued search brings me to Ancheim proper. The ship’s almanac has this to say of it:\n\n“A clockwork metropolis, nestled in Harena’s sandy bosom. Here time, above all, is sacred. A massive timepiece crowns the kingdom, fueled as all of Ancheim by the ceaseless currents originating from the Temple of Wind to the south.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 73,
+      "pTitle": "ラ国派遣３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I crossed the desert and arrived at the city’s edge.\n\nIt seems those ceaseless winds have ceased in the chasm’s wake. Deprived of a precious power source, Ancheim’s people now suffer under forced manual labor.\n\nThose I met were too tired and apathetic to answer my questions.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 74,
+      "pTitle": "ラ国派遣４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One man, perhaps motivated by the coin I flashed, blushed awkwardly as he stammered this:\n\n“T-try the Yulyana Woods…”\n\nI reached out to hand him the money, but he turned and ran without taking it. Very odd.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 75,
+      "pTitle": "ラ国派遣５",
+      "pSubTitle": "",
+      "type": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_00",
+      "pText": "I returned to my\nalmanac.\n\n“Yulyana Woods:\nThe hidden heart\nof an ancient wood\nnortheast of\nAncheim.”",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_13",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 76,
+      "pTitle": "凶風１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/23\nThe air in front of Ancheim’s royal palace was taut.\n\nThe vestal heaped abuse upon the king, then presented something to the agitated masses assembled there.\n\nIt was a chain bearing an evil sigil. The glassy-eyed mob reached fever pitch…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 77,
+      "pTitle": "凶風２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_05",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 78,
+      "pTitle": "凶風３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The vestal pointed south, and the delirious mob turned their eyes to the sky, crying out her name.\n\nI moved to approach her, but the zealous crowd was packed tight.\n\nFearing for his life, the king fled to the palace, escorted by his guard.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 79,
+      "pTitle": "フロウエル１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "12/08\nGood. They haven’t come by…\n\nI was worried I might run into them here. That would complicate matters.\n\nI could do little more than beg her help in the broadest of terms, then it was back to my ship and away again.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 80,
+      "pTitle": "フロウエル２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Though perhaps a bit out of date, the ship’s almanac has this to say of Florem:\n\n“True to the old teachings, Florem’s women live in chaste humility, in coexistence with the spirits of nature.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 81,
+      "pTitle": "フロウエル３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And of the land’s people:\n\n“Devout Crystalists, they reject war and conflict, instead choosing lives of peaceful reflection.”\n\nSounds like a recipe for carnage if those two heard these words…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 82,
+      "pTitle": "一行の知らせ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "1/31\nAfter three weeks of anxious silence, they finally sent word.\n\n“The wind vestal entered the Sacred Flower Festival.”\n\n…What?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 83,
+      "pTitle": "シュタルクフォート着１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "3/07\nIt’s been four years since I stood here. The fortress stands grim and imposing as ever.\n\nJust what do they aim to do with a sword that large?\n\nMy guide greeted me respectfully. I suppressed my desire to break his face.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 84,
+      "pTitle": "シュタルクフォート着２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Ugh, enough! Stop talking! I know about this land and its resources without your yapping.\n\nMythril Steel:\nAn exceptionally hard metal refined from locally mined ore. Upwards of 80 percent of the world’s mythril originates in Eisenberg’s mines. In rare cases, the same veins have yielded orichalcum.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 85,
+      "pTitle": "シュタルクフォート着３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orichalcum:\nAn extremely precious metal, found exclusively in Eisenberg. Its durability is unrivaled, making it ideal for use in weapons and armor. Also notable is the extreme amount of energy released when the metal is melted under high pressure.\n\nIt’s all common knowledge. Does he think we don’t have schools?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 86,
+      "pTitle": "シュタルクフォート着４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Upon entering, I found the place utterly unchanged. I still have that old memo on Starkfort’s status and layout.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_20",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 87,
+      "pTitle": "シュタルクフォート着５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We soon arrived at the top floor.\n\n“Just how long do you intend to chase at my heels!?” When I barked at the guide, he seemed genuinely confused. A waterfall of sweat poured from him.\n\nA guffaw rang out, cutting off any further tirade. The guide scuttled off, and a giant hand came clapping down on my back.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 88,
+      "pTitle": "ガキ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "3/17\nSomeone please explain to me how I wound up defending this brat.\n\nAh, right. Because that fat scum and the weakling started eagerly talking about torturing the information out of him.\n\nDisgusting…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 89,
+      "pTitle": "ガキ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_16",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 90,
+      "pTitle": "ガキ３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I’m not worried about this weakling Astrae. I could handle him with my eyes closed.\n\nBut the drugs the fat one cooks up—the poisons, especially—could ruin the child’s body.\n\nAnd so we stood there, staring each other down for a full half hour…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 91,
+      "pTitle": "ガキ４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It wasn’t for another thirty minutes that old man battleaxe caught wind of the standoff and came to my rescue.\n\nFatty and I were both drenched in sweat by that point. Astrae and the brat had passed out.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 92,
+      "pTitle": "ガキ５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "In the end, the child became my responsibility.\n\nAstrae is still spewing complaints, but it sounds like fatty was chewed out hard for his hand in this latest stunt.\n\nSeems the kid is grateful for having been spared, even by someone like me. He’s started to open up a bit.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 93,
+      "pTitle": "ガキ６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He’s eight years old, and lost both parents to the war. His grandfather took him in, until disease claimed him as well. Textbook orphan story.\n\nHe was rounded up with the other orphans and put to forced labor. Between ditching work and saying strange things, he drew the guards’ attention, and that landed him here.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 94,
+      "pTitle": "ガキ７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My efforts have earned me an unruly roommate.\n\nWhen he’s asleep, he’s no different than any other kid…\n\nI thought to turn in for the night as well, but the words he mumbled in his sleep as I put out the light stopped me cold.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 95,
+      "pTitle": "ミスリル鉱山１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "3/19\nHe begged me to bring him with me. In the end, I caved.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_14",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 96,
+      "pTitle": "ミスリル鉱山２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He pulled a lever in the rock or some such, and a tunnel into the magma caverns opened up.\n\nI’d never felt such heat.\n\nBetween the steep, narrow path, this blasted heat, and having a brat in tow, my progress was miserably slow.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 97,
+      "pTitle": "ミスリル鉱山３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "During one of our short breaks, I was taken unawares by one of [PCF2]’s tirades.\n\nDistracted or not, careful to watch my back or not, I had allowed the enemy to draw near without so much as realizing it. Absolutely mortifying.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 98,
+      "pTitle": "ミスリル鉱山４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Let the boy go!”",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_07",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 99,
+      "pTitle": "ミスリル鉱山５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I wasn’t about to risk combat with the brat at my side. Even I have my limits.\n\nHe was nearly passed out from exhaustion. I laid him behind the rocks and stepped forward.\n\nI saw no other choice but to fight…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 100,
+      "pTitle": "ミスリル鉱山６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "In the short while since I’d last seen them, the vestal, [PCM1], and [PCF2]’s faces had grown older. Stronger.\n\nTheir teamwork isn’t half bad, either. I busied myself with the vestal while thinking on how best to drive back [PCF2] without harming her.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 101,
+      "pTitle": "ミスリル鉱山７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Stay back! Don’t come here!”\n\nAll I could do as I saw the boy stumbling closer was shout.\n\nThe caverns shook, and the ground beneath him gave way.\n\n[PCM1] was the first to react.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 102,
+      "pTitle": "ミスリル鉱山８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Hang in there. We’ll get you up!”\n\n“Let go… We’ll both fall!”\n\n“[PCF1], leave me! Go!”\n\n“Un…acceptable…”\n\n“Mrgrgr! My grip… It’s slipping!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 103,
+      "pTitle": "ミスリル鉱山９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I acted without thinking, clutching [PCF2] to me and pulling her to safety.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 104,
+      "pTitle": "ミスリル鉱山１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Magma roared past beneath me.\n\nWe stood there, wordless until we caught our breath.\n\n“Thank you…” [PCF2] began. “I suppose I owe you for that.”\n\nI reflexively jumped back.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 105,
+      "pTitle": "ミスリル鉱山１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "[PCF2] stood there, Ise-no-Kami held drawn and ready. Some thanks…\n\n[PCF1] shielded the boy while [PCM1] came to join [PCF2].\n\nAs the sound of her swing cut the air, the ground beneath me crumbled once more…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 106,
+      "pTitle": "ミスリル鉱山１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I saw the look of shock on [PCF2]’s face as if time were standing still.\n\nI slowly fell toward the magma below, joined by a shower of falling rock.\n\nMy vision went red.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 107,
+      "pTitle": "治癒１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "??/??\nI’m alive…somehow.\n\nWhen I woke, my body refused to respond. I think I was lying down. My eyelids felt as though they were glued shut.\n\nA familiar voice grated in my ear…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 108,
+      "pTitle": "治癒２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Of course he’ll recover. Just whom do you think you are addressing, mm? If I’ve orders to fix him, I’ll see he’s fixed…as much as I may enjoy his current state. He’ll live, though I’ll be sure he suffers for having humiliated me. Hyah heh heh…”\n\nThe days that followed were hell.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 109,
+      "pTitle": "治癒３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "His breath reeked as he spoke.\n\n“Aww, does it hurt? Hyah hyah hyah… I just gave you the most painful drug I know. And here you can’t move a muscle to stop me. Such a shame, isn’t it? Ahh hyah hyah hyah!”\n\nSomeday I will carve this pig apart, so help me…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 110,
+      "pTitle": "治癒４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I awoke to familiar engine noise and the smell of oil, but sleep soon found me once more.\n\nWhen I next woke, I was floating in some kind of liquid. I could feel it bitter in my mouth, stinging my nose and filling my lungs. I thought I was drowning and tried to struggle, but my body still refused to obey. I quickly slipped back into darkness.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 111,
+      "pTitle": "治癒５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A cold, unpleasant voice woke me.\n\n“A nasty bit of work, this… Torture, under the guise of treatment. It was wise to transport him here when we did. A few days more, and, well… Heh. Worry not, I’ll have him back good as he was. You have my guarantee.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 112,
+      "pTitle": "治癒６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The voice next turned to me.\n\n“And how are we feeling?”\n\nMy eyes opened, stung by the light and medicated fluid.\n\n“Today is the twenty-fourth. You’ve been out a month and a week, but worry not. None of your correspondence seems especially pressing. …See?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 113,
+      "pTitle": "治癒７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He held a slip of paper up to the tank. “Bring the orphan to the inn of origin,” it read.\n\n“What does it mean?” he asked. “Is it code? I can’t make sense of it.”\n\nIt made little sense to me, too, but I felt relief at knowing the boy was alright.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 114,
+      "pTitle": "治癒８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“That wasn’t your only inscrutable message.”\n\nI drifted in and out as he read more, catching only snippets. “Earth Crystal… Grandship… Engine room…”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 115,
+      "pTitle": "治癒９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Some days (weeks?) later, the liquid was drained from the tank, and I was left to stave off gravity with atrophied legs.\n\n“Buck up. You’ll be back to your old self given a week. I made well sure of that.”\n\nWith that final dismissive comment, he turned and left.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 116,
+      "pTitle": "治癒１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I was moved to a civilian hospital to recover.\n\nI trained back up to full stamina in six days, mostly out of spite.\n\nNo trace remained of the burns I assume covered my body, and he’d reversed any effects of whatever that pig had injected me with while he was at it. It galls me to say, but the man does good work.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 117,
+      "pTitle": "最後の記入１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "6/16\nHow many days have passed since I left his side?\n\nA pillar of light has stood above the southern sea for some time now, just as he predicted.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 118,
+      "pTitle": "最後の記入２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_12",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 119,
+      "pTitle": "最後の記入３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "That leaves little room to doubt his second prediction will hold true.\n\nWithin the coming days, the vestal and her friends will come here.\n\nI only pray I have the strength to stop them as I was asked to…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 120,
+      "pTitle": "最後の記入４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_04",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 121,
+      "pTitle": "最後の記入５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Thinking back, the vestal’s followers have been with her from the start. Ever since Caldisla.\n\n[PCF1] Oblige, vestal to the Wind Crystal…\n\nI never imagined the young girl I met on that pier would bear such a fate.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 122,
+      "pTitle": "最後の記入６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And [PCM1] Arrior.\n\nFor the boy I pulled from that canyon river to become a guard and ally to the vestal on her journey…\n\nIt seems on so many counts, I bear the fault for all of this.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 123,
+      "pTitle": "最後の記入７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A long, harsh journey to erase the Great Chasm.\n\nA vestal who crossed the putrid sea and stagnant air to arrive.\n\nA boy whose home was swallowed.\n\nIn retrospect, they seem a natural pair. Inevitable, even.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 124,
+      "pTitle": "最後の記入８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And [PCF2]… I expect you, too, will join the vestal here.\n\nYou were ever a tomboy. Capricious. Pure and stubborn. Quick to tears… Perfect.\n\nI know not what it is you see in the vestal. What spark resonated within you. But I swear this now, I will keep you safe. At any cost.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 125,
+      "pTitle": "最後の記入９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I always longed for a family…\n\n\n\n\n\n\n\n\n\n\n\n\n\nI will not see it destroyed!",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_06",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 126,
+      "pTitle": "最後の記入１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The ship’s siren has begun to sound, and the pilot’s taking her up, just as planned.\n\nThe time is come, then. This may be the last entry I am able to write.\n\nI’m removing [PCF2]’s picture from its frame and placing it within these pages. I want her by my side…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 127,
+      "pTitle": "最後の記入１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_17",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 128,
+      "pTitle": "最後の記入１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_21",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1862,
+    "data_one_size": 8,
+    "data_num": 56,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 0,
+      "pMessage": "View main scenario events."
+    },
+    {
+      "id": 1,
+      "pMessage": "View sub-scenario events."
+    },
+    {
+      "id": 2,
+      "pMessage": "View party chat events."
+    },
+    {
+      "id": 3,
+      "pMessage": "Select a chapter."
+    },
+    {
+      "id": 4,
+      "pMessage": "Select a movie."
+    },
+    {
+      "id": 5,
+      "pMessage": "Select an event to view."
+    },
+    {
+      "id": 6,
+      "pMessage": "Intro"
+    },
+    {
+      "id": 7,
+      "pMessage": "Ch. 1"
+    },
+    {
+      "id": 8,
+      "pMessage": "Ch. 2"
+    },
+    {
+      "id": 9,
+      "pMessage": "Ch. 3"
+    },
+    {
+      "id": 10,
+      "pMessage": "Ch. 4"
+    },
+    {
+      "id": 11,
+      "pMessage": "Ch. 5"
+    },
+    {
+      "id": 12,
+      "pMessage": "Ch. 6"
+    },
+    {
+      "id": 13,
+      "pMessage": "Ch. 7"
+    },
+    {
+      "id": 14,
+      "pMessage": "Ch. 8"
+    },
+    {
+      "id": 15,
+      "pMessage": "Finale"
+    },
+    {
+      "id": 16,
+      "pMessage": "The End"
+    },
+    {
+      "id": 17,
+      "pMessage": "Japanese"
+    },
+    {
+      "id": 18,
+      "pMessage": "English"
+    },
+    {
+      "id": 19,
+      "pMessage": "French"
+    },
+    {
+      "id": 20,
+      "pMessage": "Italian"
+    },
+    {
+      "id": 21,
+      "pMessage": "German"
+    },
+    {
+      "id": 22,
+      "pMessage": "Spanish"
+    },
+    {
+      "id": 23,
+      "pMessage": "Config"
+    },
+    {
+      "id": 24,
+      "pMessage": "Main Scenario"
+    },
+    {
+      "id": 25,
+      "pMessage": "Sub-scenario"
+    },
+    {
+      "id": 26,
+      "pMessage": "Party Chat"
+    },
+    {
+      "id": 27,
+      "pMessage": "View All"
+    },
+    {
+      "id": 28,
+      "pMessage": "View all events that have occurred so far."
+    },
+    {
+      "id": 29,
+      "pMessage": "Skip event?"
+    },
+    {
+      "id": 30,
+      "pMessage": "Movies"
+    },
+    {
+      "id": 31,
+      "pMessage": "Subtitles"
+    },
+    {
+      "id": 32,
+      "pMessage": "The Fairy’s Call"
+    },
+    {
+      "id": 33,
+      "pMessage": "Four Tales"
+    },
+    {
+      "id": 34,
+      "pMessage": "Reunion Promise"
+    },
+    {
+      "id": 35,
+      "pMessage": "Play movie events."
+    },
+    {
+      "id": 36,
+      "pMessage": "Skip this event?"
+    },
+    {
+      "id": 37,
+      "pMessage": "Auto"
+    },
+    {
+      "id": 38,
+      "pMessage": "Autoplay"
+    },
+    {
+      "id": 39,
+      "pMessage": "Stop Autoplay"
+    },
+    {
+      "id": 40,
+      "pMessage": "Change Speed"
+    },
+    {
+      "id": 41,
+      "pMessage": "Skip"
+    },
+    {
+      "id": 42,
+      "pMessage": "Skip Event"
+    },
+    {
+      "id": 43,
+      "pMessage": "Sub-scenario"
+    },
+    {
+      "id": 44,
+      "pMessage": "Party Chat"
+    },
+    {
+      "id": 45,
+      "pMessage": "View all party chats that have occurred so far."
+    },
+    {
+      "id": 46,
+      "pMessage": "View all movies."
+    },
+    {
+      "id": 47,
+      "pMessage": "Main Scenario"
+    },
+    {
+      "id": 48,
+      "pMessage": "Sub-scenario"
+    },
+    {
+      "id": 49,
+      "pMessage": "Party Chat"
+    },
+    {
+      "id": 50,
+      "pMessage": "Movies"
+    },
+    {
+      "id": 51,
+      "pMessage": "Original Credits"
+    },
+    {
+      "id": 52,
+      "pMessage": "Pause"
+    },
+    {
+      "id": 53,
+      "pMessage": "Normal"
+    },
+    {
+      "id": 54,
+      "pMessage": "2×"
+    },
+    {
+      "id": 100,
+      "pMessage": ""
+    }
+  ]
+}

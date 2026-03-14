@@ -1,0 +1,1169 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 74824,
+    "data_one_size": 16,
+    "data_num": 193,
+    "ints_per_record": 4
+  },
+  "records": [
+    {
+      "index": 1,
+      "pText": "These denizens of\nthe mountains and\nforests pose\nlittle threat\nalone, but spell\ntrouble in groups.\nTheir Charge\nattacks can be\nsomewhat hard to\ndeal with.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM025_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 2,
+      "pText": "Rather intelligent\nfor their kind,\nthese goblins use\nboth swords and\nshields. They are\nresolute in\npurpose and use\nGuard to raise\ntheir physical\ndefense in battle.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM026_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 3,
+      "pText": "Very intelligent\nfor their kind,\nthese goblins are\nskilled archers.\nTheir Sharpshoot\nability makes them\ndangerous foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM027_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 4,
+      "pText": "More wicked and\ncunning than\ngoblins, these\nsmall humanoids\nsilence foes with\n<Withering\nSilence>, steal BP\nwith Brave Robber,\nand use other\ndirty tricks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM025_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 5,
+      "pText": "These pretentious\nkobolds think they\nare knights just\nbecause they can\nuse a sword and\nshield. They are\nknown to use\nShield Bash to\nparalyze their\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM026_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 6,
+      "pText": "These pretentious\nkobolds think they\nare rangers. They\nuse bows and can\neven fire two\narrows at a time\nwith Double Shot,\nbut they are still\nno match for a\nseasoned ranger.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM027_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 7,
+      "pText": "These sturdy, pig-\nfaced humanoids\ncan use Thrust for\nextra power. They\nare also strategic\nfighters, using\nDefault at times.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM001_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 8,
+      "pText": "Highly intelligent\nas far as orcs go,\nthis leader uses\nEncourage to raise\nally physical\nattack and\nVenomous Stab to\nadd a poison\neffect to his\nattacks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM001_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 9,
+      "pText": "Some sort of\nstrange power\nanimates this orc\ncorpse. While low\nin intelligence,\nit is still a\nformidable foe\nwhen it goes on a\nrampage with\nWeapon Whirl.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM001_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 10,
+      "pText": "This ruler of the\norcs is the most\npowerful of his\nkind. He uses Mass\nAttack to inflict\nmajor damage and\nRampart to negate\nphysical attacks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM001_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 11,
+      "pText": "This swordsman of\nthe Eternian Sky\nKnights uses Prey\non Weak to focus\non the foe with\nthe lowest\npercentage of HP\nleft—not a very\nknight-like\nattack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM500_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 12,
+      "pText": "A spearman of the\nEternian Sky\nKnights who uses\nMow Down to\neradicate multiple\nfoes in one sweep\nof his long spear.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM501_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 13,
+      "pText": "The archers of the\nEternian Sky\nKnights have lower\nstrength and HP\nthan other Sky\nKnights, but their\ncovering fire with\nPoison Arrow must\nnot be taken\nlightly.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM502_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 14,
+      "pText": "This swordsman\nhired by the\nMerchantry uses\nFinal Strike, a\npowerful attack\nthat comes last in\nthe action order.\nWatch out for his\nCarotid Slash—it\nlowers magic\ndefense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM500_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 15,
+      "pText": "This brawler in\nthe hire of Khamer\n& Profiteur\nMerchantry uses a\nvariety of moves,\nincluding Psych Up\nto raise his own\nphysical attack\nand Eye Gouge to\nrob foes of their\nsight.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM503_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 16,
+      "pText": "This mage in the\nhire of Khamer &\nProfiteur is adept\nin the use of\nsleep to aid his\nallies. You must\nalso beware of his\npowerful fira\nspell.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM504_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 17,
+      "pText": "A spearwoman of\nthe Bloodrose\nLegion who should\nnot be taken\nlightly, lest you\nend up on the\nreceiving end of\nher Execution. Her\nshort haircut is\nquite charming.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM507_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 18,
+      "pText": "An archer of the\nBloodrose Legion\nwhose Chaos Arrow\nattack uses\npoison-tipped\narrows that sow\nconfusion. Don’t\nlet the sexy low\ncut on her dress\nback distract you!",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM508_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 19,
+      "pText": "A mage of the\nBloodrose Legion\nwho attacks with\ngravity and aids\nher allies with\nsilence. Her black\noutfit is sure to\nturn heads.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM509_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 20,
+      "pText": "A swordsman of the\nBlack Blades armed\nwith a curved\nblade shining with\nan eldritch glow.\nHe uses Edge of\nMadness to sow\nconfusion.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM505_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 21,
+      "pText": "This spearman of\nthe Black Blades\nmust be attacked\nwith care, for a\nphysical attack on\nhim will be met\nwith a painful\nCounter.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM501_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 22,
+      "pText": "An axeman of the\nBlack Blades whose\nfierce Shell Split\nattack also lowers\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM506_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 23,
+      "pText": "A sword-wielding\nguardsman of\nEternian Central\nCommand whose\nCarotid Slash can\nlower magic\ndefense. Beware of\nsituations where\nhis unit includes\na mage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM500_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 24,
+      "pText": "A pike-wielding\nguardsman of\nEternian Central\nCommand whose\nFirst Thrust lands\nbefore anyone else\ncan act. It is\nparticularly\ndangerous when\npaired with Brave.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM501_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 25,
+      "pText": "This magic-using\nguardsman of\nEternian Central\nCommand aids his\nallies with sleep\nand attacks from\nafar with\nblizzaga.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM504_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 26,
+      "pText": "This ordinary wild\nwolf is not much\nof a threat to\nfully armored\nwarriors, but\nthose with little\nor no armor should\nfear its rather\npowerful Bite\nattack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM020_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 27,
+      "pText": "This wolf corpse\nrisen from the\ndead as a rabid\nbeast uses the\nghastly\nSelf-Cannibalize\nattack to raise\nits physical\nattack by\nconsuming part of\nits own body.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM020_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 28,
+      "pText": "This silver-coated\nwolf may be a\nsight to see, but\nunder its stunning\ncoat is the heart\nof a killer. It\nwill mercilessly\ndevour its prey\nafter delivering a\nParalyzing Bite.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM020_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 29,
+      "pText": "This vicious hound\nemployed by\nEternian Forces\nattacks its\nvictims with Snap,\nwhich makes them\nmore likely to be\ntargeted for\nsubsequent\nattacks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM020_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 30,
+      "pText": "This hellhound is\na monstrous\ndefensive weapon\nthat attacks\nentire parties\nwith <Hellfire>\nand counters\nphysical attacks\nwith the powerful\nPayback.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM020_A5",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 31,
+      "pText": "This unusually\nlong-whiskered\ncreature is hard\nto hit with\nphysical attacks\nbecause it raises\nits evasion with\nFootwork on top of\nits already swift\nmovement.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM012_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 32,
+      "pText": "A forest-dwelling,\npuma-like monster\nthat can attack\ntwo targets at\nonce with its\n<Dual Attack>.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM012_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 33,
+      "pText": "This tiger-like\nmonster inhabits\nhot, arid regions.\nThe <Chomp> attack\nit delivers with\nrazor-sharp fangs\nhas the potential\nto kill its prey\nin a single\nstrike.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM012_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 34,
+      "pText": "The deadliest of\nthe panther-like\ncreatures, it has\na strange pattern\non its fur and\npowerful attacks.\nWatch out for its\n<Blaster> attack,\nwhich can paralyze\nall its foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM012_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 35,
+      "pText": "This squirrel-like\nfairy uses cure.\nDo not be\ndistracted by its\ncute looks—defeat\nit quickly, before\nit heals its\nallies.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM003_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 36,
+      "pText": "This strange\nlittle creature\nuses the power of\na jewel within its\nbody to perform\nmagic. It supports\nits allies with\npowerful white\nmagic, but its\naeroga attack is\nalso dangerous.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM003_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 37,
+      "pText": "This fairy of snow\nand ice may look\ncute, but it uses\npowerful white\nmagic such as\ncurada, reflect,\nand holy to\ntorment hapless\ntravelers.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM003_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 38,
+      "pText": "This fairy takes\nthe form of a cat\nand uses blind on\nits foes, making\nit the worst\nnightmare of all\nwho rely on\nphysical attacks.\nHave some eye\ndrops and blindna\non hand!",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM013_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 39,
+      "pText": "A cat fairy who\nturned evil due to\nhuman society’s\nnegative\ninfluence. It\nraises its allies’\nstrength with the\npower of money,\nand can hinder\nmagic with\nsilence.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM013_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 40,
+      "pText": "A cait sith who\nlearned white\nmagic after much\ngrueling study. It\nhas mastered a\nvariety of spells,\nincluding those\nfor recovery, aid,\nand attack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM013_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 41,
+      "pText": "A cait sith who\nstudied under a\nlegendary feline\nmage. This master\nof black magic\nuses fear to\nstrike dread into\nits foes and death\nto instantly\nstrike them dead.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM013_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 42,
+      "pText": "This large,\nsavage,\nrazor-clawed bear\nuses Salmon Swipe\nto attack all its\nfoes. It can wipe\nout your entire\nparty if you are\nnot careful.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM016_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 43,
+      "pText": "This brutal weapon\nin the guise of a\nbear is stationed\nall over Eternia\nto deter invaders.\nIts Bare Claws\nattack ignores its\nfoes’ physical\ndefense and deals\nmajor damage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM016_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 44,
+      "pText": "This savage, man-\neating bear looks\nlike it is wearing\na red helm and\nuses Massacre, a\ndangerous attack\nin which it hits\nrandom targets\nfour times with\nits razor-sharp\nclaws.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM016_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 45,
+      "pText": "This bull-headed\nmonster terrorizes\nall who stumble\ninto its dungeon.\nThe destructive\npower of its\nDouble Damage\nhammer attack is a\nserious threat.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM018_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 46,
+      "pText": "A slain minotaur\nthat somebody\nturned into a\nzombie. Almost\nnothing can stop\nit once it raises\nits physical\nattack with\nBerserk and goes\non a rampage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM018_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 47,
+      "pText": "This huge creature\nwith bull-like\nhorns and a large\nbeak uses Defang\nto devastate its\nopponent’s\nphysical attack\nand Berserk to go\non a rampage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM018_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 48,
+      "pText": "This horned\nmonster, the most\npowerful of its\nbull-like\nbrethren, uses\nBerserk Marathon\nto raise its\nphysical attack\nand Massacre to\nhit random targets\nfour times.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM018_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 49,
+      "pText": "A giant, razor-\nfanged bat that\nuses Blood Thirst\nto damage foes and\nrecover its own\nHP.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM019_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 50,
+      "pText": "This bat craves\nthe blood of the\nliving and is\nevery mage’s bane\nbecause it uses\nMagic Thirst to\ndrain MP. Its\nVenomous Fangs\nattack is also a\nthreat.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM019_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 51,
+      "pText": "This bat, raised\nby Lord DeRosso as\none of his\nminions, is the\nmost formidable of\nits kind. It uses\nUltrasonic Wave to\nconfuse all its\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM019_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 52,
+      "pText": "This vicious\nvulture circles\noverhead,\nsearching for\nvictims on which\nto use Carrion\nCarnivore to feast\nupon their flesh\nand raise its own\nphysical attack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM010_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 53,
+      "pText": "This fearsome,\nred-feathered\neagle must not be\ntaken lightly, for\nits Dive attack\nwith its razor-\nsharp beak is\nfairly powerful.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM010_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 54,
+      "pText": "It is said that\nall who catch this\nmonstrous bird’s\nsharp eyes can\nonly pray for a\nswift death. Its\n<Tornado> attack\nstrikes at all its\nfoes with whirling\nblades of air.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM010_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 55,
+      "pText": "Watch out for this\nsavage fish, for\nit is known to\nattack sailors\nwith its sharp\nfangs and use\n<Spray> to\npenetrate even\nDefault defenses.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM004_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 56,
+      "pText": "These monstrous\nfish attack in a\nlarge group that\nsurrounds and\nsinks even larger\nships. Those hit\nby Group Snap are\noften targeted by\nmany more attacks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM004_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 57,
+      "pText": "This devil of the\nsea brings fear\nand death to\nseafarers. Its\nGnash attack can\nbe devastating,\nand it can also\nuse <Spray> to\npenetrate even\nDefault defenses.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM004_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 58,
+      "pText": "A giant, venomous\nsnake inhabiting\narid regions. Its\npowerful attack,\nVenomous Fangs, is\nthe bane of the\nmerchant caravans\nthat crisscross\nAncheim.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM031_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 59,
+      "pText": "A giant sea snake\nwith sharp spikes\non its tail. Few\nseafarers live to\ntell of the\nbeast’s Tail\nShock, which\nparalyzes the body\nbefore the monster\ngoes in for the\nkill.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM031_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 60,
+      "pText": "This giant sea\nsnake has an\nodious coloration.\nIts Fatal Poison\ncauses the doom\nstate. Once\nbitten, you should\ntry to end the\nbattle as quickly\nas you can.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM031_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 61,
+      "pText": "The most powerful\nof the venomous\nsnakes, this\ncreature has\npoison spines and\na deadly attack\ncalled <Toxic\nWhirl>, in which\nit attacks and\npoisons all its\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM031_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 62,
+      "pText": "This strange\nfrog-like creature\nhas sharp fangs,\nbut is rather\ntimid and tends to\nrun away quickly.\nIts venom,\nhowever, makes it\nsomewhat dangerous\nwhen provoked.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM036_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 63,
+      "pText": "This orange,\nfrog-like creature\nhas a powerful\nattack known as\nRear-Ender. All\nwho come across\nthis creature with\nits fully formed\nbackside soon wish\nthey hadn’t.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM036_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 64,
+      "pText": "This frog-like\ncreature of sickly\ncoloration uses\nVenomous Chomp to\ncause various\nstatus ailments.\nIt also counters\nsingle attacks\nwith Don’t Touch.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM036_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 65,
+      "pText": "A gigantic fish\nfound all over\nLuxendarc’s seas.\nIts Torpedo Drill,\nin which it spins\nits body like a\ndrill as it comes\nstabbing with its\nbig horn, ignores\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM005_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 66,
+      "pText": "A member of the\nmonoceros family,\nthis vicious fish\nuses Buzz Saw to\nrip its foes to\nshreds and rob\nthem of their\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM005_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 67,
+      "pText": "The most powerful\nof the monoceros\nfamily, this fish\nhas an attack\ncalled Supersault,\nwhich combines\nforward/sideways\nspins to create a\nshock wave that\ndamages all foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM005_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 68,
+      "pText": "This vicious shark\nattacks sailors\nwith its countless\nsaw-like teeth and\nuses Terror Fangs\nto strike fear\ninto its victims.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM029_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 69,
+      "pText": "Known as a living\nfossil, this\nspecies of shark\nhas survived since\nancient times. It\nuses Ancient Fangs\nto attack all its\nfoes and lower\ntheir physical\nattack and\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM029_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 70,
+      "pText": "The body of a dead\nshark, reanimated\nby some unknown\npower. Its Fang\nRush strikes all\nits foes with its\nsharp fangs.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM029_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 71,
+      "pText": "This huge turtle\nattacks travelers\nin mountain\npasses. Its Spin\nAttack unleashes a\nblistering strike\nthat ignores\nphysical defense,\nand Reflection\nAngle creates a\nreflection effect.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM516_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 72,
+      "pText": "This huge turtle\nevolved in mythril\nmines, and while\nits attack pattern\nis the same as a\nland turtle’s, its\nphysical attack\nand physical\ndefense are\nelevated by the\npower of mythril\nore.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM516_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 73,
+      "pText": "A huge, vicious\nturtle with an\nextremely hard\nshell. It uses\nGround Spike for a\npowerful attack on\nall its foes and\nReflection Angle\nto achieve a\nreflection effect.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM516_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 74,
+      "pText": "This gigantic,\nrazor-fanged sea\nmonster silences\nits foes with its\nmighty roar. Watch\nout for its\nvenomous fangs,\nand its Toothy\nRend is also a\nmajor threat.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS01",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 75,
+      "pText": "This monstrous\nworm of the desert\nis the bane of all\nwho use physical\nattacks, for its\n<Sandstorm> attack\nblinds all it\nstrikes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM028_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 76,
+      "pText": "A giant worm that\neats and\nfertilizes\nLuxendarc’s soil.\nWatch out for its\n<Earthquake>\nattack, which\nstrikes all its\nfoes. Your best\nprotection is some\nway to reduce\nearth attacks.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM028_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 77,
+      "pText": "This man-eating\nworm swallows its\nprey whole and\nuses <Gastric\nJuices> to shoot\nburning stomach\nacid at all its\nfoes, damaging\nthem and lowering\ntheir physical\ndefense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM028_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 78,
+      "pText": "The most powerful\nof the giant\nworms, it has an\nodious coloration\nand uses <Rock\nStorm> to attack\nall its foes with\nrocks it has\nsucked in.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM028_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 79,
+      "pText": "A giant moth that\ninhabits swamps\nand other damp\nplaces. Watch out\nfor its <Wing\nScales> attack,\nwhich can confuse\nits foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM008_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 80,
+      "pText": "This giant,\npoisonous moth is\nthe bane of all\nwho visit Florem.\nCountless parties\nhave been wiped\nout by its Poison\nScales for want of\nsome antidote.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM008_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 81,
+      "pText": "This giant moth\nwith blazing wings\nhas a devastating\nattack known as\n<Firestorm>, which\ndamages all its\nfoes while also\nlowering their\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM008_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 82,
+      "pText": "A giant scorpion\nwith a hard\nexoskeleton and\nlarge jaws. All\nwho face this\nnightmare should\nhave measures in\nplace to deal with\nits deadly\nVenomous Bite.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM033_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 83,
+      "pText": "A deadly scorpion\nwith huge,\nhammer-like jaws\nas hard as rock.\nIt uses Pheromone\nto attract an ally\nto help it attack\nthose who venture\ninto the forest.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM034_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 84,
+      "pText": "This vicious\nscorpion hunts its\nprey in packs,\nusing Pheromone\nPlus to attract\ntwo allies. Try to\ndefeat it before\nit can summon\nhelp.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM033_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 85,
+      "pText": "This king of the\nscorpions has a\nhard exoskeleton\nand solid jaws. It\nattracts allies\nwith Pheromone\nPlus, then devours\nthem with\nCannibalism to\ngain a big ability\nboost.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM034_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 86,
+      "pText": "A strange,\nanthropomorphic\nflower that walks\non roots. Its\n<Paralyzing\nPollen> attack\nrenders victims\nimmobile. This is\nquite dangerous if\nthey attack en\nmasse.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM014_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 87,
+      "pText": "The dreaded\nmonstrous form of\nthe common\nEternian radish.\nThey attack en\nmasse, using\nPoisonous Pollen\nto damage and\npoison their foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM014_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 88,
+      "pText": "A deadly\ncarnivorous plant\nthat emits a sweet\nscent from its red\nflower. It uses\nParasitism to copy\nthe HP, MP, and BP\nof its foe.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM014_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 89,
+      "pText": "This monstrous\nmushroom prefers\ndank, dark places,\nsuch as the forest\nfloor. Be careful\nwhen striking it,\nfor its Spore\nattack may cause\nanother myconid to\ngrow.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM015_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 90,
+      "pText": "This ghastly,\nmonstrous mushroom\nis purplish red.\nWhen hit with a\nphysical attack,\nit uses Chaos\nSpore to release\nconfusion-causing\nspores.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM015_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 91,
+      "pText": "A monstrous\nmushroom emitting\na faint glow in\nthe dark. When hit\nwith a physical\nattack, it uses\nHigh Voltage to\nattack and\nparalyze with\nlightning spores.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM015_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 92,
+      "pText": "Created when a\nspirit possesses a\ndead tree, this\nmonster uses\n<Lullaby> to put\nits foes to sleep\nand then slowly\nstabs them to\ndeath with its\npointy branches.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM037_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 93,
+      "pText": "This monstrous yet\nbewitching tree\nuses Sweet Scent\nto charm people.\nIt also has a\ncreepy ability\nknown as Moan,\nwhich lowers the\nphysical defense\nof its foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM037_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 94,
+      "pText": "A monstrous tree\nthat feeds on\nthose who get lost\nin the forest. It\nputs its foes to\nsleep with\n<Lullaby>, then\nuses R.I.P. to\nmake sure they\nnever wake up.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM037_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 95,
+      "pText": "This monster is a\ncorpse animated by\nsome dark power,\nbut its sluggish\nmovement keeps it\nfrom being a great\nthreat. Its Rake\nattack, however,\nshould not be\ntaken lightly.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM024_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 96,
+      "pText": "These former\npirates, who\nplundered across\nthe Sea of\nCorsairs, are now\nzombies with a\nDouble Damage axe\nattack that is as\npowerful as when\nthey still lived.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM024_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 97,
+      "pText": "These fallen\nsoldiers are now\nzombies that still\nuse Shield Bash,\nan attack they\ntrained hard for\nwhile alive. A\ndirect hit from it\nparalyzes the\nbody.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM024_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 98,
+      "pText": "Fallen soldiers\nfrom a long-lost\nland to the east\nthat have risen\nagain as zombies.\nTheir powerful\nRash Slash\nsacrifices their\nown defenses for\nextra damage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM024_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 99,
+      "pText": "This disembodied\nspirit of a dead\nman uses <Curse>\nto lower physical\nattack and\nphysical defense.\nIt’s best to\ndefeat it quickly\nbefore it can do\ntoo much damage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM006_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 100,
+      "pText": "This disembodied\nspirit of a dead\nman who held a\nterrible grudge\nuses fear to\nstrike dread into\nits foe and\n<Curse> to lower\nphysical attack\nand physical\ndefense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM006_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 101,
+      "pText": "An evil spirit\nthat tries to take\nover a human body\nby banishing its\nsoul. It uses\nDeath Clutch to\ncause the doom\nstate and <Curse>\nto lower physical\nattack and\nphysical defense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM006_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 102,
+      "pText": "These animated\nskeletons of\nancient knights\nuse Mass Attack to\nattack all at once\nand Flesh Flayer\nto instantly halve\na foe’s HP.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM021_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 103,
+      "pText": "An ancient\nspearman\nreanimated by a\ndark power. Keep\nan eye on your\nremaining HP, for\nits Bone Smash is\ndangerous if your\nHP is running low.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM022_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 104,
+      "pText": "An ancient archer\nreanimated by a\ndark power. While\nits attack does\nnot deal much\ndamage, watch out\nfor its Poisoned\nShot.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM023_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 105,
+      "pText": "Though dead, this\nskeleton of a\nveteran knight has\nnot stopped\nfighting. Its\nFlesh Cleaver\ntakes half of its\ntarget’s max HP.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM021_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 106,
+      "pText": "The skeleton of a\nspearman who\nserved a warlike\nnation in ancient\ntimes. It uses\n<Bone Crush> to\ndeal damage equal\nto max HP minus\ncurrent HP to all\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM022_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 107,
+      "pText": "The skeleton of an\narcher who served\na powerful nation\nthat once\nconquered half the\nworld long ago. It\nuses Triple Shot\nto strike a random\ntarget with three\narrows.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM023_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 108,
+      "pText": "This mischievous\nlittle demon uses\nblack magic to\ncause all sorts of\ntrouble. It is not\nmuch of a threat\nif it is prevented\nfrom using magic.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM002_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 109,
+      "pText": "This horse-faced\nlittle demon\nserves as a\nfamiliar of the\nEternian Forces.\nIt uses thundaga,\npowerful black\nmagic that can\ndamage all its\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM002_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 110,
+      "pText": "Said to be a\nbringer of bad\ndreams, this\nlittle demon uses\npowerful magic,\nsuch as graviga\nand aspir. It also\nlowers its foe’s\nphysical attack\nand physical\ndefense with\n<Curse>.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM002_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 111,
+      "pText": "Flying through the\nair on black\nwings, this\nalluring little\ndemon uses Entice\nto make victims do\nas she says, which\nis not always bad\nif you like that\nsort of thing.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM038_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 112,
+      "pText": "Eternian Forces\nuse this little\ndemon against its\nenemies. It uses\nTail Whip to charm\nits foes, though\nsome may find its\nbackside just as\nmesmerizing.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM038_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 113,
+      "pText": "This little female\ndemon has a nice\ntan and likes to\nuse aeroga. But of\nfar more interest\nis her Nocturnal\nGala, an alluring\nattack that charms\nall her foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM038_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 114,
+      "pText": "This mage of the\ndemon world sows\nchaos with a\nvariety of magic,\nincluding <Curse>\nto lower physical\nattack and\nphysical defense.\nAlso immobilizes\nfoes so that his\nallies can attack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM030_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 115,
+      "pText": "A master of\nadvanced magic,\nthis dark mage not\nonly aids his\nallies with blind\nand veilga, he\nuses comet to\ndirectly join the\nfray.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM030_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 116,
+      "pText": "As cruel as he is\nintelligent, this\narchmage of\ndarkness uses\nmeteor, the most\npowerful time\nmagic there is, to\nplunge the enemy’s\nentire party into\nconfusion.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM030_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 117,
+      "pText": "This warrior demon\nuses its brawny\nbody as a weapon\nand terrorizes its\nfoes with Wing\nSlice and Doom.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM032_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 118,
+      "pText": "The Eternian\nForces use this\npowerful demon for\nmelee combat. It\nalso uses fear to\nfill enemies with\ndread and Charming\nThrust to damage\nand charm them.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM032_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 119,
+      "pText": "The ultimate\ndemon, this fiend\npairs powerful\nmagic with epic\nstrength. He is a\nmaster of thundaga\nand can cause\ninstant death with\nCruel Thrust.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM032_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 120,
+      "pText": "A small dragon\nbred by the\nEternian Forces’\nMonstrous Weapons\nDivision. Its\n<Fireball> attack\npenetrates its\nfoe’s defenses.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM017_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 121,
+      "pText": "Further study has\nspawned an evolved\nd’gon with greater\nfirepower. Its\nFiery Breath can\nstrike all its\nfoes, and its\nresistance to fire\nhas been improved.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM017_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 122,
+      "pText": "This is the latest\nd’gon that the\nEternian Forces\nhave spawned to\ndefend Central\nCommand. It slays\nintruders with Icy\nBreath, a water\nattack that can\nstrike all its\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM017_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 123,
+      "pText": "Covered in a\ntough, armor-like\nhide, this sturdy\ndragon has high\nphysical defense\nin Default mode,\nand its Rush\nattack does twice\nthe damage as its\nstandard attack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM039_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 124,
+      "pText": "Named for its hard\nplates, this\ndragon has high\nphysical defense\nin Default mode.\nIts Double Rush\nhits twice,\ndelivering double\nthe damage as its\nstandard attack\neach time.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM039_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 125,
+      "pText": "A dragon with\narmor as sturdy as\na knight’s, and\nhigh physical\ndefense in Default\nmode. Its Rampage\ndoes twice the\ndamage as its\nstandard attack\nand strikes all\nits foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM039_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 126,
+      "pText": "A huge reptilian\ncreature with\nsharp fangs and\ngreat wings. It\nhas a Mow Down\nattack that uses\nits tail and an\nattack called\nBully, which\nattacks the lowest\nHP enemy.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 127,
+      "pText": "The Eternian\nForces created\nthis monstrous\nweapon by feeding\na special chemical\nagent to wild\ndragons. Its Toxic\nBreath damages and\npoisons all its\nfoes, and it\nsometimes comes\nback to life even after being slain.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A8",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 128,
+      "pText": "Said to spawn from\nblazing flames,\nthis dragon is the\nmaster of fire and\nuses Scorching Eye\nto boost all foes’\nvulnerability to\nfire, then\nincinerates them\nwith Fiery Breath.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 129,
+      "pText": "A dragon born of a\nviolent river,\nfilled with youth\nand pride. It\nboosts all foes’\nvulnerability to\nwater with\nFreezing Eye, then\nimmobilizes them\nwith Icy Breath.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 130,
+      "pText": "A winged dragon\nskilled at using\nthe forces of\nwind. It can boost\nall foes’ vulner-\nability to wind,\nthen use Stormy\nBreath to create\nan airless void to\nannihilate them.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 131,
+      "pText": "Spawned by the god\nof earth, this\ndragon uses Earth\nEye to boost all\nfoes’\nvulnerability to\nearth, then\nparalyzes them\nwith an earth\nshock wave from\nMegaton Press.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A5",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 132,
+      "pText": "Covered in shining\nscales, this\ncelestial dragon\nuses Celestial Eye\nto boost all foes’\nvulnerability to\nlight, then smites\nthem with the\nblinding light of\nHoly Breath.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A6",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 133,
+      "pText": "This dark dragon\nlives for the\ncarnage of battle.\nIt uses Evil Eye\nto boost all foes’\nvulnerability to\ndark, then strikes\ndread into them\nwith Fearsome\nBreath.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM517_A7",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 134,
+      "pText": "A strange\ngelatinous\ncreature that is\nnot much of a\nthreat itself, but\nits Acid attack is\ndangerous because\nit lowers physical\ndefense.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM007_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 135,
+      "pText": "This slime from\nvolcanic regions\nposes a greater\nthreat due to the\nuse of <Venom> and\nfira, particularly\nin groups. Deal\nwith them swiftly\nusing magic or\nother suitable\nmeans.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM007_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 136,
+      "pText": "A failed Eternian\nexperiment that\ndeveloped a will\nof its own. It\nuses the powerful\nblack magic dark\nto attack, and\nBlind to rob its\nfoes of their\nsight.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM007_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 137,
+      "pText": "Fire spirits have\ngathered to form\nthis strange\nsphere. It uses\nBook Burning to\nstrike all its\nfoes with fire,\nand it even has a\nchance to prevent\nmagic use.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 138,
+      "pText": "Water spirits have\ngathered to form\nthis strange\nsphere. Its\nblizzara is a\npowerful threat,\nso use a lightning\nattack to defeat\nit quickly.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 139,
+      "pText": "Wind spirits have\ngathered to form\nthis strange\nsphere. It uses\nthe aero magic\nattack along with\na recovery ability\nknown as <White\nWind>.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 140,
+      "pText": "Earth spirits have\ngathered to form\nthis strange\nsphere. It is\nnormally docile,\nbut attacks with\nquaga when\napproached. Boost\nearth resistance\nwhen coming near.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A4",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 141,
+      "pText": "Lightning spirits\nhave gathered to\nform this strange\nsphere. It is\nresistant to\nphysical attacks\nand uses the magic\nattack thunder.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A5",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 142,
+      "pText": "Light spirits have\ngathered to form\nthis strange\nsphere. It uses\nthe white magic\nattack holy and\ncan protect itself\nby blinding\nopponents with\nFlash.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A6",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 143,
+      "pText": "Dark spirits have\ngathered to form\nthis strange\nsphere. It uses\nthe black magic\nfear to fill its\nfoes with dread.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM035_A7",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 144,
+      "pText": "Once a statue for\nwarding evil, this\ncreature was\ntransformed into a\nliving, breathing\nmonster by some\ndark power. It can\nsupport its allies\nusing protect and\nsleep.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM009_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 145,
+      "pText": "Some dark power\nhas driven this\nancient defense\nsystem mad,\ncausing it to\nterrorize its foes\nwith fear and\nraise its allies’\nevasion with the\ntime magic veilga.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM009_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 146,
+      "pText": "Animated through\nthe prayers of the\nshadowy ones, this\nevil statue uses\ndoom, sleep, and\ndark to\nexterminate all\nwho oppose the\ndarkness.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM009_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 147,
+      "pText": "This gigantic\nhumanoid weapon is\nmade of clay and\nanimated by magic.\nCharacters with\nlow physical\ndefense beware,\nfor its Megaton\nPunch can prove\nfatal, though it\nis not very accurate.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM011_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 148,
+      "pText": "Imbued with fire,\nthis new type of\ngolem has enhanced\ncombat abilities,\nincluding Red Hot\nto counter\nphysical attacks\nand Flaming Blow\nto hit individual\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM011_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 149,
+      "pText": "The Eternian\nForces have\ndeployed this new\ngolem to defend\nCentral Command.\nIt stops intruders\nwith Freezing\nPunch and wipes\nthem out with\n<Blizzard Blast>.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM011_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 150,
+      "pText": "Developed by the\nEternian Forces,\nthis mechanical\nsoldier uses\nRocket Punch to\nstrike all its\nfoes, Limiter\nRescission to\nraise physical\nattack, and\nSelf-Repair to recover HP.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM515_A1",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 151,
+      "pText": "A new mechanical\nsoldier guarding\nEternia’s Central\nCommand. It\nretains Rocket\nPunch and Limiter\nRescission, and\nadds Optical\nCamouflage to\nboost evasion.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM515_A2",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 152,
+      "pText": "This defender of\ndarkness is\nmodeled after\nEternia’s\nmechanical\nsoldiers. It has\nthe features of\nthe Eternian\nversions along\nwith a new one\ncalled Overclocking, which accelerates its movement.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/EM515_A3",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 153,
+      "pText": "This brawny bearer\nof the monk’s\nasterisk uses\nInvigorate to\nraise his own\nphysical attack,\nbut when\ndesperate, he will\nexplode in a rage\nthat damages both\nfriends and foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS04",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 154,
+      "pText": "This sexy,\nsadistic bearer of\nthe white mage’s\nasterisk uses a\nvariety of white\nmagic such as\ncure, protect, and\naero. I wish I\ncould have met\nher…",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS03",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 155,
+      "pText": "This petulant pyro\nand bearer of the\nblack mage’s\nasterisk is a\nmaster of fire,\nbut has other\nmagic as\nunpleasant as he\nis, including\nsleep, poison, and\nsilence.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS02",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 156,
+      "pText": "This wily bearer\nof the knight’s\nasterisk and\nmaster of sword\nand shield knows\nwhen to attack and\nwhen to defend,\nusing just the\nright ability each\ntime.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS01",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 157,
+      "pText": "This cocky bearer\nof the thief’s\nasterisk will\nsteal your items\nand use them\nagainst you. His\nhigh speed and\nevasion make for a\nbitter battle for\nthe heavily\narmored.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS21",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 158,
+      "pText": "Watch out for this\ngreedy bearer of\nthe merchant’s\nasterisk. He uses\nTakeover to deal\ndamage equal to\nthe money he\nspends, ignoring\nDefault and\ndefenses.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS22",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 159,
+      "pText": "This taciturn\nbearer of the\nspell fencer’s\nasterisk uses\nSword Magic Fire\nto enhance his\nblade and\nSword Magic Silence\nto prevent foes\nfrom using magic.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS08",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 160,
+      "pText": "This pompous\nbearer of the time\nmage’s asterisk\nuses the time\nmagic Stop to\ntorment enemies.\nHe can also raise\nhis evasion with\nveilga and attack\nwith quara.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS07",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 161,
+      "pText": "This feral bearer\nof the ranger’s\nasterisk uses\nTargeting to zero\nin on her prey,\nbut when she gets\nworked up, she\nwill unleash a\nfrenzied attack\ncalled Multiburst.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS05",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 162,
+      "pText": "This cruel,\ntwisted bearer of\nthe summoner’s\nasterisk uses\nGirtablulu, which\nunleashes a\npowerful earth\nattack that hits\nall foes, but has\na high cost\nbarring repeated use.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS15",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 163,
+      "pText": "This noble bearer\nof the valkyrie’s\nasterisk is a\nmaster of the\nspear. She is\nadept at\nsurprising foes\nwith Jump and\nattacking all\nenemies with\nCrescent Moon.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS17",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 164,
+      "pText": "This philandering\nbearer of the red\nmage’s asterisk\ngets more BP when\nsuffering damage.\nHe boasts a wide\nvariety of moves,\nsuch as\nCaptivating\nCologne, which\ncharms his foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS20",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 165,
+      "pText": "This mad bearer of\nthe salve-maker’s\nasterisk uses Dark\nBreath, a\nterrifying attack\nborn of his\ncompounding\nskills. The less\nHP he has, the\nmore damage it\nwill deal.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS19",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 166,
+      "pText": "This bubbly bearer\nof the performer’s\nasterisk is a\nteamwork pro. She\nuses her singing\nto dramatically\nraise her allies’\nphysical attack\nand increase BP,\nthen attack en\nmasse.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS23",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 167,
+      "pText": "This hearty bearer\nof the pirate’s\nasterisk is a\nmaster of reducing\nenemy stats. He\nuses Shell Split\nto lower physical\ndefense and Defang\nto lower physical\nattack.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS10",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 168,
+      "pText": "This bearer of the\nninja’s asterisk\ntoys with her foes\nusing Utsusemi,\nwhich evades\nphysical attacks,\nand Transience,\nwhich lets her\ncounter after\nevading.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS06",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 169,
+      "pText": "This chivalrous\nbearer of the\nswordmaster’s\nasterisk is a\nmaster of\ncounterattacks.\nHis abilities\ninclude Before\nSwine, in which he\nstrikes back after\na magic attack,\nand Know Thine Enemy, a powerful counter to an attack from the foe he selects.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS09",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 170,
+      "pText": "This psychopathic\nbearer of the\narcanist’s\nasterisk has black\nmagic so powerful\nit’s inhuman. She\nuses poison\ntogether with\nExterminate, which\ndamages poisoned\nfoes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS14",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 171,
+      "pText": "This scholarly\nbearer of the\nspiritmaster’s\nasterisk is a\nmaster of healing\nand support. He\nuses Fairy’s Aid\nto enhance\nelemental attacks\nas well as\npowerful white\nmagic including curada and holy.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS18",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 172,
+      "pText": "This stoic bearer\nof the templar’s\nasterisk is a\nseasoned champion\nof attack and\ndefense. He uses\nDefault Guard to\nheighten his\ndefenses in\nDefault mode and a\nvariety of attack\nskills to do serious damage.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS12",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 173,
+      "pText": "This bearer of the\ndark knight’s\nasterisk\nsacrifices his own\nHP in return for\nthe highest\nphysical damage of\nthe Eternian\nForces. His Minus\nStrike, which\nbecomes more\npowerful when he is in trouble, is also a threat.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS11",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 174,
+      "pText": "This ancient\nbearer of the\nvampire’s asterisk\nuses powerful\nabilities from\nmonsters, such as\n<Energy Burst> and\n<Bone Crush>, to\nmake himself seem\nmore vampire-like.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS13",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 175,
+      "pText": "This wise bearer\nof the conjurer’s\nasterisk is\npowerful beyond\nbelief with his\nAmped Strike or\nmeteor after he\nraises his own\nphysical attack\nwith Invocation.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/JBS16",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 176,
+      "pText": "Airy’s hideous\nlarva-like form\nuses Slaughter, an\nattack with her\ncountless limbs\nthat has slain\ncountless warriors\nof light.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS06",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 177,
+      "pText": "Airy’s odious,\npupa-like form\nuses powerful\nattack magic along\nwith acedia, which\nhas a dispel\neffect on all her\nfoes and leaves\nthem vulnerable to\nall elements.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS07",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 178,
+      "pText": "Airy’s final form\nuses the ultimate\nfire attack magic\nZeta Flare to\nincinerate her\nfoes and the\ndeadly Plague\nability to\ninstantly slay\nthose with status\nailments.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS08",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 179,
+      "pText": "This legendary\nbeast has one head\nwith the power of\n<Hellfire> and\nanother with the\npower of <Deep\nFreeze>, but its\nbiggest threat is\nBlazzard from both\nheads.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS02",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 180,
+      "pText": "Said to be born of\nthe gathered\nmalice of women\nwho have died by\ndrowning, this\nenchantress uses\n<Aqua Regia> to\nlower the physical\ndefense of her\nfoes. Able to\ntransform at will,\nshe will sometimes hide in the ground or create mirror images of herself.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS03",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 181,
+      "pText": "This ghastly\nmonster seeks to\nsuck up everything\nin its path. Its\ndefenses are\nrock-solid while\nits eye is closed.\nBut when it opens,\nwatch out for its\n<Energy Burst>,\nwhich does major\ndamage to all its foes.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS04",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 182,
+      "pText": "This undead mage\nof the race of\ngiants uses\nNegative Power\neach turn to raise\nhis physical\nattack and magic\nattack before\nunleashing his\nmighty fists and\npowerful magic.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS05",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 183,
+      "pText": "The dark god of\ndestruction walks\namong mortals in\nhuman form and can\nimitate the\nabilities of the\nfoes he faces.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS09",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 184,
+      "pText": "On the brink of\ninvading the\nCelestial Realm,\nthe dark god of\ndestruction has\nfinally appeared\nin his true form.\nHe uses Divergence\nto separate his\nfoe from this\nworld, but it is\npossible to weather the threat with aid from other worlds.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS10",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 185,
+      "pText": "The manifestation\nof gluttony, one\nof the seven great\nsins. Once a god\nof fertile soils,\nhe was scorned and\nlabeled as one of\nthe most terrible\nof all fiends,\nruler of demons\nand the demon\nworld, when a foreign faith supplanted the native creed.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS11",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 186,
+      "pText": "The manifestation\nof pride, one of\nthe seven great\nsins. A fallen\nangel whose name\nmeans “bringer of\nlight.” He was\nonce leader of all\nangels, but was\nexiled from the\nheavens after\nopposing his lord. He eventually became the leader of demons.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS12",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 187,
+      "pText": "The manifestation\nof wrath, one of\nthe seven great\nsins. Once a great\nangel who led\nother angels in\nservice to the\nlord creator, he\nwould later defy\nhis lord and\nformed a\nrebellious army of like-minded angels.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS13",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 188,
+      "pText": "The manifestation\nof lust, one of\nthe seven great\nsins. Mentioned in\nthe records of the\nOld Faith, he is\nhonored among the\ndemons of the\neast, ranked\nthirty-second\namong all fiends,\nand leads an army of seventy-two divisions.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS14",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 189,
+      "pText": "The manifestation\nof avarice, one of\nthe seven great\nsins. The name\nonce simply meant\nwealth or riches,\nbut over the\ncourse of time the\nidea was\npersonified as\nMammon, and\neventually she became one of the seven lords of hell.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS16",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 190,
+      "pText": "The manifestation\nof sloth, one of\nthe seven great\nsins. Originally\nhe was an ancient\ngod, worshipped in\nthe times before\nthe Old Faith.\nWith the rise of\nCrystal Adventism,\nhe came to be\nregarded as a demon.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS17",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 191,
+      "pText": "The manifestation\nof envy, one of\nthe seven great\nsins. Once the\nname of a monster\nthat lived in the\nocean depths,\npeople began to\nview him as a\ndemon and ally of\nSatan, and thus he\nsecured his place as grand admiral of the demon navies.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS15",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 192,
+      "pText": "A mad bird wearing\nthe white veil of\na bride. Its\ninsides are\ndecorated with\nbeads and shiny\nobjects. It has no\nmuscles or flesh,\nand chains are\nwrapped around its\nfeet. What does it\nall mean?",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS23",
+      "pTextName": "D_Enemy"
+    },
+    {
+      "index": 193,
+      "pText": "A giant red fish,\nwith glittering\neyes and rows of\nsharp teeth. Its\ninsides are filled\nwith toy\ngemstones, and it\nmunches on\n“comets” that swim\naround it.",
+      "pArcPath": "Graphics/UI/Common/D_Report/D_Enemy/NBS21",
+      "pTextName": "D_Enemy"
+    }
+  ]
+}

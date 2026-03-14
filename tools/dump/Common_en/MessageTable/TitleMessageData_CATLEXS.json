@@ -1,0 +1,927 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 16306,
+    "data_one_size": 8,
+    "data_num": 229,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 11,
+      "pMessage": "データがサーバに存在します。\nこのデータを引き継ぎますか？"
+    },
+    {
+      "id": 12,
+      "pMessage": "はい"
+    },
+    {
+      "id": 13,
+      "pMessage": "いいえ"
+    },
+    {
+      "id": 14,
+      "pMessage": "Ｍｉｉネーム\nプレイ時間\n進行度"
+    },
+    {
+      "id": 15,
+      "pMessage": "データが最新ではない場合、前作を起動し、\nタイトルの「メンバーズ」からアップロードしてください。"
+    },
+    {
+      "id": 16,
+      "pMessage": "データを引き継がずに、次へ進みます。"
+    },
+    {
+      "id": 17,
+      "pMessage": "アップロードされた前作の\nセーブデータはありませんでした。"
+    },
+    {
+      "id": 18,
+      "pMessage": "セーブしました。"
+    },
+    {
+      "id": 19,
+      "pMessage": "セーブに失敗しました。"
+    },
+    {
+      "id": 20,
+      "pMessage": "システムデータをセーブしています。\n電源を切ったり、カードを\n抜き差ししないでください。"
+    },
+    {
+      "id": 50,
+      "pMessage": "We’d like to give you a gift\nfor playing the demo version!\n\nWill you accept it?"
+    },
+    {
+      "id": 51,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 52,
+      "pMessage": "No"
+    },
+    {
+      "id": 53,
+      "pMessage": "%ls received!"
+    },
+    {
+      "id": 54,
+      "pMessage": "%d villager(s) have come to help rebuild\nNorende Village!"
+    },
+    {
+      "id": 55,
+      "pMessage": "Friend information transferred!"
+    },
+    {
+      "id": 56,
+      "pMessage": "We hope you enjoy the gift,\nand now, of course, the game itself!"
+    },
+    {
+      "id": 57,
+      "pMessage": "Demo version save data not found. Please check\nto see if save data has been created correctly."
+    },
+    {
+      "id": 58,
+      "pMessage": "Demo version save data not recognized."
+    },
+    {
+      "id": 60,
+      "pMessage": "Caldislan Recovery Set"
+    },
+    {
+      "id": 61,
+      "pMessage": "Caldislan White Mage’s Set"
+    },
+    {
+      "id": 62,
+      "pMessage": "Caldislan Black Mage’s Set"
+    },
+    {
+      "id": 63,
+      "pMessage": "Caldislan Soldier’s Set"
+    },
+    {
+      "id": 64,
+      "pMessage": "Caldislan Knight’s Set"
+    },
+    {
+      "id": 65,
+      "pMessage": "Caldislan Adventurer’s Set"
+    },
+    {
+      "id": 66,
+      "pMessage": "Caldislan Relief Set"
+    },
+    {
+      "id": 200,
+      "pMessage": "Select the data to copy."
+    },
+    {
+      "id": 201,
+      "pMessage": "Select the slot to copy to."
+    },
+    {
+      "id": 202,
+      "pMessage": "<R>Save data already exists.</>\nDo you want to copy anyway?"
+    },
+    {
+      "id": 203,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 204,
+      "pMessage": "No"
+    },
+    {
+      "id": 205,
+      "pMessage": "Are you certain?"
+    },
+    {
+      "id": 206,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 207,
+      "pMessage": "No"
+    },
+    {
+      "id": 208,
+      "pMessage": "Copying data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 209,
+      "pMessage": "Data copied.\nReturning to the title screen."
+    },
+    {
+      "id": 210,
+      "pMessage": "Failed to copy data.\nReturning to the title screen."
+    },
+    {
+      "id": 250,
+      "pMessage": "Saving extra data to SD Card.\nThis data will be used with upcoming\ngames in the series, and cannot be\nused with this game."
+    },
+    {
+      "id": 251,
+      "pMessage": "Save extra data to the SD Card?"
+    },
+    {
+      "id": 252,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 253,
+      "pMessage": "No"
+    },
+    {
+      "id": 254,
+      "pMessage": "Copying data to SD Card.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 255,
+      "pMessage": "Data copied.\nReturning to the title screen."
+    },
+    {
+      "id": 256,
+      "pMessage": "Not enough free space on the SD Card.\nAt least %d KB of free space are\nrequired to save extra data."
+    },
+    {
+      "id": 257,
+      "pMessage": "The extra data on the SD Card is\ncorrupted. Re-save it now?"
+    },
+    {
+      "id": 258,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 259,
+      "pMessage": "No"
+    },
+    {
+      "id": 260,
+      "pMessage": "Could not recognize SD Card."
+    },
+    {
+      "id": 261,
+      "pMessage": "There is no extra data.\nDo you want to create extra data?"
+    },
+    {
+      "id": 262,
+      "pMessage": "There is other extra data.\nIt will all be deleted to create\na new save. Continue?"
+    },
+    {
+      "id": 300,
+      "pMessage": "Select the data to delete."
+    },
+    {
+      "id": 301,
+      "pMessage": "Are you sure you want to delete\nsave and related system data\nand reset to default values?\n(SP and SP Drinks will be lost as well.)"
+    },
+    {
+      "id": 302,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 303,
+      "pMessage": "No"
+    },
+    {
+      "id": 304,
+      "pMessage": "Are you sure you want to\ndelete this save data?"
+    },
+    {
+      "id": 305,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 306,
+      "pMessage": "No"
+    },
+    {
+      "id": 307,
+      "pMessage": "Are you certain?"
+    },
+    {
+      "id": 308,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 309,
+      "pMessage": "No"
+    },
+    {
+      "id": 310,
+      "pMessage": "Deleting data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 311,
+      "pMessage": "Data deleted.\nReturning to the title screen."
+    },
+    {
+      "id": 312,
+      "pMessage": "Failed to delete data.\nReturning to the title screen."
+    },
+    {
+      "id": 400,
+      "pMessage": "こちらからスクエニメンバーズサービスの\n利用登録をすることができます。\nご褒美アイテム\nお助けアイテム\nなど、特典がいっぱい！\n期間限定のイベントも開催しているよ\n\n詳しくはこちら\nスクエア・エニックスメンバーズサイト\nhttp://member.square-enix.com"
+    },
+    {
+      "id": 401,
+      "pMessage": "あなたのブレイブリーコード"
+    },
+    {
+      "id": 402,
+      "pMessage": "スクエニメンバーズサイトにて\nこちらをご登録ください"
+    },
+    {
+      "id": 403,
+      "pMessage": "スクエニメンバーズサービスの利用登録をします"
+    },
+    {
+      "id": 404,
+      "pMessage": "すでにメンバーズ登録済みです。"
+    },
+    {
+      "id": 500,
+      "pMessage": "Select the data to transfer over."
+    },
+    {
+      "id": 550,
+      "pMessage": "Select a difficulty."
+    },
+    {
+      "id": 551,
+      "pMessage": "Easy"
+    },
+    {
+      "id": 552,
+      "pMessage": "Normal"
+    },
+    {
+      "id": 553,
+      "pMessage": "Hard"
+    },
+    {
+      "id": 554,
+      "pMessage": "Enemies are weaker.\nChoose this if you want to focus on\nenjoying the story.\n\nYou can change the settings in game\nfrom the Config screen as well."
+    },
+    {
+      "id": 555,
+      "pMessage": "Standard difficulty.\nRecommended for all but the most\nhardcore players!\n\nYou can change the settings in game\nfrom the Config screen as well."
+    },
+    {
+      "id": 556,
+      "pMessage": "Enemies are stronger.\nFor those who need an extra challenge.\n\nYou can change the settings in game\nfrom the Config screen as well."
+    },
+    {
+      "id": 560,
+      "pMessage": "Do you want to autosave?"
+    },
+    {
+      "id": 561,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 562,
+      "pMessage": "No"
+    },
+    {
+      "id": 563,
+      "pMessage": "Save data will be overwritten\nautomatically when you enter or\nexit cities and dungeons, when\nyou move between dungeon\nfloors, etc. This option is\nrecommended to avoid losing\nyour progress.\n*You can change the settings from\nthe Config screen after starting."
+    },
+    {
+      "id": 564,
+      "pMessage": "You will need to save manually.\n\nYou can change the settings from\nthe Config screen after starting."
+    },
+    {
+      "id": 570,
+      "pMessage": "Do you want to create save data\nusing the following settings?\n  Difficulty [%ls]\n  Autosave [%ls]"
+    },
+    {
+      "id": 571,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 572,
+      "pMessage": "No"
+    },
+    {
+      "id": 573,
+      "pMessage": "To make changes, return to the previous\nscreen and select again. You can also\nchange the settings from the Config\nscreen after starting."
+    },
+    {
+      "id": 580,
+      "pMessage": "Select a slot to save to."
+    },
+    {
+      "id": 581,
+      "pMessage": "<R>Save data already exists.</>\nDo you want to overwrite it?"
+    },
+    {
+      "id": 582,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 583,
+      "pMessage": "No"
+    },
+    {
+      "id": 584,
+      "pMessage": "Are you certain?"
+    },
+    {
+      "id": 585,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 586,
+      "pMessage": "No"
+    },
+    {
+      "id": 590,
+      "pMessage": "Saving.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 600,
+      "pMessage": "When you update data from the Save Menu in the\ngame, backup data is saved to the server.\nYou can restore your save data from this server\nbackup as long as all three save data slots are\nempty."
+    },
+    {
+      "id": 601,
+      "pMessage": "Download backup data?"
+    },
+    {
+      "id": 602,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 603,
+      "pMessage": "No"
+    },
+    {
+      "id": 604,
+      "pMessage": "There is no backup data on the server."
+    },
+    {
+      "id": 605,
+      "pMessage": "Backup data downloaded.\nSelect the slot to restore it to."
+    },
+    {
+      "id": 606,
+      "pMessage": "Cannot restore, as save data already exists."
+    },
+    {
+      "id": 607,
+      "pMessage": "Back"
+    },
+    {
+      "id": 608,
+      "pMessage": "Restoring data.\nDo not turn off the power or\nremove the card."
+    },
+    {
+      "id": 609,
+      "pMessage": "Data restored.\nReturning to the title screen."
+    },
+    {
+      "id": 610,
+      "pMessage": "Return to the title screen without\nrestoring data?"
+    },
+    {
+      "id": 611,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 612,
+      "pMessage": "No"
+    },
+    {
+      "id": 613,
+      "pMessage": "Failed to restore data.\nReturning to the title screen."
+    },
+    {
+      "id": 1000,
+      "pMessage": "Intro"
+    },
+    {
+      "id": 1001,
+      "pMessage": "Ch. 1"
+    },
+    {
+      "id": 1002,
+      "pMessage": "Ch. 2"
+    },
+    {
+      "id": 1003,
+      "pMessage": "Ch. 3"
+    },
+    {
+      "id": 1004,
+      "pMessage": "Ch. 4"
+    },
+    {
+      "id": 1005,
+      "pMessage": "Ch. 5"
+    },
+    {
+      "id": 1006,
+      "pMessage": "Ch. 6"
+    },
+    {
+      "id": 1007,
+      "pMessage": "Ch. 7"
+    },
+    {
+      "id": 1008,
+      "pMessage": "Ch. 8"
+    },
+    {
+      "id": 1009,
+      "pMessage": "The End"
+    },
+    {
+      "id": 1010,
+      "pMessage": "Finale"
+    },
+    {
+      "id": 2000,
+      "pMessage": "This game uses the gyro sensor.\nPlace the Nintendo 3DS system on a level surface,\nand leave it there for a while.\n\nBe careful to avoid hitting things or people around\nyou when playing."
+    },
+    {
+      "id": 2001,
+      "pMessage": "The gyro sensor is ready.\nPick up the Nintendo 3DS system with the 3D Screen\nfacing forward."
+    },
+    {
+      "id": 2002,
+      "pMessage": "Playback"
+    },
+    {
+      "id": 3000,
+      "pMessage": "Creating system and game data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 3001,
+      "pMessage": "Failed to create data."
+    },
+    {
+      "id": 3002,
+      "pMessage": "Created data."
+    },
+    {
+      "id": 3003,
+      "pMessage": "Failed to create data.\nReturning to the title screen."
+    },
+    {
+      "id": 3004,
+      "pMessage": "The save data is corrupted.\nReturn to the title screen\nand delete the data."
+    },
+    {
+      "id": 4000,
+      "pMessage": "Character Name"
+    },
+    {
+      "id": 4001,
+      "pMessage": "Level"
+    },
+    {
+      "id": 4002,
+      "pMessage": "Job"
+    },
+    {
+      "id": 4003,
+      "pMessage": "Job Level"
+    },
+    {
+      "id": 4004,
+      "pMessage": "Funds"
+    },
+    {
+      "id": 4005,
+      "pMessage": "Items"
+    },
+    {
+      "id": 4006,
+      "pMessage": "Genome Abilities"
+    },
+    {
+      "id": 4007,
+      "pMessage": "Norende Village Population"
+    },
+    {
+      "id": 4008,
+      "pMessage": "Norende Village Status"
+    },
+    {
+      "id": 4009,
+      "pMessage": "D’s Journal"
+    },
+    {
+      "id": 4010,
+      "pMessage": "Special Moves"
+    },
+    {
+      "id": 4011,
+      "pMessage": "Play Time"
+    },
+    {
+      "id": 4012,
+      "pMessage": "Friends"
+    },
+    {
+      "id": 4013,
+      "pMessage": "Guests"
+    },
+    {
+      "id": 4014,
+      "pMessage": "OK"
+    },
+    {
+      "id": 4015,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 4050,
+      "pMessage": "Changed character name."
+    },
+    {
+      "id": 4051,
+      "pMessage": "Level data.\nIncludes total experience acquired."
+    },
+    {
+      "id": 4052,
+      "pMessage": "Data for the jobs acquired."
+    },
+    {
+      "id": 4053,
+      "pMessage": "Job level data.\nIncludes data for support abilities\nand total job points acquired."
+    },
+    {
+      "id": 4054,
+      "pMessage": "Data for funds acquired."
+    },
+    {
+      "id": 4055,
+      "pMessage": "Item data.\nIncludes the magic scrolls acquired.\nDoes not include key items."
+    },
+    {
+      "id": 4056,
+      "pMessage": "Data for the genome abilities\nacquired."
+    },
+    {
+      "id": 4057,
+      "pMessage": "Population data for Norende Village."
+    },
+    {
+      "id": 4058,
+      "pMessage": "The status of the reconstruction of\nNorende Village."
+    },
+    {
+      "id": 4059,
+      "pMessage": "All data for D’s Journal that has been\nrevealed.\n*Scenes revealed in the Event\nViewer are transferred either way."
+    },
+    {
+      "id": 4060,
+      "pMessage": "Special move data.\nIncludes special move parts, names, and\nset status."
+    },
+    {
+      "id": 4061,
+      "pMessage": "The total amount of time played."
+    },
+    {
+      "id": 4062,
+      "pMessage": "Data for friends added."
+    },
+    {
+      "id": 4063,
+      "pMessage": "Data for guests."
+    },
+    {
+      "id": 4064,
+      "pMessage": "Continue to the next screen using\nthe selected details."
+    },
+    {
+      "id": 4065,
+      "pMessage": "Continue to the next screen without transferring data."
+    },
+    {
+      "id": 5000,
+      "pMessage": "New Game"
+    },
+    {
+      "id": 5001,
+      "pMessage": "Start Game"
+    },
+    {
+      "id": 5002,
+      "pMessage": "AR Movie"
+    },
+    {
+      "id": 5003,
+      "pMessage": "New Game+"
+    },
+    {
+      "id": 5004,
+      "pMessage": "Special Movie"
+    },
+    {
+      "id": 5005,
+      "pMessage": "Copy"
+    },
+    {
+      "id": 5006,
+      "pMessage": "Delete"
+    },
+    {
+      "id": 5007,
+      "pMessage": "© 2012 SQUARE ENIX CO., LTD. All rights reserved."
+    },
+    {
+      "id": 5008,
+      "pMessage": "Restore"
+    },
+    {
+      "id": 5009,
+      "pMessage": "Send"
+    },
+    {
+      "id": 5010,
+      "pMessage": "Clear All"
+    },
+    {
+      "id": 5011,
+      "pMessage": "Press Any Button"
+    },
+    {
+      "id": 5012,
+      "pMessage": "Load Game"
+    },
+    {
+      "id": 5013,
+      "pMessage": "Gallery"
+    },
+    {
+      "id": 5014,
+      "pMessage": "Config"
+    },
+    {
+      "id": 5015,
+      "pMessage": "Quit Game"
+    },
+    {
+      "id": 5016,
+      "pMessage": "AUTO"
+    },
+    {
+      "id": 5017,
+      "pMessage": "Load your current story progress."
+    },
+    {
+      "id": 5018,
+      "pMessage": "No Data"
+    },
+    {
+      "id": 5019,
+      "pMessage": "Character Movies"
+    },
+    {
+      "id": 5020,
+      "pMessage": "Figures"
+    },
+    {
+      "id": 5021,
+      "pMessage": "Art"
+    },
+    {
+      "id": 5022,
+      "pMessage": "Soundtrack"
+    },
+    {
+      "id": 5023,
+      "pMessage": "View game-related bonus content."
+    },
+    {
+      "id": 5024,
+      "pMessage": ""
+    },
+    {
+      "id": 5025,
+      "pMessage": "Adjust the brightness until you can see the image clearly."
+    },
+    {
+      "id": 5026,
+      "pMessage": "Restore Defaults"
+    },
+    {
+      "id": 5027,
+      "pMessage": "Apply"
+    },
+    {
+      "id": 5028,
+      "pMessage": "End"
+    },
+    {
+      "id": 5029,
+      "pMessage": "Change the text language."
+    },
+    {
+      "id": 5030,
+      "pMessage": "Change the audio language."
+    },
+    {
+      "id": 5031,
+      "pMessage": "Adjust the brightness with the slider."
+    },
+    {
+      "id": 5032,
+      "pMessage": "Reset config settings."
+    },
+    {
+      "id": 5033,
+      "pMessage": "Your changes have not been applied.\nDiscard changes?"
+    },
+    {
+      "id": 5034,
+      "pMessage": "Load Menu"
+    },
+    {
+      "id": 5035,
+      "pMessage": "Load failed."
+    },
+    {
+      "id": 5036,
+      "pMessage": "Set"
+    },
+    {
+      "id": 5037,
+      "pMessage": "Confirm and Continue"
+    },
+    {
+      "id": 5038,
+      "pMessage": "New Game+"
+    },
+    {
+      "id": 5039,
+      "pMessage": "Default settings"
+    },
+    {
+      "id": 5040,
+      "pMessage": "Save Menu"
+    },
+    {
+      "id": 5041,
+      "pMessage": "Save your current story progress."
+    },
+    {
+      "id": 5042,
+      "pMessage": "Set data.\nBe aware that items and support abilities\nnot in your possession cannot be set."
+    },
+    {
+      "id": 5043,
+      "pMessage": "AUTO data.\nIncludes tactic names."
+    },
+    {
+      "id": 5044,
+      "pMessage": "Agnès’s Opening Movie"
+    },
+    {
+      "id": 5045,
+      "pMessage": "(Completion Bonus) Tiz’s AR Movie"
+    },
+    {
+      "id": 5046,
+      "pMessage": "(Completion Bonus) Agnès’s AR Movie"
+    },
+    {
+      "id": 5047,
+      "pMessage": "(Completion Bonus) Ringabel’s AR Movie"
+    },
+    {
+      "id": 5048,
+      "pMessage": "(Completion Bonus) Edea’s AR Movie"
+    },
+    {
+      "id": 5049,
+      "pMessage": "(Completion Bonus) Secret AR Movie"
+    },
+    {
+      "id": 5050,
+      "pMessage": "Move"
+    },
+    {
+      "id": 5051,
+      "pMessage": "Rotate"
+    },
+    {
+      "id": 5052,
+      "pMessage": "Action"
+    },
+    {
+      "id": 5053,
+      "pMessage": "Zoom Out"
+    },
+    {
+      "id": 5054,
+      "pMessage": "Zoom In"
+    },
+    {
+      "id": 5055,
+      "pMessage": "Hide Guide"
+    },
+    {
+      "id": 5056,
+      "pMessage": "Show Guide"
+    },
+    {
+      "id": 5057,
+      "pMessage": "Reset Camera"
+    },
+    {
+      "id": 5058,
+      "pMessage": "Quit"
+    },
+    {
+      "id": 5059,
+      "pMessage": "View game-related bonus content. *Movies presented as in the original release."
+    },
+    {
+      "id": 5060,
+      "pMessage": "Special"
+    },
+    {
+      "id": 5061,
+      "pMessage": ""
+    },
+    {
+      "id": 5062,
+      "pMessage": "Game Corner"
+    },
+    {
+      "id": 5063,
+      "pMessage": "This game uses an autosave feature.\nDo not turn the power off while autosave is in progress,\nindicated by a save icon in the upper left of the screen."
+    },
+    {
+      "id": 5064,
+      "pMessage": "Dance"
+    },
+    {
+      "id": 5065,
+      "pMessage": "That of the Name"
+    },
+    {
+      "id": 5066,
+      "pMessage": "Love in the Crossfire! [Long Version]"
+    },
+    {
+      "id": 5067,
+      "pMessage": "?????"
+    },
+    {
+      "id": 5068,
+      "pMessage": "Skip"
+    },
+    {
+      "id": 5069,
+      "pMessage": "Select a story to carry over."
+    },
+    {
+      "id": 5100,
+      "pMessage": "Press Any Key"
+    }
+  ]
+}

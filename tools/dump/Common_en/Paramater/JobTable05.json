@@ -1,0 +1,305 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1000,
+    "data_one_size": 68,
+    "data_num": 14,
+    "ints_per_record": 17
+  },
+  "records": [
+    {
+      "LV": 1,
+      "TARGET_EXP": 0,
+      "DIFF_EXP": 0,
+      "CR": 3,
+      "RATE_HP": 100,
+      "RATE_MP": 100,
+      "RATE_STR": 120,
+      "RATE_VIT": 100,
+      "RATE_INT": 80,
+      "RATE_MND": 80,
+      "RATE_AGI": 120,
+      "RATE_DEX": 120,
+      "TRA": 1203,
+      "ABI": [
+        18,
+        0,
+        0
+      ],
+      "CMD": 2019
+    },
+    {
+      "LV": 2,
+      "TARGET_EXP": 30,
+      "DIFF_EXP": 30,
+      "CR": 3,
+      "RATE_HP": 101,
+      "RATE_MP": 101,
+      "RATE_STR": 121,
+      "RATE_VIT": 101,
+      "RATE_INT": 81,
+      "RATE_MND": 81,
+      "RATE_AGI": 121,
+      "RATE_DEX": 121,
+      "TRA": 0,
+      "ABI": [
+        202,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 3,
+      "TARGET_EXP": 100,
+      "DIFF_EXP": 70,
+      "CR": 3,
+      "RATE_HP": 102,
+      "RATE_MP": 102,
+      "RATE_STR": 122,
+      "RATE_VIT": 102,
+      "RATE_INT": 82,
+      "RATE_MND": 82,
+      "RATE_AGI": 122,
+      "RATE_DEX": 122,
+      "TRA": 0,
+      "ABI": [
+        203,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 4,
+      "TARGET_EXP": 250,
+      "DIFF_EXP": 150,
+      "CR": 3,
+      "RATE_HP": 103,
+      "RATE_MP": 103,
+      "RATE_STR": 123,
+      "RATE_VIT": 103,
+      "RATE_INT": 83,
+      "RATE_MND": 83,
+      "RATE_AGI": 123,
+      "RATE_DEX": 123,
+      "TRA": 0,
+      "ABI": [
+        204,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 5,
+      "TARGET_EXP": 450,
+      "DIFF_EXP": 200,
+      "CR": 3,
+      "RATE_HP": 104,
+      "RATE_MP": 104,
+      "RATE_STR": 124,
+      "RATE_VIT": 104,
+      "RATE_INT": 84,
+      "RATE_MND": 84,
+      "RATE_AGI": 124,
+      "RATE_DEX": 124,
+      "TRA": 0,
+      "ABI": [
+        1201,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 6,
+      "TARGET_EXP": 700,
+      "DIFF_EXP": 250,
+      "CR": 3,
+      "RATE_HP": 105,
+      "RATE_MP": 105,
+      "RATE_STR": 125,
+      "RATE_VIT": 105,
+      "RATE_INT": 85,
+      "RATE_MND": 85,
+      "RATE_AGI": 125,
+      "RATE_DEX": 125,
+      "TRA": 0,
+      "ABI": [
+        205,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 7,
+      "TARGET_EXP": 1100,
+      "DIFF_EXP": 400,
+      "CR": 3,
+      "RATE_HP": 106,
+      "RATE_MP": 106,
+      "RATE_STR": 126,
+      "RATE_VIT": 106,
+      "RATE_INT": 86,
+      "RATE_MND": 86,
+      "RATE_AGI": 126,
+      "RATE_DEX": 126,
+      "TRA": 0,
+      "ABI": [
+        206,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 8,
+      "TARGET_EXP": 1700,
+      "DIFF_EXP": 600,
+      "CR": 3,
+      "RATE_HP": 107,
+      "RATE_MP": 107,
+      "RATE_STR": 127,
+      "RATE_VIT": 107,
+      "RATE_INT": 87,
+      "RATE_MND": 87,
+      "RATE_AGI": 127,
+      "RATE_DEX": 127,
+      "TRA": 0,
+      "ABI": [
+        1202,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 9,
+      "TARGET_EXP": 2500,
+      "DIFF_EXP": 800,
+      "CR": 3,
+      "RATE_HP": 108,
+      "RATE_MP": 108,
+      "RATE_STR": 128,
+      "RATE_VIT": 108,
+      "RATE_INT": 88,
+      "RATE_MND": 88,
+      "RATE_AGI": 128,
+      "RATE_DEX": 128,
+      "TRA": 0,
+      "ABI": [
+        207,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 10,
+      "TARGET_EXP": 6000,
+      "DIFF_EXP": 3500,
+      "CR": 4,
+      "RATE_HP": 109,
+      "RATE_MP": 109,
+      "RATE_STR": 129,
+      "RATE_VIT": 109,
+      "RATE_INT": 89,
+      "RATE_MND": 89,
+      "RATE_AGI": 129,
+      "RATE_DEX": 129,
+      "TRA": 0,
+      "ABI": [
+        208,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 11,
+      "TARGET_EXP": 10000,
+      "DIFF_EXP": 4000,
+      "CR": 4,
+      "RATE_HP": 110,
+      "RATE_MP": 110,
+      "RATE_STR": 130,
+      "RATE_VIT": 110,
+      "RATE_INT": 90,
+      "RATE_MND": 90,
+      "RATE_AGI": 130,
+      "RATE_DEX": 130,
+      "TRA": 0,
+      "ABI": [
+        209,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 12,
+      "TARGET_EXP": 14000,
+      "DIFF_EXP": 4000,
+      "CR": 4,
+      "RATE_HP": 111,
+      "RATE_MP": 111,
+      "RATE_STR": 131,
+      "RATE_VIT": 111,
+      "RATE_INT": 91,
+      "RATE_MND": 91,
+      "RATE_AGI": 131,
+      "RATE_DEX": 131,
+      "TRA": 0,
+      "ABI": [
+        1203,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 13,
+      "TARGET_EXP": 19000,
+      "DIFF_EXP": 5000,
+      "CR": 4,
+      "RATE_HP": 112,
+      "RATE_MP": 112,
+      "RATE_STR": 132,
+      "RATE_VIT": 112,
+      "RATE_INT": 92,
+      "RATE_MND": 92,
+      "RATE_AGI": 132,
+      "RATE_DEX": 132,
+      "TRA": 0,
+      "ABI": [
+        1204,
+        0,
+        0
+      ],
+      "CMD": 0
+    },
+    {
+      "LV": 14,
+      "TARGET_EXP": 24000,
+      "DIFF_EXP": 5000,
+      "CR": 4,
+      "RATE_HP": 113,
+      "RATE_MP": 113,
+      "RATE_STR": 133,
+      "RATE_VIT": 113,
+      "RATE_INT": 93,
+      "RATE_MND": 93,
+      "RATE_AGI": 133,
+      "RATE_DEX": 133,
+      "TRA": 0,
+      "ABI": [
+        210,
+        0,
+        0
+      ],
+      "CMD": 0
+    }
+  ]
+}

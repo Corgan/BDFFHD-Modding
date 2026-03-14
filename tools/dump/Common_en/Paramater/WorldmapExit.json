@@ -1,0 +1,1871 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 6330,
+    "data_one_size": 32,
+    "data_num": 155,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "COLLISION_NUM": 257,
+      "CMPTABLE": [
+        3,
+        22,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0023",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 257,
+      "CMPTABLE": [
+        3,
+        59,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0059",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 257,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 258,
+      "CMPTABLE": [
+        3,
+        141,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0141",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 258,
+      "CMPTABLE": [
+        3,
+        247,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0249",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 259,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 260,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 261,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 262,
+      "CMPTABLE": [
+        3,
+        313,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0313",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 263,
+      "CMPTABLE": [
+        3,
+        352,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0352",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 264,
+      "CMPTABLE": [
+        2,
+        338,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 265,
+      "CMPTABLE": [
+        2,
+        338,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 266,
+      "CMPTABLE": [
+        2,
+        327,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 267,
+      "CMPTABLE": [
+        2,
+        320,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1366",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 268,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1369",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 269,
+      "CMPTABLE": [
+        2,
+        343,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1370",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 270,
+      "CMPTABLE": [
+        3,
+        404,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0404",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 271,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 272,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 273,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 274,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 275,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 276,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 277,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1259",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 278,
+      "CMPTABLE": [
+        3,
+        404,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 279,
+      "CMPTABLE": [
+        3,
+        410,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 280,
+      "CMPTABLE": [
+        3,
+        410,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4097,
+      "CMPTABLE": [
+        3,
+        101,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0101",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4098,
+      "CMPTABLE": [
+        3,
+        248,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0250",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4099,
+      "CMPTABLE": [
+        3,
+        301,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0301",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4100,
+      "CMPTABLE": [
+        3,
+        309,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0309",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4101,
+      "CMPTABLE": [
+        3,
+        445,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_1423",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4102,
+      "CMPTABLE": [
+        2,
+        369,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1148",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4103,
+      "CMPTABLE": [
+        2,
+        320,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1149",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4101,
+      "CMPTABLE": [
+        3,
+        526,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_1423",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4101,
+      "CMPTABLE": [
+        3,
+        627,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_1423",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4101,
+      "CMPTABLE": [
+        3,
+        707,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_1423",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 4101,
+      "CMPTABLE": [
+        3,
+        807,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_1423",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 12289,
+      "CMPTABLE": [
+        3,
+        402,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0402",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12290,
+      "CMPTABLE": [
+        2,
+        432,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1401",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12291,
+      "CMPTABLE": [
+        2,
+        442,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1401",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12289,
+      "CMPTABLE": [
+        3,
+        444,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0451",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 12290,
+      "CMPTABLE": [
+        3,
+        444,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0451",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 12291,
+      "CMPTABLE": [
+        3,
+        444,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0451",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 12292,
+      "CMPTABLE": [
+        3,
+        445,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0452",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12298,
+      "CMPTABLE": [
+        3,
+        401,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0401",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 12292,
+      "CMPTABLE": [
+        3,
+        526,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0522",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12292,
+      "CMPTABLE": [
+        3,
+        627,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0623",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12292,
+      "CMPTABLE": [
+        3,
+        707,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0703",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12292,
+      "CMPTABLE": [
+        3,
+        807,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0703",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 3,
+      "CMPTABLE": [
+        3,
+        34,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0034",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 5,
+      "CMPTABLE": [
+        3,
+        47,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0047",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 7,
+      "CMPTABLE": [
+        3,
+        103,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0103",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 7,
+      "CMPTABLE": [
+        3,
+        136,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0136",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 8,
+      "CMPTABLE": [
+        4,
+        109,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1101",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 8,
+      "CMPTABLE": [
+        3,
+        110,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0110",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        3,
+        116,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0116",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 10,
+      "CMPTABLE": [
+        2,
+        121,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1141",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 10,
+      "CMPTABLE": [
+        3,
+        121,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0121",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 13,
+      "CMPTABLE": [
+        2,
+        145,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1106",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 13,
+      "CMPTABLE": [
+        3,
+        145,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0145",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 15,
+      "CMPTABLE": [
+        3,
+        203,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0203",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 16,
+      "CMPTABLE": [
+        2,
+        207,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1144",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 16,
+      "CMPTABLE": [
+        3,
+        207,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0236",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 17,
+      "CMPTABLE": [
+        2,
+        218,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1143",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 17,
+      "CMPTABLE": [
+        3,
+        218,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0218",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        3,
+        219,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0219",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        3,
+        913,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0913",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 18,
+      "CMPTABLE": [
+        2,
+        218,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1142",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 18,
+      "CMPTABLE": [
+        3,
+        224,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0224",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 15,
+      "CMPTABLE": [
+        3,
+        225,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0225",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 22,
+      "CMPTABLE": [
+        2,
+        230,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_1147",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 22,
+      "CMPTABLE": [
+        3,
+        230,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0230",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 39,
+      "CMPTABLE": [
+        3,
+        303,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0303",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 24,
+      "CMPTABLE": [
+        3,
+        318,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0318",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 26,
+      "CMPTABLE": [
+        3,
+        320,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0320",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 24,
+      "CMPTABLE": [
+        3,
+        326,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0326",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 28,
+      "CMPTABLE": [
+        3,
+        327,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0327",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 24,
+      "CMPTABLE": [
+        3,
+        335,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0335",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 27,
+      "CMPTABLE": [
+        3,
+        338,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0338",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 29,
+      "CMPTABLE": [
+        3,
+        343,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0343",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 26,
+      "CMPTABLE": [
+        3,
+        348,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0348",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 27,
+      "CMPTABLE": [
+        3,
+        354,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0354",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 24,
+      "CMPTABLE": [
+        3,
+        369,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0367",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 26,
+      "CMPTABLE": [
+        3,
+        370,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0368",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 39,
+      "CMPTABLE": [
+        3,
+        381,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0380",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 30,
+      "CMPTABLE": [
+        3,
+        405,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0405",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 32,
+      "CMPTABLE": [
+        3,
+        410,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0410",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 34,
+      "CMPTABLE": [
+        3,
+        441,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0443",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        3,
+        513,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0511",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 10,
+      "CMPTABLE": [
+        3,
+        517,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0515",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        3,
+        618,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_SN_0615",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 10,
+      "CMPTABLE": [
+        3,
+        620,
+        0,
+        0
+      ],
+      "SCENE_NAME": "M_BU_0617",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 1,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1001_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 2,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1000_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 3,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 4,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1100_BASE",
+      "SCENE_ENTRANCE_NUM": 6,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 5,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1200_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 7,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 8,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1300_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 9,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1201_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 10,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1400_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 12,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1500_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 13,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1700_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 14,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1702_BASE",
+      "SCENE_ENTRANCE_NUM": 5,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 15,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1300_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 16,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1900_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 17,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1800_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 18,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND1802_BASE",
+      "SCENE_ENTRANCE_NUM": 5,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 19,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2000_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 20,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "EV1100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 21,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 22,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2200_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 23,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1500_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 24,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "EV1400_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 26,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1600_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 27,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2300_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 28,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2700_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 29,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1700_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 30,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1800_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 31,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1800_BASE",
+      "SCENE_ENTRANCE_NUM": 3,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 32,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2900_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 33,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2903_BASE",
+      "SCENE_ENTRANCE_NUM": 6,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 34,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND3000_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 35,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND2903_BASE",
+      "SCENE_ENTRANCE_NUM": 7,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 36,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND3000_BASE",
+      "SCENE_ENTRANCE_NUM": 16,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 37,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1900_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 38,
+      "CMPTABLE": [
+        2,
+        441,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND3100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 38,
+      "CMPTABLE": [
+        6,
+        441,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND3100_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 39,
+      "CMPTABLE": [
+        2,
+        393,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1400_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 39,
+      "CMPTABLE": [
+        6,
+        501,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1400_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 40,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "TW1500_BASE",
+      "SCENE_ENTRANCE_NUM": 2,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 41,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "EV1500_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 42,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "EV1500_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 43,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "EV1500_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 44,
+      "CMPTABLE": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "ND3300_BASE",
+      "SCENE_ENTRANCE_NUM": 1,
+      "GUID_BUTTON": 1
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    },
+    {
+      "COLLISION_NUM": 0,
+      "CMPTABLE": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SCENE_NAME": "",
+      "SCENE_ENTRANCE_NUM": 0,
+      "GUID_BUTTON": 0
+    }
+  ]
+}

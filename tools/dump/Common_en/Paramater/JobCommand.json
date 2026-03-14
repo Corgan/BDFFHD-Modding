@@ -1,0 +1,466 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 8454,
+    "data_one_size": 20,
+    "data_num": 65,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "ABILITY_ID": 2001,
+      "NAME": "White Magic Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 white magic.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2002,
+      "NAME": "White Magic Lv 2",
+      "LV": 2,
+      "DOC": "Use white magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2003,
+      "NAME": "White Magic Lv 3",
+      "LV": 3,
+      "DOC": "Use white magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2004,
+      "NAME": "White Magic Lv 4",
+      "LV": 4,
+      "DOC": "Use white magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2005,
+      "NAME": "White Magic Lv 5",
+      "LV": 5,
+      "DOC": "Use white magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2006,
+      "NAME": "White Magic Lv 6",
+      "LV": 6,
+      "DOC": "Use white magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_02"
+    },
+    {
+      "ABILITY_ID": 2009,
+      "NAME": "Black Magic Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 black magic.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2010,
+      "NAME": "Black Magic Lv 2",
+      "LV": 2,
+      "DOC": "Use black magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2011,
+      "NAME": "Black Magic Lv 3",
+      "LV": 3,
+      "DOC": "Use black magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2012,
+      "NAME": "Black Magic Lv 4",
+      "LV": 4,
+      "DOC": "Use black magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2013,
+      "NAME": "Black Magic Lv 5",
+      "LV": 5,
+      "DOC": "Use black magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2014,
+      "NAME": "Black Magic Lv 6",
+      "LV": 6,
+      "DOC": "Use black magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_03"
+    },
+    {
+      "ABILITY_ID": 2017,
+      "NAME": "Chivalry",
+      "LV": 1,
+      "DOC": "Use knight command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_04"
+    },
+    {
+      "ABILITY_ID": 2018,
+      "NAME": "Martial Arts",
+      "LV": 1,
+      "DOC": "Use monk command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_01"
+    },
+    {
+      "ABILITY_ID": 2019,
+      "NAME": "Hunting",
+      "LV": 1,
+      "DOC": "Use ranger command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_10"
+    },
+    {
+      "ABILITY_ID": 2020,
+      "NAME": "Ninjutsu",
+      "LV": 1,
+      "DOC": "Use ninja command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_16"
+    },
+    {
+      "ABILITY_ID": 2024,
+      "NAME": "Miscellany",
+      "LV": 1,
+      "DOC": "Use freelancer command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_00"
+    },
+    {
+      "ABILITY_ID": 2025,
+      "NAME": "Time Magic Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 time magic.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2026,
+      "NAME": "Time Magic Lv 2",
+      "LV": 2,
+      "DOC": "Use time magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2027,
+      "NAME": "Time Magic Lv 3",
+      "LV": 3,
+      "DOC": "Use time magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2028,
+      "NAME": "Time Magic Lv 4",
+      "LV": 4,
+      "DOC": "Use time magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2029,
+      "NAME": "Time Magic Lv 5",
+      "LV": 5,
+      "DOC": "Use time magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2030,
+      "NAME": "Time Magic Lv 6",
+      "LV": 6,
+      "DOC": "Use time magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_07"
+    },
+    {
+      "ABILITY_ID": 2031,
+      "NAME": "Summoning Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 summon magic.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2032,
+      "NAME": "Summoning Lv 2",
+      "LV": 2,
+      "DOC": "Use summon magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2033,
+      "NAME": "Summoning Lv 3",
+      "LV": 3,
+      "DOC": "Use summon magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2034,
+      "NAME": "Summoning Lv 4",
+      "LV": 4,
+      "DOC": "Use summon magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2035,
+      "NAME": "Summoning Lv 5",
+      "LV": 5,
+      "DOC": "Use summon magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2036,
+      "NAME": "Summoning Lv 6",
+      "LV": 6,
+      "DOC": "Use summon magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2037,
+      "NAME": "Sword Magic Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 sword magic.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2038,
+      "NAME": "Sword Magic Lv 2",
+      "LV": 2,
+      "DOC": "Use sword magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2039,
+      "NAME": "Sword Magic Lv 3",
+      "LV": 3,
+      "DOC": "Use sword magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2040,
+      "NAME": "Sword Magic Lv 4",
+      "LV": 4,
+      "DOC": "Use sword magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2041,
+      "NAME": "Sword Magic Lv 5",
+      "LV": 5,
+      "DOC": "Use sword magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2042,
+      "NAME": "Sword Magic Lv 6",
+      "LV": 6,
+      "DOC": "Use sword magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_08"
+    },
+    {
+      "ABILITY_ID": 2043,
+      "NAME": "Bushido",
+      "LV": 1,
+      "DOC": "Use swordmaster command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_17"
+    },
+    {
+      "ABILITY_ID": 2044,
+      "NAME": "Piracy",
+      "LV": 1,
+      "DOC": "Use pirate command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_13"
+    },
+    {
+      "ABILITY_ID": 2045,
+      "NAME": "Dark Arts",
+      "LV": 1,
+      "DOC": "Use dark knight command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_21"
+    },
+    {
+      "ABILITY_ID": 2046,
+      "NAME": "Holy Arts",
+      "LV": 1,
+      "DOC": "Use templar command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_20"
+    },
+    {
+      "ABILITY_ID": 2047,
+      "NAME": "Vampirism",
+      "LV": 1,
+      "DOC": "Use vampire command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_22"
+    },
+    {
+      "ABILITY_ID": 2048,
+      "NAME": "Ritualism",
+      "LV": 1,
+      "DOC": "Use arcanist command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_18"
+    },
+    {
+      "ABILITY_ID": 2049,
+      "NAME": "Summoning Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 summon magic.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2050,
+      "NAME": "Summoning Lv 2",
+      "LV": 2,
+      "DOC": "Use summon magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2051,
+      "NAME": "Summoning Lv 3",
+      "LV": 3,
+      "DOC": "Use summon magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2052,
+      "NAME": "Summoning Lv 4",
+      "LV": 4,
+      "DOC": "Use summon magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2053,
+      "NAME": "Summoning Lv 5",
+      "LV": 5,
+      "DOC": "Use summon magic up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2054,
+      "NAME": "Summoning Lv 6",
+      "LV": 6,
+      "DOC": "Use summon magic up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_09"
+    },
+    {
+      "ABILITY_ID": 2055,
+      "NAME": "Invocation Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 invocations.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2056,
+      "NAME": "Invocation Lv 2",
+      "LV": 2,
+      "DOC": "Use invocations up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2057,
+      "NAME": "Invocation Lv 3",
+      "LV": 3,
+      "DOC": "Use invocations up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2058,
+      "NAME": "Invocation Lv 4",
+      "LV": 4,
+      "DOC": "Use invocations up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2059,
+      "NAME": "Invocation Lv 5",
+      "LV": 5,
+      "DOC": "Use invocations up to level 5.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2060,
+      "NAME": "Invocation Lv 6",
+      "LV": 6,
+      "DOC": "Use invocations up to level 6.",
+      "NAME_ICON": "ICON_J_COMMAND_23"
+    },
+    {
+      "ABILITY_ID": 2061,
+      "NAME": "Acrobatics",
+      "LV": 1,
+      "DOC": "Use valkyrie command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_12"
+    },
+    {
+      "ABILITY_ID": 2062,
+      "NAME": "Spiritism",
+      "LV": 1,
+      "DOC": "Use spiritmaster command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_19"
+    },
+    {
+      "ABILITY_ID": 2063,
+      "NAME": "Medication",
+      "LV": 1,
+      "DOC": "Use salve-maker command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_15"
+    },
+    {
+      "ABILITY_ID": 2064,
+      "NAME": "B/W Magic Lv 1",
+      "LV": 1,
+      "DOC": "Use level 1 black/white magic.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2065,
+      "NAME": "B/W Magic Lv 2",
+      "LV": 2,
+      "DOC": "Use black/white magic up to level 2.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2066,
+      "NAME": "B/W Magic Lv 3",
+      "LV": 3,
+      "DOC": "Use black/white magic up to level 3.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2067,
+      "NAME": "B/W Magic Lv 4",
+      "LV": 4,
+      "DOC": "Use black/white magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2068,
+      "NAME": "B/W/T Magic",
+      "LV": 4,
+      "DOC": "Use black/white/time magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2069,
+      "NAME": "B/W/T/S Magic",
+      "LV": 4,
+      "DOC": "Use black/white/time/summon magic up to level 4.",
+      "NAME_ICON": "ICON_J_COMMAND_11"
+    },
+    {
+      "ABILITY_ID": 2070,
+      "NAME": "Thievery",
+      "LV": 1,
+      "DOC": "Use thief command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_05"
+    },
+    {
+      "ABILITY_ID": 2071,
+      "NAME": "Commerce",
+      "LV": 1,
+      "DOC": "Use merchant command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_06"
+    },
+    {
+      "ABILITY_ID": 2072,
+      "NAME": "Singing",
+      "LV": 1,
+      "DOC": "Use performer command abilities.",
+      "NAME_ICON": "ICON_J_COMMAND_14"
+    }
+  ]
+}

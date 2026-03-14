@@ -1,0 +1,279 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3736,
+    "data_one_size": 8,
+    "data_num": 67,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "Buy equipment sold at the shop."
+    },
+    {
+      "id": 2,
+      "pMessage": "Sell items in your inventory."
+    },
+    {
+      "id": 3,
+      "pMessage": "Change your equipment in another room."
+    },
+    {
+      "id": 4,
+      "pMessage": "Leave the shop and return to the map."
+    },
+    {
+      "id": 5,
+      "pMessage": "View weapons."
+    },
+    {
+      "id": 6,
+      "pMessage": "View shields."
+    },
+    {
+      "id": 7,
+      "pMessage": "View head armor."
+    },
+    {
+      "id": 8,
+      "pMessage": "View torso armor."
+    },
+    {
+      "id": 9,
+      "pMessage": "View accessories."
+    },
+    {
+      "id": 10,
+      "pMessage": "Raise/lower buying quantity. Press confirm to buy."
+    },
+    {
+      "id": 11,
+      "pMessage": "Sell weapons in your inventory."
+    },
+    {
+      "id": 12,
+      "pMessage": "Sell armor/accessories in your inventory."
+    },
+    {
+      "id": 13,
+      "pMessage": "Sell consumable items in your inventory."
+    },
+    {
+      "id": 14,
+      "pMessage": "Raise/lower selling quantity. Press confirm to sell."
+    },
+    {
+      "id": 15,
+      "pMessage": "Select a character whose equipment to change."
+    },
+    {
+      "id": 100,
+      "pMessage": "Buy consumable items."
+    },
+    {
+      "id": 101,
+      "pMessage": "Sell items in your inventory."
+    },
+    {
+      "id": 102,
+      "pMessage": "Leave the shop and return to the map."
+    },
+    {
+      "id": 103,
+      "pMessage": "Raise/lower buying quantity. Press confirm to buy."
+    },
+    {
+      "id": 104,
+      "pMessage": "Sell weapons in your inventory."
+    },
+    {
+      "id": 105,
+      "pMessage": "Sell armor/accessories in your inventory."
+    },
+    {
+      "id": 106,
+      "pMessage": "Sell consumable items in your inventory."
+    },
+    {
+      "id": 107,
+      "pMessage": "Raise/lower selling quantity. Press confirm to sell."
+    },
+    {
+      "id": 200,
+      "pMessage": "Buy magic scrolls."
+    },
+    {
+      "id": 201,
+      "pMessage": "Leave the shop and return to the map."
+    },
+    {
+      "id": 202,
+      "pMessage": "Press confirm to buy a magic scroll."
+    },
+    {
+      "id": 300,
+      "pMessage": "Restore HP/MP and cure status ailments such as KO."
+    },
+    {
+      "id": 301,
+      "pMessage": "Return to the map without staying at the inn."
+    },
+    {
+      "id": 400,
+      "pMessage": "Buy"
+    },
+    {
+      "id": 401,
+      "pMessage": "Stay"
+    },
+    {
+      "id": 500,
+      "pMessage": "View outfits that change appearance."
+    },
+    {
+      "id": 501,
+      "pMessage": "Sell outfits in your inventory."
+    },
+    {
+      "id": 600,
+      "pMessage": "Armory"
+    },
+    {
+      "id": 601,
+      "pMessage": "Inn"
+    },
+    {
+      "id": 602,
+      "pMessage": "Trader"
+    },
+    {
+      "id": 603,
+      "pMessage": "Magics"
+    },
+    {
+      "id": 604,
+      "pMessage": "Sell"
+    },
+    {
+      "id": 605,
+      "pMessage": "Exit"
+    },
+    {
+      "id": 606,
+      "pMessage": "Inventory"
+    },
+    {
+      "id": 607,
+      "pMessage": "Price"
+    },
+    {
+      "id": 608,
+      "pMessage": "Owned"
+    },
+    {
+      "id": 609,
+      "pMessage": "Total"
+    },
+    {
+      "id": 610,
+      "pMessage": "Learned"
+    },
+    {
+      "id": 611,
+      "pMessage": "Buy"
+    },
+    {
+      "id": 612,
+      "pMessage": "Buy and Equip"
+    },
+    {
+      "id": 613,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 614,
+      "pMessage": "Party Information"
+    },
+    {
+      "id": 615,
+      "pMessage": "The remainder was added to your inventory."
+    },
+    {
+      "id": 616,
+      "pMessage": "Sell"
+    },
+    {
+      "id": 617,
+      "pMessage": "Sell all items in your inventory."
+    },
+    {
+      "id": 618,
+      "pMessage": "View all."
+    },
+    {
+      "id": 619,
+      "pMessage": "Leave the shop and return to the menu."
+    },
+    {
+      "id": 620,
+      "pMessage": "Use <Text>?"
+    },
+    {
+      "id": 621,
+      "pMessage": " "
+    },
+    {
+      "id": 622,
+      "pMessage": "Rest with Pillow"
+    },
+    {
+      "id": 623,
+      "pMessage": "Use one <Text> and stay at the inn."
+    },
+    {
+      "id": 624,
+      "pMessage": "Exchange Shop"
+    },
+    {
+      "id": 625,
+      "pMessage": "Exchange"
+    },
+    {
+      "id": 626,
+      "pMessage": "Exchange tokens for prizes."
+    },
+    {
+      "id": 627,
+      "pMessage": "Tokens"
+    },
+    {
+      "id": 628,
+      "pMessage": "View items."
+    },
+    {
+      "id": 629,
+      "pMessage": "View equipment and accessories."
+    },
+    {
+      "id": 630,
+      "pMessage": "View key items."
+    },
+    {
+      "id": 631,
+      "pMessage": "Total"
+    },
+    {
+      "id": 632,
+      "pMessage": "Adjust number with Up/Down. Confirm to exchange."
+    },
+    {
+      "id": 633,
+      "pMessage": "Exchange"
+    },
+    {
+      "id": 634,
+      "pMessage": "Exchange and Equip"
+    }
+  ]
+}

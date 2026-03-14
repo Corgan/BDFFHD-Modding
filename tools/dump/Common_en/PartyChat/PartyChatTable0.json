@@ -1,0 +1,281 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 768,
+    "data_one_size": 48,
+    "data_num": 15,
+    "ints_per_record": 12
+  },
+  "records": [
+    {
+      "SCRIPT_ID": 1,
+      "PRI": 65,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        117,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        13,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 2,
+      "PRI": 64,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        118,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        13,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 3,
+      "PRI": 63,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        119,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        120,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 4,
+      "PRI": 62,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        120,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        121,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 5,
+      "PRI": 61,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        121,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        127,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 6,
+      "PRI": 60,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        128,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        129,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 7,
+      "PRI": 59,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        133,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        134,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 8,
+      "PRI": 58,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        137,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        14,
+        2
+      ]
+    },
+    {
+      "SCRIPT_ID": 9,
+      "PRI": 57,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        142,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        143,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 10,
+      "PRI": 56,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        145,
+        1,
+        1,
+        1
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        146,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 11,
+      "PRI": 55,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        146,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        148,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 12,
+      "PRI": 54,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        148,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        149,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 13,
+      "PRI": 53,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        152,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        153,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 14,
+      "PRI": 52,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        159,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        204,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 15,
+      "PRI": 51,
+      "TABLEINDEX": 0,
+      "ENABLE_REQUEST": [
+        0,
+        159,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        204,
+        0,
+        0
+      ]
+    }
+  ]
+}

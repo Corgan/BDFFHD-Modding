@@ -1,0 +1,151 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1066,
+    "data_one_size": 8,
+    "data_num": 35,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 0,
+      "pMessage": "None"
+    },
+    {
+      "id": 1,
+      "pMessage": "<sprite=\"w_icn_weak\" index=5>"
+    },
+    {
+      "id": 2,
+      "pMessage": "<sprite=\"w_icn_weak\" index=6>"
+    },
+    {
+      "id": 3,
+      "pMessage": "<sprite=\"w_icn_weak\" index=4>"
+    },
+    {
+      "id": 4,
+      "pMessage": "<sprite=\"w_icn_weak\" index=3>"
+    },
+    {
+      "id": 5,
+      "pMessage": "<sprite=\"w_icn_weak\" index=2>"
+    },
+    {
+      "id": 6,
+      "pMessage": "<sprite=\"w_icn_weak\" index=1>"
+    },
+    {
+      "id": 7,
+      "pMessage": "<sprite=\"w_icn_weak\" index=0>"
+    },
+    {
+      "id": 8,
+      "pMessage": "Poison"
+    },
+    {
+      "id": 9,
+      "pMessage": "Blind"
+    },
+    {
+      "id": 10,
+      "pMessage": "Silence"
+    },
+    {
+      "id": 11,
+      "pMessage": "Sleep"
+    },
+    {
+      "id": 12,
+      "pMessage": "Paralyze"
+    },
+    {
+      "id": 13,
+      "pMessage": "Dread"
+    },
+    {
+      "id": 14,
+      "pMessage": "Berserk"
+    },
+    {
+      "id": 15,
+      "pMessage": "Confuse"
+    },
+    {
+      "id": 16,
+      "pMessage": "Charm"
+    },
+    {
+      "id": 17,
+      "pMessage": "Doom"
+    },
+    {
+      "id": 18,
+      "pMessage": "Mirror"
+    },
+    {
+      "id": 19,
+      "pMessage": "Death"
+    },
+    {
+      "id": 20,
+      "pMessage": "Stop"
+    },
+    {
+      "id": 21,
+      "pMessage": "Critical"
+    },
+    {
+      "id": 22,
+      "pMessage": "Weak"
+    },
+    {
+      "id": 23,
+      "pMessage": "Resist"
+    },
+    {
+      "id": 24,
+      "pMessage": "Nullify"
+    },
+    {
+      "id": 25,
+      "pMessage": "Absorb"
+    },
+    {
+      "id": 26,
+      "pMessage": "S"
+    },
+    {
+      "id": 27,
+      "pMessage": "A"
+    },
+    {
+      "id": 28,
+      "pMessage": "B"
+    },
+    {
+      "id": 29,
+      "pMessage": "C"
+    },
+    {
+      "id": 30,
+      "pMessage": "D"
+    },
+    {
+      "id": 31,
+      "pMessage": "E"
+    },
+    {
+      "id": 32,
+      "pMessage": "--"
+    },
+    {
+      "id": 33,
+      "pMessage": "-----"
+    },
+    {
+      "id": 34,
+      "pMessage": "---------"
+    }
+  ]
+}

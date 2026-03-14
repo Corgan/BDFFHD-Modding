@@ -1,0 +1,785 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3484,
+    "data_one_size": 16,
+    "data_num": 129,
+    "ints_per_record": 4
+  },
+  "records": [
+    {
+      "index": 1,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 1
+    },
+    {
+      "index": 2,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 2
+    },
+    {
+      "index": 3,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 3
+    },
+    {
+      "index": 4,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 4
+    },
+    {
+      "index": 5,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 5
+    },
+    {
+      "index": 6,
+      "pTitle": "9/20",
+      "id": 0,
+      "page": 6
+    },
+    {
+      "index": 7,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 7
+    },
+    {
+      "index": 8,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 8
+    },
+    {
+      "index": 9,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 9
+    },
+    {
+      "index": 10,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 10
+    },
+    {
+      "index": 11,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 11
+    },
+    {
+      "index": 12,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 12
+    },
+    {
+      "index": 13,
+      "pTitle": "9/26",
+      "id": 1,
+      "page": 13
+    },
+    {
+      "index": 14,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 14
+    },
+    {
+      "index": 15,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 15
+    },
+    {
+      "index": 16,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 16
+    },
+    {
+      "index": 17,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 17
+    },
+    {
+      "index": 18,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 18
+    },
+    {
+      "index": 19,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 19
+    },
+    {
+      "index": 20,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 20
+    },
+    {
+      "index": 21,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 21
+    },
+    {
+      "index": 22,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 22
+    },
+    {
+      "index": 23,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 23
+    },
+    {
+      "index": 24,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 24
+    },
+    {
+      "index": 25,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 25
+    },
+    {
+      "index": 26,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 26
+    },
+    {
+      "index": 27,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 27
+    },
+    {
+      "index": 28,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 28
+    },
+    {
+      "index": 29,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 29
+    },
+    {
+      "index": 30,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 30
+    },
+    {
+      "index": 31,
+      "pTitle": "9/27",
+      "id": 2,
+      "page": 31
+    },
+    {
+      "index": 32,
+      "pTitle": "9/28",
+      "id": 3,
+      "page": 32
+    },
+    {
+      "index": 33,
+      "pTitle": "9/28",
+      "id": 3,
+      "page": 33
+    },
+    {
+      "index": 34,
+      "pTitle": "9/28",
+      "id": 3,
+      "page": 34
+    },
+    {
+      "index": 35,
+      "pTitle": "9/28",
+      "id": 3,
+      "page": 35
+    },
+    {
+      "index": 36,
+      "pTitle": "9/28",
+      "id": 3,
+      "page": 36
+    },
+    {
+      "index": 37,
+      "pTitle": "10/03",
+      "id": 4,
+      "page": 37
+    },
+    {
+      "index": 38,
+      "pTitle": "10/03",
+      "id": 4,
+      "page": 38
+    },
+    {
+      "index": 39,
+      "pTitle": "10/03",
+      "id": 4,
+      "page": 39
+    },
+    {
+      "index": 40,
+      "pTitle": "10/03",
+      "id": 4,
+      "page": 40
+    },
+    {
+      "index": 41,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 41
+    },
+    {
+      "index": 42,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 42
+    },
+    {
+      "index": 43,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 43
+    },
+    {
+      "index": 44,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 44
+    },
+    {
+      "index": 45,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 45
+    },
+    {
+      "index": 46,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 46
+    },
+    {
+      "index": 47,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 47
+    },
+    {
+      "index": 48,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 48
+    },
+    {
+      "index": 49,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 49
+    },
+    {
+      "index": 50,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 50
+    },
+    {
+      "index": 51,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 51
+    },
+    {
+      "index": 52,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 52
+    },
+    {
+      "index": 53,
+      "pTitle": "10/04",
+      "id": 5,
+      "page": 53
+    },
+    {
+      "index": 54,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 54
+    },
+    {
+      "index": 55,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 55
+    },
+    {
+      "index": 56,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 56
+    },
+    {
+      "index": 57,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 57
+    },
+    {
+      "index": 58,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 58
+    },
+    {
+      "index": 59,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 59
+    },
+    {
+      "index": 60,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 60
+    },
+    {
+      "index": 61,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 61
+    },
+    {
+      "index": 62,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 62
+    },
+    {
+      "index": 63,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 63
+    },
+    {
+      "index": 64,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 64
+    },
+    {
+      "index": 65,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 65
+    },
+    {
+      "index": 66,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 66
+    },
+    {
+      "index": 67,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 67
+    },
+    {
+      "index": 68,
+      "pTitle": "10/07",
+      "id": 6,
+      "page": 68
+    },
+    {
+      "index": 69,
+      "pTitle": "10/25",
+      "id": 7,
+      "page": 69
+    },
+    {
+      "index": 70,
+      "pTitle": "10/25",
+      "id": 7,
+      "page": 70
+    },
+    {
+      "index": 71,
+      "pTitle": "11/13",
+      "id": 8,
+      "page": 71
+    },
+    {
+      "index": 72,
+      "pTitle": "11/13",
+      "id": 8,
+      "page": 72
+    },
+    {
+      "index": 73,
+      "pTitle": "11/13",
+      "id": 8,
+      "page": 73
+    },
+    {
+      "index": 74,
+      "pTitle": "11/13",
+      "id": 8,
+      "page": 74
+    },
+    {
+      "index": 75,
+      "pTitle": "11/13",
+      "id": 8,
+      "page": 75
+    },
+    {
+      "index": 76,
+      "pTitle": "11/23",
+      "id": 9,
+      "page": 76
+    },
+    {
+      "index": 77,
+      "pTitle": "11/23",
+      "id": 9,
+      "page": 77
+    },
+    {
+      "index": 78,
+      "pTitle": "11/23",
+      "id": 9,
+      "page": 78
+    },
+    {
+      "index": 79,
+      "pTitle": "12/08",
+      "id": 10,
+      "page": 79
+    },
+    {
+      "index": 80,
+      "pTitle": "12/08",
+      "id": 10,
+      "page": 80
+    },
+    {
+      "index": 81,
+      "pTitle": "12/08",
+      "id": 10,
+      "page": 81
+    },
+    {
+      "index": 82,
+      "pTitle": "1/31",
+      "id": 11,
+      "page": 82
+    },
+    {
+      "index": 83,
+      "pTitle": "3/07",
+      "id": 12,
+      "page": 83
+    },
+    {
+      "index": 84,
+      "pTitle": "3/07",
+      "id": 12,
+      "page": 84
+    },
+    {
+      "index": 85,
+      "pTitle": "3/07",
+      "id": 12,
+      "page": 85
+    },
+    {
+      "index": 86,
+      "pTitle": "3/07",
+      "id": 12,
+      "page": 86
+    },
+    {
+      "index": 87,
+      "pTitle": "3/07",
+      "id": 12,
+      "page": 87
+    },
+    {
+      "index": 88,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 88
+    },
+    {
+      "index": 89,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 89
+    },
+    {
+      "index": 90,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 90
+    },
+    {
+      "index": 91,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 91
+    },
+    {
+      "index": 92,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 92
+    },
+    {
+      "index": 93,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 93
+    },
+    {
+      "index": 94,
+      "pTitle": "3/17",
+      "id": 13,
+      "page": 94
+    },
+    {
+      "index": 95,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 95
+    },
+    {
+      "index": 96,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 96
+    },
+    {
+      "index": 97,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 97
+    },
+    {
+      "index": 98,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 98
+    },
+    {
+      "index": 99,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 99
+    },
+    {
+      "index": 100,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 100
+    },
+    {
+      "index": 101,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 101
+    },
+    {
+      "index": 102,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 102
+    },
+    {
+      "index": 103,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 103
+    },
+    {
+      "index": 104,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 104
+    },
+    {
+      "index": 105,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 105
+    },
+    {
+      "index": 106,
+      "pTitle": "3/19",
+      "id": 14,
+      "page": 106
+    },
+    {
+      "index": 107,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 107
+    },
+    {
+      "index": 108,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 108
+    },
+    {
+      "index": 109,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 109
+    },
+    {
+      "index": 110,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 110
+    },
+    {
+      "index": 111,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 111
+    },
+    {
+      "index": 112,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 112
+    },
+    {
+      "index": 113,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 113
+    },
+    {
+      "index": 114,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 114
+    },
+    {
+      "index": 115,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 115
+    },
+    {
+      "index": 116,
+      "pTitle": "4/24",
+      "id": 15,
+      "page": 116
+    },
+    {
+      "index": 117,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 117
+    },
+    {
+      "index": 118,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 118
+    },
+    {
+      "index": 119,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 119
+    },
+    {
+      "index": 120,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 120
+    },
+    {
+      "index": 121,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 121
+    },
+    {
+      "index": 122,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 122
+    },
+    {
+      "index": 123,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 123
+    },
+    {
+      "index": 124,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 124
+    },
+    {
+      "index": 125,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 125
+    },
+    {
+      "index": 126,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 126
+    },
+    {
+      "index": 127,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 127
+    },
+    {
+      "index": 128,
+      "pTitle": "6/16",
+      "id": 16,
+      "page": 128
+    },
+    {
+      "index": 129,
+      "pTitle": "",
+      "id": 0,
+      "page": 128
+    }
+  ]
+}

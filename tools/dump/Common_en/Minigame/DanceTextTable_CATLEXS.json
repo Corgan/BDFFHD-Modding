@@ -1,0 +1,295 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3154,
+    "data_one_size": 8,
+    "data_num": 71,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "That of the Name"
+    },
+    {
+      "id": 3,
+      "pMessage": "Love in the Crossfire! [Long Version]"
+    },
+    {
+      "id": 2,
+      "pMessage": "Onward Into the Light: An Overture"
+    },
+    {
+      "id": 4,
+      "pMessage": "The Grandship Soars the Open Skies"
+    },
+    {
+      "id": 5,
+      "pMessage": "Uroboros, the Serpent That Devours the Horizon"
+    },
+    {
+      "id": 6,
+      "pMessage": "?????"
+    },
+    {
+      "id": 7,
+      "pMessage": "Normal"
+    },
+    {
+      "id": 8,
+      "pMessage": "Hard"
+    },
+    {
+      "id": 9,
+      "pMessage": "Expert"
+    },
+    {
+      "id": 10,
+      "pMessage": "Start"
+    },
+    {
+      "id": 11,
+      "pMessage": "Options"
+    },
+    {
+      "id": 12,
+      "pMessage": "Back"
+    },
+    {
+      "id": 13,
+      "pMessage": "How to Play"
+    },
+    {
+      "id": 14,
+      "pMessage": "Spectator Mode"
+    },
+    {
+      "id": 15,
+      "pMessage": "Music Selection"
+    },
+    {
+      "id": 16,
+      "pMessage": "Score"
+    },
+    {
+      "id": 17,
+      "pMessage": "High Score"
+    },
+    {
+      "id": 18,
+      "pMessage": "You’ve achieved a new best in-game score\nin Luxencheer Rhythm Catch!"
+    },
+    {
+      "id": 19,
+      "pMessage": "Continue"
+    },
+    {
+      "id": 20,
+      "pMessage": "Restart"
+    },
+    {
+      "id": 21,
+      "pMessage": "To music selection"
+    },
+    {
+      "id": 22,
+      "pMessage": "Volume Settings"
+    },
+    {
+      "id": 23,
+      "pMessage": "Music"
+    },
+    {
+      "id": 24,
+      "pMessage": "Sound Effects"
+    },
+    {
+      "id": 25,
+      "pMessage": "Voices"
+    },
+    {
+      "id": 26,
+      "pMessage": "Game Settings"
+    },
+    {
+      "id": 27,
+      "pMessage": "Background Brightness"
+    },
+    {
+      "id": 28,
+      "pMessage": "Cursor Sensitivity"
+    },
+    {
+      "id": 29,
+      "pMessage": "Restore all settings to the default?"
+    },
+    {
+      "id": 30,
+      "pMessage": "Restore Defaults"
+    },
+    {
+      "id": 31,
+      "pMessage": "Close"
+    },
+    {
+      "id": 32,
+      "pMessage": "Apply"
+    },
+    {
+      "id": 33,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 34,
+      "pMessage": "No"
+    },
+    {
+      "id": 35,
+      "pMessage": "Select costumes for the characters dancing on stage."
+    },
+    {
+      "id": 36,
+      "pMessage": "Confirm"
+    },
+    {
+      "id": 37,
+      "pMessage": "OK"
+    },
+    {
+      "id": 38,
+      "pMessage": "COMBO"
+    },
+    {
+      "id": 39,
+      "pMessage": "RESULT"
+    },
+    {
+      "id": 40,
+      "pMessage": "RANK"
+    },
+    {
+      "id": 41,
+      "pMessage": "CONFIG"
+    },
+    {
+      "id": 42,
+      "pMessage": "NEW RECORD"
+    },
+    {
+      "id": 43,
+      "pMessage": ""
+    },
+    {
+      "id": 44,
+      "pMessage": "Your changes have not been applied.\nDiscard changes?"
+    },
+    {
+      "id": 45,
+      "pMessage": "Unlocked by talking to the\ngame corner man in Florem."
+    },
+    {
+      "id": 46,
+      "pMessage": "Unlocked after clearing\nchapter 3."
+    },
+    {
+      "id": 47,
+      "pMessage": "Unlocked after clearing\nchapter 5."
+    },
+    {
+      "id": 48,
+      "pMessage": "Unlocked by defeating\n? ? ? ? ?"
+    },
+    {
+      "id": 49,
+      "pMessage": "You can now view dances\nin the gallery."
+    },
+    {
+      "id": 50,
+      "pMessage": "Menu"
+    },
+    {
+      "id": 51,
+      "pMessage": "Catch Flowers"
+    },
+    {
+      "id": 52,
+      "pMessage": "チュートリアル"
+    },
+    {
+      "id": 53,
+      "pMessage": "To music selection"
+    },
+    {
+      "id": 54,
+      "pMessage": "To character selection"
+    },
+    {
+      "id": 55,
+      "pMessage": "Love in the Crossfire! [Long Version]"
+    },
+    {
+      "id": 56,
+      "pMessage": "Ring Notes Tutorial"
+    },
+    {
+      "id": 57,
+      "pMessage": "Flower Notes Tutorial"
+    },
+    {
+      "id": 58,
+      "pMessage": "Bar Notes Tutorial"
+    },
+    {
+      "id": 59,
+      "pMessage": "Practice"
+    },
+    {
+      "id": 60,
+      "pMessage": "COMBO BONUS"
+    },
+    {
+      "id": 61,
+      "pMessage": "FULL COMBO!!"
+    },
+    {
+      "id": 62,
+      "pMessage": "FEVER BONUS!!"
+    },
+    {
+      "id": 63,
+      "pMessage": "Fever Tutorial"
+    },
+    {
+      "id": 64,
+      "pMessage": "Master Volume"
+    },
+    {
+      "id": 65,
+      "pMessage": "Right-Cursor Sensitivity"
+    },
+    {
+      "id": 66,
+      "pMessage": "Left-Cursor Sensitivity"
+    },
+    {
+      "id": 67,
+      "pMessage": "Pause Menu"
+    },
+    {
+      "id": 68,
+      "pMessage": "Reset Cursor Position"
+    },
+    {
+      "id": 69,
+      "pMessage": "Options"
+    },
+    {
+      "id": 70,
+      "pMessage": "Key Configuration"
+    },
+    {
+      "id": 71,
+      "pMessage": "Easy Catching"
+    }
+  ]
+}

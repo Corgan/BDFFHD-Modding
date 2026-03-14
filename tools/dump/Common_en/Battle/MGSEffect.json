@@ -1,0 +1,137 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 2006,
+    "data_one_size": 20,
+    "data_num": 18,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "pWepEffectName": "BT_MGS_WEP_FIRE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_FIRE01",
+      "pRingEffectName": "BT_MGS_RING_FIRE01",
+      "pRingSEName": "ATTR_FIRE01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_ICE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_ICE01",
+      "pRingEffectName": "BT_MGS_RING_ICE01",
+      "pRingSEName": "ATTR_WATER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_THUNDER01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_THUNDER01",
+      "pRingEffectName": "BT_MGS_RING_THUNDER01",
+      "pRingSEName": "ATTR_THUNDER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_SILECE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_SILECE01",
+      "pRingEffectName": "BT_MGS_RING_OTHER01",
+      "pRingSEName": "ATTR_SILES01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_POISON01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_POISON01",
+      "pRingEffectName": "BT_MGS_RING_OTHER01",
+      "pRingSEName": "ATTR_POISON01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_SILECE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_SILECE01",
+      "pRingEffectName": "BT_MGS_RING_OTHER01",
+      "pRingSEName": "ATTR_SLEEP01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_FIRE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_FIRE01",
+      "pRingEffectName": "BT_MGS_RING_FIRE01",
+      "pRingSEName": "ATTR_FIRE01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_ICE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_ICE01",
+      "pRingEffectName": "BT_MGS_RING_ICE01",
+      "pRingSEName": "ATTR_WATER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_THUNDER01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_THUNDER01",
+      "pRingEffectName": "BT_MGS_RING_THUNDER01",
+      "pRingSEName": "ATTR_THUNDER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_DRAIN01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_DRAIN01",
+      "pRingEffectName": "BT_MGS_RING_OTHER01",
+      "pRingSEName": "ATTR_ABSO_HP01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_ASPIRU01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_ASPIRU01",
+      "pRingEffectName": "BT_MGS_RING_OTHER01",
+      "pRingSEName": "ATTR_ABSO_MP01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_DARK01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_DARK01",
+      "pRingEffectName": "BT_MGS_RING_DARK01",
+      "pRingSEName": "ATTR_FEAR01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_FIRE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_FIRE01",
+      "pRingEffectName": "BT_MGS_RING_FIRE01",
+      "pRingSEName": "ATTR_FIRE01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_ICE01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_ICE01",
+      "pRingEffectName": "BT_MGS_RING_ICE01",
+      "pRingSEName": "ATTR_WATER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_THUNDER01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_THUNDER01",
+      "pRingEffectName": "BT_MGS_RING_THUNDER01",
+      "pRingSEName": "ATTR_THUNDER01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_LIGHT01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_LIGHT01",
+      "pRingEffectName": "BT_MGS_RING_LIGHT01",
+      "pRingSEName": "ATTR_LIGHT01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_DARK01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_DARK01",
+      "pRingEffectName": "BT_MGS_RING_DARK01",
+      "pRingSEName": "ATTR_DARK01"
+    },
+    {
+      "pWepEffectName": "BT_MGS_WEP_DARK01",
+      "pHitEffectName1": "BT_HIT_SWORD_FIRE",
+      "pHitEffectName2": "BT_MGS_HIT_DARK01",
+      "pRingEffectName": "BT_MGS_RING_DARK01",
+      "pRingSEName": "ATTR_DEATH01"
+    }
+  ]
+}

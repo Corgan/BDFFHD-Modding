@@ -1,0 +1,815 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 15786,
+    "data_one_size": 8,
+    "data_num": 201,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "Enter a name."
+    },
+    {
+      "id": 2,
+      "pMessage": "Use this name?"
+    },
+    {
+      "id": 3,
+      "pMessage": "Default"
+    },
+    {
+      "id": 4,
+      "pMessage": ""
+    },
+    {
+      "id": 5,
+      "pMessage": ""
+    },
+    {
+      "id": 6,
+      "pMessage": ""
+    },
+    {
+      "id": 7,
+      "pMessage": ""
+    },
+    {
+      "id": 8,
+      "pMessage": ""
+    },
+    {
+      "id": 9,
+      "pMessage": "Save data is corrupted.\nSelect Data Reset from the\ntitle screen to delete the\ndata."
+    },
+    {
+      "id": 10,
+      "pMessage": "Enigmatic Writings"
+    },
+    {
+      "id": 11,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 12,
+      "pMessage": ""
+    },
+    {
+      "id": 13,
+      "pMessage": "Enter Airship"
+    },
+    {
+      "id": 14,
+      "pMessage": "Pilot Yourself"
+    },
+    {
+      "id": 15,
+      "pMessage": "Not possible here."
+    },
+    {
+      "id": 16,
+      "pMessage": "You cannot enter the airship right now."
+    },
+    {
+      "id": 17,
+      "pMessage": "You cannot use autopilot right now."
+    },
+    {
+      "id": 18,
+      "pMessage": "Someone"
+    },
+    {
+      "id": 19,
+      "pMessage": "[FRIENDNM]’s World"
+    },
+    {
+      "id": 20,
+      "pMessage": ""
+    },
+    {
+      "id": 21,
+      "pMessage": ""
+    },
+    {
+      "id": 22,
+      "pMessage": ""
+    },
+    {
+      "id": 23,
+      "pMessage": ""
+    },
+    {
+      "id": 24,
+      "pMessage": ""
+    },
+    {
+      "id": 25,
+      "pMessage": ""
+    },
+    {
+      "id": 26,
+      "pMessage": ""
+    },
+    {
+      "id": 27,
+      "pMessage": ""
+    },
+    {
+      "id": 28,
+      "pMessage": ""
+    },
+    {
+      "id": 29,
+      "pMessage": ""
+    },
+    {
+      "id": 30,
+      "pMessage": "You cannot exit the airship right now."
+    },
+    {
+      "id": 31,
+      "pMessage": ""
+    },
+    {
+      "id": 32,
+      "pMessage": ""
+    },
+    {
+      "id": 33,
+      "pMessage": "Delete save data and related\nsystem data and restore defaults?"
+    },
+    {
+      "id": 34,
+      "pMessage": "No"
+    },
+    {
+      "id": 35,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 36,
+      "pMessage": "Are you sure?"
+    },
+    {
+      "id": 37,
+      "pMessage": "No"
+    },
+    {
+      "id": 38,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 39,
+      "pMessage": "Deleting data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 40,
+      "pMessage": "Data deleted.\nReturning to the title screen."
+    },
+    {
+      "id": 41,
+      "pMessage": "Failed to delete data.\nReturning to the title screen."
+    },
+    {
+      "id": 42,
+      "pMessage": "Creating system and game data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 43,
+      "pMessage": "Save data is corrupted.\nSelect Data Reset from the\ntitle screen to delete the data."
+    },
+    {
+      "id": 44,
+      "pMessage": "Data created."
+    },
+    {
+      "id": 100,
+      "pMessage": "Save cleared game data?\nNote: If you save, the game will\nresume from before the attempt to\ndestroy the crystal."
+    },
+    {
+      "id": 101,
+      "pMessage": "Save cleared game data?\nNote: If you save, the game will\nresume from before awakening the\nlast four crystals."
+    },
+    {
+      "id": 102,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 103,
+      "pMessage": "No"
+    },
+    {
+      "id": 110,
+      "pMessage": "Saving.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 120,
+      "pMessage": "Save complete."
+    },
+    {
+      "id": 130,
+      "pMessage": "Are you sure you want to return to\nthe title screen without saving\ncleared game data?"
+    },
+    {
+      "id": 140,
+      "pMessage": "Saved.\nContinue your journey in\nsearch of new horizons."
+    },
+    {
+      "id": 141,
+      "pMessage": "Saved.\nContinue to enjoy the game."
+    },
+    {
+      "id": 150,
+      "pMessage": "Game Completion Bonus\n\n[PCF1] can now equip\nthe vestal garb."
+    },
+    {
+      "id": 151,
+      "pMessage": "Game Completion Bonus\n\nA special movie is\nnow available to watch."
+    },
+    {
+      "id": 152,
+      "pMessage": "“New Game+” has been added.\nYou can carry over your data to\nenjoy the game from the beginning."
+    },
+    {
+      "id": 160,
+      "pMessage": "Save data is corrupted, and will need\nto be recreated. Okay to proceed?"
+    },
+    {
+      "id": 161,
+      "pMessage": "Deleting data.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 162,
+      "pMessage": "Failed to delete data.\nTry saving again?"
+    },
+    {
+      "id": 163,
+      "pMessage": "Save data recreated."
+    },
+    {
+      "id": 170,
+      "pMessage": "Return to the title screen?"
+    },
+    {
+      "id": 200,
+      "pMessage": "We'd like to give you a gift\nfor playing the demo version!"
+    },
+    {
+      "id": 210,
+      "pMessage": "Will you accept it?"
+    },
+    {
+      "id": 211,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 212,
+      "pMessage": "No"
+    },
+    {
+      "id": 220,
+      "pMessage": ""
+    },
+    {
+      "id": 221,
+      "pMessage": ""
+    },
+    {
+      "id": 222,
+      "pMessage": ""
+    },
+    {
+      "id": 223,
+      "pMessage": "Friend information transferred!"
+    },
+    {
+      "id": 230,
+      "pMessage": "That's all for now.\nEnjoy the rest of the game!"
+    },
+    {
+      "id": 240,
+      "pMessage": "Save data already exists.\nOkay to overwrite it?"
+    },
+    {
+      "id": 241,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 242,
+      "pMessage": "No"
+    },
+    {
+      "id": 243,
+      "pMessage": "Previous data will be lost.\nAre you certain?"
+    },
+    {
+      "id": 244,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 245,
+      "pMessage": "No"
+    },
+    {
+      "id": 250,
+      "pMessage": "Saving.\nDo not turn off the system or\nremove the card."
+    },
+    {
+      "id": 260,
+      "pMessage": "Save data is corrupted.\nReturning to the title screen."
+    },
+    {
+      "id": 270,
+      "pMessage": "Failed to read SD Card."
+    },
+    {
+      "id": 280,
+      "pMessage": "Return to the title screen?"
+    },
+    {
+      "id": 281,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 282,
+      "pMessage": "No"
+    },
+    {
+      "id": 300,
+      "pMessage": " %ls?"
+    },
+    {
+      "id": 400,
+      "pMessage": "通信エラーです。\n時間を置いて、再度お試しください。\nしばらくたっても解消しないときは\n以下をご覧の上、お問い合わせください。\nエラー番号：%s\n"
+    },
+    {
+      "id": 401,
+      "pMessage": "システムエラーにより通信できません。\n弊社サポートセンターより、\nお問い合わせください。\nエラー番号：%s\n"
+    },
+    {
+      "id": 402,
+      "pMessage": "入力された内容が間違っています。\n正しい内容を再度入力してください。"
+    },
+    {
+      "id": 403,
+      "pMessage": "認証エラーです。\nスクエニ メンバーズの登録が\n確認できません。\n登録内容をご確認ください。\nエラー番号：%s\n"
+    },
+    {
+      "id": 404,
+      "pMessage": "認証エラーです。\n登録情報に問題がある場合があります。\n弊社サポートセンターより、\nお問い合わせください。\nエラー番号：%s\n"
+    },
+    {
+      "id": 405,
+      "pMessage": "ネットワークに接続できません。\nメンバーズサイトにログインして\nブレイブリーコードを解除し、ゲームで\n再度メンバーズ登録をしてください。\nエラー番号：%s\n"
+    },
+    {
+      "id": 406,
+      "pMessage": "ただ今メンテナンス中です。\nメンバーズサイトにて、\nメンテナンス情報をご確認ください。\n"
+    },
+    {
+      "id": 407,
+      "pMessage": "既に他ユーザによって\n利用されているメンバーズアカウント\nと紐付いているため、\nROMを初期化してください。"
+    },
+    {
+      "id": 408,
+      "pMessage": "An error has occurred.\nPlease wait a while and try again.\n"
+    },
+    {
+      "id": 409,
+      "pMessage": "再認証が必要です。"
+    },
+    {
+      "id": 410,
+      "pMessage": "現在、セーブデータの復旧機能を\nご利用いただくことができません。\n\n以下をご覧の上、お問い合わせください。\n"
+    },
+    {
+      "id": 500,
+      "pMessage": "スクエニメンバーズのサービスを\n利用しますか？"
+    },
+    {
+      "id": 501,
+      "pMessage": "はい"
+    },
+    {
+      "id": 502,
+      "pMessage": "いいえ"
+    },
+    {
+      "id": 503,
+      "pMessage": "ネットを使った様々な機能が利用できます。\n・フレンドの最新データの入手\n・ネットでゲストを招く「ネトフレ招待」\n・様々な課題に挑戦して限定アイテムＧＥＴ\n・新たなる強敵への挑戦\n"
+    },
+    {
+      "id": 504,
+      "pMessage": "※前作でセーブデータをアップロードしてあれば\n本作にその一部を引き継ぐこともできます。"
+    },
+    {
+      "id": 505,
+      "pMessage": "※スクエニメンバーズのサービス利用は\nゲーム開始後も、タイトル画面から設定できます。"
+    },
+    {
+      "id": 506,
+      "pMessage": "テキスト入力枠をタッチすると、入力画面が開きます。\n入力が終わりましたら、「送信」をタッチしてください。\nゲーム開始後に、タイトルの「メンバーズ」からも\n利用の登録ができます。"
+    },
+    {
+      "id": 507,
+      "pMessage": "メンバーズＩＤ またはスクウェア・エニックスＩＤ"
+    },
+    {
+      "id": 508,
+      "pMessage": "パスワード"
+    },
+    {
+      "id": 509,
+      "pMessage": "ワンタイムパスワード"
+    },
+    {
+      "id": 510,
+      "pMessage": "ＩＤ、またはパスワードが違います。"
+    },
+    {
+      "id": 511,
+      "pMessage": "＊"
+    },
+    {
+      "id": 512,
+      "pMessage": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+    },
+    {
+      "id": 513,
+      "pMessage": "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+    },
+    {
+      "id": 514,
+      "pMessage": "ワンタイムパスワードを入力してください。"
+    },
+    {
+      "id": 515,
+      "pMessage": "メンバーズIDとパスワードの再送信が必要です。\n「送信」ボタンをタッチしてください。"
+    },
+    {
+      "id": 516,
+      "pMessage": "ＩＤとパスワードを保存する"
+    },
+    {
+      "id": 517,
+      "pMessage": "ＩＤとパスワードは、ゲームソフトの\n中に暗号化されて保存されます。\n友達など、第三者にソフトを貸す場合は\n必ずデータの初期化を行ってください。\n\nなお、セキュリティ保護のため、\n一部文字や\n空白が＊に変わって\n表示されます。"
+    },
+    {
+      "id": 518,
+      "pMessage": "なお、同じメンバーズＩＤを複数のニンテンドー３ＤＳに登録すると\n一部端末で通信機能が利用できなくなります。\n詳細は、"
+    },
+    {
+      "id": 600,
+      "pMessage": "Skip"
+    },
+    {
+      "id": 601,
+      "pMessage": "Speak"
+    },
+    {
+      "id": 602,
+      "pMessage": "Enter"
+    },
+    {
+      "id": 603,
+      "pMessage": "Exit"
+    },
+    {
+      "id": 604,
+      "pMessage": "Proceed"
+    },
+    {
+      "id": 605,
+      "pMessage": "Get On"
+    },
+    {
+      "id": 606,
+      "pMessage": "Get Off"
+    },
+    {
+      "id": 607,
+      "pMessage": "Open"
+    },
+    {
+      "id": 608,
+      "pMessage": "Inspect"
+    },
+    {
+      "id": 609,
+      "pMessage": "Pray"
+    },
+    {
+      "id": 610,
+      "pMessage": "Lv <num>"
+    },
+    {
+      "id": 611,
+      "pMessage": "Display Map"
+    },
+    {
+      "id": 612,
+      "pMessage": "Switch Map"
+    },
+    {
+      "id": 613,
+      "pMessage": "Hide Map"
+    },
+    {
+      "id": 614,
+      "pMessage": "Game Completion Bonus\n\nYou can now view The End in the event viewer."
+    },
+    {
+      "id": 615,
+      "pMessage": "Game Completion Bonus\n\nYou can now view bonus movies in the gallery."
+    },
+    {
+      "id": 616,
+      "pMessage": "Game Completion Bonus\n\nNew music has been added to\nLuxencheer Rhythm Catch."
+    },
+    {
+      "id": 617,
+      "pMessage": "Close"
+    },
+    {
+      "id": 618,
+      "pMessage": "Game Completion Bonus\n\nYou can now view The Final Chapter in the event viewer."
+    },
+    {
+      "id": 619,
+      "pMessage": "Game Completion Bonus\n\nNew prizes have been added to the exchange shop."
+    },
+    {
+      "id": 620,
+      "pMessage": "New notes have been added as rewards in the game corner."
+    },
+    {
+      "id": 621,
+      "pMessage": "New music has been added to\nLuxencheer Rhythm Catch."
+    },
+    {
+      "id": 622,
+      "pMessage": "A new course has been added\nto Ringabel’s Panic Cruise."
+    },
+    {
+      "id": 623,
+      "pMessage": "Game Completion Bonus\n\nNew notes have been added as rewards in the game corner."
+    },
+    {
+      "id": 624,
+      "pMessage": "Come one, come all! Have some\nfun over here until the\nFlower Festival’s main event!"
+    },
+    {
+      "id": 625,
+      "pMessage": "Hear, hear! The festival may\nbe over, but the fun is far\nfrom it!"
+    },
+    {
+      "id": 626,
+      "pMessage": "Hey, you there! Why not try\nyour hand at the game corner?\nPiles of fabulous prizes await!"
+    },
+    {
+      "id": 627,
+      "pMessage": "Here’s a pamphlet with\nall the details!"
+    },
+    {
+      "id": 628,
+      "pMessage": "Welcome to the game corner!\nWhat would you like to do?"
+    },
+    {
+      "id": 629,
+      "pMessage": "Welcome to the game corner!\nNow with a brand-new stage!\nCome on, give it a try!"
+    },
+    {
+      "id": 630,
+      "pMessage": "Play a game"
+    },
+    {
+      "id": 631,
+      "pMessage": "Exchange tokens"
+    },
+    {
+      "id": 632,
+      "pMessage": "Nothing"
+    },
+    {
+      "id": 633,
+      "pMessage": "A new asterisk holder’s figure may\nnow be viewed in the gallery."
+    },
+    {
+      "id": 634,
+      "pMessage": "Hard and Expert difficulties have been\nunlocked for Luxencheer Rhythm Catch."
+    },
+    {
+      "id": 635,
+      "pMessage": "Hard and Expert difficulties have been\nunlocked for Ringabel’s Panic Cruise."
+    },
+    {
+      "id": 636,
+      "pMessage": "Mouse controls will be used in the game corner.\n*Minigames cannot be played with unsupported controllers."
+    },
+    {
+      "id": 637,
+      "pMessage": "Game Corner"
+    },
+    {
+      "id": 638,
+      "pMessage": "Select a minigame to play."
+    },
+    {
+      "id": 639,
+      "pMessage": "Back"
+    },
+    {
+      "id": 640,
+      "pMessage": "Check Rewards"
+    },
+    {
+      "id": 641,
+      "pMessage": "Best In-Game Score"
+    },
+    {
+      "id": 642,
+      "pMessage": "Results"
+    },
+    {
+      "id": 643,
+      "pMessage": "Latest Score"
+    },
+    {
+      "id": 644,
+      "pMessage": "Completion Reward"
+    },
+    {
+      "id": 645,
+      "pMessage": "OK"
+    },
+    {
+      "id": 646,
+      "pMessage": "Obtained above rewards."
+    },
+    {
+      "id": 647,
+      "pMessage": "Game Completion Bonus\n\nYou can now view the original\ncredits and additional\ncredits in the event viewer."
+    },
+    {
+      "id": 648,
+      "pMessage": "There is no going back after\nthis point. Make sure there\nisn’t anything left that you\nwant to take care of first.\nAre you ready to proceed?"
+    },
+    {
+      "id": 649,
+      "pMessage": "Hold on a bit!"
+    },
+    {
+      "id": 650,
+      "pMessage": "I’m all ready!"
+    },
+    {
+      "id": 651,
+      "pMessage": "Notes you’ve acquired can\nbe read in the New Notes\nsection of D’s Journal."
+    },
+    {
+      "id": 652,
+      "pMessage": "How to Play"
+    },
+    {
+      "id": 653,
+      "pMessage": "Select what input device to use for controls."
+    },
+    {
+      "id": 654,
+      "pMessage": "This setting is recommended for those who wish to enjoy the original play style requiring two mice."
+    },
+    {
+      "id": 655,
+      "pMessage": "This setting is recommended for those who wish to play with a controller."
+    },
+    {
+      "id": 656,
+      "pMessage": "This setting is recommended for those who are comfortable with <sprite name=\"button_Lstick03\"> controls."
+    },
+    {
+      "id": 657,
+      "pMessage": "Click the mouse to use for the right-hand cursor."
+    },
+    {
+      "id": 658,
+      "pMessage": "Click the mouse to use for the left-hand cursor."
+    },
+    {
+      "id": 659,
+      "pMessage": "Back"
+    },
+    {
+      "id": 660,
+      "pMessage": "Settings completed."
+    },
+    {
+      "id": 661,
+      "pMessage": "Change Device"
+    },
+    {
+      "id": 662,
+      "pMessage": "Keyboard"
+    },
+    {
+      "id": 663,
+      "pMessage": "Mouse"
+    },
+    {
+      "id": 664,
+      "pMessage": "Controller"
+    },
+    {
+      "id": 665,
+      "pMessage": "Game Completion Bonus\n\nYou can now view the original\ncredits and additional\ncredits in the event viewer."
+    },
+    {
+      "id": 666,
+      "pMessage": "Input device disconnected.\nExiting minigame."
+    },
+    {
+      "id": 667,
+      "pMessage": "Dual-Mouse"
+    },
+    {
+      "id": 668,
+      "pMessage": "Selected"
+    },
+    {
+      "id": 700,
+      "pMessage": "Source"
+    },
+    {
+      "id": 701,
+      "pMessage": "Failed to read save data."
+    },
+    {
+      "id": 702,
+      "pMessage": "Save data could not be written."
+    },
+    {
+      "id": 703,
+      "pMessage": "Save data are corrupted."
+    },
+    {
+      "id": 704,
+      "pMessage": "A fatal error has occurred.\nThe application will be closed."
+    },
+    {
+      "id": 705,
+      "pMessage": "System save data could not be written.\nThe application will be closed."
+    },
+    {
+      "id": 706,
+      "pMessage": "Key configuration settings have been\nreturned to the default due to a change\nto your keyboard’s language.\n\n*Settings can be changed in the Config menu."
+    },
+    {
+      "id": 800,
+      "pMessage": "Press and hold"
+    },
+    {
+      "id": 810,
+      "pMessage": "Online"
+    },
+    {
+      "id": 811,
+      "pMessage": "Testing internet connection."
+    },
+    {
+      "id": 812,
+      "pMessage": "Synchronizing with network."
+    },
+    {
+      "id": 813,
+      "pMessage": "Online connection established."
+    },
+    {
+      "id": 814,
+      "pMessage": "Internet Connection Test"
+    },
+    {
+      "id": 815,
+      "pMessage": "Offline"
+    },
+    {
+      "id": 816,
+      "pMessage": "Internet connection interrupted.\nSettings have been changed to not\nconnect to the network.\n\nIf attempting to connect to the network again,\nplease update the settings in the Config menu\nto allow network connections."
+    },
+    {
+      "id": 817,
+      "pMessage": "Could not connect to the internet.\nPlease check your settings."
+    },
+    {
+      "id": 818,
+      "pMessage": "Try again"
+    },
+    {
+      "id": 819,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 900,
+      "pMessage": "Sorry, but you do not meet the criteria to play."
+    }
+  ]
+}

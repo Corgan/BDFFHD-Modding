@@ -1,0 +1,119 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 2558,
+    "data_one_size": 28,
+    "data_num": 12,
+    "ints_per_record": 7
+  },
+  "records": [
+    {
+      "id": "",
+      "pTitle": "Sweeper",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nDefeat an enemy party of two or more with one attack.\n\nBonus:\nEarn a little more money.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "Sweeper Ace",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for Sweeper in at least five battles in a row.\n\nBonus:\nEarn more money.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "Sweeper Hero",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for Sweeper in at least ten battles in a row.\n\nBonus:\nEarn a lot more money.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "1-Turn Victor",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nDefeat all enemies on the first turn.\n\nBonus:\nEarn a little more experience.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "1-Turn Ace",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for 1-turn Victor in at least five battles in a row.\n\nBonus:\nEarn more experience.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "1-Turn Hero",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for 1-turn Victor in at least ten battles in a row.\n\nBonus:\nEarn a lot more experience.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "Unscathed",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nWin a battle without taking any damage.\n\nBonus:\nEarn a few more job points.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "Unscathed Ace",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for Unscathed at least five battles in a row.\n\nBonus:\nEarn more job points.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "Unscathed Hero",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Condition:\nSatisfy the condition for Unscathed at least ten battles in a row.\n\nBonus:\nEarn many more job points.",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "",
+      "pTextureName": ""
+    },
+    {
+      "id": "",
+      "pTitle": "",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "",
+      "pTextureName": ""
+    }
+  ]
+}

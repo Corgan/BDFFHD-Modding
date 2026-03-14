@@ -1,0 +1,41 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 160,
+    "data_one_size": 112,
+    "data_num": 1,
+    "ints_per_record": 28
+  },
+  "records": [
+    {
+      "criticalDamagePercent": 200,
+      "elementRegistCoeffFatal": 150,
+      "elementRegistCoeffWeak": 150,
+      "elementRegistCoeffHalfDamage": 50,
+      "elementRegistCoeffNoDamage": 0,
+      "berserkDamagePercent": 150,
+      "guardDamagePercent": 50,
+      "speciesAtkRate": 150,
+      "footGripAtkRate": 100,
+      "footGripDefRate": 100,
+      "revenge_0": 75,
+      "revenge_1": 150,
+      "revenge_2": 200,
+      "riskHeadgeRate": 250,
+      "aspilRate": 50,
+      "magSympathy_0": 10,
+      "magSympathy_1": 110,
+      "magSympathy_2": 115,
+      "magSympathy_3": 120,
+      "robRate": 200,
+      "spiritBarrierRate": 10,
+      "deadCountRate": 1022739087,
+      "buffUp": 10,
+      "guardDefaultRate": 25,
+      "statusBuff": 25,
+      "statusShort": 50,
+      "shadowCopyRate": 75,
+      "poisonRatio": 10
+    }
+  ]
+}

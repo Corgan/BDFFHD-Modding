@@ -1,0 +1,191 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 528,
+    "data_one_size": 48,
+    "data_num": 10,
+    "ints_per_record": 12
+  },
+  "records": [
+    {
+      "SCRIPT_ID": 16,
+      "PRI": 62,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        203,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        210,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 17,
+      "PRI": 61,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        206,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        210,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 18,
+      "PRI": 60,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        209,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        210,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 19,
+      "PRI": 59,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        211,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 20,
+      "PRI": 58,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        220,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 22,
+      "PRI": 56,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 23,
+      "PRI": 55,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        228,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 24,
+      "PRI": 54,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        240,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        241,
+        0,
+        0
+      ]
+    },
+    {
+      "SCRIPT_ID": 25,
+      "PRI": 53,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        9500,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "SCRIPT_ID": 26,
+      "PRI": 52,
+      "TABLEINDEX": 1,
+      "ENABLE_REQUEST": [
+        0,
+        239,
+        1,
+        0,
+        0
+      ],
+      "DISABLE_REQUEST": [
+        0,
+        241,
+        0,
+        0
+      ]
+    }
+  ]
+}

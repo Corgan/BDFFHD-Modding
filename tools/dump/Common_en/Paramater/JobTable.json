@@ -1,0 +1,601 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 9864,
+    "data_one_size": 32,
+    "data_num": 59,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "NO": 1,
+      "ID": 0,
+      "NAME_JOB": "Freelancer",
+      "NAME_JOBCMD": "Miscellany",
+      "JCID": 2024,
+      "DOC": "Can use all equipment with average ability.",
+      "TABLE_LVID": 0,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 2,
+      "ID": 1,
+      "NAME_JOB": "Knight",
+      "NAME_JOBCMD": "Chivalry",
+      "JCID": 2017,
+      "DOC": "Manipulates physical attack and physical defense to improve combat ability.",
+      "TABLE_LVID": 1,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 3,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2009,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 4,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2001,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 5,
+      "ID": 4,
+      "NAME_JOB": "Monk",
+      "NAME_JOBCMD": "Martial Arts",
+      "JCID": 2018,
+      "DOC": "A high-HP fighter that unleashes fist attacks.",
+      "TABLE_LVID": 4,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 6,
+      "ID": 5,
+      "NAME_JOB": "Ranger",
+      "NAME_JOBCMD": "Hunting",
+      "JCID": 2019,
+      "DOC": "Skilled at archery and hunting targeted family.",
+      "TABLE_LVID": 5,
+      "ATK_NUM_CON": 2
+    },
+    {
+      "NO": 7,
+      "ID": 6,
+      "NAME_JOB": "Ninja",
+      "NAME_JOBCMD": "Ninjutsu",
+      "JCID": 2020,
+      "DOC": "A dual wielder with high evasion through ninjutsu.",
+      "TABLE_LVID": 6,
+      "ATK_NUM_CON": 2
+    },
+    {
+      "NO": 11,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2010,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 12,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2011,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 13,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2012,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 14,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2013,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 15,
+      "ID": 2,
+      "NAME_JOB": "Black Mage",
+      "NAME_JOBCMD": "Black Magic",
+      "JCID": 2014,
+      "DOC": "Skilled at black magic-based attacks.",
+      "TABLE_LVID": 2,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 18,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2002,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 19,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2003,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 20,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2004,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 21,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2005,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 22,
+      "ID": 3,
+      "NAME_JOB": "White Mage",
+      "NAME_JOBCMD": "White Magic",
+      "JCID": 2006,
+      "DOC": "Skilled at white magic-based healing and support.",
+      "TABLE_LVID": 3,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 25,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2025,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 26,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2026,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 27,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2027,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 28,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2028,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 29,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2029,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 30,
+      "ID": 7,
+      "NAME_JOB": "Time Mage",
+      "NAME_JOBCMD": "Time Magic",
+      "JCID": 2030,
+      "DOC": "Skilled at time magic-based support and attacks.",
+      "TABLE_LVID": 7,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 31,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2037,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 32,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2038,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 33,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2039,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 34,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2040,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 35,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2041,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 36,
+      "ID": 8,
+      "NAME_JOB": "Spell Fencer",
+      "NAME_JOBCMD": "Sword Magic",
+      "JCID": 2042,
+      "DOC": "Imbues weapons with magic to enhance attacks.",
+      "TABLE_LVID": 8,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 37,
+      "ID": 9,
+      "NAME_JOB": "Swordmaster",
+      "NAME_JOBCMD": "Bushido",
+      "JCID": 2043,
+      "DOC": "A duelist that uses counterattacks in combat.",
+      "TABLE_LVID": 9,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 38,
+      "ID": 10,
+      "NAME_JOB": "Pirate",
+      "NAME_JOBCMD": "Piracy",
+      "JCID": 2044,
+      "DOC": "Launches many enfeeblements and powerful attacks.",
+      "TABLE_LVID": 10,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 39,
+      "ID": 11,
+      "NAME_JOB": "Dark Knight",
+      "NAME_JOBCMD": "Dark Arts",
+      "JCID": 2045,
+      "DOC": "Unleashes attacks that grow in power as HP drops.",
+      "TABLE_LVID": 11,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 40,
+      "ID": 12,
+      "NAME_JOB": "Templar",
+      "NAME_JOBCMD": "Holy Arts",
+      "JCID": 2046,
+      "DOC": "Manipulates critical ability for powerful attacks.",
+      "TABLE_LVID": 12,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 41,
+      "ID": 13,
+      "NAME_JOB": "Vampire",
+      "NAME_JOBCMD": "Vampirism",
+      "JCID": 2047,
+      "DOC": "Able to harness the power of monsters.",
+      "TABLE_LVID": 13,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 42,
+      "ID": 14,
+      "NAME_JOB": "Arcanist",
+      "NAME_JOBCMD": "Ritualism",
+      "JCID": 2048,
+      "DOC": "Uses black magic and dark forces to attack.",
+      "TABLE_LVID": 14,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 43,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2031,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 44,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2055,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 45,
+      "ID": 17,
+      "NAME_JOB": "Valkyrie",
+      "NAME_JOBCMD": "Acrobatics",
+      "JCID": 2061,
+      "DOC": "Skilled at spear use and acrobatics.",
+      "TABLE_LVID": 17,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 46,
+      "ID": 18,
+      "NAME_JOB": "Spiritmaster",
+      "NAME_JOBCMD": "Spiritism",
+      "JCID": 2062,
+      "DOC": "Provides white magic and spirit force support.",
+      "TABLE_LVID": 18,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 47,
+      "ID": 19,
+      "NAME_JOB": "Salve-Maker",
+      "NAME_JOBCMD": "Medication",
+      "JCID": 2063,
+      "DOC": "Skilled at healing and attacks using items.",
+      "TABLE_LVID": 19,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 48,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2064,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 49,
+      "ID": 21,
+      "NAME_JOB": "Thief",
+      "NAME_JOBCMD": "Thievery",
+      "JCID": 2070,
+      "DOC": "Highly agile, and can steal items.",
+      "TABLE_LVID": 21,
+      "ATK_NUM_CON": 2
+    },
+    {
+      "NO": 50,
+      "ID": 22,
+      "NAME_JOB": "Merchant",
+      "NAME_JOBCMD": "Commerce",
+      "JCID": 2071,
+      "DOC": "Exploits the influence of coin in combat.",
+      "TABLE_LVID": 22,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 51,
+      "ID": 23,
+      "NAME_JOB": "Performer",
+      "NAME_JOBCMD": "Singing",
+      "JCID": 2072,
+      "DOC": "Skilled at supporting allies through song.",
+      "TABLE_LVID": 23,
+      "ATK_NUM_CON": 4
+    },
+    {
+      "NO": 52,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2050,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 53,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2051,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 54,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2052,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 55,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2053,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 56,
+      "ID": 15,
+      "NAME_JOB": "Summoner",
+      "NAME_JOBCMD": "Summoning",
+      "JCID": 2054,
+      "DOC": "Summons otherworldly beings for powerful attacks.",
+      "TABLE_LVID": 15,
+      "ATK_NUM_CON": 5
+    },
+    {
+      "NO": 57,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2056,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 58,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2057,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 59,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2058,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 60,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2059,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 61,
+      "ID": 16,
+      "NAME_JOB": "Conjurer",
+      "NAME_JOBCMD": "Invocation",
+      "JCID": 2060,
+      "DOC": "Draws upon the power of otherworldly beings.",
+      "TABLE_LVID": 16,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 62,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2065,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 63,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2066,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 64,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2067,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 65,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2068,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    },
+    {
+      "NO": 66,
+      "ID": 20,
+      "NAME_JOB": "Red Mage",
+      "NAME_JOBCMD": "B/W Magic",
+      "JCID": 2069,
+      "DOC": "Wields a balance of both black and white magic.",
+      "TABLE_LVID": 20,
+      "ATK_NUM_CON": 3
+    }
+  ]
+}

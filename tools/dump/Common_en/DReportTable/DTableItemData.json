@@ -1,0 +1,1581 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 147376,
+    "data_one_size": 12,
+    "data_num": 314,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "index": 1,
+      "pText": "A sword mass-produced by a simple manufacturing method that integrates the blade, guard, and hilt. Its simple, broad blade is designed to be easily wielded, even by weaker individuals. It is a popular weapon for self-defense thanks to its adequate length and ease of use.",
+      "category": 1
+    },
+    {
+      "index": 2,
+      "pText": "An iron-forged, mass-produced sword that has proven itself on the battlefield as the standard weapon of issue for troops from many different lands. The blades available to the common folk, however, tend to be dulled, and leave something to be desired for a seasoned swordsman.",
+      "category": 1
+    },
+    {
+      "index": 3,
+      "pText": "A sword forged by a famous sword-maker using Eisenberg-mined mythril ore smelted at an extremely high temperature. While the blade length is on the short side due to mythril being so precious, it is far sharper than iron swords.",
+      "category": 1
+    },
+    {
+      "index": 4,
+      "pText": "A slender, curved sword believed to have originated in the Harena region. This cruel weapon is well suited for carving chunks off an enemy with each swing of its beautifully bowed blade. This makes it the favored weapon of brigands and pirates.",
+      "category": 1
+    },
+    {
+      "index": 5,
+      "pText": "A slender sword made from a special metal that emits a sleep-inducing agent when it reacts to blood or body heat. It was originally intended for self-defense, but production was halted after these swords started falling into the wrong hands.\n\n[Attack: Sleep (low)]",
+      "category": 1
+    },
+    {
+      "index": 6,
+      "pText": "A thick sword made for both high attack power and ease of defense. Simply equipping it slightly raises defense. This makes it an effective weapon for raising the defense of those ill suited for using shields.\n\n[Effect when equipped: +Physical defense]",
+      "category": 1
+    },
+    {
+      "index": 7,
+      "pText": "A sword forged from a rare metal as cold as ice that is mined from the Eternian permafrost. It adds a water effect to slash attacks, making it highly prized for eradicating monsters susceptible to water and ice.",
+      "category": 1
+    },
+    {
+      "index": 8,
+      "pText": "A large steel sword bearing a name that means “two-handed sword” in the language of Eisenberg. Thanks to its length and weight, this weapon is more often used in bold attacks seeking to crush the bones of enemies rather than simply slashing them.",
+      "category": 1
+    },
+    {
+      "index": 9,
+      "pText": "A sword imbued with the power of fire by the extended tempering of its mythril steel blade in Eisenberg’s magma. Its beautiful blade seems to ripple like fire, but as soon as it is swung, it bursts into flame, allowing its wielder to deal a fire effect with each slash.",
+      "category": 1
+    },
+    {
+      "index": 10,
+      "pText": "A legendary sword bearing the inscription, “Whosoever draws this sword shall be the rightful king.” The boy who drew it from the stone did ultimately become king after a series of adventures. Its blade is imbued with the power of light, making it well suited against foes with the power of dark.",
+      "category": 1
+    },
+    {
+      "index": 11,
+      "pText": "A mystical sword with ancient runes inscribed on its blade. It is imbued with wondrous magic power that raises its wielder’s magic attack. This makes it the perfect blade for those who combine sword-based melee combat with magic attacks.\n\n[Effect when equipped: +Magic attack]",
+      "category": 1
+    },
+    {
+      "index": 12,
+      "pText": "Said to have once been used by giants, this huge weapon of the Norende region bears a name that means “great sword.” Its massive size and weight make it difficult to wield, but its terrible destructive power makes it a favorite of mercenaries and other warriors who pride themselves in their strength.",
+      "category": 1
+    },
+    {
+      "index": 13,
+      "pText": "A slender magic sword into which a legendary master blacksmith forged the black magic Drain by request of a certain patron. Upon seeing the blade, the patron is said to have gladly purchased it, leaving with the cryptic words, “This is positively vampiric!”\n\n[Effect when used: Sword Spell Drain]",
+      "category": 1
+    },
+    {
+      "index": 14,
+      "pText": "A legendary magic sword said to have been bestowed upon a wicked priest by an evil god of chaos back in ancient times. It had been hidden away in the Orthodoxy’s treasure vault, but sensing its dangerous power, Yulyana took it and sealed it away.\n\n[Attack: Confuse (low)]",
+      "category": 1
+    },
+    {
+      "index": 15,
+      "pText": "A rare sword that has been steeped in a special aphrodisiac that charms those it cuts. Forged by request of a few eccentric dilettantes, its rarity makes it an extremely pricey weapon.\n\n[Attack: Charm (low)]",
+      "category": 1
+    },
+    {
+      "index": 16,
+      "pText": "The renowned sword of the legendary hero Roland. Its name means “eternal blade.” Of all the weapons Yulyana took from the Orthodoxy, Durandal is said to have been the most perilous, but try as he might to destroy it, he failed to cause so much as a scratch.",
+      "category": 1
+    },
+    {
+      "index": 17,
+      "pText": "A double-bladed axe that a stalwart blacksmith forged from mythril steel mined in Eisenberg. The use of rare and precious mythril necessitated a rather small axe head, but its keen edges can cut through plate armor with ease.",
+      "category": 2
+    },
+    {
+      "index": 18,
+      "pText": "A small axe widely used both for warfare and everyday chores, including hunting and chopping lumber. While it has slightly lower accuracy and critical rate than other weapons, it can easily deliver a heavy blow from its weighty head.",
+      "category": 2
+    },
+    {
+      "index": 19,
+      "pText": "An unrefined but practical axe for battles onboard ships. A favorite of pirates, its dual axe heads make it easy to wield, even in chaotic battles. It deals the most damage against aquatic monsters.",
+      "category": 2
+    },
+    {
+      "index": 20,
+      "pText": "A small axe imbued with the power of magma. Although it is mentioned in the myths concerning Eisenberg’s founding and images of it can be found graven into ruins through the land, no one has ever laid eyes upon it nor knows the secrets behind its forging.",
+      "category": 2
+    },
+    {
+      "index": 21,
+      "pText": "A sacred axe said to have been wrought through divine guidance to banish evil during the long battle between man and demon that was waged in the dim, distant past. It deals high damage to demonic monsters.",
+      "category": 2
+    },
+    {
+      "index": 22,
+      "pText": "An axe forged in the best possible shape for use in battle. Designed by a famous weaponsmith in Florem, its handle features wave-like patterns and other embellishments that speak to the playfulness of the people of that land.",
+      "category": 2
+    },
+    {
+      "index": 23,
+      "pText": "A massive, single-bladed axe said to have been favored by a legendary race of giants. It is extremely thick and heavy, and its terrible destructive force is only matched by the terrible difficulty of wielding it. An amusing legend tells of how it was once used as a ship anchor back in the Golden Age of Piracy.",
+      "category": 2
+    },
+    {
+      "index": 24,
+      "pText": "An incredibly heavy double-headed axe forged by a team of five stalwart blacksmiths. Thick and durable enough to withstand a point-blank cannon blast and sharp enough to chop down a ship’s mast in a single swing.",
+      "category": 2
+    },
+    {
+      "index": 25,
+      "pText": "An infamous magic axe said to sow fear among mortals. Its name derives from an ancient parable about tenacity and determination—the story of a block of metal the size of an axe that was crafted and polished into the finest needle.\n\n[Attack: Dread (low)]",
+      "category": 2
+    },
+    {
+      "index": 26,
+      "pText": "Rumored to be a great axe that could exorcise the sins and sicknesses that infest the mortal world. A terrible curse said to be capable of eradicating all heathens and heretics is graven upon its gigantic crescent-shaped blades.\n\n[Effect when used: Kill]",
+      "category": 2
+    },
+    {
+      "index": 27,
+      "pText": "An oddly shaped, double-headed axe that the gods bestowed upon the race of giants. It is said that they showed their allegiance to the gods by using this axe to carve the Sky Continent from the earth. This mighty axe can rend earth, bore though bedrock, carve out stone, and smash geological formations.",
+      "category": 2
+    },
+    {
+      "index": 28,
+      "pText": "A simple weapon consisting of a sharp metal point at the end of a long shaft. Spears and other polearms like them add a power modifier when attacking multiple foes at once.",
+      "category": 3
+    },
+    {
+      "index": 29,
+      "pText": "A spear with a sharp tip and blades underneath. It was forged by a master smith from mythril steel mined in Eisenberg. Though its beautiful shape often results in this weapon being put on ceremonial display, it makes for a powerful weapon with deadly potential on the battlefield.",
+      "category": 3
+    },
+    {
+      "index": 30,
+      "pText": "A winged spear fashioned after those wielded by mythical women warriors. Though designed by a famous weapon designer of Florem, critics call it difficult to use. It truly shines when used in jumping attacks, but only a chosen few can draw upon its full potential.",
+      "category": 3
+    },
+    {
+      "index": 31,
+      "pText": "A polearm with a small axe blade below its spearhead, and opposite that, a bladed hook, enabling the weapon to be used for slashing, thrusting, striking, and hooking. Even today, where soldiers are heavily armored and cannon use has spread throughout the lands, halberds are a common weapon of many armies.",
+      "category": 3
+    },
+    {
+      "index": 32,
+      "pText": "A polearm believed to have originated when some sort of blade or knife was affixed to the end of a long shaft. Refined through the ages, it came to resemble a large, bladed spear tip that even neophytes of the battlefield could wield with deadly effect.",
+      "category": 3
+    },
+    {
+      "index": 33,
+      "pText": "The legendary three-pronged spear believed to have been wielded by the sea god in the mythical age before the advent of Crystalism. Its three-pronged tip is imbued with the power of lightning, allowing it to add a lightning effect to each attack.",
+      "category": 3
+    },
+    {
+      "index": 34,
+      "pText": "A cross-shaped spear fashioned after the weapon wielded by a hero of Wa, an island nation that vanished centuries ago. It is imbued with the divine power of exorcism, allowing it to deal devastating damage against undead creatures.",
+      "category": 3
+    },
+    {
+      "index": 35,
+      "pText": "The crescent, halberd-like weapon favored by Lü Bu, the legendary “Flying General” and great warrior who rode a crimson steed capable of traveling a thousand leagues a day.",
+      "category": 3
+    },
+    {
+      "index": 36,
+      "pText": "A legendary weapon revered as a holy relic by the Crystal Orthodoxy, which believes it is imbued with divine power. The Orthodoxy uses it to stage miracles. Each attack adds a light effect.",
+      "category": 3
+    },
+    {
+      "index": 37,
+      "pText": "A spear of the land of Wa, an island nation that vanished centuries ago. Its bright red shaft was the symbol of the mightiest warrior of a clan, capable of staining the silvery spearhead with the crimson blood of his foes.",
+      "category": 3
+    },
+    {
+      "index": 38,
+      "pText": "The fateful spear that a soldier is said to have used in the execution of a legendary prophet who was the savior of his people but was eventually captured by the land’s occupiers who feared his influence. It is said to be a holy relic because it was bathed in his blood. It deals special damage against aquatic monsters.",
+      "category": 3
+    },
+    {
+      "index": 39,
+      "pText": "A throwing spear from northern mythology that the god of death and war is said to have used to herald the outbreak of war and the death of enemies. It has the almost mystical power of always hitting its target and then returning to its thrower’s hand.",
+      "category": 3
+    },
+    {
+      "index": 40,
+      "pText": "A small, short staff employed by common clergy and mages in simple rituals and for other uses. A jewel is mounted at the tip to heighten its bearer’s magic power.\n\n[Effect when equipped: +Magic attack]",
+      "category": 4
+    },
+    {
+      "index": 41,
+      "pText": "An exquisite rod with a head of high-grade Eisenberg mythril fashioned by a veteran craftsman. When equipped, it raises magic attack more than normal rods, which is why it costs slightly more.\n\n[Effect when equipped: +Magic attack]",
+      "category": 4
+    },
+    {
+      "index": 42,
+      "pText": "A rod crowned with a jewel imbued with the power of fire. When equipped, it raises magic attack and the effect of fire attacks.\n\n[Effect when equipped: +Magic attack, +Fire attack]",
+      "category": 4
+    },
+    {
+      "index": 43,
+      "pText": "A rod crowned with a jewel imbued with the power of ice. When equipped, it raises magic attack and the effect of of water attacks.\n\n[Effect when equipped: +Magic attack, +Water attack]",
+      "category": 4
+    },
+    {
+      "index": 44,
+      "pText": "A rod that raises magic attack more effectively than conventional rods. Invented and developed in Eternia and then successfully mass-produced using the advanced technology of Ancheim.\n\n[Effect when equipped: +Magic attack]",
+      "category": 4
+    },
+    {
+      "index": 45,
+      "pText": "An accursed rod crowned with a crystal of powerful venom refined by a Netherworld cleric living in seclusion in an unknown land.\n\n[Effect when equipped: +Magic attack]\n[Attack: Poison (high)]",
+      "category": 4
+    },
+    {
+      "index": 46,
+      "pText": "The rod said to have been used by Lilith, a night demon and bringer of nightmares who appears in the many myths throughout the ages. She is said to come at night in a beautiful guise to slay children and expecting mothers.\n\n[Effect when equipped: +Magic attack]\n[Effect when used: Aspir]",
+      "category": 4
+    },
+    {
+      "index": 47,
+      "pText": "A rod inadvertently created by a famous craftsman of magic items who served the Crystal Orthodoxy. Considered to be a failure. It can evoke a variety of black magic on command, but the wielder cannot name the target.\n\n[Effect when equipped: +Magic attack]\n[Effect when used: Random black magic]",
+      "category": 4
+    },
+    {
+      "index": 48,
+      "pText": "A rod brimming with tremendous magic power, wrought in the form of a musical instrument of a barbarian tribe, said to be capable of communicating with demons. It is one of the magic weapons Yulyana took from the Orthodoxy and sealed away.\n\n[Effect when equipped: +Magic attack, +Dark attack]",
+      "category": 4
+    },
+    {
+      "index": 49,
+      "pText": "A bludgeoning weapon made from thick steel plates fashioned into a cross shape and attached to a handle. It is effective against armored foes, but equipping it does not boost magic attack. This weapon was developed so black mages could join battles when they want to conserve MP.",
+      "category": 4
+    },
+    {
+      "index": 50,
+      "pText": "A mace fashioned in the likeness of the weapons said to have been wielded by the ogres of Wa, an island nation that vanished centuries ago. Though it is much smaller than the weapon of legend, it is still extremely heavy.\n\n[Effect when equipped: +Lightning attack]",
+      "category": 4
+    },
+    {
+      "index": 51,
+      "pText": "A bludgeoning weapon made from a spiked iron ball attached to a handle. This cruel weapon delivers both bludgeoning damage thanks to its weight and piercing damage from its spikes.",
+      "category": 4
+    },
+    {
+      "index": 52,
+      "pText": "A simple, hammer-like mace that armies have been using since ancient times as both a tool and a weapon. Besides combat, it is used for driving stakes into the ground, building encampments, and battering down gates and other obstructions.",
+      "category": 4
+    },
+    {
+      "index": 53,
+      "pText": "A staff made from a branch imbued with spirit power. It raises mind and boosts the user’s magic attack and healing magic. Staves add a power modifier when attacking multiple foes at once.\n\n[Effect when equipped: +Mind]",
+      "category": 5
+    },
+    {
+      "index": 54,
+      "pText": "A staff crowned with a large piece of mythril that has been refined using a special technique. The mythril’s magic power dramatically raises mind.\n\n[Effect when equipped: +Mind]",
+      "category": 5
+    },
+    {
+      "index": 55,
+      "pText": "A staff crowned with a ring of jade imbued with spirit power. It is said to have been carried by priests from an island nation that vanished from the pages of history centuries ago.\n\n[Effect when equipped: +Mind]",
+      "category": 5
+    },
+    {
+      "index": 56,
+      "pText": "Imbued with the power of healing, this staff was developed through the white magic studies conducted at Everlast Tower. Raising it up and chanting bestows the cure effect on desired targets.\n\n[Effect when equipped: +Mind]\n[Effect when used: Cure]",
+      "category": 5
+    },
+    {
+      "index": 57,
+      "pText": "A staff with a surface layer of wood from Yggdrasil, which is believed to grow somewhere in this world. The staff is imbued with great spirit power and exorcism power. Raising it up and chanting bestows the esuna effect on a single target.\n\n[Effect when equipped: +Mind]\n[Effect when used: Esuna]",
+      "category": 5
+    },
+    {
+      "index": 58,
+      "pText": "A beautiful staff imbued with the spirit power of wind. Long held by the vestals of the Temple of Wind, it was lost several generations ago when it was lent to the King of Ancheim, straining relations between the temple and royal family to this day.\n\n[Effect when equipped: +Mind, +Wind attack]",
+      "category": 5
+    },
+    {
+      "index": 59,
+      "pText": "A dark staff said to be imbued with the power of a demon feared by mortals long before the advent of Crystalism. The menacing power ceaselessly emanating from this staff is believed to add a dark effect to its attacks.\n\n[Effect when equipped: +Mind]",
+      "category": 5
+    },
+    {
+      "index": 60,
+      "pText": "A miraculous staff that a great sage long ago is said to have imbued with the power to resurrect the dead. Raising it up and chanting bestows the raise effect on a single target.\n\n[Effect when equipped: +Mind]\n[Effect when used: Raise]",
+      "category": 5
+    },
+    {
+      "index": 61,
+      "pText": "A quarterstaff made from the branch of a hardwood tree. This long, unrefined bludgeoning weapon does not deliver any added effects, such as increased spirit power. It makes a good weapon for monks well-versed in its use and for white mages who want to participate in combat while conserving MP.",
+      "category": 5
+    },
+    {
+      "index": 62,
+      "pText": "A quarterstaff fashioned to resemble a legendary weapon said to have been used by the Monkey King. It does not lengthen and contract at will as told of in legends, but it is an unexpectedly effective weapon.\n\n[Effect when equipped: +Modifier when attacking multiple targets]",
+      "category": 5
+    },
+    {
+      "index": 63,
+      "pText": "An incredibly heavy yet flexible quarterstaff made from a bundle of steel rods, wrapped in several layers of thin steel sheets. This long bludgeoning weapon is strong enough to easily snap an ordinary sword in two.",
+      "category": 5
+    },
+    {
+      "index": 64,
+      "pText": "A quarterstaff formed by crystalizing diamond powder by means of a special technique. It is revered for its beautiful form and often used for ceremonial purposes. While not as hard as actual diamond, this bludgeoning weapon still manages to be highly flexible as well as durable.",
+      "category": 5
+    },
+    {
+      "index": 65,
+      "pText": "A common, double-edged dagger. It is one of the most popular self-defense weapons thanks to its light weight, ease of use, and low price.",
+      "category": 6
+    },
+    {
+      "index": 66,
+      "pText": "A miraculous dagger that seals magic, developed to counter the fierce attacks of the Lontano Mage Legion during Caldisla’s ancient war of unification. The method of its making has been lost, but those unearthed on ancient battlefields are being restored and used once more.\n\n[Attack: Silence (low)]",
+      "category": 6
+    },
+    {
+      "index": 67,
+      "pText": "Though it may look like a regular kitchen knife, it is far from it. This single-edged knife is said to have belonged to the masked namahage monster from a festival event of an island nation that vanished centuries ago.",
+      "category": 6
+    },
+    {
+      "index": 68,
+      "pText": "A curved knife used by a small tribe that lives in the tropics. Its main uses were originally limited to hunting and foraging, but an arms trader who discovered its bloody potential brought it to Harena as an instrument of war.",
+      "category": 6
+    },
+    {
+      "index": 69,
+      "pText": "The knife favored by a legendary thief that terrorized the people of the Harena region. It was lost after being stolen by another thief who was wearing thief gloves.\n\n[Effect when used: Mug]",
+      "category": 6
+    },
+    {
+      "index": 70,
+      "pText": "A double-edged dagger with a blade forged from mythril steel from Eisenberg. Thanks to its extremely sharp blade, it has the potential to deal damage on par with an iron long sword.",
+      "category": 6
+    },
+    {
+      "index": 71,
+      "pText": "A cruelly shaped hunting dagger once used by a barbarian tribe wiped out by the Crystal Orthodoxy. The dagger bears a curse that can place those it cuts into a berserk state.\n\n[Attack: Berserk (low)]",
+      "category": 6
+    },
+    {
+      "index": 72,
+      "pText": "A curiously shaped knife said to have been favored by a certain maniacal murderer. The irregular shape of its blade allows it to reliably sever the victim’s blood vessels and nerves, resulting in a high probability of a critical hit.",
+      "category": 6
+    },
+    {
+      "index": 73,
+      "pText": "The name of this dagger comes from the term “left hand.” It is used as a secondary weapon in combination with a long sword, the main weapon. It features a large guard and provides a boost to evasion comparable to equipping a shield.\n\n[Effect when equipped: +Evasion]",
+      "category": 6
+    },
+    {
+      "index": 74,
+      "pText": "An extremely rare, double-edged dagger forged for one month straight by a seasoned blacksmith who used a natural magma-heated smelting furnace to instantly melt orichalcum, a rare metal mined in Eisenberg. Current technology is unable to forge orichalcum weapons any larger than a dagger.",
+      "category": 6
+    },
+    {
+      "index": 75,
+      "pText": "A stealthy weapon from the land of Wa, a mysterious island nation that vanished centuries ago. It is believed to be a kind of shuriken that was the preferred weapon of a school of ninja known as the Koga.\n\n[Effect when equipped: +Evasion]",
+      "category": 6
+    },
+    {
+      "index": 76,
+      "pText": "Five centuries after the Crystal Orthodoxy was founded, assassins targeted many of its high officials. This dagger, favored by an assassin who was captured and executed by the High Inquisitor of the time, is revered by the shadowy ones as the Orthodoxy’s bane.\n\n[Attack: Death (low)]",
+      "category": 6
+    },
+    {
+      "index": 77,
+      "pText": "A variety of short sword supplied to the heavy foot soldiers of ancient Eisenberg. This one was excavated and restored to a battle-worthy state. It is one of the largest and most broad-bladed of all short swords, and soldiers favor its simple, easy-to-wield form, which is very effective in hand-to-hand combat.",
+      "category": 6
+    },
+    {
+      "index": 78,
+      "pText": "A knife with mystical ornamentation on a beautiful blade imbued with the power of wind. Several air knives were stored at the Temple of Wind until a thief broke in and stole them.",
+      "category": 6
+    },
+    {
+      "index": 79,
+      "pText": "A renowned short sword from Wa, a land vanished from the pages of history centuries ago. It is said to have the power of the sacred three-legged crow that appears in the legends of the land’s birth.\n\n[Effect when equipped: +Evasion]",
+      "category": 6
+    },
+    {
+      "index": 80,
+      "pText": "A simple bow made of iron. It is tightly drawn, but due to its low flex, high attack cannot be expected unless the user is quite strong. This makes it difficult to use, but it has the potential to deliver a great deal of damage to flying targets.",
+      "category": 7
+    },
+    {
+      "index": 81,
+      "pText": "A longbow with a reasonable amount of flex, thanks to the thin plating of Eisenberg mythril steel carefully wrapped around an inner steel frame. It has the potential to deliver a great deal of damage to flying targets.",
+      "category": 7
+    },
+    {
+      "index": 82,
+      "pText": "A bow reinforced with a combination of materials that may include animal horn, tendon, bone, and different kinds of wood. This not only strengthens the bow, it raises its flexibility, allowing it to deliver even greater force with each arrow.\n\n[Attack: Poison (low)]",
+      "category": 7
+    },
+    {
+      "index": 83,
+      "pText": "A short bow made from wood of the birch tree, said to be the ideal material for bows. Its exquisite flex allows even weak individuals to loose arrows with a great deal of force. The sound of its bowstring is believed to have a warding effect, and it can deal heavy damage to demons.",
+      "category": 7
+    },
+    {
+      "index": 84,
+      "pText": "A powerful yet flexible bow made from the talons of a giant vulture. It looses gale-force arrows that can deal heavy damage to flying monsters.",
+      "category": 7
+    },
+    {
+      "index": 85,
+      "pText": "A whimsical bow made of silver and adorned with pink feathers. It offers excellent flex at normal temperatures. It comes with arrows tipped with heart-shaped arrowheads that have a charm effect on its targets.\n\n[Attack: Charm (low)]",
+      "category": 7
+    },
+    {
+      "index": 86,
+      "pText": "A rare item made from the feathers and strong, flexible tendons of a giant vulture.\n\n[Effect when used: Haste]",
+      "category": 7
+    },
+    {
+      "index": 87,
+      "pText": "A bow specially constructed to be completely silent when loosing arrows, but the trade-off is less range and power. It is used by assassins and others who require stealth.\n\n[Attack: Death (low)]",
+      "category": 7
+    },
+    {
+      "index": 88,
+      "pText": "An arcane bow, its origins are lost far back in the mists of time. A spell-like engraving is carved into the back of the bow in ancient crystal runes.\n\n[Attack: Paralyze (low)]",
+      "category": 7
+    },
+    {
+      "index": 89,
+      "pText": "A fairy bow with a lovely design attributed to elvenkind, a legendary race of humanoids who are said to have guarded Yggdrasil in ancient times.\n\n[Attack: Confuse (low)]",
+      "category": 7
+    },
+    {
+      "index": 90,
+      "pText": "An asymmetrical longbow said to have been used by the famous archer Yoichi from the land of Wa, an island nation that vanished several centuries ago. It delivers a high critical rate and overwhelming attack, but it is said to take considerable time before it can be mastered.",
+      "category": 7
+    },
+    {
+      "index": 91,
+      "pText": "A bow said to have been used by Artemis, a goddess of hunting and chastity told of in ancient myth from before the time of Crystalism.",
+      "category": 7
+    },
+    {
+      "index": 92,
+      "pText": "A razor-sharp, single-edged sword known as a katana. It originated in the land of Wa, a mysterious island nation that vanished centuries ago. This is one of the blades favored by Swordmaster Kamiizumi, but he bestowed it upon his beloved pupil [PCF2] for her first battle.",
+      "category": 8
+    },
+    {
+      "index": 93,
+      "pText": "A razor-sharp, single-edged sword known as a katana. It originated in the land of Wa, a mysterious island nation that vanished centuries ago. Though they were once produced in large quantities, they are now quite rare. Its curved blade is well suited for slashing.",
+      "category": 8
+    },
+    {
+      "index": 94,
+      "pText": "A masterpiece made by a swordsmith from the land of Wa, which vanished centuries ago. It is forged from mythril steel in place of the special steel he usually used. The secret of its making was passed on from master to apprentice, down to the present day.",
+      "category": 8
+    },
+    {
+      "index": 95,
+      "pText": "A famous katana said to have cut down a lightning strike. It is featured in legends from the land of Wa, which vanished centuries ago. The charge that remains within its blade adds a lightning effect to its attack.\n\n[Effect when equipped: Nullify lightning]",
+      "category": 8
+    },
+    {
+      "index": 96,
+      "pText": "This katana bears the name of a master smith from the land of Wa, a long-lost island nation. Kotetsu’s straight edge, known for devastating sharpness, is said to be cable of splitting stones and iron helms. The secret of its making has been lost, so no new blades of this kind are being produced.",
+      "category": 8
+    },
+    {
+      "index": 97,
+      "pText": "Swords made by the master smith Norimune from the lost land of Wa are known as Kiku-ichimonji Norimune. They are said to be slender and refined, but legends never mention the existence of a straight sword by Norimune. If it truly is of his making, it is an epoch-making find.",
+      "category": 8
+    },
+    {
+      "index": 98,
+      "pText": "The works of Masamune, a master swordsmith from the legendary lost land of Wa, sometimes bear his name. However, many of the blades he made do not, which makes it difficult to appraise their authenticity. The existence of multiple apprentices and offshoot schools only compounds the difficulty.",
+      "category": 8
+    },
+    {
+      "index": 99,
+      "pText": "This katana bears the name of Muramasa, a famous swordsmith from the lost land of Wa. It came to be feared as cursed after it claimed the lives of the shogun’s grandfather, father, and eldest son.\n\n[Effect when used: Defang]",
+      "category": 8
+    },
+    {
+      "index": 100,
+      "pText": "A masterpiece single-edged katana that is so slightly curved that it almost qualifies as a straight sword. Created by Mutsu-no-Kami Yoshiyuki. It was wielded by Saitaniya, a leader of a successful rebellion in the land of Wa, which vanished centuries ago.",
+      "category": 8
+    },
+    {
+      "index": 101,
+      "pText": "It is said that this sword issued forth from the gigantic tail of Yamata-no-Orochi when it was slain by the god Susano-o during the land of Wa’s age of myth. It later came to be known as Kusanagi and became one of the three sacred relics handed down since ancient times.",
+      "category": 8
+    },
+    {
+      "index": 102,
+      "pText": "An iron weapon worn on the hand to make punches more deadly. Its extremely short reach makes this a poor choice for anyone who has not yet mastered hand-to-hand combat.",
+      "category": 9
+    },
+    {
+      "index": 103,
+      "pText": "This knuckle guard has claws that move with the snap of the wrist to gouge the target’s eyes.\n\n[Attack: Blind (medium)]",
+      "category": 9
+    },
+    {
+      "index": 104,
+      "pText": "Knuckles forged from mythril steel mined in Eisenberg. The guard portion and spikes are forged separately to exploit the tremendous repulsive force between two separate pieces of mythril steel when subjected to an impact.",
+      "category": 9
+    },
+    {
+      "index": 105,
+      "pText": "Sharp steel spikes attached to a thick steel knuckle guard. The spikes extend the reach over plain knuckles and deliver substantial damage to opponents. This weapon can easily break knives and other smaller weapons.",
+      "category": 9
+    },
+    {
+      "index": 106,
+      "pText": "Named after the feline goddess Bastet, it looks exactly like a cat’s paw. This exceptional weapon deals special damage to beasts and is popular among certain collectors.",
+      "category": 9
+    },
+    {
+      "index": 107,
+      "pText": "Heavy knuckles completely encased in a thick lead and steel cover. Its sturdy construction allows it to deal major damage, even through armor, and stop a blow from a large axe.",
+      "category": 9
+    },
+    {
+      "index": 108,
+      "pText": "A knuckle glove with hollow claws. Upon impact, it delivers poison to an opponent through its claws.\n\n[Attack: Poison (medium)]",
+      "category": 9
+    },
+    {
+      "index": 109,
+      "pText": "Knuckles adorned with heavenly spikes that add a light effect to attacks.",
+      "category": 9
+    },
+    {
+      "index": 110,
+      "pText": "The weapon secretly carried by the lord of the underworld who plotted to overthrow the gods during the Age of Myths. He used this vile weapon to slay all he suspected of betraying him, even his own wife and son.",
+      "category": 9
+    },
+    {
+      "index": 111,
+      "pText": "Knuckles of the legendary conqueror and god of fists who was driven out of the celestial realm during the Age of Myths. It is said he wore them on both hands when waging his fierce war against the lord of the underworld in the land of mortals.",
+      "category": 9
+    },
+    {
+      "index": 112,
+      "pText": "A small, simple shield used in melee combat. It is commonly made from wood or leather and has an iron hand guard at the center. In addition to blocking blows, it can be thrust out at opponents.",
+      "category": 14
+    },
+    {
+      "index": 113,
+      "pText": "A large shield made of tough leather stretched over a round frame. The hard metal rivets attached to it can cause the tips of enemy swords to snap off when they get stuck in the wood.",
+      "category": 14
+    },
+    {
+      "index": 114,
+      "pText": "A beautiful shield made from overlapping sheets of mythril steel from Eisenberg. This latest in shield design exploits the tremendous repulsive force that two separate pieces of mythril steel have when subjected to an impact.",
+      "category": 14
+    },
+    {
+      "index": 115,
+      "pText": "A large, oval-shaped shield. It is adorned on the top, bottom, right, and left with crystal runes, and covered with a silver coating. This type of shield has been adopted by the knightly orders of many lands that defend the Crystal Orthodoxy.",
+      "category": 14
+    },
+    {
+      "index": 116,
+      "pText": "A shield designed to inflict maximum injury on attackers. It is surrounded by spiked blades and has a big metal spike in the center. Small, spike-shaped rivets are arranged around the central spike.\n\n[Effect when equipped: +Strength]",
+      "category": 14
+    },
+    {
+      "index": 117,
+      "pText": "A shield that blesses the victorious in battle. It is adorned with so much ornamentation that it does not seem practical as a shield. The glowing gemstone at the center is imbued with curative powers that heal targets when the shield is raised and a special chant is spoken.\n\n[Effect when used: Cura]",
+      "category": 14
+    },
+    {
+      "index": 118,
+      "pText": "An immense shield of tough wood reinforced with steel mesh for added strength. It is meant mainly for defending against arrow and spear volleys. Its large size makes it impractical for melee combat.",
+      "category": 14
+    },
+    {
+      "index": 119,
+      "pText": "A miraculous large shield that combines both fire and water resistance. A true gem, made by a temple armorer by placing more than thirty fire and water charms between thin metal plates, and then adding further ornamentation designed to block fire and water.\n\n[Effect when equipped: Nullify Water, Nullify Fire]",
+      "category": 14
+    },
+    {
+      "index": 120,
+      "pText": "A shield made from the carapace of an adamantite shell. The grip is rather slimy. It is so strong that no blade can penetrate it, and so resilient that it can absorb any impact that strikes it. It is lighter and easier to use than metal shields, making it an ideal shield for melee battles.",
+      "category": 14
+    },
+    {
+      "index": 121,
+      "pText": "A jet-black shield imbued with demonic wrath by continuously bathing it for 120 years in fresh blood harvested from an archdemon who was captured and slowly bled without killing him.\n\n[Effect when equipped: Nullify dark]",
+      "category": 14
+    },
+    {
+      "index": 122,
+      "pText": "A sacred shield said to be imbued with the power of light. It is a prestigious shield that the Crystal Orthodoxy bestowed upon an archbishop who triumphed over an evil heretic.\n\n[Effect when equipped: Nullify light]",
+      "category": 14
+    },
+    {
+      "index": 123,
+      "pText": "A wondrous shield said to have been presented by the father of the gods to his daughter. It is believed to ward against all manner of calamity, evil, and lust. It was later enhanced by embedding inside it the head of a monster that petrifies its victims.\n\n[Effect when equipped: Nullify dread]",
+      "category": 14
+    },
+    {
+      "index": 124,
+      "pText": "A large, demon-faced shield found in a fortress of a clan that suffered a bitter end after being betrayed. The blood and malice of the clan has sunk in deep and cannot be washed away. It dramatically raises defense, but in exchange, it markedly lowers evasion.",
+      "category": 14
+    },
+    {
+      "index": 125,
+      "pText": "A helm of bronze that covers the entire head. It is thick and extremely heavy, which makes it difficult to use except for the stoutest of warriors.",
+      "category": 11
+    },
+    {
+      "index": 126,
+      "pText": "A helm of iron that covers the entire head. It is thinner and lighter than bronze helms, and includes a nose guard and cheek protectors to better protect the wearer’s face.",
+      "category": 11
+    },
+    {
+      "index": 127,
+      "pText": "A helm that covers the entire face with a dog mask that can be raised or closed. It was forged from mythril steel plating by a seasoned helm craftsman. It is lighter than helms of other metals and has an impressive form and beautiful ornamentation.",
+      "category": 11
+    },
+    {
+      "index": 128,
+      "pText": "A helm said to be made from the bark of the legendary Yggdrasil, but the only part that actually contains its bark is the charm that has been affixed inside. It is extremely easy to wear, and popular for the wooden construction that makes it light and readily able to deflect bludgeoning attacks.",
+      "category": 11
+    },
+    {
+      "index": 129,
+      "pText": "A costly helm covered in ultra-thin sheets of orichalcum, a rare metal mined in Eisenberg. Orichalcum is so hard that even thin sheets make for a helm that is far stronger and lighter than one made of steel.",
+      "category": 11
+    },
+    {
+      "index": 130,
+      "pText": "The ultimate in helms, made by an elite craftsman who spent half a year on this item. It is made from only the choicest pieces of carapace from an adamantite shell. It is hard and light, yet able to prevent impacts from penetrating to the brain. The only drawback is a slight odor.",
+      "category": 11
+    },
+    {
+      "index": 131,
+      "pText": "A helm said to have been favored by the Genji clan from the land of Wa, a mysterious island nation that vanished centuries ago. The Genji are believed to have been a leading clan of samurai that defeated the rival Heike clan, forging a samurai hegemony that ruled for some 700 years.",
+      "category": 11
+    },
+    {
+      "index": 132,
+      "pText": "A helm favored by the Heike, a samurai clan from the land of Wa, a mysterious island nation that vanished centuries ago. After seizing power, the Heike took titles of nobility, alienating other samurai. This resulted in their overthrow by the Genji and their complete obliteration.\n\n[Effect when equipped: +Evasion]",
+      "category": 11
+    },
+    {
+      "index": 133,
+      "pText": "A rare helm made by painstakingly bonding together fragments that flaked away from a crystal. They cannot be mass-produced, and each one has a unique shape. Some say it takes ninety years to complete one of these helms.",
+      "category": 11
+    },
+    {
+      "index": 134,
+      "pText": "A simple hat made by sewing together patches of leather made from tanned animal hides. Though inexpensive and easy to wear, it does not offer much in the way of defense.",
+      "category": 10
+    },
+    {
+      "index": 135,
+      "pText": "A pointy hat made of felt. Its rabbit fur trim provides warmth, but its brimless design leaves something to be desired on rainy days.\n\n[Effect when equipped: +Magic attack]",
+      "category": 10
+    },
+    {
+      "index": 136,
+      "pText": "A thick felt hat with a wide brim folded up on the back and sides. It is the favored headwear of ship captains and pirates. The name tricorne derives from its triangular shape when viewed from above.\n\n[Effect when equipped: +Magic attack]",
+      "category": 10
+    },
+    {
+      "index": 137,
+      "pText": "A fashionable hat made from thick cloth and with a narrow brim for hunting. It is adorned with beautiful feathers, which give it its name.",
+      "category": 10
+    },
+    {
+      "index": 138,
+      "pText": "A cute hood woven from magic thread and adorned with what look like cat ears on top. It is popular for the way it soothes those who look upon it, regardless of its inherent magic power.\n\n[Effect when equipped: +Magic attack]",
+      "category": 10
+    },
+    {
+      "index": 139,
+      "pText": "A mask made from a tiger pelt. It makes its wearer uncomfortably warm because it covers the head, face, and neck. Wearers have the inexplicable desire to stand somewhere up high with their arms folded.",
+      "category": 10
+    },
+    {
+      "index": 140,
+      "pText": "A simple wreath of leaves and branches from the laurel tree woven into a circle. In the Age of Myths, the god of light is said to have worn one on his head. They became a kind of crown for emperors in ancient times, and in recent years, they were awarded to the winners of footraces.\n\n[Effect when equipped: +Magic attack]",
+      "category": 10
+    },
+    {
+      "index": 141,
+      "pText": "A wide-brimmed hat mainly made of felt and favored by those who use magic. It is a must-have item among some young female magic users, ranking up there with cat ears.\n\n[Effect when equipped: +Magic attack, +Intelligence]",
+      "category": 10
+    },
+    {
+      "index": 142,
+      "pText": "A tall hat worn at ceremonies and rituals by clergy of high standing. It features an elegant pattern embroidered with gold and silver thread. While it does not offer much in the way of physical protection, it does boost magic defenses.\n\n[Effect when equipped: +Magic attack, +Mind]",
+      "category": 10
+    },
+    {
+      "index": 143,
+      "pText": "A hat woven from mythril steel thread that has been hammered and stretched to the thinnest it can be. It offers astounding protection for a hat and is also said to have the ability to amplify the power of lightning.\n\n[Effect when equipped: +Magic attack, +Lightning attack]",
+      "category": 10
+    },
+    {
+      "index": 144,
+      "pText": "An incredibly light cap made by applying countless coats of lacquer to a giant acorn shell and then lining the inside with felt.",
+      "category": 10
+    },
+    {
+      "index": 145,
+      "pText": "A headband from the land of Wa, a mysterious island nation that vanished centuries ago. Though it is made from seemingly ordinary cotton fabric, its wearers find a wondrous courage and strength welling up within whenever they resolve to do something.\n\n[Effect when equipped: +Strength]",
+      "category": 10
+    },
+    {
+      "index": 146,
+      "pText": "A rust-red cap worn by demons that strike fear into the hearts of men. The cap itself is a dangerous spirit entity that can inflict great injury. It delights in soaking up the blood of the victims slaughtered by its wearer.\n\n[Effect when equipped: +Strength, +Agility]",
+      "category": 10
+    },
+    {
+      "index": 147,
+      "pText": "A simple crown lacking arches and a cap. A spell that heightens the focus of spellcasters is engraved on the metal that rests directly on the head.\n\n[Effect when equipped: +Magic attack]",
+      "category": 10
+    },
+    {
+      "index": 148,
+      "pText": "A jet-black hood said to have been worn by the ninja, a shadowy group that originated in the land of Wa, a mysterious island nation that vanished centuries ago.\n\n[Effect when equipped: +Evasion]",
+      "category": 10
+    },
+    {
+      "index": 149,
+      "pText": "A tiara wrought in the form of Lamia, a half-human, half-serpent monster. She was once human, but after the father of the gods fell in love with her, his wife killed all the woman’s children in a jealous rage and transformed her into a hideous monster.\n\n[Effect when equipped: Nullify charm]",
+      "category": 10
+    },
+    {
+      "index": 150,
+      "pText": "A cap made by sewing together pieces of the hard carapace of an adamantite shell. It is hard enough to turn away blades, supple enough to absorb impacts, and light enough for unhindered movement. The only drawback is its center of gravity, which is slightly shifted to the right.\n\n[Effect when equipped: +Evasion]",
+      "category": 10
+    },
+    {
+      "index": 151,
+      "pText": "A golden hairpin on which an ancient Crystalist prayer is engraved. The ancient prayer speaks directly to the wearer’s mind, lowering the cost of using magic.\n\n[Effect when equipped: Lower MP cost]",
+      "category": 10
+    },
+    {
+      "index": 152,
+      "pText": "A mysterious ribbon said to have originated in the Age of Myths.\n\n[Effect when equipped: Nullifies almost all status ailments (poison, blind, silence, sleep, paralyze, dread, confuse, charm, death)]",
+      "category": 10
+    },
+    {
+      "index": 153,
+      "pText": "An exquisitely designed crown said to have been passed down by a royal family. No one knows which royal family or in what age they lived.",
+      "category": 10
+    },
+    {
+      "index": 154,
+      "pText": "Armor made of tanned animal hides that have been stitched together. Its light weight and affordability make it particularly accessible. It provides some protection against slashing weapons, but it does not have the durability required to protect against piercing or bludgeoning attacks.",
+      "category": 12
+    },
+    {
+      "index": 155,
+      "pText": "Bronze armor that completely covers half the body, from neck to waist. While it provides decent protection, it is heavy and difficult to move around in due to its primitive design.",
+      "category": 12
+    },
+    {
+      "index": 156,
+      "pText": "Iron armor that covers the entire upper body. It is designed with movement in mind, including chainmail at the joints to make them more flexible.",
+      "category": 12
+    },
+    {
+      "index": 157,
+      "pText": "Extraordinarily beautiful full-body armor that uses layer upon layer of plates forged from mythril produced in Eisenberg. This armor can withstand slashing, piercing, and bludgeoning attacks by exploiting the repulsive force between two separate pieces of mythril steel when subjected to an impact.",
+      "category": 12
+    },
+    {
+      "index": 158,
+      "pText": "Wooden armor with charms made of bark from Yggdrasil on the inside of each piece. The use of wood makes this armor light and extraordinarily resilient, able to deflect bludgeoning attacks and other physical impacts.",
+      "category": 12
+    },
+    {
+      "index": 159,
+      "pText": "Costly armor covered in ultra-thin sheets of orichalcum, a rare metal mined in Eisenberg. Orichalcum is so hard that even thin sheets of it make for armor that is far stronger and lighter than that made of steel.",
+      "category": 12
+    },
+    {
+      "index": 160,
+      "pText": "The ultimate in full-body armor made by an elite craftsman who spent three years on this masterpiece, made of a special piece of carapace from an adamantite shell only found on the female of the species. The shell is further hardened by curing it in empress honey for half a year. The only drawback is the sweet smell, which attracts bees and bears.",
+      "category": 12
+    },
+    {
+      "index": 161,
+      "pText": "Armor used by the Genji clan, leaders of the samurai from the land of Wa, a mysterious island nation that vanished centuries ago. This armor was worn by high-ranking samurai who mainly fought with bows on horseback. It is exquisitely crafted and quite beautiful.",
+      "category": 12
+    },
+    {
+      "index": 162,
+      "pText": "Armor used by the Heike, a clan of samurai from the land of Wa, a mysterious island nation that vanished centuries ago. They prospered so greatly for a time that it was said, “If you are not Heike, you are not human.” However, the clan met a tragic end, and their lingering malice remains with this armor.",
+      "category": 12
+    },
+    {
+      "index": 163,
+      "pText": "A rare type of mail made by painstakingly bonding together fragments that flaked away from a crystal. They cannot be mass-produced because each crystal fragment has a unique shape. Some say it takes an unfathomable length of time to complete one set of this armor.",
+      "category": 12
+    },
+    {
+      "index": 164,
+      "pText": "Thick garb made from hemp fiber. It is tough and features good breathability, but it does not hold up very well in melee combat.",
+      "category": 13
+    },
+    {
+      "index": 165,
+      "pText": "A padded vest for practicing the martial arts. It is loose and light, allowing the martial artist to move freely. Patchwork is applied at crucial points to reinforce the garment, making it exceedingly durable.\n\n[Effect when equipped: +Agility, +Evasion]",
+      "category": 13
+    },
+    {
+      "index": 166,
+      "pText": "Miraculous linen armor that is as strong as armor made of metal thanks to the power of magic runes that are sewn throughout the inside surface. It is powerful enough to block most attacks by lesser monsters.",
+      "category": 13
+    },
+    {
+      "index": 167,
+      "pText": "A loose-fitting robe woven from luxurious silk. It is light and conducive to mental focus, but not recommended for combat-type jobs, as it provides about as much protection as not wearing anything at all.\n\n[Effect when equipped: +Magic attack]",
+      "category": 13
+    },
+    {
+      "index": 168,
+      "pText": "Lightweight armor made from small metal plates that have been woven onto a thick, sturdy fabric. It offers some protection from slashing weapons, but almost none against bludgeoning and piercing attacks.",
+      "category": 13
+    },
+    {
+      "index": 169,
+      "pText": "A thick bronze breastplate that completely covers the torso. It protects the chest and shoulders from slashing attacks, and it also provides some defense against piercing weapons, but it is extremely heavy and difficult to move in.",
+      "category": 13
+    },
+    {
+      "index": 170,
+      "pText": "A cat costume completely covered in animal fur. The long, thick fur completely blocks attacks by poisonous fangs and claws.\n\n[Effect when equipped: +Magic attack, Nullify poison]",
+      "category": 13
+    },
+    {
+      "index": 171,
+      "pText": "A breastplate forged by stalwart armor craftsmen from plates of mythril forged in Eisenberg. All who look upon it find its beautiful ornamentation quite sublime.",
+      "category": 13
+    },
+    {
+      "index": 172,
+      "pText": "This dress, which shines with all the colors of the rainbow, was made by an armor craftsman in Norende Village. It heightens mental focus and provides powerful resistance to confusion.\n\n[Effect when equipped: +Magic attack, Nullify confuse]",
+      "category": 13
+    },
+    {
+      "index": 173,
+      "pText": "A robe made from the woven petals of flowers that bloom in Florem. The flowers are picked using a special technique that allows them to keep blooming indefinitely or until they are physically destroyed.\n\n[Effect when equipped: +Magic attack]",
+      "category": 13
+    },
+    {
+      "index": 174,
+      "pText": "A vest woven from a special fiber that constantly scatters light in all directions. It causes a mirage-like effect that makes it easier to evade enemy attacks.\n\n[Effect when equipped: +Evasion]",
+      "category": 13
+    },
+    {
+      "index": 175,
+      "pText": "A mystic robe made of mythril steel thread stretched as thin as it can be and then interwoven with jet-black silk. It is said to heighten its wearer’s intelligence and amplify magic attack power.\n\n[Effect when equipped: +Magic attack, +Intelligence]",
+      "category": 13
+    },
+    {
+      "index": 176,
+      "pText": "A mysterious sash from the land of Wa, an island nation that vanished centuries ago. It was used to tie loose sleeves so they would not be a hindrance in battle. It bestows demon-like strength when tied in a special manner.\n\n[Effect when equipped: +Strength]",
+      "category": 13
+    },
+    {
+      "index": 177,
+      "pText": "A mystic robe made of mythril steel thread stretched as thin as it can be and then interwoven with bright white silk. It is said to heighten its wearer’s mind and amplify magic recovery.\n\n[Effect when equipped: +Magic attack, +Mind]",
+      "category": 13
+    },
+    {
+      "index": 178,
+      "pText": "A coat said to be favored by pirates, sailors, and other hard men of the sea. It is sturdy enough to withstand constant exposure to wind and rain, lashings from tempests, and complete inundation by waves during long voyages.",
+      "category": 13
+    },
+    {
+      "index": 179,
+      "pText": "A robe that amplifies the earth power of its wearer. It is woven from a special fiber that was bathed in energy waves from the earth.\n\n[Effect when equipped: +Magic attack, +Earth attack]",
+      "category": 13
+    },
+    {
+      "index": 180,
+      "pText": "Stage wear into which the spirit of successive generations of performers has been woven into the lining. It has the effect of sweeping away pre-performance jitters and making performers think back to their hope-and-dream-filled debut.\n\n[Effect when equipped: +HP]",
+      "category": 13
+    },
+    {
+      "index": 181,
+      "pText": "A vest that a first-rate tailor created by sewing together carapace sheddings from adamantite shells while they were still pliable. The pieces of shell gradually harden, providing good protection, yet the joints remain flexible, allowing for incredibly easy movement.",
+      "category": 13
+    },
+    {
+      "index": 182,
+      "pText": "A mystic robe made of orichalcum steel thread stretched as thin as it can be and then interwoven with glowing silk. It is said to amplify the power of its wearer’s light effect.\n\n[Effect when equipped: +Magic attack, +Light attack]",
+      "category": 13
+    },
+    {
+      "index": 183,
+      "pText": "A robe worn by rulers of nations. It is steeped in the blessings of the gods for those who rule over men. Runes meaning “rule over the people and provide them relief” are stitched into the lining.\n\n[Effect when equipped: +Magic attack, +Mind]",
+      "category": 13
+    },
+    {
+      "index": 184,
+      "pText": "Armor that bestows courage from the god of war during battles.\n\n[Effect when equipped: +1 BP at start of battle]",
+      "category": 13
+    },
+    {
+      "index": 185,
+      "pText": "A vest made by bonding together large crystal fragments that flaked away from a crystal. It is said that it takes an unfathomable number of years just to complete one vest.",
+      "category": 13
+    },
+    {
+      "index": 186,
+      "pText": "A piece of bronze armor for protecting the back of the hand all the way up to the upper arm. It is heavy and renders the wrist nearly immobile.",
+      "category": 15
+    },
+    {
+      "index": 187,
+      "pText": "A piece of glove-shaped metal armor that is worn to protect the hands and fingers. It allows each finger to move individually, allowing for a decent degree of freedom in hand and finger movement.",
+      "category": 15
+    },
+    {
+      "index": 188,
+      "pText": "Leather gloves worn by thieves. Thin, supple leather allows the fingers to move unhindered.\n\n[Effect when equipped: +Chance to steal]",
+      "category": 15
+    },
+    {
+      "index": 189,
+      "pText": "Gloves created by fashioning individual fingers with Eisenberg mythril steel before carefully joining them together. They are light, easy to use, and allow for astonishing mobility.",
+      "category": 15
+    },
+    {
+      "index": 190,
+      "pText": "Crude metal gloves made to evoke the powerful image of the legendary giants. They employ a special mechanism to make it easier to produce more power, but their extreme weight and low mobility dramatically reduce dexterity.\n\n[Effect when equipped: +Strength, -Dexterity]",
+      "category": 15
+    },
+    {
+      "index": 191,
+      "pText": "Gauntlets made by sewing together the bellows-shaped multi-jointed protrusions found on the carapace of the male adamantite shell. While they are light and very durable, it is difficult to do any sort of detailed work with the hands because the four fingers are enclosed together.",
+      "category": 15
+    },
+    {
+      "index": 192,
+      "pText": "Gloves once passed down in the Genji clan of samurai from the land of Wa, a mysterious island nation that vanished centuries ago. It is said they were worn by a tragic hero who racked up countless victories only to be killed as a traitor by his elder brother.",
+      "category": 15
+    },
+    {
+      "index": 193,
+      "pText": "Gloves of splendor and transience that are imbued with the malice of tens of thousands of samurai who sank into the sea along with the infant emperor from the land of Wa, a mysterious island nation that vanished centuries ago.",
+      "category": 15
+    },
+    {
+      "index": 194,
+      "pText": "A crude bangle made of bronze and carved with images of mythological creatures. Its incredible weight makes it a weapon of considerable power simply by swinging it around.\n\n[Effect when equipped: +HP]",
+      "category": 15
+    },
+    {
+      "index": 195,
+      "pText": "A thin iron bangle that has been polished to a mirror finish. It is engraved with an image of the god of war and death from the myths of the northern lands.\n\n[Effect when equipped: +HP]",
+      "category": 15
+    },
+    {
+      "index": 196,
+      "pText": "A bangle made of mythril steel forged in Eisenberg. The beautiful ornamentation that covers it makes it quite valuable as a work of art as well.\n\n[Effect when equipped: +HP]",
+      "category": 15
+    },
+    {
+      "index": 197,
+      "pText": "A bangle made of polished adamantite shell carapace that was slowly formed into its final shape by applying heat. It is incredibly valuable as a work of art, but the relief carved on it causes irritation and itchiness where it comes in contact with the skin.\n\n[Effect when equipped: +HP]",
+      "category": 15
+    },
+    {
+      "index": 198,
+      "pText": "A leather band that martial artists wear on their wrists. The protrusions on the inner side stimulate power points on the wrist to markedly raise the wearer’s arm strength.\n\n[Effect when equipped: +Strength]",
+      "category": 15
+    },
+    {
+      "index": 199,
+      "pText": "A leather band that is said to bestow superhuman might simply by wearing it. The inside is lined with charms that directly stimulate the muscles to raise the wearer’s strength to the highest level possible.\n\n[Effect when equipped: +Strength]",
+      "category": 15
+    },
+    {
+      "index": 200,
+      "pText": "A ring made of a mysterious material. Spell-like writing is engraved upon it in ancient crystal runes.\n\n[Effect when equipped: +MP]",
+      "category": 15
+    },
+    {
+      "index": 201,
+      "pText": "A strange ring made of a liquid metal which endlessly flows around the wearer’s finger, maintaining a ring-like shape.\n\n[Effect when equipped: +HP]",
+      "category": 15
+    },
+    {
+      "index": 202,
+      "pText": "An amulet consisting of a mythril ring and orichalcum setting in which various Eisenberg-mined gemstones are mounted. It is said to raise the wearer’s intelligence.\n\n[Effect when equipped: +Intelligence]",
+      "category": 15
+    },
+    {
+      "index": 203,
+      "pText": "An eldritch substance that should not even exist. Its incredible beauty bewitches the hearts of all who lay eyes upon it. It also markedly raises the wearer’s intelligence and magic attack power.\n\n[Effect when equipped: +Intelligence]",
+      "category": 15
+    },
+    {
+      "index": 204,
+      "pText": "A metal armlet carved with the original spell of creation, said to enumerate everything under the sun. No one has yet discovered the type of metal from which it was made.\n\n[Effect when equipped: +Mind]",
+      "category": 15
+    },
+    {
+      "index": 205,
+      "pText": "A mystical armlet said to be imbued with the mind of a dark and violent god. It is made of solid stone and is believed to raise its wearer’s mind.\n\n[Effect when equipped: +Mind]",
+      "category": 15
+    },
+    {
+      "index": 206,
+      "pText": "Incredibly light sandals of natural rubber made in the likeness of talaria, the winged footwear said to have been worn in the Age of Myths by the youthful deity who was the messenger of the gods as well as the patron god of thieves, merchants, and sheepherders.\n\n[Effect when equipped: +Agility]",
+      "category": 15
+    },
+    {
+      "index": 207,
+      "pText": "The magic, golden-winged shoes said to have been worn in the Age of Myths by the youthful deity who was the messenger of the gods as well as the patron god of thieves, merchants, and sheepherders.\n\n[Effect when equipped: +Agility]",
+      "category": 15
+    },
+    {
+      "index": 208,
+      "pText": "Sturdy gloves made from the wings of a d’gon. They are pliant enough to fit any hand, and are keenly sought after by craftsmen everywhere.\n\n[Effect when equipped: +Dexterity]",
+      "category": 15
+    },
+    {
+      "index": 209,
+      "pText": "Mysterious gloves made from the wings of a fire d’gon and an ice d’gon. They are resistant to fire and heat, and are the ultimate work gloves sought after by craftsmen everywhere.\n\n[Effect when equipped: +Dexterity]",
+      "category": 15
+    },
+    {
+      "index": 210,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Temple of Fire and is carved with the runes for fire and flames.\n\n[Effect when equipped: Resist fire]",
+      "category": 15
+    },
+    {
+      "index": 211,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Temple of Water and is carved with the runes for water and ice.\n\n[Effect when equipped: Resist water]",
+      "category": 15
+    },
+    {
+      "index": 212,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Orthodoxy’s head temple and is carved with the runes for thunder and lightning.\n\n[Effect when equipped: Resist lightning]",
+      "category": 15
+    },
+    {
+      "index": 213,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Temple of Wind and is carved with the runes for wind and tornados.\n\n[Effect when equipped: Resist wind]",
+      "category": 15
+    },
+    {
+      "index": 214,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Temple of Earth and is carved with the runes for earth and land.\n\n[Effect when equipped: Resist earth]",
+      "category": 15
+    },
+    {
+      "index": 215,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Orthodoxy’s head temple and is carved with the rune for light.\n\n[Effect when equipped: Resist light]",
+      "category": 15
+    },
+    {
+      "index": 216,
+      "pText": "A charm bestowed upon devout followers of Crystalism. It was made at the Orthodoxy’s head temple and is carved with the rune for darkness.\n\n[Effect when equipped: Resist dark]",
+      "category": 15
+    },
+    {
+      "index": 217,
+      "pText": "A light charm coated on one side with a special ointment. It has been blessed with the white magic spell shell, and helps to block magic when applied to the skin.\n\n[Effect when equipped: +Magic defense]",
+      "category": 15
+    },
+    {
+      "index": 218,
+      "pText": "A shroud made of a membrane of light contained in a magic vial. It is worn over the body to confer magic resistance. The light membrane can be used over and over.\n\n[Effect when equipped: +Magic defense]",
+      "category": 15
+    },
+    {
+      "index": 219,
+      "pText": "A belt of black material that signifies mastery in a martial art that originated in the land of Wa, a mysterious island nation that vanished centuries ago. It is now considered a symbol of expertise in combat.\n\n[Effect when equipped: +Critical rate]",
+      "category": 15
+    },
+    {
+      "index": 220,
+      "pText": "A pendant with a star-shaped plate made of silver. It alerts its wearer of the presence of poison by darkening. Some say it can even keep the wearer from being poisoned.\n\n[Effect when equipped: Nullify poison]",
+      "category": 15
+    },
+    {
+      "index": 221,
+      "pText": "Glasses with a thick, awkward-looking silver frame. The silver in the frame reacts to things that harm vision to warn the wearer of danger. When worn, they protect against blind.\n\n[Effect when equipped: Nullify blind]",
+      "category": 15
+    },
+    {
+      "index": 222,
+      "pText": "An extraordinarily thin and beautiful silk-like cape woven from the fiber of echo herbs. To prevent silence, it simply covers the mouth of its wearer.\n\n[Effect when equipped: Nullify silence]",
+      "category": 15
+    },
+    {
+      "index": 223,
+      "pText": "A clothespin-shaped accessory that is unnecessarily extravagant and powerful. It is made from ebony beautifully embellished with silver and fitted with four powerful mythril springs. It is incredibly painful, but incredibly effective at keeping you awake.\n\n[Effect when equipped: Nullify sleep]",
+      "category": 15
+    },
+    {
+      "index": 224,
+      "pText": "A cord-wrapped metal pole with a miniature figure of an alraune stuck on the end. This accessory is worn on the belt or another location to prevent paralysis.\n\n[Effect when equipped: Nullify paralyze]",
+      "category": 15
+    },
+    {
+      "index": 225,
+      "pText": "A ring of polished jade. It is incredibly smooth, and simply rubbing a finger over it is very relaxing. It was originally an aid for household harmony that a sister-in-law would give to an anxious new mother.\n\n[Effect when equipped: Nullify confuse]",
+      "category": 15
+    },
+    {
+      "index": 226,
+      "pText": "A locket-type pendant that opens to show the picture inside. This accessory has the most basic of designs, but it is effective in preventing the charm state when a picture of a loved one is kept inside.\n\n[Effect when equipped: Nullify charm]",
+      "category": 15
+    },
+    {
+      "index": 227,
+      "pText": "A ring with a thunderbolt trapped inside. If placed in the front left pocket, it will discharge immediately and attempt to restart the owner’s heart if it ever stops due to an enemy attack.\n\n[Effect when equipped: Nullify death]",
+      "category": 15
+    },
+    {
+      "index": 228,
+      "pText": "This ring is said to have originally been used by nobles to press their seal into wax. It overcomes feelings of dread by reaffirming its wearer’s standing in life.\n\n[Effect when equipped: Nullify dread]",
+      "category": 15
+    },
+    {
+      "index": 229,
+      "pText": "A ring carved with a strange relief showing four goddesses screaming in lament. It is said to have a special spell of magic repulsion trapped inside.\n\n[Effect when equipped: Reflect at start of battle]",
+      "category": 15
+    },
+    {
+      "index": 230,
+      "pText": "A badge that encourages a proactive attitude and the resolve to boldly push forward.\n\n[Effect when equipped: +Ally Brave attack rate]",
+      "category": 15
+    },
+    {
+      "index": 231,
+      "pText": "A badge designed in the form of the perfect ingratiating smile as mastered by a certain court poet. The wearer’s opponent will not take offense at anything that is done.\n\n[Effect when equipped: Chance of being targeted stays constant]",
+      "category": 15
+    },
+    {
+      "index": 232,
+      "pText": "A hair accessory believed to have come from the land of Wa, a mysterious island nation that vanished centuries ago. It is said to have been a favorite of a female champion known for attacking first and asking questions later.\n\n[Effect when equipped: +Ally initiative]",
+      "category": 15
+    },
+    {
+      "index": 233,
+      "pText": "A bell that cannot be heard by human ears. To creatures that can hear it, it sounds like a kitten mewing for its mother. It is said to have the power to soothe the savage beast.\n\n[Effect when equipped: –Enemy Brave attack rate]",
+      "category": 15
+    },
+    {
+      "index": 234,
+      "pText": "A handkerchief made to look like the red cape a famous bullfighter once waved to provoke the bulls he fought. Simply waving this at opponents will make them so angry, they will attack despite themselves.\n\n[Effect when equipped: Increased chance of being targeted]",
+      "category": 15
+    },
+    {
+      "index": 235,
+      "pText": "Earrings that vibrate whenever they detect someone nearby with the intent to attack. They are believed to have been designed by a swordmaster who lived long ago.\n\n[Effect when equipped: –Enemy initiative]",
+      "category": 15
+    },
+    {
+      "index": 236,
+      "pText": "A golden egg mentioned in an old story teaching children about the ugliness of greed.\n\n[Effect when equipped: pg ×2, EXP ×0, JP ×0]",
+      "category": 15
+    },
+    {
+      "index": 237,
+      "pText": "A glorious egg that warns against the greed of youth and extols labor and experience.\n\n[Effect when equipped: pg ×0, EXP ×2, JP ×2]",
+      "category": 15
+    },
+    {
+      "index": 238,
+      "pText": "A potion made by decocting several medicinal herbs that grow in the wild and then dissolving the resulting mixture in cure water. This easy-to-make potion is a staple remedy found in many homes.\n\nRestores 150 HP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 239,
+      "pText": "A potion made by decocting miraculous herbs, both medicinal and non-medicinal, that only grow in remote regions, and then dissolving the resulting mixture in a cura solution.\n\nRestores 500 HP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 240,
+      "pText": "A sacred potion made by collecting the morning dew that forms on crystals, soaking a charm in it, and adding mending mushrooms, therasprouts, and shoots of the panacea plant that only grow within temples, and then combining it with a curaga solution.\n\nRestores 1,500 HP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 241,
+      "pText": "A mystical item said to be made from the feathers of the phoenix, a mythological bird from the dim, distant past. The item itself is from the land of Wa, which vanished centuries ago.\n\nRevives an incapacitated (KO’d) target.",
+      "category": 16
+    },
+    {
+      "index": 242,
+      "pText": "A tonic made by dissolving wind drake wing, alraune petals, megalodon fang, and treant root in an aspir solution for five weeks, then extracting the clear fluid that accumulates at the top.\n\nRestores 40 MP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 243,
+      "pText": "A tonic made by decocting wind drake tears, mandragora petals, chomper juice, and treant fruit for six weeks and then diluting it with an aspir solution.\n\nRestores 150 MP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 244,
+      "pText": "A concoction that has been prized as a wonder drug since ancient times. There are a number of ways to prepare it, but the ruling powers and Orthodoxy have kept them ever secret from the common folk.\n\nRestores all HP and MP to the drinker.",
+      "category": 16
+    },
+    {
+      "index": 245,
+      "pText": "A strange concoction even more mysterious than an elixir. In ancient times, it is said its miraculous restorative powers even made it an object of worship.\n\nRestores all HP and MP to the entire party.",
+      "category": 16
+    },
+    {
+      "index": 246,
+      "pText": "At the bottom of these leaves is herbal medicine containing poisonal, a substance that instantly counteracts almost all forms of poison in the body. It tastes as bitter as drinking poison.\n\nRelieves the target of poison.",
+      "category": 16
+    },
+    {
+      "index": 247,
+      "pText": "Eye drops consisting primarily of pure distilled water in a small vial. Its primary use is flushing foreign objects out of the eyes, but it is also effective for bloodshot eyes, eye fatigue, and pollen allergies.\n\nRelieves the target of blind.",
+      "category": 16
+    },
+    {
+      "index": 248,
+      "pText": "An herbal medicine used with minimal preparation. The leaves are ground up and swallowed to cure throat ailments.\n\nRelieves the target of silence.",
+      "category": 16
+    },
+    {
+      "index": 249,
+      "pText": "A magical bell that rings loudly and violently to wake even the deepest of sleepers. It is very popular among adventurers, especially those who have trouble getting up in the morning.\n\nRelieves the target of sleep.",
+      "category": 16
+    },
+    {
+      "index": 250,
+      "pText": "An ointment made by kneading together several types of herbs. When applied to the base of the throat of victims of the dread state, it will immediately calm them and relax their breathing.\n\nRelieves the target of dread.",
+      "category": 16
+    },
+    {
+      "index": 251,
+      "pText": "A powdered medicinal compound that contains small doses of medicine for each of the status ailments.\n\nRelieves the target of various status ailments.",
+      "category": 16
+    },
+    {
+      "index": 252,
+      "pText": "A portion of a bomb, a creature that went extinct back in the Age of Myths. It has been completely dried out and wrapped tight. No one really knows if it is really made from a bomb, but the effect is real enough.\n\nDeals moderate fire damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 253,
+      "pText": "The right arm of a bomb, a creature that went extinct back in the Age of Myths. It has been completely mummified and a cursed sigil placed upon it. It has the slight smell of gunpowder, but its effect is guaranteed.\n\nDeals major fire damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 254,
+      "pText": "An ice crystal that never melts. It is found in the Antarctic, where it is said to form when Luxendarc enters an ice age. Raising it up and chanting causes a fierce, cold wind to shoot forth.\n\nDeals moderate water damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 255,
+      "pText": "A frozen substance known as cryocorelite that was cut from the heart of a gigantic ice mass floating in Luxendarc’s arctic sea. Raising it up and chanting causes a blast of freezing wind to shoot forth, freezing everything in its path.\n\nDeals major water damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 256,
+      "pText": "A sphere of lightning said to contain the wrath of Zeus, father of the gods and ruler of the world in the Age of Myths.\n\nDeals moderate lightning damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 257,
+      "pText": "A metal sphere of roaring thunder that is said to contain the wrath of countless gods from the Age of Myths.\n\nDeals major lightning damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 258,
+      "pText": "A small vial containing the yawn of a tengu, a supernatural flying creature from the land of Wa, a mysterious island nation that vanished centuries ago.\n\nDeals moderate wind damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 259,
+      "pText": "A strange gourd containing the sneeze of a tengu, a supernatural flying creature from the land of Wa, a mysterious island nation that vanished centuries ago.\n\nDeals major wind damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 260,
+      "pText": "A conch shell containing the thunderous sound of the Titans, a race of giants that are said to have opposed the gods in the Age of Myths.\n\nDeals moderate earth damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 261,
+      "pText": "A cowry shell containing the impact of a hammer blow from the Titans, a race of giants that are said to have opposed the gods in the Age of Myths.\n\nDeals major earth damage to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 262,
+      "pText": "An hourglass filled with glittering gold sand from the Celestial Realm. When raised to the sky, its contents burst forth, robbing the target of its color and time.\n\nApplies stop effect to all enemies (or allies).",
+      "category": 16
+    },
+    {
+      "index": 263,
+      "pText": "Summons a group of meteors wandering the galaxy to rain down on the designated target.\n\nEffect of comet on target.",
+      "category": 16
+    },
+    {
+      "index": 264,
+      "pText": "A barrier of light that embodies the bitter cry of an old wizard who lost the one he loved because of his abuse of powerful magic. It reflects all magic.\n\nApplies reflect effect to target.",
+      "category": 16
+    },
+    {
+      "index": 265,
+      "pText": "A kiss from the goddess who was transformed into a hideous monster after her children were killed by the jealous wife of the man she loved.\n\nEffect of aspir on target.",
+      "category": 16
+    },
+    {
+      "index": 266,
+      "pText": "A fiery drink of a man known as the God of Spirits in the Age of Myths. It causes the imbiber to fly into an uncontrollable rage and attack all opponents.\n\nApplies berserk effect to target.",
+      "category": 16
+    },
+    {
+      "index": 267,
+      "pText": "The dried and shrunken liver of a beast. Even so, it is still about the size of a fist. It is carried around on a cord that has been passed through a hole made in one corner. It is extremely bitter and used in restoratives, among other things.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 268,
+      "pText": "A transparent scale about the size of a man’s palm. Annual growth rings can be seen faintly, numbering about 250. When struck with a metal rod, a hard, clear sound lingers in the air for a little while.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 269,
+      "pText": "A winding insect antenna that looks like a giant fern. It is covered with fine hairs, and when shaken, glowing scales like those from butterfly wings flutter down endlessly.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 270,
+      "pText": "A strange fiber that never dries out, even after being cut off for several years. No one knows what part of the creature it comes from, but the eerie pattern that flickers upon it is quite disturbing. Surprisingly, it gives off a nice smell.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 271,
+      "pText": "The bone of a noncorporeal spirit, which is strange because it should not have a physical form. It is nearly invisible until held up to the sun, at which point its shape is just barely discernible.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 272,
+      "pText": "A thick tail covered in tough hair. The end of the tail is hooked and moves from time to time. It takes some time to get used to this creepy item.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 273,
+      "pText": "A long, fat, pointy, calcified mass that people claim to be the fang of a dragon. It is hollow and makes a rattling sound when shaken. Cracks can be found here and there across its surface.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 274,
+      "pText": "A strange substance in a suspicious-looking sealed flask. It is said that the substance is released when burning some sort of material, but exactly which material remains a mystery.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 275,
+      "pText": "An extremely cold crystalline body that is formed from giant snowflakes and never melts. Each one has a unique shape, but is always about the size of a man’s palm.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 276,
+      "pText": "A transparent wing made of a delicate material as colorful as stained glass. It is exceedingly light, resilient, and beautiful, but has a slightly offensive odor.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 277,
+      "pText": "A hard mass that looks like a bolt of lightning frozen in time. Care must be taken when handling it, as its edges are extremely sharp and it packs a powerful electrical charge.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 278,
+      "pText": "A type of sand crystal that only forms in the Harena Desert on the night of the summer solstice. It has a strange stickiness that causes it to form rose-like shapes when blown by the desert winds.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 279,
+      "pText": "A jewel beetle said to have inhabited the land of Wa, a mysterious island nation that vanished centuries ago. It was used in artworks and handicrafts, and was traded for its weight in gold.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 280,
+      "pText": "A substance that does not reflect light and, therefore, cannot be directly observed. Its shape, however, can be discerned by the light it blocks behind it. It is contained in a celestial wine glass that has been tightly sealed.\n\nCan be used in compounding.",
+      "category": 16
+    },
+    {
+      "index": 281,
+      "pText": "A strange mineral also known as memory stone. It memorizes the quickening of the pulse that happens at the entrance of a dungeon, and then when its user raises it up and chants later on, it instantly takes the entire party back to that spot.\n\nReturns to dungeon entrance.",
+      "category": 16
+    },
+    {
+      "index": 282,
+      "pText": "Originally the term for a double-bladed axe, over time it came to be recognized by the Crystal Adventists as the name of “an axe to fell beasts that would do men harm.” It is capable of dealing high damage to beasts.",
+      "category": 2
+    },
+    {
+      "index": 283,
+      "pText": "A polearm with a large, single-edged blade affixed to the end, similar to the naginata. Featuring delicate silverwork on the blade and the shaft, it is easy to handle even for novices and imparts a resistance to magic.\n\n[Effect when equipped: +Magic defense]",
+      "category": 3
+    },
+    {
+      "index": 284,
+      "pText": "A knife of incredible swiftness, passed down within a small tribe from the south whose members worship the falcon.\n\nExtremely light and featuring a waved blade, it is said to raise the agility of those who carry it.\n\n[Effect when equipped: +Agility]",
+      "category": 6
+    },
+    {
+      "index": 285,
+      "pText": "A rare knife forged by a master craftsman and imbued with spiritual energy through a high priest’s decade of prayers. It is believed to slightly increase its wielder’s magic attack power.\n\n[Effect when equipped: +Magic attack]",
+      "category": 6
+    },
+    {
+      "index": 286,
+      "pText": "In antiquity, the advanced techniques required to refine silver meant it often commanded a higher price than gold. Silver swords made during such an age were thought to be effective against the ruinous undead. This sword deals high damage to undead monsters.",
+      "category": 1
+    },
+    {
+      "index": 287,
+      "pText": "A sword of gold order made by its fabulously wealthy owner to flaunt said wealth. An abundance of the metal is used in both the blade and hilt, and it is valued more as a work of art than a weapon.",
+      "category": 1
+    },
+    {
+      "index": 288,
+      "pText": "A single-bitted axe gifted to the barbarian king upon his submission to the Kingdom of Flor two centuries ago. The barbarian king was so pleased with this axe decorated in silver, a metal believed to calm the spirit, that he never let it leave his grasp for even an instant.\n\n[Effect when equipped: +Mind]",
+      "category": 2
+    },
+    {
+      "index": 289,
+      "pText": "A beautiful double-bitted axe that a certain cleric had made as a symbol of his authority. Its shimmering golden head adorned the cleric’s chambers and was never used in battle, but was first employed when the cleric’s many years of wrongdoing were made public and he was accordingly executed.",
+      "category": 2
+    },
+    {
+      "index": 290,
+      "pText": "Due to a legend in the Old Faith that told of a silver lance used to best a god of the seas, the Orthodoxy at its dawn provided the first captain of their knights with this lance when he left on his campaign to subdue the federation of pirates in the Sea of Corsairs, accomplishing numerous feats with it. It can deal high damage to aquatic monsters.",
+      "category": 3
+    },
+    {
+      "index": 291,
+      "pText": "A master of the spear boasting a thousand disciples spent his entire fortune to have this spear made entirely of gold. Whether or not it can truly be handled as a spear is questionable due to its tremendous weight, but for the same reason, it became a popular tool among the master’s disciples with which to train.",
+      "category": 3
+    },
+    {
+      "index": 292,
+      "pText": "A silver rod used during the wars to unify ancient Caldisla. An object of worship in the long-abandoned primeval religion, it is thought to have the Thunder Crystal’s blessing and be capable of increasing the potency of lightning-based attacks.\n\n[Effect when equipped: +Lightning attack]",
+      "category": 4
+    },
+    {
+      "index": 293,
+      "pText": "An opulent rod gifted to a grand mage who devoted his life to the Orthodoxy, discovering and compiling a myriad of magics. Made of pure gold, it is extremely heavy; the aged mage used it for weight training designed to stave off the ravages of time.",
+      "category": 4
+    },
+    {
+      "index": 294,
+      "pText": "With the passing of the Crystal Orthodoxy’s first Grand Patriarch, a new struggle for power arose in the church. Eminent clerics and cardinals fearing assassination by arsenic surrounded themselves with all manner of silver items. As to whether this staff is of any use in detecting arsenic, the matter is unsettled.",
+      "category": 5
+    },
+    {
+      "index": 295,
+      "pText": "A gorgeous staff decorated with a lump of gold larger than a fist capable of expanding the mind of its wielder. The end of the staff is excessively heavy, and its ability to deliver deadly force when swung is unparalleled among staves. Also known as the Blunt Instrument of Splendor.",
+      "category": 5
+    },
+    {
+      "index": 296,
+      "pText": "A broad dagger decorated in silver. A hot commodity amongst missionaries sent to uncivilized lands and adventurers alike thanks to its marketing tagline, “Beasts abhor a silver weapon.” Can deal high damage to beasts.",
+      "category": 6
+    },
+    {
+      "index": 297,
+      "pText": "A dagger modeled after the Golden Kwaiken told of in the Orthodoxy. Though it does not boast the same level of spiritual power as its model, it is a perfectly functional dagger and commands extraordinary market value among art collectors and speculators.",
+      "category": 6
+    },
+    {
+      "index": 298,
+      "pText": "A bow decorated in high-quality silver leaf from the region of Eisen. It is incredibly lightweight and accessible to novices, and capable of dealing high damage to aerial monsters.\n\n[Attack: Silence (low)]",
+      "category": 7
+    },
+    {
+      "index": 299,
+      "pText": "An opulent and heavy bow. The bow itself is gilded and strung with gold thread, while its missiles’ arrowheads are of pure gold and their fletchings from golden eagles. The weight of the bow itself—saying nothing of the draw weight—makes it difficult for the average warrior to handle. This bow can deal high damage to aerial monsters.",
+      "category": 7
+    },
+    {
+      "index": 300,
+      "pText": "Decorated entirely in silver, the back of the blade is saw-toothed, a design unusual for a tachi. This sword may prevent darkness from taking root thanks to the prayers to banish evil offered over it by a hundred high priests.\n\n[Effect when equipped: Resist dark]",
+      "category": 8
+    },
+    {
+      "index": 301,
+      "pText": "A treasured katana from the land of Wa, an island nation to the east that suddenly vanished hundreds of years ago. This golden tachi was commissioned by a warlord who had raised himself from a simple foot soldier to the supreme ruler. Alas, as he had no heir, his rule would not continue, and the sword, too, would fall to the possession of others.",
+      "category": 8
+    },
+    {
+      "index": 302,
+      "pText": "Silver-adorned knuckles of a decidedly older style. With a single punch, the ancient Lord of the Fist defeated an evil dragon rampaging through his lands, thus ensuring that these knuckles would continue to be produced into modern times. They are capable of dealing high damage to dragons.",
+      "category": 9
+    },
+    {
+      "index": 303,
+      "pText": "The King of Time granted these knuckles of pure gold to a gladiator who had distinguished himself during Caldisla’s ancient wars of unification. They are incredibly heavy, and it is recorded that in a later battle while the gladiator was making to deliver a backhand blow, the knuckles flew clean off his hand and instead struck and killed the enemy general.",
+      "category": 9
+    },
+    {
+      "index": 304,
+      "pText": "Developed by Professor N. Somnia, the foremost authority on the study of good sleep. This pillow grants a deep sleep, but at the price of the sleeper’s dreams being invaded by the memories and sins of another.\n\n[Initiates nemesis encounter]",
+      "category": 16
+    },
+    {
+      "index": 305,
+      "pText": "A token in the shape of a flower\nobtained from the game corner at\nthe Sacred Flower Festival.\nThese medals have a faintly sweet\nscent and are popularly used\nas decorations.",
+      "category": 16
+    },
+    {
+      "index": 306,
+      "pText": "Coarsely mashed potatoes are mixed with minced meat, coated in breadcrumbs, and immersed in hot oil. The ultimate bun, realized through the three techniques of boiling, sautéing, and frying. Also known as a “croquette.”\n\n[+All stats]",
+      "category": 16
+    },
+    {
+      "index": 307,
+      "pText": "A creamy, hearty stew, wrapped in a pie crust and fried to keep it piping hot. A hot pie does a body good.\n\n[+HP]",
+      "category": 16
+    },
+    {
+      "index": 308,
+      "pText": "It was actually a military mastermind who devised this method of wrapping up a juicy meatball. Here’s a fried meat pie to put you on cloud nine.\n\n[+MP]",
+      "category": 16
+    },
+    {
+      "index": 309,
+      "pText": "A woodcutter driven to sighing at his own lack of strength had his spirits lifted by this fried pastry. Overjoyed, down he swung his axe and split his tool clean in half.\n\n[+Strength]",
+      "category": 16
+    },
+    {
+      "index": 310,
+      "pText": "This fine bun renowned for the stamina it imparts can be found at the concession stands of a certain star performer’s concerts. A fan’s body is vital in the act of showing support! “We! Go! Wild!”\n\n[+Vitality]",
+      "category": 16
+    },
+    {
+      "index": 311,
+      "pText": "Long ago, this mysterious fried pastry was presented to a barbarian king by the neighboring nation he had invaded. With the king’s bun-augmented intellect, he abruptly halted his invasion.\n\n[+Intelligence]",
+      "category": 16
+    },
+    {
+      "index": 312,
+      "pText": "A king wavering under political pressure was given this fried pastry by his fretful wife in order to steel his resolve. His resolve steeled, he ran away from home.\n\n[+Mind]",
+      "category": 16
+    },
+    {
+      "index": 313,
+      "pText": "In the ancient past, a minister lamenting his prince’s dull thinking learned the secret of fried buns from a member of a certain organization. Presenting them to his prince laid the cornerstone of what would become a virtuous monarchy.\n\n[+Agility]",
+      "category": 16
+    },
+    {
+      "index": 314,
+      "pText": "During the age of myths, a new king’s relations with his elder retainers was strained under the king’s natural ineptitude. A member of a certain organization gave the king this mythical snack, and his troubles became a thing of the past.\n\n[+Dexterity]",
+      "category": 16
+    }
+  ]
+}

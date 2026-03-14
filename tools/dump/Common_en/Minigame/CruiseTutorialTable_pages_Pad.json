@@ -1,0 +1,467 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 26028,
+    "data_one_size": 24,
+    "data_num": 57,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "id": 1010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Move Each Cursor with the Left and Right Sticks",
+      "pText": "Use <sprite name=\"button_Lstick03\"> and <sprite name=\"button_Rstick03\"> to move the left- and right-hand cursors, and <sprite name=\"button_L\"> and <sprite name=\"button_R\"> to grab and operate the wheel, levers, and other devices.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1001"
+    },
+    {
+      "id": 1010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Helm and Altitude Lever",
+      "pText": "Spin the wheel with the hand cursor to change the airship’s heading. Ascending and descending is done by grabbing the altitude lever and moving it up and down.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1003"
+    },
+    {
+      "id": 1010,
+      "pImage": -1,
+      "pageType": 0,
+      "pTitle": "Yaw Left and Right with the Wheel",
+      "pText": "First try steering left and right.\n\nGrab the wheel and move in a circular motion, and the ship will move in the same direction.",
+      "pSubImage": ""
+    },
+    {
+      "id": 1020,
+      "pImage": -1,
+      "pageType": 0,
+      "pTitle": "Ascend and Descend with the Altitude Lever",
+      "pText": "Ascending and descending is done with the altitude lever.\n\nWhile holding the lever, move it up or down to change your altitude.",
+      "pSubImage": ""
+    },
+    {
+      "id": 1040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Clear Orders",
+      "pText": "While cruising, your allies and other crew members will fire off various orders. Use both cursors to fulfill the orders within their time limits.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1006"
+    },
+    {
+      "id": 1040,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Flipping Test Switches",
+      "pText": "Press the three switches to toggle them on or off in the specified order from left to right.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1007"
+    },
+    {
+      "id": 1050,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Repairing Valves",
+      "pText": "Steam might start leaking from valves at times. When this happens, grab the wrench from the tool box and tighten the valve to stop the leak!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1008"
+    },
+    {
+      "id": 1060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Game Over",
+      "pText": "The airship will lose HP if you go off course or are hit by enemy attacks. The game will end if the HP gauge in the upper right falls to zero!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1004"
+    },
+    {
+      "id": 1060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Recovering HP with the Repair Lever",
+      "pText": "When the ship’s HP is running low, crank the repair lever in the cockpit’s bottom right to recover a bit of HP! Try to give it a crank whenever you have a free moment!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1005"
+    },
+    {
+      "id": 1060,
+      "pImage": -1,
+      "pageType": 0,
+      "pTitle": "Detailed Instructions in How to Play",
+      "pText": "That’s it for the tutorial. Could you get a good feel for the controls?\n\nMore detailed explanations can be found in How to Play, so give it a look if you’re so inclined!",
+      "pSubImage": ""
+    },
+    {
+      "id": 1100,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Battling the Ghost Ship",
+      "pText": "In battle with the ghost ship, take up a holy swatter in either hand to swat those ghosts!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1010"
+    },
+    {
+      "id": 1110,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Shield Controls in Default Mode",
+      "pText": "First, you’ll need to defend against enemy attacks. In default mode, the hand cursors will become shield cursors. Move your left and right shields deftly to block incoming attacks.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1013"
+    },
+    {
+      "id": 1110,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Reflecting with Combined Shields",
+      "pText": "Bringing the two shields together will combine them and reflect attacks! You can separate them just by moving them apart. Use each configuration as the situation demands it!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1014"
+    },
+    {
+      "id": 1110,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Combine Shields for Powerful Attacks",
+      "pText": "When you see the enemy charging up, a powerful attack is on its way! Your only recourse at that time is to reflect it with the combined shields.\n\nIf you reflect it successfully, it’ll be your chance for a counterattack!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1015"
+    },
+    {
+      "id": 1115,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Shield Controls in Default Mode",
+      "pText": "First, you’ll need to defend against enemy attacks. In default mode, the hand cursors will become shield cursors. Move your left and right shields deftly to block incoming attacks.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1026"
+    },
+    {
+      "id": 1115,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Reflecting with Combined Shields",
+      "pText": "Bringing the two shields together will combine them and reflect attacks! You can separate them just by moving them apart. Use each configuration as the situation demands it!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1027"
+    },
+    {
+      "id": 1115,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Combine Shields for Powerful Attacks",
+      "pText": "When you see the enemy charging up, a powerful attack is on its way! Your only recourse at that time is to reflect it with the combined shields.\n\nIf you reflect it successfully, it’ll be your chance for a counterattack!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1028"
+    },
+    {
+      "id": 1120,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Controlling Cannons with the Artillery Levers",
+      "pText": "Now for your counterattack! Pull back on the artillery levers until the power gauge fills above the indicator, and let go to fire the cannons. You have three shots per cannon; aim carefully!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1011"
+    },
+    {
+      "id": 1120,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Alternate Your Shots",
+      "pText": "Each cannon requires time to cool between shots. Alternate between left and right so you can fire with one while the other is cooling for maximum efficiency!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1012"
+    },
+    {
+      "id": 1130,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Avoid the Barrier and Fire",
+      "pText": "When attacking the ghost ship, try to avoid the barrier and aim for the ship itself! A direct hit will deal critical damage and earn you more points!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1029"
+    },
+    {
+      "id": 1140,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Aim for the Dragon’s Head or Body",
+      "pText": "When attacking the dragon, watch its movements carefully and try to aim for the body. Hitting its wings will count as a nice hit, while hitting its head will deal critical damage!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1030"
+    },
+    {
+      "id": 1150,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Avoid the Corvettes and Fire",
+      "pText": "When attacking the galleon airship, try to avoid hitting the smaller corvettes. A direct hit will deal critical damage and earn you more points!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1031"
+    },
+    {
+      "id": 1160,
+      "pImage": -1,
+      "pageType": 0,
+      "pTitle": "Fire Away in Brave Mode",
+      "pText": "Now for the final spurt: brave mode!\n\nIn brave mode, your cannons don’t have any cooling time—you can fire as fast as you can pull the levers! Hold the button and move both levers back and forth to fire as many shots as possible!",
+      "pSubImage": ""
+    },
+    {
+      "id": 1200,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Move Each Cursor with the Left and Right Sticks",
+      "pText": "Use <sprite name=\"button_Lstick03\"> and <sprite name=\"button_Rstick03\"> to move the left- and right-hand cursors, and <sprite name=\"button_L\"> and <sprite name=\"button_R\"> to grab and operate the wheel, levers, and other devices.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1001"
+    },
+    {
+      "id": 1200,
+      "pImage": 0,
+      "pageType": 0,
+      "pTitle": "Controller-Exclusive! Easy Steering!",
+      "pText": "Grab the wheel with the hand cursor and spin the stick to steer the ship.\n\n…Is normal operating procedure, but with a controller, you can push either left or right on the stick to steer hard in that direction! Piloting has never been easier!",
+      "pSubImage": ""
+    },
+    {
+      "id": 1200,
+      "pImage": -1,
+      "pageType": 5,
+      "pTitle": "Controller-Exclusive! Easy Device Selection!",
+      "pText": "To instantly enter device commands, use <sprite name=\"button_mini04\">, <sprite name=\"button_mini05\">, <sprite name=\"button_mini03\">, and <sprite name=\"button_mini02\"> for the left-hand cursor, and <sprite name=\"button_Y\">, <sprite name=\"button_X\">, <sprite name=\"button_A\">, and <sprite name=\"button_B\"> for the right. You’ll be the master of efficiency once you get used to it.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1100"
+    },
+    {
+      "id": 2010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Pilot the Airship",
+      "pText": "Pilot the airship through the rings to score points. Following the rings will keep you on course; the airship will take damage if you stray too far off course.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1002"
+    },
+    {
+      "id": 2010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Controls with the Hand Cursors",
+      "pText": "Move the left- and right-hand cursors to operate the wheel and levers. The hand cursors can also manipulate the other equipment and devices in the cockpit.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1001"
+    },
+    {
+      "id": 2010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Helm and Altitude Lever",
+      "pText": "Spin the wheel with the hand cursor to change the airship’s heading. Ascending and descending is done by grabbing the altitude lever and moving it up and down.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1003"
+    },
+    {
+      "id": 2020,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Game Over",
+      "pText": "The airship will lose HP if you go off course or are hit by enemy attacks. The game will end if the HP gauge in the upper right falls to zero!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1004"
+    },
+    {
+      "id": 2020,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Recovering HP with the Repair Lever",
+      "pText": "When the ship’s HP is running low, crank the repair lever in the cockpit’s bottom right to recover a bit of HP! Try to give it a crank whenever you have a free moment!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1005"
+    },
+    {
+      "id": 2030,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Clear Orders",
+      "pText": "While cruising, your allies and other crew members will fire off various orders. Use both cursors to fulfill the orders within their time limits.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1006"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Flipping Test Switches",
+      "pText": "Press the three switches to toggle them on or off in the specified order from left to right.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1007"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Adjusting Heating and Cooling",
+      "pText": "Flip the air-conditioning switch right and left to turn on the cooler or the heater according to your allies’ orders!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1017"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Blow the Whistle!",
+      "pText": "Grab the cord and pull down to blow the whistle! Pay attention to how many times you’re asked to sound it!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1018"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Tuning Radio Channels",
+      "pText": "Press the three buttons to tune the radio into the three-digit channel your allies request. Different music plays on different channels!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1019"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Launching Fireworks",
+      "pText": "Different sorts of fireworks are launched with the differently numbered buttons. Press the right button to set off the ordered pyrotechnics!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1020"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Repairing Valves",
+      "pText": "Steam might start leaking from valves at times. When this happens, grab the wrench from the tool box and tighten the valve to stop the leak!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1008"
+    },
+    {
+      "id": 2040,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Changing Vacuum Tubes",
+      "pText": "If your instruments stop working due to a blown vacuum tube, you’ll need to swap in a new tube. Grab one from the tool box and fit it in place of the blown tube!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1021"
+    },
+    {
+      "id": 2050,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Swatting Bugs",
+      "pText": "If a pesky bug flies into the cockpit, grab the fly swatter from the tool box and swat it summarily!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1022"
+    },
+    {
+      "id": 2050,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Popping Balloons",
+      "pText": "If party balloons are on the loose, use the right- and left-hand cursors to pop them directly. Sometimes something might pop out, too!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1023"
+    },
+    {
+      "id": 2050,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Lock On with the Radar",
+      "pText": "If monsters come attacking, pull down on the slider to the right of the radar to lock on, and release it to fire a net at the target! If you’ve got a mess of bogeys on your hands, the trick is to hold the slider down.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1024"
+    },
+    {
+      "id": 2050,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Incoming Cat!",
+      "pText": "Sometimes a cat might wander into the cockpit. When this happens, hold it and move left and right to pet it. You’ll recover HP and score points. More importantly, it’s cute.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1025"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Encountering Powerful Enemies",
+      "pText": "You’ll face off with a powerful foe during an encounter event.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1009"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Battling the Ghost Ship",
+      "pText": "In battle with the ghost ship, take up a holy swatter in either hand to swat those ghosts!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1010"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Shield Controls in Default Mode",
+      "pText": "First, you’ll need to defend against enemy attacks. In default mode, the hand cursors will become shield cursors. Move your left and right shields deftly to block incoming attacks.",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1013"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Reflecting with Combined Shields",
+      "pText": "Bringing the two shields together will combine them and reflect attacks! You can separate them just by moving them apart. Use each configuration as the situation demands it!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1014"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Combine Shields for Powerful Attacks",
+      "pText": "When you see the enemy charging up, a powerful attack is on its way! Your only recourse at that time is to reflect it with the combined shields.\n\nIf you reflect it successfully, it’ll be your chance for a counterattack!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1015"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Controlling Cannons with the Artillery Levers",
+      "pText": "Now for your counterattack! Pull back on the artillery levers until the power gauge fills above the indicator, and let go to fire the cannons. You have three shots per cannon; aim carefully!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1011"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Alternate Your Shots",
+      "pText": "Each cannon requires time to cool between shots. Alternate between left and right so you can fire with one while the other is cooling for maximum efficiency!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1012"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Avoid the Barrier and Fire",
+      "pText": "When attacking the ghost ship, try to avoid the barrier and aim for the ship itself! A direct hit will deal critical damage and earn you more points!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1029"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Aim for the Dragon’s Head or Body",
+      "pText": "When attacking the dragon, watch its movements carefully and try to aim for the body. Hitting its wings will count as a nice hit, while hitting its head will deal critical damage!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1030"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Avoid the Corvettes and Fire",
+      "pText": "When attacking the galleon airship, try to avoid hitting the smaller corvettes. A direct hit will deal critical damage and earn you more points!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/c1031"
+    },
+    {
+      "id": 2060,
+      "pImage": 0,
+      "pageType": 0,
+      "pTitle": "Fire Away in Brave Mode",
+      "pText": "Now for the final spurt: brave mode!\n\nIn brave mode, your cannons don’t have any cooling time—you can fire as fast as you can pull the levers! Hold the button and move both levers back and forth to fire as many shots as possible!",
+      "pSubImage": ""
+    },
+    {
+      "id": 2070,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Move Each Cursor with the Left and Right Sticks",
+      "pText": "Use <sprite name=\"button_Lstick03\"> and <sprite name=\"button_Rstick03\"> to move the left- and right-hand cursors, and <sprite name=\"button_L\"> and <sprite name=\"button_R\"> to grab and operate the wheel, levers, and other devices.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1001"
+    },
+    {
+      "id": 2080,
+      "pImage": 0,
+      "pageType": 0,
+      "pTitle": "Controller-Exclusive! Easy Steering!",
+      "pText": "Grab the wheel with the hand cursor and spin the stick to steer the ship.\n\n…Is normal operating procedure, but with a controller, you can push either left or right on the stick to steer hard in that direction! Piloting has never been easier!",
+      "pSubImage": ""
+    },
+    {
+      "id": 2080,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Controller-Exclusive! Easy Device Selection!",
+      "pText": "To instantly enter device commands, use <sprite name=\"button_mini04\">, <sprite name=\"button_mini05\">, <sprite name=\"button_mini03\">, and <sprite name=\"button_mini02\"> for the left-hand cursor, and <sprite name=\"button_Y\">, <sprite name=\"button_X\">, <sprite name=\"button_A\">, and <sprite name=\"button_B\"> for the right. You’ll be the master of efficiency once you get used to it.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/c1100"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 116,
+    "data_one_size": 8,
+    "data_num": 4,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "pBGMName": "bgmbtl04",
+      "playTime": 1119748096
+    },
+    {
+      "pBGMName": "bgmbtl05",
+      "playTime": 1119223808
+    },
+    {
+      "pBGMName": "bgmbtl06",
+      "playTime": 1119354880
+    },
+    {
+      "pBGMName": "bgmbtl07",
+      "playTime": 1119617024
+    }
+  ]
+}

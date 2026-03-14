@@ -1,0 +1,267 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 2216,
+    "data_one_size": 24,
+    "data_num": 32,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "index": 1,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタル１",
+      "pageDataIndex": 1,
+      "gameFlag": 7586
+    },
+    {
+      "index": 2,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタル２",
+      "pageDataIndex": 2,
+      "gameFlag": 7587
+    },
+    {
+      "index": 3,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタル３",
+      "pageDataIndex": 3,
+      "gameFlag": 7588
+    },
+    {
+      "index": 4,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタルの解放",
+      "pageDataIndex": 4,
+      "gameFlag": 7589
+    },
+    {
+      "index": 5,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "巫女の祈祷衣",
+      "pageDataIndex": 5,
+      "gameFlag": 7590
+    },
+    {
+      "index": 6,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "祈りの虹糸",
+      "pageDataIndex": 6,
+      "gameFlag": 7591
+    },
+    {
+      "index": 7,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタル４",
+      "pageDataIndex": 7,
+      "gameFlag": 7592
+    },
+    {
+      "index": 8,
+      "pTitle": "Crystals",
+      "id": 0,
+      "pSubTitle": "クリスタル５",
+      "pageDataIndex": 8,
+      "gameFlag": 7593
+    },
+    {
+      "index": 9,
+      "pTitle": "The Crystal Orthodoxy",
+      "id": 1,
+      "pSubTitle": "クリスタル正教１",
+      "pageDataIndex": 9,
+      "gameFlag": 7594
+    },
+    {
+      "index": 10,
+      "pTitle": "The Crystal Orthodoxy",
+      "id": 1,
+      "pSubTitle": "クリスタル正教２",
+      "pageDataIndex": 10,
+      "gameFlag": 7595
+    },
+    {
+      "index": 11,
+      "pTitle": "The Crystal Orthodoxy",
+      "id": 1,
+      "pSubTitle": "クリスタル正教３",
+      "pageDataIndex": 11,
+      "gameFlag": 7596
+    },
+    {
+      "index": 12,
+      "pTitle": "The Crystal Orthodoxy",
+      "id": 1,
+      "pSubTitle": "クリスタル正教４",
+      "pageDataIndex": 12,
+      "gameFlag": 7597
+    },
+    {
+      "index": 13,
+      "pTitle": "The Crystal Temples",
+      "id": 2,
+      "pSubTitle": "クリスタル神殿",
+      "pageDataIndex": 13,
+      "gameFlag": 7598
+    },
+    {
+      "index": 14,
+      "pTitle": "Vestals",
+      "id": 3,
+      "pSubTitle": "クリスタルの巫女１",
+      "pageDataIndex": 14,
+      "gameFlag": 7599
+    },
+    {
+      "index": 15,
+      "pTitle": "Vestals",
+      "id": 3,
+      "pSubTitle": "クリスタルの巫女２",
+      "pageDataIndex": 15,
+      "gameFlag": 7600
+    },
+    {
+      "index": 16,
+      "pTitle": "Duchy of Eternia",
+      "id": 4,
+      "pSubTitle": "エタルニア公国１",
+      "pageDataIndex": 16,
+      "gameFlag": 7601
+    },
+    {
+      "index": 17,
+      "pTitle": "Duchy of Eternia",
+      "id": 4,
+      "pSubTitle": "エタルニア公国２",
+      "pageDataIndex": 17,
+      "gameFlag": 7602
+    },
+    {
+      "index": 18,
+      "pTitle": "Duchy of Eternia",
+      "id": 4,
+      "pSubTitle": "エタルニア公国３",
+      "pageDataIndex": 18,
+      "gameFlag": 7603
+    },
+    {
+      "index": 19,
+      "pTitle": "Anticrystalism",
+      "id": 5,
+      "pSubTitle": "アンチクリスタリズム",
+      "pageDataIndex": 19,
+      "gameFlag": 7604
+    },
+    {
+      "index": 20,
+      "pTitle": "Asterisks",
+      "id": 6,
+      "pSubTitle": "アスタリスク",
+      "pageDataIndex": 20,
+      "gameFlag": 7605
+    },
+    {
+      "index": 21,
+      "pTitle": "Airships",
+      "id": 7,
+      "pSubTitle": "飛空艇１（飛行石",
+      "pageDataIndex": 21,
+      "gameFlag": 7606
+    },
+    {
+      "index": 22,
+      "pTitle": "Airships",
+      "id": 7,
+      "pSubTitle": "飛空艇２（歴史",
+      "pageDataIndex": 22,
+      "gameFlag": 7607
+    },
+    {
+      "index": 23,
+      "pTitle": "Airships",
+      "id": 7,
+      "pSubTitle": "飛空艇３（構造",
+      "pageDataIndex": 23,
+      "gameFlag": 7608
+    },
+    {
+      "index": 24,
+      "pTitle": "Airships",
+      "id": 7,
+      "pSubTitle": "飛空艇４（種類",
+      "pageDataIndex": 24,
+      "gameFlag": 7609
+    },
+    {
+      "index": 25,
+      "pTitle": "Never-Ending Civil War",
+      "id": 8,
+      "pSubTitle": "盾派と剣派１",
+      "pageDataIndex": 25,
+      "gameFlag": 7610
+    },
+    {
+      "index": 26,
+      "pTitle": "Never-Ending Civil War",
+      "id": 8,
+      "pSubTitle": "盾派と剣派２（盾派",
+      "pageDataIndex": 26,
+      "gameFlag": 7611
+    },
+    {
+      "index": 27,
+      "pTitle": "Never-Ending Civil War",
+      "id": 8,
+      "pSubTitle": "盾派と剣派３（剣派",
+      "pageDataIndex": 27,
+      "gameFlag": 7612
+    },
+    {
+      "index": 28,
+      "pTitle": "Never-Ending Civil War",
+      "id": 8,
+      "pSubTitle": "盾派と剣派４（カナリヤ",
+      "pageDataIndex": 28,
+      "gameFlag": 7613
+    },
+    {
+      "index": 29,
+      "pTitle": "Keystones",
+      "id": 9,
+      "pSubTitle": "キーストーン",
+      "pageDataIndex": 29,
+      "gameFlag": 7614
+    },
+    {
+      "index": 30,
+      "pTitle": "D’s Journal",
+      "id": 10,
+      "pSubTitle": "Ｄの手帳１",
+      "pageDataIndex": 30,
+      "gameFlag": 7615
+    },
+    {
+      "index": 31,
+      "pTitle": "D’s Journal",
+      "id": 10,
+      "pSubTitle": "Ｄの手帳２（アナゼル",
+      "pageDataIndex": 31,
+      "gameFlag": 7616
+    },
+    {
+      "index": 32,
+      "pTitle": "Holy Pillar",
+      "id": 11,
+      "pSubTitle": "ホーリーピラー",
+      "pageDataIndex": 32,
+      "gameFlag": 7617
+    }
+  ]
+}

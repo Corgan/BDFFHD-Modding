@@ -1,0 +1,29 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 176,
+    "data_one_size": 4,
+    "data_num": 6,
+    "ints_per_record": 1
+  },
+  "records": [
+    {
+      "pReverseHitEffectName": "BT_HIT_SWORD"
+    },
+    {
+      "pReverseHitEffectName": "BT_HIT_SWORD_STRONG"
+    },
+    {
+      "pReverseHitEffectName": "BT_HIT_AX"
+    },
+    {
+      "pReverseHitEffectName": "BT_HIT_AX_STRONG"
+    },
+    {
+      "pReverseHitEffectName": "BT_HIT_SHORTSWORD"
+    },
+    {
+      "pReverseHitEffectName": "BT_HIT_SHORTSWORD_STRONG"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 402,
+    "data_one_size": 12,
+    "data_num": 10,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "id": 1010,
+      "pageCount": 2,
+      "pTitle": "Using Two Mice"
+    },
+    {
+      "id": 1020,
+      "pageCount": 2,
+      "pTitle": "Judging"
+    },
+    {
+      "id": 1030,
+      "pageCount": 2,
+      "pTitle": "Ring Notes"
+    },
+    {
+      "id": 1040,
+      "pageCount": 2,
+      "pTitle": "Flower Notes"
+    },
+    {
+      "id": 1050,
+      "pageCount": 2,
+      "pTitle": "Bar Notes"
+    },
+    {
+      "id": 1060,
+      "pageCount": 2,
+      "pTitle": "Fever Mode"
+    },
+    {
+      "id": 2010,
+      "pageCount": 1,
+      "pTitle": "Using Two Mice"
+    },
+    {
+      "id": 2020,
+      "pageCount": 1,
+      "pTitle": "Ring Notes"
+    },
+    {
+      "id": 2030,
+      "pageCount": 1,
+      "pTitle": "Flower Notes"
+    },
+    {
+      "id": 2040,
+      "pageCount": 1,
+      "pTitle": "Bar Notes"
+    }
+  ]
+}

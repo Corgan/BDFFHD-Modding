@@ -1,0 +1,59 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3052,
+    "data_one_size": 24,
+    "data_num": 6,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "id": 1010,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Catch Notes with Lux Sticks!",
+      "pText": "Move your left and right lux sticks to catch the notes flowing in from the rear! There are three types of notes: rings, flowers, and bars.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/d1001"
+    },
+    {
+      "id": 1020,
+      "pImage": 0,
+      "pageType": 5,
+      "pTitle": "Aim for a High Score!",
+      "pText": "Each type of note has a different way of catching it. The points you earn will change depending on how you catch the notes. Great catches will earn more points than nice catches. Aim for a high score!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/d1002"
+    },
+    {
+      "id": 1030,
+      "pImage": 1,
+      "pageType": 5,
+      "pTitle": "Catch with the Wave Line!",
+      "pText": "Pass the wave line coming from between your lux sticks through the center of a note for a great catch! You don't even need to press any buttons! <sprite name=\"button_guidetx_heart\">Heart notes are worth more points!",
+      "pSubImage": "Graphics/UI/Common/Tutorial/d1004"
+    },
+    {
+      "id": 1040,
+      "pImage": 2,
+      "pageType": 5,
+      "pTitle": "Match Colors to Catch a Bouquet!",
+      "pText": "Hold <sprite name=\"button_L\"> or <sprite name=\"button_R\"> to catch flower notes! Flowers of the same color count as great catches! Even if they aren’t the same color, you’ll still get points.",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/d1005"
+    },
+    {
+      "id": 1050,
+      "pImage": 3,
+      "pageType": 5,
+      "pTitle": "Bring Left and Right Sticks Together to Catch!",
+      "pText": "Bring your lux sticks close together to wave them up and down and catch bar notes! Line up with the white part in the center of the bar note for a great catch!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/d1006"
+    },
+    {
+      "id": 1060,
+      "pImage": 4,
+      "pageType": 5,
+      "pTitle": "Rack Up Points to Trigger a Flashy Fever Time!",
+      "pText": "The fever gauge will fill a bit every time you get points. Fill it to the floral indicator to trigger fever time! In addition to a showy performance on stage, it’s your chance to rack up tons of points!",
+      "pSubImage": "Graphics/UI$_TL$/Common/Tutorial/d1003"
+    }
+  ]
+}

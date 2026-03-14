@@ -1,0 +1,2411 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 120316,
+    "data_one_size": 32,
+    "data_num": 240,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": 1,
+      "pTitle": "新しい手帳１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Ducal Reckoning 9/1/16–",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 2,
+      "pTitle": "新しい手帳２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/01\nThe Council of Six ship the Black Knight weighed anchor today, our destination Ancheim.\n\nThis marks the first entry in my fourth journal kept since my tenure as an officer began.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 3,
+      "pTitle": "新しい手帳３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My current mission: to collect the airship newly developed in Ancheim’s secret shipyard.\n\nI am to transport the skystone given to me by the grand marshal and see it installed, rendering the new vessel skyworthy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 4,
+      "pTitle": "新しい手帳４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I’ve just set a southeastward course and noticed my coffee’s gone cold. I had it cleared away.\n\nThe view beneath me is a sea of clouds, its eastern edge taking on a ruddy tinge as my fresh cup is brought.\n\nThis aroma is one of my day’s few luxuries.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 5,
+      "pTitle": "ラクリーカへ飛空艇受領１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/06\nI have come to the Profiteur Merchantry’s secret shipyard in Ancheim.\n\nWork installing the skystone within the newly built ship I’m to collect is at a standstill. Three days of waiting. The heat is stifling, and the coffee drowned in sugar. I hate this place.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 6,
+      "pTitle": "ラクリーカへ飛空艇受領２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It’s to be called the Eschalot. I’m surprised the first word from [PCF2]’s lips upon seeing the blueprints has become its official designation.\n\nI’d braced for another night of cat napping in this sweltering dock, but just received word the skystone is set and sealed.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 7,
+      "pTitle": "ラクリーカへ飛空艇受領３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The ship’s maiden flight is to the Flor-Cheim Sea, where the ship I rode here is berthed.\n\nWhile it lacks the horsepower of a heavy cruiser like the Black Knight, the ship is nimble and its design pleasing.\n\nI find myself quite taken with it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 8,
+      "pTitle": "飛行試験１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/10\nFollowing her test flight to the Flor-Cheim Sea, the Eschalot has begun seafaring tests.\n\nI am confident the ship’s power, speed, maneuverability, and defenses all meet the requirements laid forth by the Sky Knights.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 9,
+      "pTitle": "飛行試験２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The airship originally assigned to the Sky Knights suffered damage during the initial incursion into Caldisla and crashed. The mission to tow the newly completed Eschalot to Caldisla’s Lontano Villa will commence in one month’s time. It will be [PCF2]’s first sortie.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 10,
+      "pTitle": "飛行試験３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It falls on me to spend the next ten days overseeing thorough testing of the craft’s ability to withstand the Sky Knights’ rough handling.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_22",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 11,
+      "pTitle": "愛しすぎるイデア１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/20\nThe steel airlock door creaked shut behind me.\n\nFootsteps investigating the noise drew close for a moment, but soon faded.\n\nI lowered myself into bed with a sigh.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 12,
+      "pTitle": "愛しすぎるイデア２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My right hand unconsciously drifted to the back of my head.\n\nThere, beneath my pillow, it fell upon a picture frame.\n\nWithin it, a disheveled room full of scrap iron, oil stains, and a single, beautiful flower…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 13,
+      "pTitle": "愛しすぎるイデア３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_00",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 14,
+      "pTitle": "愛しすぎるイデア４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My beloved [PCF2]…\n\nI pine for the chance to see a smile unfurl across your face set in equal parts courageous fire and innocence.\n\nI long to hear your voice, sweet like a spring breeze. Let it speak my name, and I shall die a happy man.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 15,
+      "pTitle": "愛しすぎるイデア５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I could hear the nervous shuffling outside my door of someone afraid to disturb me. Not afraid enough, it seems.\n\nI returned the photo to its hiding place and answered without bothering to conceal my irritation.\n\n“I’m awake. What is it?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 16,
+      "pTitle": "愛しすぎるイデア６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I skimmed the manual I’d been given, then tossed it on the bed.\n\nI returned to [PCF2]’s smile, perfectly preserved within the picture frame.\n\nThe Eschalot. My lips formed the word time and again as I watched the new ship in tow from my cabin porthole.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 17,
+      "pTitle": "空挺騎士団の歓迎１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/24\nI make for Caldisla aboard the airship the Black Knight.\n\nI entrusted a subordinate with the task of towing the Eschalot to duchy waters, and now sail to give word to the Sky Knights.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 18,
+      "pTitle": "空挺騎士団の歓迎２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It was late afternoon by the time we moored at the Lontano Villa’s air dock.\n\n“AAAH, is this our new boat? It’s so BLACK and PUNCHY!”\n\nAs I descended to the villa roof, I was met with the loudest misunderstanding I’ve ever encountered.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 19,
+      "pTitle": "空挺騎士団の歓迎３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Whaaaaaat? Why send our new ship back to the duchy? We’re here, man! Bring it to us! BRING IT! Or just give us this one. Either or.”\n\nConstant shouting aside, Barras Lehr’s point is utterly reasonable. To him, at least. One assumes.\n\nBut he’s not getting my ship.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 20,
+      "pTitle": "空挺騎士団の歓迎４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Hey, kid! You made it!”\n\nWhen I reached the villa’s study, I was greeted with a rough slap to the back from Heinkel, captain of the Sky Knights.\n\nHe continues to treat me like a boy despite my superior rank. Strangely, I don’t really mind. Arguing with him is a waste of time, regardless.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 21,
+      "pTitle": "空挺騎士団の歓迎５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Two hours later, I sat down to a table laid heavy with a feast.\n\nWhat began as a welcome celebration for me ended in a horror show of Barras’s inhuman appetite and Heinkel and Holly’s tag-team drinking.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 22,
+      "pTitle": "空挺騎士団の歓迎６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“[PCF2] will serve in Ominas’s unit.”\n\nI was sobering up on the balcony when Heinkel came to deliver that news, leaving me wholly flustered.\n\nI could see his grin from the corner of my eye as he raised his glass in a mock toast.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 23,
+      "pTitle": "空挺騎士団の歓迎７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Knight Argent Heinkel.\n\nTales of his feats go back before the duchy’s founding. He holds the grand marshal’s trust, to the point of once serving as captain of his personal guard.\n\nFor some reason, this hero has taken an interest in me from a young age. I owe him more than I can hope to repay.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 24,
+      "pTitle": "空挺騎士団の歓迎８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_11",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 25,
+      "pTitle": "潜入準備１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/25\nHeinkel’s proposal would have been confusing enough even without the exquisite hangover clouding my brain.\n\nI asked if he was mad to suggest infiltrating the Caldislan castle town. His reply came with a laugh.\n\n“You didn’t seem to think so when you volunteered for the job.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 26,
+      "pTitle": "潜入準備２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I should have smelled a trap when he brought that flagon out to the balcony.\n\n“Going under cover all alone for little [PCF2]’s sake? Ooh, what a man! I might swoon.”\n\nLeave it to Holly to smell blood in the water and join in the teasing… Just leave me alone!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 27,
+      "pTitle": "潜入準備３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Yes, YESSS, charge into enemy territory and single-handedly smash everything! STRATEGY!”\n\nWhere do I even begin with Barras? Also, his voice is splitting my head in two.\n\nAnd why is he performing maintenance on MY ship!?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 28,
+      "pTitle": "潜入準備４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It may be black, but my armor is hardly subtle, so off comes the helmet for this mission. I’m leaving my sword as well.\n\nWait, am I seriously going through with this? I was dropped a ways from the city, told to await a smoke signal, and with that, my ship left for the villa once more.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 29,
+      "pTitle": "潜入成功１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/26\nI hurried for the capital as the sun dipped below the Norende Plateau.\n\nMy steps are unnervingly light without my armor, and these clothes hang oddly on me. Most of all, I feel naked unarmed.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 30,
+      "pTitle": "潜入成功２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I was greeted at the city’s edge by the sound of a whistle marking the arrival of a merchant ship.\n\nBetween the merchants and wholesalers, the dock workers unloading crates, the tired crewmen, and the eager children excited by the exotic wares, the port was buzzing with people.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 31,
+      "pTitle": "潜入成功３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As I pushed my way upstream through the crowd and along the avenue toward the palace, I spotted a splendid building, its roof a rich navy.\n\nThis must be the inn the old fisherman described.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 32,
+      "pTitle": "潜入成功４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Inside, I found a man with a gentle mien sitting behind a well-polished counter.\n\nI asked after any vacancies, but he replied with a chagrined, “Sorry, we’re all full up tonight.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 33,
+      "pTitle": "潜入成功５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It feels quiet for a full inn, but I don’t suppose I can blame him.\n\nA walk-in customer, at this hour. Clearly not a local. No one to vouch for me.\n\nAny respectable innkeep would offer some version of the same excuse.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 34,
+      "pTitle": "潜入成功６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When I inquired after a place to eat, he said down by the port there should be a cheap pub catering to sailors that’s open until morning.\n\nLovely. Back down I go…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 35,
+      "pTitle": "潜入成功７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "At the hill’s bottom I ate my fill at a food cart aimed at drunken sailors. Now it’s back up to the inn.\n\nI refuse to spend the night kept awake by carousing seamen.\n\nI let myself into the empty house next door to the inn. I’ll just have to sleep lightly.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 36,
+      "pTitle": "大イノシシ狩り１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/27\nI was awakened by the sound of sword practice, shouts of exertion, and the pleasant smell of toast.\n\nOne of the king’s guard, perhaps? Looks about my age, and reasonably skilled. I lay in my makeshift bed, lazily counting his swings.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 37,
+      "pTitle": "大イノシシ狩り２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Hurry up, Owen. You’ll be late.”\n\nUpon hearing the innkeep’s words, the youth replied and made his way down from the misty hilltop and into the inn.\n\nThe scent of breakfast coming from next door has me drooling…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 38,
+      "pTitle": "大イノシシ狩り３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One bite of my rock-hard bread brought me back to reality. The bacon burnt coal black and the murky, bitter coffee made me wish it hadn’t. I suppose I can expect no more from a shabby stand in the port.\n\nAfter choking down my fill, I climbed the hill toward the palace.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 39,
+      "pTitle": "大イノシシ狩り４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Supplied by a series of lush waterways, Caldisla was once a formidable city-fortress. These days, its hooked central avenue is lined with a magic shop, general store, armory, and other businesses.\n\nA large gate stands as a vestige of that era, though now it serves mostly as a site for the town bulletin board.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 40,
+      "pTitle": "大イノシシ狩り５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“This year’s boar hunt is set to begin once the final slot is filled! *Weapons provided by the hunting committee.”\n\nA boar hunt? With the duchy attacking?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 41,
+      "pTitle": "大イノシシ狩り６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I was speechless. As I made to leave, I felt someone grasp my shoulder.\n\n“This fellow says he’ll join the hunt! We ride today!”\n\nI turned, shock and irritation laid bare, only to find Owen, the young man I had seen practicing in the fog that morning.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 42,
+      "pTitle": "大イノシシ狩り７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My initial protests were drowned in a rising cheer, and as the smith handed me a broadsword and buckler, I dumbly accepted. Potions from the town chemist followed.\n\nBetween their expectant smiles and Owen’s grin, I found myself unable to say no.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 43,
+      "pTitle": "大イノシシ狩り８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "On the road, I was told a litany of facts I cared nothing about.\n\nThe search for food to fatten up before hibernating apparently drives the giant boars to local farms, where they raid crops and injure workers. As a result, the city gathers volunteers each year to hunt them.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 44,
+      "pTitle": "大イノシシ狩り９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As captain of the guard (I discover), responsibility for overseeing the hunt falls upon Owen.\n\nThe armorer was slated to participate, but a leg injury has him on crutches. Owen says he was searching for a replacement when he found a promising candidate during his morning practice. Lucky him.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 45,
+      "pTitle": "大イノシシ狩り１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We walked a full, tiring day stalking our prey. First the trader gave out, then chatter dried up between the two young castle guards.\n\nSunset found us upriver from the city, at the entrance to the Norende Canyon. Just as we decided to make camp, a rustling came from the thickets behind us!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 46,
+      "pTitle": "大イノシシ狩り１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The boar that leapt out was indeed a giant—a vicious, one-tusked monster that had survived the last year’s hunt. In a flash, it gored one of the guards, then the other, leaving only Owen, me, and the trader. The boar stamped the ground, preparing to charge the old man now paralyzed with fear.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 47,
+      "pTitle": "大イノシシ狩り１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I expect we’d all given up hope for the kindly old merchant, when the beast suddenly changed course.\n\nWith only seconds to react, Owen landed a mighty blow, felling the monster in a single strike!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 48,
+      "pTitle": "大イノシシ狩り１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I set about treating the young guards’ injuries.\n\nThe trader, clearly still worked up, narrated Owen’s victory to the two boys. With every reverent word, I felt as though I was being derided as useless.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 49,
+      "pTitle": "大イノシシ狩り１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The others took to sleep, while I sat watch to keep the fire going. Owen rose, and came to sit beside me.\n\n“Thanks for before.”\n\nI kept silent, but he pressed on.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 50,
+      "pTitle": "大イノシシ狩り１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_09",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 51,
+      "pTitle": "大イノシシ狩り１６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The boar only changed targets because you circled behind me and channeled your energy at it. It’s thanks to you we’re not carting home a corpse.”\n\nHe sat waiting, apparently bent on receiving a response. His grin is infectious.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 52,
+      "pTitle": "大イノシシ狩り１７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I took the surest course of action,” I replied as I held aloft my broadsword.\n\n“I had my doubts this blade was up to the task.”\n\nThe weapon’s edge was chipped in places, its length bent. With a gentle shake, the pommel gave an unsettling rattle. Owen burst into laughter at the noise.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 53,
+      "pTitle": "大イノシシ狩り１８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Apparently my response passed muster. He continued, his grin never flagging.\n\n“Starting tomorrow, you’ll stay at my place. I’ll give word to my father to open a room for you.”\n\nI was dragged on this hunt, but if it earns me a real breakfast, it’s a bargain I’d take gladly.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 54,
+      "pTitle": "宿屋に逗留１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/28\nThe innkeep’s voice and the smell of coffee being laid on the table roused me from my thoughts.\n\n“You’re from Ancheim, eh? You’ll be wanting extra sugar, then.”\n\nPolitely declining, I took a sip. Quality beans, roasted to perfection… Exquisite.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 55,
+      "pTitle": "宿屋に逗留２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After the hunt, we’d carried the wounded back to town. We tied the boar to a high tree branch; Owen said the townspeople would come for it later.\n\nAfter seeing to the boys’ treatment, Owen invited me to his home, the inn.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 56,
+      "pTitle": "宿屋に逗留３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Savior” was the title he used when introducing me to his father. I was mortified.\n\nI was on a journey of personal discovery, originally come from Ancheim… They bought my arbitrary lies without hesitation. They welcomed me.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 57,
+      "pTitle": "宿屋に逗留４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "That evening, we dined early, and well. The boar had been carted back to town, and our share of the meat filled a table.\n\nOnce Owen returned from the palace, we sat down to feast. The innkeep is a brilliant cook, and we ate, drank, and reveled into the night.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 58,
+      "pTitle": "宿屋に逗留５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Come by the palace tomorrow. I want you to meet the king.”\n\nHe repeated himself time and again, words slurred from the wine, despite my pretending to be asleep.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 59,
+      "pTitle": "謁見１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "9/29\nI stood before the king of Caldisla.\n\nOwen seemed determined to drag me into the king’s service.\n\nIt’s a mercy he didn’t know he was speaking to one of Eternia’s Council of Six. I expect the embarrassment would be crippling.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 60,
+      "pTitle": "謁見２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Caldislan king lacks any presence. Any fire. Outside and in, he’s utterly common.\n\nIf I were to kill this man where he stands, would it aid [PCF2]?\n\nRemembering that I am unarmed, and that Owen isn’t, nips any plotting in the bud.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 61,
+      "pTitle": "謁見３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After regaling the king with tales of my valor, he pushes for my appointment to the king’s guard.\n\nI parry with a roundabout excuse.\n\nPerhaps the king mistook my hesitation for modesty, but he did not press the point. The audience ended, and Owen’s scheme with it.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 62,
+      "pTitle": "謁見４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I left the palace, surreptitiously noting the number of guards, their equipment, and any other indication of Caldisla’s might.\n\nTo be blunt, Owen is the only real obstacle here.\n\nGiven Heinkel’s strength, I expect he could take the kingdom by brute force, if necessary.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 63,
+      "pTitle": "大地震１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/03\nI’ve been in Caldisla a week, with no sign of the smoke signal. I join Owen in his training some mornings, walk the city streets, chat with the elderly, drink with the sailors at the docks, arm wrestle the drunks… Mostly, I just pass the time.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 64,
+      "pTitle": "大地震２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Today was another peaceful afternoon, the same as any other.\n\nOwen was at the palace since morning. I was enjoying a cup of the innkeep’s coffee.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 65,
+      "pTitle": "大地震３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It happened in an instant. I felt as if someone was set to plunge a knife into my back. I turned, and saw a window.\n\nThrough it, the northern sky was on fire in a flash of pure white.\n\nMoments later, the inn shook. An earthquake? Shock wave?\n\nAll of Caldisla trembled.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 66,
+      "pTitle": "大地震４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The innkeep moaned about a set of heirloom teacups breaking. I had my doubts that teacups would be the worst of the damage.\n\nOutside, I spied some injured people, but the city and palace stood unharmed.\n\nAnother flash lit the sky to the northwest. Close. The Norende Heights, perhaps…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 67,
+      "pTitle": "魔物１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/04\nIt wasn’t till the following morning that Owen came home. By the time he finished muttering about his morning training, he was snoring.\n\nA knock at his door put an end to that brief rest that afternoon.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 68,
+      "pTitle": "魔物２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The river’s jammed with rubble!”\n\nAfter receiving the scout’s report, Owen wolfed down the late breakfast his father had readied, then turned to me.\n\n“Sounds like I may need a hand later.”\n\nI nodded, eyes fixed on the northwestern sky.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 69,
+      "pTitle": "魔物３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The bridge across the Caldisla River has lain in ruin since the duchy felled it. Now, a flotilla of further rubble and countless corpses approach from upstream.\n\nUpstream means the Norende Canyon, and the village of Norende at its source. I suppose that’s our epicenter.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 70,
+      "pTitle": "魔物４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Owen and I split up and joined the others searching for victims.\n\nOwen’s team searched the river’s mouth, while I gathered men from town to search further upstream.\n\nI’ve a long sword at my side—a new one, this time, in good condition. Seems the smithy’s been busy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 71,
+      "pTitle": "魔物５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The armorer, the old trader, and a dockhand joined me on the shadowy path through the canyon.\n\nA few paces in, the armorer spotted something floating by:\na young man, floating face up and snagged on the rocks.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 72,
+      "pTitle": "魔物６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_10",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 73,
+      "pTitle": "魔物７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "We ran to his side.\n\n“He’s breathing! The boy’s alive!”\n\nWhile the others rejoiced, I was more concerned with the ominous shadows surrounding us.\n\n“Goblins!?” “What are monsters doing here?”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 74,
+      "pTitle": "魔物８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "There ought not be monsters so close to human settlement. Not in these numbers.\n\nThe townspeople were clearly overwhelmed. No doubt this was their first such encounter.\n\nI hesitated, unsure for a moment. But no, I had to take action.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 75,
+      "pTitle": "魔物９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“When I give the signal, hoist this boy out and sprint for the canyon’s mouth. Is that clear!?”\n\nA nod returned from each of them.\n\nSudden movement would distract the creatures for a moment. I hoped that was all I’d need.\n\n“Now! GO!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 76,
+      "pTitle": "魔物１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Thankfully, both merchants escaped, as well as the dockhand with the unconscious boy across his shoulders.\n\nLeft alone, I faced a quickly closing circle of enemies. So be it, I thought. Come closer, then. A bit more… A deep growl emerged from my chest.\n\n“…Black Bane!”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 77,
+      "pTitle": "魔物１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "When I emerged from the canyon on shaky legs, I was greeted by three anxious faces.\n\n“It was this fellow that saved me,” I said, holding aloft the badly worn long sword. A huge, proud grin threatened to split the armorer’s cheeks.\n\nWe hurried the boy back to town.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 78,
+      "pTitle": "魔物１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I carried him to the inn.\n\n“I need spirits and all the bandages you’ve got. And gramps, all the potions you’ve got, too!”\n\nI laid him in a bed by the window, stripped him down, and had a look at his wounds. Thankfully, they were light, though he still showed no sign of stirring.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 79,
+      "pTitle": "魔物１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Owen’s group returned soon after, a few of his men wounded. They’d run into monsters as well. Leaving men to guard the gates, he made for the palace to report and formulate a plan.\n\nWhen he came by to deliver the medicine, the old trader remarked that the boy’s clothing bore a Norende pattern.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 80,
+      "pTitle": "謎の少女１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/07\nThree days the boy has stayed at the inn, and still no sign of waking. The innkeep says he’s run a fever the entire time.\n\nThis afternoon is a warm one. Now I’m watching the innkeep nod off at the counter.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 81,
+      "pTitle": "謎の少女２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The aftershocks have stopped, and peace is slowly returning to the city, but a shadow lingers over the earth, the sky, and the townspeople’s hearts.\n\nGlancing through the window, I saw people motioning toward the port. Another merchant ship, I thought, but no. Their shouts were anxious, not excited.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 82,
+      "pTitle": "謎の少女３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I stepped outside. Following the gaze of the others in the street, I saw a merchant vessel drifting into port.\n\nBut something was wrong. The ship was listing hard, its aft mast broken.\n\nI sprinted down the hill.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 83,
+      "pTitle": "謎の少女４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As I ran, I noticed a dark, heavy color spreading through the water from the mouth of the bay inward.\n\nI caught snippets as I passed. “The sea’s begun to rot.” “Ships can’t leave the bay.” “No fish in the last few days.”\n\nA few days? Then the change began when the quake hit…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 84,
+      "pTitle": "謎の少女５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The ship listed further, rescue boats surrounding it.\n\nMost of the cargo had already been cast overboard.\n\nWhen the boats reached the pier, a parade of passengers and crew emerged, each looking more exhausted than the next.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 85,
+      "pTitle": "謎の少女６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "By some miracle, there were no lives lost, though most of the freight followed the ship to the bottom of the bay.\n\nThe merchants mourned their lost profits and the crew their vessel. The seamen had lost their sea, and the passengers were now stranded. Despair ran rampant.\n\nExcept for one young girl.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 86,
+      "pTitle": "謎の少女７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_01",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 87,
+      "pTitle": "謎の少女８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She was full of questions. About the quake four days prior. About the flash that lit the sky. About Norende.\n\n“Did you know someone in the village? Family, perhaps?”\n\nHer jaw set at my query. Was it anger? Fear? She wordlessly shook her head from side to side.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 88,
+      "pTitle": "謎の少女９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“No? I just figured, hearing you ask about the quake so soon after weathering the sea. I thought maybe you were a friend of that boy’s.”\n\n“Boy? What boy?” came her reply. Suspicion played on her face. But as the next boat reached the pier, we were shooed out of the harbor.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 89,
+      "pTitle": "謎の少女１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Another visitor from Ancheim, eh? You must be tired. Why don’t you stay with us till you’re settled?”\n\nHmph. I recall a different sort of greeting. I cast a sour smile his way, and he responded with a grin.\n\n“We’ve a sick one in the back. I hope you won’t mind.”\n\nThe girl replied with a nod.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 90,
+      "pTitle": "謎の少女１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Her name, I learned, was [PCF1].\n\nShe seems guarded about her past. Not that I can talk.\n\nConversation continues to be awkward.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 91,
+      "pTitle": "謎の少女１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She shows interest in what was happening in this country when the quake hit. For my part, I ask her about the sea.\n\nHer ship had left before the earthquake struck. She says about halfway between Ancheim and Caldisla, their pace began to slow.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 92,
+      "pTitle": "謎の少女１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The seawater clouded, and dead fish began to float to the surface. First small ones, then larger.\n\nAs they neared port, the wind died. It was pure luck the ship drifted in before going calm.\n\nOther vessels they’d passed in the bay, she reported, were less fortunate.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 93,
+      "pTitle": "謎の少女１４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "She listened as I recounted what happened in the canyon, the color draining from her face.\n\nI told her the village was likely at the quake’s epicenter, and that monsters had flooded the area in its wake.\n\nWe talked late into the night.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 94,
+      "pTitle": "謎の少女１５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_15",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 95,
+      "pTitle": "公国への帰還１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/08\nAs the morning mists cleared, I saw traces of a smoke signal hanging in the southwestern sky.\n\nI ate breakfast, the same as any other day, and saw Owen off to work.\n\nI owe him a greater debt than he knows. And a few apologies.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 96,
+      "pTitle": "公国への帰還２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After one last cup of the innkeep’s coffee, I departed.\n\n“Out for another of your walks?” asked the old trader as I passed.\n\n“Something like that,” was my reply. I handed him what money I had, and asked him to bring whatever medicine it bought to the boy later.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 97,
+      "pTitle": "公国への帰還３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "With the city behind me, I broke into a run for the lake to the southwest.\n\nAlong the way, I encountered three packs of monsters. The long sword I’d been given broke midway through the third.\n\nI arrived to find the Black Knight moored and waiting.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 98,
+      "pTitle": "公国への帰還４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Aboard the ship, I donned my jet-black armor and helm for the first time in two weeks.\n\nWith my trusty blade hung at my side, I made for the bridge.\n\nThere, my crew informed me of our return orders.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 99,
+      "pTitle": "公国への帰還５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My new mission is to survey the changes occurring throughout the world, and to report them to the council.\n\nThe report on Caldisla had already been sent from the Lontano Villa. Their conclusion:\nthat the Great Chasm that appeared beneath Norende was both cause and effect of the quake.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 100,
+      "pTitle": "公国への帰還６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“No threat in region save Captain Owen’s blade.”\n\nAfter firing off a wire to Heinkel, I gave the order to return to Eternia.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 101,
+      "pTitle": "公国への帰還７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As we neared the crags, I received an urgent wire from Ancheim.\n\n“Wind vestal missing.”\n\nA description of the ship she was thought to have taken followed, as well as its destination.\n\nSurely not, I thought, but the facts aligned. [PCF1], the vestal of wind?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 102,
+      "pTitle": "公国への帰還８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I sent another wire to Heinkel, and a copy home to the council.\n\nIn reply, I received word that [PCF2] had been charged with the vestal’s apprehension. Their operation begins tomorrow.\n\nI had hoped to send her off on her first mission. A shame…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 103,
+      "pTitle": "無電１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/25\nAn urgent wire from Caldisla came during the night.\n\n“Sky Knights routed.\n\n“The vestal and crew commandeered the S.K. ship, with [PCF2] in tow.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 104,
+      "pTitle": "無電２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_02",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 105,
+      "pTitle": "カルディスラの顛末１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "10/26\nThe Knights of the Eternian Sky, Fourth Division of the Eternian Forces, is lost. More than anything, it was Heinkel’s defeat that shook the ranks. Shook me as much as anyone…\n\nAs I summarized what information I had, local news reports arrived to provide more detail.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 106,
+      "pTitle": "カルディスラの顛末２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One bore the headline, “Vestal of Wind Breezes into Caldisla!”\n\n“(10/16) The vestal, joined by [PCM1] Arrior, survivor of Norende, promised the king they would rout the duchy’s Sky Knights. Days later, she thwarted the Eternian siege and beat their men at the lake to the southwest.”\n\n[PCM1]… That boy!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 107,
+      "pTitle": "カルディスラの顛末３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“(10/16) In recognition of her sparing the land from the Sky Knights’ cannons, Caldisla’s king offered her his full support, swearing to send his full force north to strike the duchy’s base pending the bridge’s repair.”\n\nThat battle saw Barras and Holly face the vestal… They were good soldiers.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 108,
+      "pTitle": "カルディスラの顛末４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“(10/18) The wind vestal and [PCM1] Arrior set out for the ruins of Centro Keep to defeat the mage responsible for torching Caldisla’s castle town.\n\nSeeing an opportunity in the vestal’s absence, the duchy struck the palace by airship, slaying the captain of the guard and abducting the king.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 109,
+      "pTitle": "カルディスラの顛末５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Some days after the keep’s fall, the vestal and her three accomplices struck Lontano Villa and absconded with the Eschalot.\n\nEyewitness reports confirm that Heinkel lured them aboard the ship, and that they engaged in combat. The knight’s whereabouts are presently unknown.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 110,
+      "pTitle": "カルディスラの顛末６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A guardsman on the day of the attack claims he learned of Black Mage Ominas Crowe’s death at the hands of the bloodthirsty vestal through a report from [PCF2] Lee.\n\nHe opened the gates for her immediately after.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 111,
+      "pTitle": "カルディスラの顛末７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Was [PCF2] taken hostage by the vestal and her henchmen?\n\nThe Council of Six was called, and I delivered the collected findings of my investigation in Caldisla. Orders for the vestal’s arrest were sent to Ancheim’s Khamer & Profiteur Merchantry.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 112,
+      "pTitle": "再度ラクリーカへ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/12\nHalf a month after giving the order, no word of the vestal’s capture has returned. Nor any certain news of her at all, in fact.\n\nOne report claimed she returned to Ancheim on the 5th, while another suggested she fled its borders again on the 11th.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 113,
+      "pTitle": "再度ラクリーカへ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I’ve gathered the major reports documenting the changes befalling the world since the chasm’s emergence.\n\nMultiple sources confirm that, save a few stretches of sea, the oceans all show signs of rot, causing the mass death of marine life and precluding ships from sailing.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 114,
+      "pTitle": "再度ラクリーカへ３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Next, reports confirm that the westerlies, trade winds, polar easterlies, and seasonal winds have died. No sea breezes, no currents down mountains or through valleys. No word as to the cause.\n\nIn civil war-torn Eisenberg, volcanic activity has spiked, resulting in massive casualties.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 115,
+      "pTitle": "再度ラクリーカへ４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Even within the duchy, reports claim the crags are rising. The effect this bears on air currents is under study, but no conclusions have yet emerged.\n\nVictor has theorized that the crystals of fire, water, wind, and earth have all entered a state of quasi-dormancy in the wake of the chasm’s appearance.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 116,
+      "pTitle": "再度ラクリーカへ５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After delivering my report to the council, the grand marshal gave me direct orders to investigate Ancheim.\n\nAt last, an excuse to look into what’s befallen [PCF2]! I was packed within the hour, and now write from the Black Knight’s bridge.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 117,
+      "pTitle": "ラ国派遣１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/13\nThe Flor-Cheim Inner Sea remains unsullied, and serves now as a holding place for ships from neighboring waters as well.\n\nI walked the port asking after the vestal’s whereabouts (or those of the ship she stole, at least), but was unable to uncover anything useful.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 118,
+      "pTitle": "ラ国派遣２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "My continued search brings me to Ancheim proper. The ship’s almanac has this to say of it:\n\n“A clockwork metropolis, nestled in Harena’s sandy bosom. Here time, above all, is sacred. A massive timepiece crowns the kingdom, fueled as all of Ancheim by the ceaseless currents originating from the Temple of Wind to the south.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 119,
+      "pTitle": "ラ国派遣３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I crossed the desert and arrived at the city’s edge.\n\nIt seems those ceaseless winds have ceased in the chasm’s wake. Deprived of a precious power source, Ancheim’s people now suffer under forced manual labor.\n\nThose I met were too tired and apathetic to answer my questions.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 120,
+      "pTitle": "ラ国派遣４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One man, perhaps motivated by the coin I flashed, blushed awkwardly as he stammered this:\n\n“T-try the Yulyana Woods…”\n\nI reached out to hand him the money, but he turned and ran without taking it. Very odd.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 121,
+      "pTitle": "ラ国派遣５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I returned to my\nalmanac.\n\n“Yulyana Woods:\nThe hidden heart\nof an ancient wood\nnortheast of\nAncheim.”",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_13",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 122,
+      "pTitle": "南の空の閃光１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/22\nThis makes ten days I’ve run around Ancheim, from the palace to the Temple of Wind, the Harena Ruins, and back to Ancheim…\n\nStill no sign of the vestal. No sign of [PCF2].",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 123,
+      "pTitle": "南の空の閃光２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Even in the Miasma Woods, sole land route connecting Ancheim with Florem, home of the Water Crystal, I found nothing of use.\n\nAfter camping in the desert, I have sand in every crack of my armor, making it screech with every movement…\n\nAh! Just now, a report from the lookout!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 124,
+      "pTitle": "南の空の閃光３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A flash in the southern sky—multiple sources confirm it.\n\nBy the time I reached the inner sea, details had arrived from the men I left in Ancheim.\n\nApparently, the light rose from the direction of the Temple of Wind. I have a bad feeling…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 125,
+      "pTitle": "凶風１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/23\nThe air in front of Ancheim’s royal palace was taut.\n\nThe vestal heaped abuse upon the king, then presented something to the agitated masses assembled there.\n\nIt was a chain bearing an evil sigil. The glassy-eyed mob reached fever pitch…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 126,
+      "pTitle": "凶風２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_05",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 127,
+      "pTitle": "凶風３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The vestal pointed south, and the delirious mob turned their eyes to the sky, crying out her name.\n\nI moved to approach her, but the zealous crowd was packed tight.\n\nFearing for his life, the king fled to the palace, escorted by his guard.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 128,
+      "pTitle": "ニアミス１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/27\nDays have passed, and still the people of Ancheim form a human wall around the vestal.\n\nIt seems this [PCM1] person guarding her really is the boy we saved.\n\nStill no sign of [PCF2].",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 129,
+      "pTitle": "ニアミス２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I’ve received word that the vestal has been in contact with Prime Minister Dominus Harena.\n\nFed up with the heat, I shed my armor and patrolled the palace in plain clothes. A voice called to me from the distance, and a shock raced up my spine.\n\nIt was [PCF2].",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 130,
+      "pTitle": "ニアミス３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“What are you sneaking around here for, [PCM2]?”\n\n[PCM2]!? Who in blazes is [PCM2]? She ran straight for me.\n\n\n“You called, [PCF2]?” came a reply from behind me. In a moment of panic, I hid in the crowd and fled the area.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 131,
+      "pTitle": "ニアミス４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I emerged near the bazaar, and was choking down a cup of the sugar water that passes for coffee here when the scout I’d put on the vestal’s trail sent word.\n\nIt seems she and her minions make for the Eschalot, moored in the inner sea.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 132,
+      "pTitle": "飛行石１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "11/28\nA full day has passed since the vestal boarded the Eschalot.\n\nIt’s taken time to load the supplies furnished by the prime minister, but it seems that delay nears its end. I boarded the ship alone.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 133,
+      "pTitle": "飛行石２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "None of them suspected a thing. I began with [PCM1], striking him unconscious. The vestal screamed. I demanded her name, confirming that she truly is the one from Caldisla. I doubt she recognized me, given my armored state.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 134,
+      "pTitle": "飛行石３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Then she appeared, from the neighboring cabin. I’d waited so long to see her…\n\nI reached out to [PCF2], assuring her that her capture at the hands of the vestal was at an end. The words she spoke then were unthinkable.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 135,
+      "pTitle": "飛行石４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“I’m not her captive, and she poses no threat. I’m here of my own free will!”\n\nWas she joking? Temporarily insane? No matter how many times I beseeched her, she refused to heed reason. When words failed, she drew her sword on me.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 136,
+      "pTitle": "飛行石５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "[PCF2] threatened to resist if I harmed the vestal.\n\nWhile I had no fear of losing, she’s too tough an opponent to subdue unharmed. I could not bring myself to harm the grand marshal’s daughter…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 137,
+      "pTitle": "飛行石６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "At a loss, I decided to content myself with hobbling the vestal. I destroyed the skystone powering the Eschalot and made my escape.\n\nUnable to fly, and trapped by the putrid oceans, the Eschalot is now a prisoner of the inner sea.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 138,
+      "pTitle": "飛行石７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "[PCF2], a traitor? I must get word of this to the grand marshal immediately. And discreetly…\n\nIgnoring the storm of questions and emotions raging within me, I boarded the Black Knight and set sail.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 139,
+      "pTitle": "飛行石８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_08",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 140,
+      "pTitle": "六人会議１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "12/07\nCurse my traitorous tongue! What have I done? In one thoughtless moment, what have I wrought?\n\nI gave the council my report on the vestal’s actions in Ancheim and the Wind Crystal’s awakening. Were I not a fool, I’d have stopped there…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 141,
+      "pTitle": "六人会議２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Victoria’s idle suspicions gave way to Victor’s inevitable question, and I found myself unable to avoid mention of [PCF2]…\n\nI ought to have delivered the news to the grand marshal in private, or at very least not in the company of those two!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 142,
+      "pTitle": "六人会議３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "They’ve ever held a grudge for [PCF2], and I’ve delivered them a perfect excuse to torment her. They even pressed the grand marshal for his word that all enemies of the duchy must be killed! And now they make for Florem!?\n\nThey spoke of apprehending the vestal, but I have my doubts as to their true intentions.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 143,
+      "pTitle": "六人会議４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I begged the grand marshal’s permission to travel to Florem myself. Perhaps I can enlist Einheria’s aid…\n\nIt’s a gamble I must take.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 144,
+      "pTitle": "フロウエル１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "12/08\nGood. They haven’t come by…\n\nI was worried I might run into them here. That would complicate matters.\n\nI could do little more than beg her help in the broadest of terms, then it was back to my ship and away again.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 145,
+      "pTitle": "フロウエル２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Though perhaps a bit out of date, the ship’s almanac has this to say of Florem:\n\n“True to the old teachings, Florem’s women live in chaste humility, in coexistence with the spirits of nature.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 146,
+      "pTitle": "フロウエル３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And of the land’s people:\n\n“Devout Crystalists, they reject war and conflict, instead choosing lives of peaceful reflection.”\n\nSounds like a recipe for carnage if those two heard these words…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 147,
+      "pTitle": "年の瀬１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "12/30\nWracked with anxiety since Victor and Victoria entered Florem, I decided to reach out to them for periodic reports. The response I received showed Victor’s cold concision: “Stop meddling.”\n\nCurse them both!",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 148,
+      "pTitle": "年の瀬２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "On the other hand, the reports from Einheria’s people on the vestal’s doings and the state of Florem are piling up.\n\nThe vestal was sighted within the city, then in the Temple of Water. Upon her return, she departed once more; witnesses report her party made for Mount Fragmentum in the east.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 149,
+      "pTitle": "年の瀬３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Only tomorrow remains before this miserable year is over. I can only pray the next brings greater peace.\n\nI’ll not hold my breath…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 150,
+      "pTitle": "一行の知らせ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "1/31\nAfter a month of anxious silence, they finally sent a wire.\n\n“The wind vestal entered the Sacred Flower Festival.”\n\n…What?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 151,
+      "pTitle": "一行の知らせ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Einheria was kind enough to elaborate in her report.\n\nShe suspects the wind vestal’s participation in a tawdry beauty pageant is an attempt to make contact with the Vestal of Water, currently in hiding. At least that makes some sense.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 152,
+      "pTitle": "ヴィクターの帰還１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "2/03\nWord came just before dawn that the galleon Grand Healer had ignored traffic control directives and docked atop Central Command.\n\nThe Grand Healer is Victor’s personal airship. Victoria will be aboard as well, no doubt.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 153,
+      "pTitle": "ヴィクターの帰還２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "This stunt they’ve pulled docking without permission shows the regard they have for the rule of Eternian law.\n\nAny efforts I made to question their intentions were ignored as Victor marched past me to the central elevator, Victoria held in his arms.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 154,
+      "pTitle": "ヴィクターの帰還３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It seems he made straight for the white magic circulation hub on the ground level.\n\nI found the guards standing watch along the way bleeding and unconscious.\n\nWhat madness is this?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 155,
+      "pTitle": "ヴィクターの帰還４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The white magic circulation hub stands at the east of the first floor of Central Command. Lined floor-to-ceiling with odd machinery, it has always made me uncomfortable.\n\nI found Victoria floating in a chamber of fluids that resembled a great mechanical heart. Victor stood nearby, staring at monitors and muttering.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 156,
+      "pTitle": "ヴィクターの帰還５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“The lecture can wait.”\n\nHe spoke without turning to face me.\n\n“My report as well. Victoria…try to bear it.”\n\nHe opened some valve, and the color of the fluid deepened…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 157,
+      "pTitle": "ヴィクターの帰還６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I took it upon myself to report Victor’s return and Victoria’s treatment to the grand marshal.\n\nI summoned Victor’s lieutenant, and got the details from him.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 158,
+      "pTitle": "フロウエルの顛末１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "2/05\nVictor and Victoria remain ensconced in the white magic circulation hub.\n\nMeanwhile, Victor’s man offered an account of what had transpired. I added his report to my collected findings on Florem.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 159,
+      "pTitle": "フロウエルの顛末２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "An official account of the event had this to say:\n\n“(1/28) The vestal of wind appeared in Florem’s Sacred Flower Festival wearing full vestal regalia. Though traditionally famed for their piety, the people met her with cold dismissal, and the vestal’s pleas were drowned out by the jeering crowd.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 160,
+      "pTitle": "フロウエルの顛末３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Years into the Bloodrose Legion’s infiltration campaign, prodigious funds and an aggressive citizen reprogramming effort have won them near-complete control of Florem.\n\nThe news entity responsible for producing the above report is essentially a mouthpiece of the Legion.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 161,
+      "pTitle": "フロウエルの顛末４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Meanwhile, a bulletin from the Orthodoxy struck a different tone:\n\n“As false rites come to close, the babbling brook’s voice reaches the wind. Though it blows west, it cannot sense the shadow close behind it.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 162,
+      "pTitle": "フロウエルの顛末５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A coded plea for help from what meager resistance remains.\n\nPut plainly, it states that at the Sacred Flower Festival’s end, the water vestal sent word to the vestal of wind. The latter left to meet her, but failed to notice the assassins on her trail.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 163,
+      "pTitle": "フロウエルの顛末６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A second such notice followed soon after.\n\n“The water rises to meet the demon-child’s light, shielding the air as it vanishes into vapor. Left alone, the winds howl in mourning and rage with purpose.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 164,
+      "pTitle": "フロウエルの顛末７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Heh. Demon-child. An apt description. It seems the water vestal was killed protecting her colleague from Victoria.\n\nAnd Victor’s subordinate reported that it was in the battle that followed that Victoria succumbed to a fit, prompting Victor to spirit her back to the duchy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 165,
+      "pTitle": "フロウエルの顛末８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "News continues to flood in from Florem, hot on Victor’s heels.\n\nThe same Orthodoxy rag reports that the vestal of wind awakened the Water Crystal, celebrating the return of the world’s oceans to purity.\n\nReports from across the globe corroborate this claim.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 166,
+      "pTitle": "フロウエルの顛末９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "This marks two crystals awakened at the vestal’s hands.\n\nVictoria is still out, and Victor is seeing to her around the clock.\n\nThe council chamber feels barren with only two of the six in attendance. The air hangs heavy.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 167,
+      "pTitle": "巫女、ＧＳへ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "2/16\nWe’ve received word that the vestal has departed Florem, but none of her destination.\n\nThe purification of the world’s oceans has snapped the tether binding her there. There are those who fret she’s lost for good, but there are only two places she would go.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 168,
+      "pTitle": "巫女、ＧＳへ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Crystal of Earth is protected by the duchy’s crags and the bulk of the Eternian Forces. It’s unlikely she’ll head there first.\n\nThat leaves Eisenberg and the Fire Crystal. I sent word to our men there to be vigilant, and received a response from Grandship.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 169,
+      "pTitle": "巫女、ＧＳへ３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "From the minutes of a sitting of the Grandship Council:\n\n“The vestal of wind and entourage arrived some days ago. The council debated for five days’ time whether this was to be taken as an official visit or a simple act of tourism. She departed for the west before a conclusion was reached.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 170,
+      "pTitle": "巫女、ＧＳへ４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It seems an agent of the Shieldbearers has also come requesting aid several times, but I doubt he’ll find the infamous “Sleeping Council” any more forthcoming than the vestal did.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 171,
+      "pTitle": "巫女、ＧＳへ５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Now, we wait for the vestal to be snared in the nets of the fleet we’ve placed in the Sea of Corsairs.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_23",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 172,
+      "pTitle": "エ国内戦考察①１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "2/17\nEisenberg—the vestal’s next likely target, and war-torn theater to Eternia’s First Division.\n\nThese last few days I’ve been reviewing the notes from my time there four years ago, before my appointment to the Council of Six.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 173,
+      "pTitle": "エ国内戦考察①２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Eisenberg:\nSituated south of the Eternian continent, Eisenberg is composed of active volcanoes, and sustained by the rich mineral deposits beneath its soil. Mining, refinery, and metal casting are its chief industries, and mythril steel one of its most precious exports.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 174,
+      "pTitle": "エ国内戦考察①３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Mythril Steel:\nAn exceptionally hard metal refined from locally mined ore. Upwards of 80 percent of the world’s mythril originates in Eisenberg’s mines. In rare cases, the same veins have yielded orichalcum.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 175,
+      "pTitle": "エ国内戦考察①４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Orichalcum:\nAn extremely precious metal, found exclusively in Eisenberg. Its durability is unrivaled, making it ideal for use in weapons and armor. Also notable is the extreme amount of energy released when the metal is melted under high pressure.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 176,
+      "pTitle": "エ国内戦考察①５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Civil war has persisted in Eisenberg for four years, with the land divided between the Swordbearer and Shieldbearer factions.\n\nThe Black Blades, First Division of the Eternian Forces, assist the Swordbearers, making up for the latter’s vastly inferior numbers and evening the balance of power in the region.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 177,
+      "pTitle": "エ国内戦考察①６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "One could say the evils troubling the duchy today have their roots in the outbreak of this war, four years ago…",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_24",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 178,
+      "pTitle": "エ国内戦考察①７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As allies in Anticrystalism, the duchy had an understanding with the dissident faction known as the Swordbearers for some time. Their declaration of uprising came together with an urgent request for aid.\n\nIt was far earlier than we had expected. We were unprepared.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 179,
+      "pTitle": "エ国内戦考察①８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Yet Eisenberg was a stronghold of Crystalism, second only to Florem, and the Swordbearers represented the entirety of the nation’s Anticrystalist movement.\n\nAs the philosophy’s chief proponent, the duchy could not deny their plea.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 180,
+      "pTitle": "エ国内戦考察①９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Shieldbearer forces outnumbered the Swordbearers a hundred to one. The war would end in one swift massacre.\n\nThe grand marshal responded by deploying Swordmaster Kamiizumi’s First Division under the guise of a mercenary band known as the Black Blades.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 181,
+      "pTitle": "エ国内戦考察①１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The Blades’ pre-dawn infiltration of Eisenberg’s borders and the subsequent airship raid were successful. Starkfort was ours by the next morning.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 182,
+      "pTitle": "エ国内戦考察①１１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Not yet a council member, I was sent to inspect the fortress two weeks after its capture, and to compile a dossier on its status and layout.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_20",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 183,
+      "pTitle": "エ国内戦考察①１２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "That was when I was first approached by Swordbearer commander Yewmire Astrae.\n\nHe came with effusive thanks for the duchy’s support, and none-too-subtle demands that the report I send to the grand marshal paint a glowing picture of the uprising.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 184,
+      "pTitle": "エ国内戦考察①１３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "But the fact remains that the rebel leaders acted in haste, and their imprudence dragged Eternia into a struggle from which it stood to gain nothing.\n\nThe commander, for his part, was overjoyed—drunk on the Swordbearers’ first decisive victory. I could not conceal my mounting frustration at his oblivious presumption.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 185,
+      "pTitle": "エ国内戦考察②１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "2/18\nStill no word on the vestal’s whereabouts.\n\nIn the absence of any clues to the way forward, I find my mind again wandering back to Eisenberg.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 186,
+      "pTitle": "エ国内戦考察②２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "At the war’s start, the Swordbearers (well, the Black Blades) earned exceptional results.\n\nWith a solid victory at their backs, they then wiped out the 100,000-strong eastern arm of the Shieldbearers within half a month’s time.\n\nThe good news ended there.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 187,
+      "pTitle": "エ国内戦考察②３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It seems the Blades were struggling more than they let on.\n\nThe turn to the Temple of Fire was forced by one subordinate’s unauthorized use of lethal poison, covering the battlefield and making continued fighting impossible. Mount Karka’s eruption, it later came to light, was due to another member’s assassination of the fire vestal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 188,
+      "pTitle": "エ国内戦考察②４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "By order of the grand marshal, the vestal’s death was to be kept top secret. Great care was taken to prevent the news’ spread.\n\nThe Blades remain in Eisenberg today, holding the front while searching for a route into the temple to secure possession of the Fire Crystal.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 189,
+      "pTitle": "エ国内戦考察②５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As the First Division of the Eternian Forces, the Black Blades exist to spearhead the duchy’s invasion force.\n\nIn order to facilitate operations in other Crystalist strongholds, the grand marshal repurposed his personal guard into a newly designated Fourth Division: the Knights of the Eternian Sky.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 190,
+      "pTitle": "エ国内戦考察②６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The unit’s leader remained Knight Argent Heinkel.\n\nDue to their hasty designation, they were left with an older airship, and spent night and day in training for their pending deployment.\n\nIn time, they would be sent to Caldisla, only to be defeated at the wind vestal’s hands.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 191,
+      "pTitle": "エ国内戦考察②７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "At the latest report, all routes to the Fire Temple remain barred by magma.\n\nThis leaves us unable to secure the crystal within, but at least ought equally bar the vestal’s entrance should she indeed come to Eisenberg.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 192,
+      "pTitle": "エ国内戦考察②８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The war continues to be at a deadlock with both sides entrenched at either end of the Eisen Bridge.\n\nBut the clearing of the sea has restored previously cut supply lines. With the risk of the vestal’s intrusion also comes a possibility to crush the Shieldbearers once and for all.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 193,
+      "pTitle": "風の巫女、エ国へ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "3/04\nAn urgent wire came from the Black Blades in Eisenberg:\n\n“Wind vestal in Eisenberg.”\n\nNo more codes. No indirection. This is a public announcement, loud and clear.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 194,
+      "pTitle": "風の巫女、エ国へ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It seems the swordmaster and [PCF2] have already crossed blades.\n\nAttached to the report was a message penned by Kamiizumi himself, confirming the danger he feels the vestal poses to Eternia, and forewarning of the possibility that he will be forced to kill [PCF2] in dealing with this danger.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 195,
+      "pTitle": "火のクリスタル解放さる１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "3/22\nAn urgent report arrived today from Eisenberg.\n\nSomehow, the vestal has awakened the Fire Crystal.\n\nSwordmaster Kamiizumi is missing, and morale among the remaining Blades wanes by the day.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 196,
+      "pTitle": "火のクリスタル解放さる２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As this intelligence left Central Command in an uproar, further reports arrived from agents placed in the Shieldbearer camp.\n\nI will use this space to gather and sort through them.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 197,
+      "pTitle": "火のクリスタル解放さる３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "(3/06) Wind vestal allies with Shieldbearer Commander Goodman, offers to investigate toxic mist. Her party departs, presumably for Grapp Keep.\n\n(3/10) Wind vestal returns to Goodman with mist sample, proposing to cast it into magma. Goodman agrees.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 198,
+      "pTitle": "火のクリスタル解放さる４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "(3/15) Vestal to raid mythril mines. Aid urgently requested!\n\n(3/18) After capturing mines, vestal takes captured orphan from Starkfort. She now makes for the mythril mines again. Purpose unknown.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 199,
+      "pTitle": "火のクリスタル解放さる５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "(3/20) Vestal finds passage to Fire Temple at rear of mythril mines. Signs suggest Crystal of Fire has been awakened.\n\nVestal departs Eisenberg. Destination unclear.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 200,
+      "pTitle": "エイゼンベルグの顛末１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "4/24\nOne month has passed since reports of the Fire Crystal’s awakening.\n\nAll of Central Command has been busy with the fortification of the Earth Crystal’s defenses and enhancing the three passages’ security.\n\nVictoria is still in recovery.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 201,
+      "pTitle": "エイゼンベルグの顛末２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Testimony from soldiers returned from Eisenberg and reports from agents within the Shieldbearers are piling up.\n\nAmong them, notice from a mechanic aboard the swordmaster’s airship Yagyu. Fearing attack from the vestal, it reads, the commander of the Swordbearers stole the ship and fled. Kamiizumi must be in a state.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 202,
+      "pTitle": "エイゼンベルグの顛末３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Sure, he has a bad reputation, but he tended to our wounded, and the enemy’s, too. That’s got to count for something, right?” (Black Blades support member)\n\n“It’s our fault. We were tasked with banding together and protecting it, but we lost the concert. Bridge. Whatever.” (Swordbearer Guard / Praline Fan Club)",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 203,
+      "pTitle": "エイゼンベルグの顛末４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“After returning from the banquet, staff officers commenced an army-wide spy purge. This will be my last report.” (Field Operative, Eisenberg)",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/MST_25",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 204,
+      "pTitle": "エイゼンベルグの顛末５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "There can be no doubt the vestal will come for the Earth Crystal.\n\nWith no means of flight, however, the crags bar her entry into the duchy. Word of the vestal’s activities has come in from Caldisla and Grandship, albeit sporadically.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 205,
+      "pTitle": "エイゼンベルグの顛末６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Our agent in Caldisla offered an especially puzzling update.\n\n“‘We’ll bring the orphan to the inn we set out from.’”\n\nIt seems she traveled back and forth from Eisenberg to present a child to Caldisla’s king(?).",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 206,
+      "pTitle": "エイゼンベルグの顛末７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Meanwhile, Grandship’s sinking has accelerated, culminating in a mass exodus of the residents.\n\nSeems the Sleeping Council finally managed a swift decision:\ntheir own evacuation.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 207,
+      "pTitle": "エイゼンベルグの顛末８",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Grandship sank overnight!”\n\nOur operative there fled along with the residents, sending this shocking notice soon after.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 208,
+      "pTitle": "エイゼンベルグの顛末９",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The report continues:\n“The council fled, leaving the remaining citizens to panic. Amid the chaos, I saw the vestal and cohorts make for the council chamber. Shortly after, a terrible tremor shook the ship, and I was trampled unconscious by a flood of evacuees. I awoke in a lifeboat half a league from Grandship.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 209,
+      "pTitle": "エイゼンベルグの顛末１０",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“A loud explosion followed, and Grandship began to submerge. A second blast followed soon after, then…”\n\nThe report suddenly ends there. The vestal’s condition and whereabouts are still unknown.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 210,
+      "pTitle": "巫女、エタルニアへ１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "5/10\nUpon reporting Grandship’s disappearance to the Council of Six a few days ago, the grand marshal issued orders placing the entire Eternian Force on high alert.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 211,
+      "pTitle": "巫女、エタルニアへ２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "“Grandship has crossed the crags and entered duchy airspace!”\n\nTo think a leviathan barely able to float could fly, let alone cross mountains accessible only to galleon-class airships…\n\nI have no doubt this is the vestal’s doing.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 212,
+      "pTitle": "巫女、エタルニアへ３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The vestal and company landed in Southmoor, breaching Frostpeak Passage with disconcerting ease.\n\nUpon receiving word of the vestal’s arrival in Eternia proper, the grand marshal ordered the white magic cable valve shut.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 213,
+      "pTitle": "巫女、エタルニアへ４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_04",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 214,
+      "pTitle": "巫女、エタルニアへ５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Shutting off the supply of healing waves from Everlast Tower into greater Eternia will prevent patients from receiving vital treatment.\n\nAmong those affected will be the grand marshal’s wife, [PCF2]’s mother…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 215,
+      "pTitle": "巫女、エタルニアへ６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Military assets such as the tundra golems and captive dragons notwithstanding, the number of actual Eternian soldiers within the duchy’s borders is woefully small.\n\nWe are unable to make contact with the divisions stationed elsewhere. Even ascertaining conditions in the city is difficult under present circumstances.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 216,
+      "pTitle": "２Ｖの死１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "5/20\nThree passages connect Central Command to the rest of Eternia:\nwest, center, and east.\n\nBeing the shortest route, manpower, turrets, and other defenses have been concentrated within the central passage. It should be ironclad—the other two paths, sadly less so.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 217,
+      "pTitle": "２Ｖの死２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Evacuees from the city have brought news from outside.\n\nNo one remains, military or civilian, and no combat between the vestal and our forces has taken place. The vestal (and [PCF2]) entered the Central Healing Tower, paid a visit to the grand marshal’s wife, and now apparently make for Central Command…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 218,
+      "pTitle": "２Ｖの死３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Word of their arrival at Eternian Central Command came in the form of cannonfire.\n\nVictoria deployed to meet them, with Victor in tow. They were, however, defeated, and retreated to the white magic circulation hub. There, they gave a noble last stand.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 219,
+      "pTitle": "２Ｖの死４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "He did it. He apprehended the vestal.\n\nHe had them asleep in an instant, and ordered me to deliver [PCF2] to her chambers and the others to the dungeons before he departed for the council chamber.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 220,
+      "pTitle": "２Ｖの死５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I suspect he played some role in the duchy’s establishment, the same as the old man.\n\nBoth hold seats on the Council of Six, though they have stood perennially empty.\n\nDid he come to Eternia’s rescue in our time of need, or does he bear some other agenda?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 221,
+      "pTitle": "離脱命令１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "5/22\n[PCF2] somehow escaped from her chambers. The guard posted at her door claims it did not open once and insists his vigil was without interruption.\n\nNow that I think of it, she performed a similar feat once when we were children…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 222,
+      "pTitle": "離脱命令２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "After escaping, [PCF2] freed the vestal and her two companions as well.\n\nThe old man played a hand as well, blasting open the door to the dungeons before departing Central Command aboard that old airship.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 223,
+      "pTitle": "離脱命令３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "What drove him, a member of the Council of Six, to side with the vestal?\n\nLord DeRosso vanished as well, leaving only myself and the grand marshal to remain.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 224,
+      "pTitle": "離脱命令４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Upon their escape, the vestal fled to the city of Eternia before returning to strike Central Command again shortly after.\n\nIf she passes this point, the Earth Crystal is lost.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 225,
+      "pTitle": "離脱命令５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I made up my mind to fight alongside the grand marshal, swearing to protect him and his ideals at any cost. My resolve was set. And yet…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 226,
+      "pTitle": "離脱命令６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Mystery/SQEX_12",
+      "pTextureName": "D_Mystery",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 227,
+      "pTitle": "離脱命令７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Leaving the grand marshal alone in the council chamber, I boarded the Black Knight and set about completing my secret orders.\n\nMy hands tremble with regret as I write this, the ship’s course set southwest of Eternia.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 228,
+      "pTitle": "下衆撃破１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "5/29\nSeven days of standing by above the southern sea since I departed Eternia…\n\nI spotted the pillar of light rising in the distance. The grand marshal has fallen, and Everlast Tower with him. The Earth Crystal is lost.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 229,
+      "pTitle": "下衆撃破２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "News of the battle’s result came much delayed.\n\nAs I read of the vicious struggle between the grand marshal and the vestal’s forces, and its result, I felt as if my heart were being crushed. I have never known such despair.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 230,
+      "pTitle": "下衆撃破３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "It seems the grand marshal lives, by Lord DeRosso’s intervention, but he will never again swing a sword.\n\nStill, the knowledge that [PCF2] was not forced to slay her own father gives me some solace.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 231,
+      "pTitle": "下衆撃破４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "As I awaited the vestal’s arrival high above the sea, I saw the swordmaster’s Yagyu fly past below, nearly skimming the water.\n\nI responded to its swift approach with a demand for the captain’s identity. The thick, grating voice that replied was answer enough:\nit was Yewmire Astrae, commander of the Swordbearers.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 232,
+      "pTitle": "下衆撃破５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The man who dragged the duchy into Eisenberg’s civil war had turned tail and run as soon as his prospects grew faint. A contemptible sham of a leader.\n\nWhen I asked whether the swordmaster or any Eternian personnel were aboard, I was answered with a hailstorm of bullets.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 233,
+      "pTitle": "下衆撃破６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "I choked back my mounting rage, giving the order to my gunners to open fire.\n\nMinutes later, the remains of the Yagyu were sinking beneath waves stained blood red by the setting sun.\n\nHow much longer until [PCF2]—until the vestal arrives at the pillar?",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 234,
+      "pTitle": "最後の記入１",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "6/16\nHow many days have passed since I left his side?\n\nA pillar of light has stood above the southern sea for some time now, just as he predicted.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 235,
+      "pTitle": "最後の記入２",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "That leaves little room to doubt his second prediction will hold true.\n\nWithin the coming days, the vestal and her friends will come here.\n\nI only pray I have the strength to stop them as I was asked to…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 236,
+      "pTitle": "最後の記入３",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "Thinking back, the vestal’s followers have been with her from the start. Ever since Caldisla.\n\n[PCF1] Oblige, vestal to the Wind Crystal…\n\nI never imagined the young girl I met on that pier would bear such a fate.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 237,
+      "pTitle": "最後の記入４",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And [PCM1] Arrior.\n\nFor the boy I pulled from that canyon river to become a guard and ally to the vestal on her journey…\n\nIt seems on so many counts, I bear the fault for all of this.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 238,
+      "pTitle": "最後の記入５",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "A long, harsh journey to erase the Great Chasm.\n\nA vestal who crossed the putrid sea and stagnant air to arrive.\n\nA boy whose home was swallowed.\n\nIn retrospect, they seem a natural pair. Inevitable, even.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 239,
+      "pTitle": "最後の記入６",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "And [PCF2]… I expect you, too, will join the vestal here.\n\nYou were ever a tomboy. Capricious. Pure and stubborn. Quick to tears… Perfect.\n\nI know not what it is you see in the vestal. What spark resonated within you. But I swear this now, I will keep you safe. At any cost.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 240,
+      "pTitle": "最後の記入７",
+      "pSubTitle": "",
+      "type": "",
+      "pText": "The ship’s siren has begun to sound, and the pilot’s taking her up, just as planned.\n\nThe time is come, then. This may be the last entry I am able to write.\n\nI’m removing [PCF2]’s picture from its frame and placing it within these pages. I want her by my side…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

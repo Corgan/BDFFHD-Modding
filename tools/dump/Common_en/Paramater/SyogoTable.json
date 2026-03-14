@@ -1,0 +1,179 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3278,
+    "data_one_size": 20,
+    "data_num": 24,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "jobID": 0,
+      "syogo0": "Bronze Freelancer",
+      "syogo1": "Silver Freelancer",
+      "syogo2": "Gold Freelancer",
+      "syogo3": "Ace Freelancer"
+    },
+    {
+      "jobID": 1,
+      "syogo0": "Squire Knight",
+      "syogo1": "Knight-Errant",
+      "syogo2": "Seasoned Knight",
+      "syogo3": "Knight Commander"
+    },
+    {
+      "jobID": 4,
+      "syogo0": "Wimpy Monk",
+      "syogo1": "Monk Acolyte",
+      "syogo2": "Monk Adept",
+      "syogo3": "Master Monk"
+    },
+    {
+      "jobID": 8,
+      "syogo0": "Rank 1 Fencer",
+      "syogo1": "Rank 2 Fencer",
+      "syogo2": "Rank 3 Fencer",
+      "syogo3": "Fencer Mentor"
+    },
+    {
+      "jobID": 5,
+      "syogo0": "Ranger Neophyte",
+      "syogo1": "Ranger Scout",
+      "syogo2": "Ranger Warden",
+      "syogo3": "Ranger Lord"
+    },
+    {
+      "jobID": 17,
+      "syogo0": "Good Valkyrie",
+      "syogo1": "Worthy Valkyrie",
+      "syogo2": "Valkyrie Paragon",
+      "syogo3": "Valkyrie Saint"
+    },
+    {
+      "jobID": 10,
+      "syogo0": "Pirate Deckhand",
+      "syogo1": "Pirate Buccaneer",
+      "syogo2": "Pirate Corsair",
+      "syogo3": "Pirate King"
+    },
+    {
+      "jobID": 6,
+      "syogo0": "Sluggish Ninja",
+      "syogo1": "Nimble Ninja",
+      "syogo2": "Ninja Fleetfoot",
+      "syogo3": "Whirlwind Ninja"
+    },
+    {
+      "jobID": 9,
+      "syogo0": "Duelist",
+      "syogo1": "Gladiator",
+      "syogo2": "Swordfighter",
+      "syogo3": "True Swordmaster"
+    },
+    {
+      "jobID": 12,
+      "syogo0": "Eager Templar",
+      "syogo1": "Earnest Templar",
+      "syogo2": "Zealous Templar",
+      "syogo3": "Templar Messiah"
+    },
+    {
+      "jobID": 11,
+      "syogo0": "Dark Squire",
+      "syogo1": "Dark Warrior",
+      "syogo2": "Dark Veteran",
+      "syogo3": "Dark Commander"
+    },
+    {
+      "jobID": 13,
+      "syogo0": "Vampire Zombie",
+      "syogo1": "Lesser Vampire",
+      "syogo2": "Greater Vampire",
+      "syogo3": "Supreme Being"
+    },
+    {
+      "jobID": 2,
+      "syogo0": "Black Raven",
+      "syogo1": "Black Cat",
+      "syogo2": "Black Puma",
+      "syogo3": "Black Dragon"
+    },
+    {
+      "jobID": 7,
+      "syogo0": "Time Tamperer",
+      "syogo1": "Time Trickster",
+      "syogo2": "Time Manipulator",
+      "syogo3": "Time Master"
+    },
+    {
+      "jobID": 15,
+      "syogo0": "Summoner Recruit",
+      "syogo1": "Summoner Trainee",
+      "syogo2": "Expert Summoner",
+      "syogo3": "Arcane Summoner"
+    },
+    {
+      "jobID": 14,
+      "syogo0": "Novice Arcanist",
+      "syogo1": "Runic Arcanist",
+      "syogo2": "Mystic Arcanist",
+      "syogo3": "Regal Arcanist"
+    },
+    {
+      "jobID": 16,
+      "syogo0": "Minor Conjurer",
+      "syogo1": "Conjurer Adept",
+      "syogo2": "Master Conjurer",
+      "syogo3": "Arch Conjurer"
+    },
+    {
+      "jobID": 3,
+      "syogo0": "White Initiate",
+      "syogo1": "White Acolyte",
+      "syogo2": "White Curate",
+      "syogo3": "White Oracle"
+    },
+    {
+      "jobID": 19,
+      "syogo0": "Salve Adherent",
+      "syogo1": "Salve Mixer",
+      "syogo2": "Salve Brewer",
+      "syogo3": "Salve Physician"
+    },
+    {
+      "jobID": 18,
+      "syogo0": "Spirit Meddler",
+      "syogo1": "Spirit Devotee",
+      "syogo2": "Spirit Altruist",
+      "syogo3": "Spirit Patron"
+    },
+    {
+      "jobID": 21,
+      "syogo0": "Thief Footpad",
+      "syogo1": "Thief Cutpurse",
+      "syogo2": "Thief Filcher",
+      "syogo3": "Master Thief"
+    },
+    {
+      "jobID": 22,
+      "syogo0": "Merchant Clerk",
+      "syogo1": "Merchant Dealer",
+      "syogo2": "Caravan Merchant",
+      "syogo3": "Merchant CEO"
+    },
+    {
+      "jobID": 23,
+      "syogo0": "Debut Performer",
+      "syogo1": "Star Performer",
+      "syogo2": "Adored Performer",
+      "syogo3": "Master Performer"
+    },
+    {
+      "jobID": 20,
+      "syogo0": "Red Poppy",
+      "syogo1": "Red Tulip",
+      "syogo2": "Red Peony",
+      "syogo3": "Red Rose"
+    }
+  ]
+}

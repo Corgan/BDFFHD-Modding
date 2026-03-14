@@ -1,0 +1,41 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 120,
+    "data_one_size": 12,
+    "data_num": 6,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "MAGIC_LV": 1,
+      "ABILITY_ID": 44,
+      "ITEM_ID": 50220
+    },
+    {
+      "MAGIC_LV": 2,
+      "ABILITY_ID": 48,
+      "ITEM_ID": 50222
+    },
+    {
+      "MAGIC_LV": 3,
+      "ABILITY_ID": 42,
+      "ITEM_ID": 50219
+    },
+    {
+      "MAGIC_LV": 4,
+      "ABILITY_ID": 40,
+      "ITEM_ID": 50218
+    },
+    {
+      "MAGIC_LV": 5,
+      "ABILITY_ID": 46,
+      "ITEM_ID": 50221
+    },
+    {
+      "MAGIC_LV": 6,
+      "ABILITY_ID": 50,
+      "ITEM_ID": 50223
+    }
+  ]
+}

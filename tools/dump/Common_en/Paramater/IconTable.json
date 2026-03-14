@@ -1,0 +1,1059 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 6078,
+    "data_one_size": 8,
+    "data_num": 262,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "NO": 1,
+      "NAME": "ICON_JOB_00"
+    },
+    {
+      "NO": 2,
+      "NAME": "ICON_JOB_01"
+    },
+    {
+      "NO": 3,
+      "NAME": "ICON_JOB_02"
+    },
+    {
+      "NO": 4,
+      "NAME": "ICON_JOB_03"
+    },
+    {
+      "NO": 5,
+      "NAME": "ICON_JOB_04"
+    },
+    {
+      "NO": 6,
+      "NAME": "ICON_JOB_05"
+    },
+    {
+      "NO": 7,
+      "NAME": "ICON_JOB_06"
+    },
+    {
+      "NO": 8,
+      "NAME": "ICON_JOB_07"
+    },
+    {
+      "NO": 9,
+      "NAME": "ICON_JOB_08"
+    },
+    {
+      "NO": 10,
+      "NAME": "ICON_JOB_09"
+    },
+    {
+      "NO": 11,
+      "NAME": "ICON_JOB_10"
+    },
+    {
+      "NO": 12,
+      "NAME": "ICON_JOB_11"
+    },
+    {
+      "NO": 13,
+      "NAME": "ICON_JOB_12"
+    },
+    {
+      "NO": 14,
+      "NAME": "ICON_JOB_13"
+    },
+    {
+      "NO": 15,
+      "NAME": "ICON_JOB_14"
+    },
+    {
+      "NO": 16,
+      "NAME": "ICON_JOB_15"
+    },
+    {
+      "NO": 17,
+      "NAME": "ICON_JOB_16"
+    },
+    {
+      "NO": 18,
+      "NAME": "ICON_JOB_17"
+    },
+    {
+      "NO": 19,
+      "NAME": "ICON_JOB_18"
+    },
+    {
+      "NO": 20,
+      "NAME": "ICON_JOB_19"
+    },
+    {
+      "NO": 21,
+      "NAME": "ICON_JOB_20"
+    },
+    {
+      "NO": 22,
+      "NAME": "ICON_JOB_21"
+    },
+    {
+      "NO": 23,
+      "NAME": "ICON_JOB_22"
+    },
+    {
+      "NO": 24,
+      "NAME": "ICON_JOB_23"
+    },
+    {
+      "NO": 25,
+      "NAME": "ICON_ITEM_PORTION"
+    },
+    {
+      "NO": 26,
+      "NAME": "ICON_ITEM_ETHER"
+    },
+    {
+      "NO": 27,
+      "NAME": "ICON_ITEM_ANTIDOTE"
+    },
+    {
+      "NO": 28,
+      "NAME": "ICON_ITEM_ELIXIR"
+    },
+    {
+      "NO": 29,
+      "NAME": "ICON_ITEM_PHOENIX"
+    },
+    {
+      "NO": 30,
+      "NAME": "ICON_ITEM_EYELOTION"
+    },
+    {
+      "NO": 31,
+      "NAME": "ICON_ITEM_ECHO"
+    },
+    {
+      "NO": 32,
+      "NAME": "ICON_ITEM_ALARM"
+    },
+    {
+      "NO": 33,
+      "NAME": "ICON_ITEM_RELAX"
+    },
+    {
+      "NO": 34,
+      "NAME": "ICON_ITEM_ALMIGHTY"
+    },
+    {
+      "NO": 35,
+      "NAME": "ICON_ITEM_TELEPO"
+    },
+    {
+      "NO": 36,
+      "NAME": "ICON_ITEM_ATTACK"
+    },
+    {
+      "NO": 37,
+      "NAME": "ICON_ITEM_MIX"
+    },
+    {
+      "NO": 38,
+      "NAME": "ICON_PRECIOUS"
+    },
+    {
+      "NO": 39,
+      "NAME": "ICON_EQP_SWORD"
+    },
+    {
+      "NO": 40,
+      "NAME": "ICON_EQP_AXE"
+    },
+    {
+      "NO": 41,
+      "NAME": "ICON_EQP_SPEAR"
+    },
+    {
+      "NO": 42,
+      "NAME": "ICON_EQP_ROD"
+    },
+    {
+      "NO": 43,
+      "NAME": "ICON_EQP_WAND"
+    },
+    {
+      "NO": 44,
+      "NAME": "ICON_EQP_DAGGER"
+    },
+    {
+      "NO": 45,
+      "NAME": "ICON_EQP_BOW"
+    },
+    {
+      "NO": 46,
+      "NAME": "ICON_EQP_KNUCKLE"
+    },
+    {
+      "NO": 47,
+      "NAME": "ICON_EQP_KATANA"
+    },
+    {
+      "NO": 48,
+      "NAME": "ICON_EQP_SHIELD"
+    },
+    {
+      "NO": 49,
+      "NAME": "ICON_EQP_HAT"
+    },
+    {
+      "NO": 50,
+      "NAME": "ICON_EQP_HELM"
+    },
+    {
+      "NO": 51,
+      "NAME": "ICON_EQP_L_ARMOR"
+    },
+    {
+      "NO": 52,
+      "NAME": "ICON_EQP_ARMOR"
+    },
+    {
+      "NO": 53,
+      "NAME": "ICON_EQP_ACCESSORY"
+    },
+    {
+      "NO": 54,
+      "NAME": "ICON_MAG_W_01"
+    },
+    {
+      "NO": 55,
+      "NAME": "ICON_MAG_W_02"
+    },
+    {
+      "NO": 56,
+      "NAME": "ICON_MAG_W_03"
+    },
+    {
+      "NO": 57,
+      "NAME": "ICON_MAG_W_04"
+    },
+    {
+      "NO": 58,
+      "NAME": "ICON_MAG_W_05"
+    },
+    {
+      "NO": 59,
+      "NAME": "ICON_MAG_W_06"
+    },
+    {
+      "NO": 60,
+      "NAME": "ICON_MAG_B_01"
+    },
+    {
+      "NO": 61,
+      "NAME": "ICON_MAG_B_02"
+    },
+    {
+      "NO": 62,
+      "NAME": "ICON_MAG_B_03"
+    },
+    {
+      "NO": 63,
+      "NAME": "ICON_MAG_B_04"
+    },
+    {
+      "NO": 64,
+      "NAME": "ICON_MAG_B_05"
+    },
+    {
+      "NO": 65,
+      "NAME": "ICON_MAG_B_06"
+    },
+    {
+      "NO": 66,
+      "NAME": "ICON_MAG_T_01"
+    },
+    {
+      "NO": 67,
+      "NAME": "ICON_MAG_T_02"
+    },
+    {
+      "NO": 68,
+      "NAME": "ICON_MAG_T_03"
+    },
+    {
+      "NO": 69,
+      "NAME": "ICON_MAG_T_04"
+    },
+    {
+      "NO": 70,
+      "NAME": "ICON_MAG_T_05"
+    },
+    {
+      "NO": 71,
+      "NAME": "ICON_MAG_T_06"
+    },
+    {
+      "NO": 72,
+      "NAME": "ICON_MAG_MS_01"
+    },
+    {
+      "NO": 73,
+      "NAME": "ICON_MAG_MS_02"
+    },
+    {
+      "NO": 74,
+      "NAME": "ICON_MAG_MS_03"
+    },
+    {
+      "NO": 75,
+      "NAME": "ICON_MAG_MS_04"
+    },
+    {
+      "NO": 76,
+      "NAME": "ICON_MAG_MS_05"
+    },
+    {
+      "NO": 77,
+      "NAME": "ICON_MAG_MS_06"
+    },
+    {
+      "NO": 78,
+      "NAME": "ICON_MAG_SM_01"
+    },
+    {
+      "NO": 79,
+      "NAME": "ICON_MAG_SM_02"
+    },
+    {
+      "NO": 80,
+      "NAME": "ICON_MAG_SM_03"
+    },
+    {
+      "NO": 81,
+      "NAME": "ICON_MAG_SM_04"
+    },
+    {
+      "NO": 82,
+      "NAME": "ICON_MAG_SM_05"
+    },
+    {
+      "NO": 83,
+      "NAME": "ICON_MAG_SM_06"
+    },
+    {
+      "NO": 84,
+      "NAME": "ICON_MAG_SU_01"
+    },
+    {
+      "NO": 85,
+      "NAME": "ICON_MAG_SU_02"
+    },
+    {
+      "NO": 86,
+      "NAME": "ICON_MAG_SU_03"
+    },
+    {
+      "NO": 87,
+      "NAME": "ICON_MAG_SU_04"
+    },
+    {
+      "NO": 88,
+      "NAME": "ICON_MAG_SU_05"
+    },
+    {
+      "NO": 89,
+      "NAME": "ICON_MAG_SU_06"
+    },
+    {
+      "NO": 90,
+      "NAME": "ICON_J_COMMAND_00"
+    },
+    {
+      "NO": 91,
+      "NAME": "ICON_J_COMMAND_01"
+    },
+    {
+      "NO": 92,
+      "NAME": "ICON_J_COMMAND_02"
+    },
+    {
+      "NO": 93,
+      "NAME": "ICON_J_COMMAND_03"
+    },
+    {
+      "NO": 94,
+      "NAME": "ICON_J_COMMAND_04"
+    },
+    {
+      "NO": 95,
+      "NAME": "ICON_J_COMMAND_05"
+    },
+    {
+      "NO": 96,
+      "NAME": "ICON_J_COMMAND_06"
+    },
+    {
+      "NO": 97,
+      "NAME": "ICON_J_COMMAND_07"
+    },
+    {
+      "NO": 98,
+      "NAME": "ICON_J_COMMAND_08"
+    },
+    {
+      "NO": 99,
+      "NAME": "ICON_J_COMMAND_09"
+    },
+    {
+      "NO": 100,
+      "NAME": "ICON_J_COMMAND_10"
+    },
+    {
+      "NO": 101,
+      "NAME": "ICON_J_COMMAND_11"
+    },
+    {
+      "NO": 102,
+      "NAME": "ICON_J_COMMAND_12"
+    },
+    {
+      "NO": 103,
+      "NAME": "ICON_J_COMMAND_13"
+    },
+    {
+      "NO": 104,
+      "NAME": "ICON_J_COMMAND_14"
+    },
+    {
+      "NO": 105,
+      "NAME": "ICON_J_COMMAND_15"
+    },
+    {
+      "NO": 106,
+      "NAME": "ICON_J_COMMAND_16"
+    },
+    {
+      "NO": 107,
+      "NAME": "ICON_J_COMMAND_17"
+    },
+    {
+      "NO": 108,
+      "NAME": "ICON_J_COMMAND_18"
+    },
+    {
+      "NO": 109,
+      "NAME": "ICON_J_COMMAND_19"
+    },
+    {
+      "NO": 110,
+      "NAME": "ICON_J_COMMAND_20"
+    },
+    {
+      "NO": 111,
+      "NAME": "ICON_J_COMMAND_21"
+    },
+    {
+      "NO": 112,
+      "NAME": "ICON_J_COMMAND_22"
+    },
+    {
+      "NO": 113,
+      "NAME": "ICON_J_COMMAND_23"
+    },
+    {
+      "NO": 114,
+      "NAME": "ICON_PART_1"
+    },
+    {
+      "NO": 115,
+      "NAME": "ICON_PART_2"
+    },
+    {
+      "NO": 116,
+      "NAME": "ICON_PART_3"
+    },
+    {
+      "NO": 117,
+      "NAME": "ICON_PART_4"
+    },
+    {
+      "NO": 118,
+      "NAME": "ICON_PART_5"
+    },
+    {
+      "NO": 119,
+      "NAME": "ICON_PART_6"
+    },
+    {
+      "NO": 120,
+      "NAME": "ICON_PART_7"
+    },
+    {
+      "NO": 121,
+      "NAME": "ICON_PART_8"
+    },
+    {
+      "NO": 122,
+      "NAME": "ICON_PART_9"
+    },
+    {
+      "NO": 123,
+      "NAME": "ICON_PART_10"
+    },
+    {
+      "NO": 124,
+      "NAME": "ICON_PART_11"
+    },
+    {
+      "NO": 125,
+      "NAME": "ICON_PART_12"
+    },
+    {
+      "NO": 126,
+      "NAME": "ICON_PART_13"
+    },
+    {
+      "NO": 127,
+      "NAME": "ICON_PART_14"
+    },
+    {
+      "NO": 128,
+      "NAME": "ICON_PART_15"
+    },
+    {
+      "NO": 129,
+      "NAME": "ICON_PART_16"
+    },
+    {
+      "NO": 130,
+      "NAME": "ICON_DUMMY"
+    },
+    {
+      "NO": 131,
+      "NAME": "ICON_J_CABIRITY_00"
+    },
+    {
+      "NO": 132,
+      "NAME": "ICON_J_CABIRITY_01"
+    },
+    {
+      "NO": 133,
+      "NAME": "ICON_J_CABIRITY_02"
+    },
+    {
+      "NO": 134,
+      "NAME": "ICON_J_CABIRITY_03"
+    },
+    {
+      "NO": 135,
+      "NAME": "ICON_J_CABIRITY_04"
+    },
+    {
+      "NO": 136,
+      "NAME": "ICON_J_CABIRITY_05"
+    },
+    {
+      "NO": 137,
+      "NAME": "ICON_J_CABIRITY_06"
+    },
+    {
+      "NO": 138,
+      "NAME": "ICON_J_SABIRITY_00"
+    },
+    {
+      "NO": 139,
+      "NAME": "ICON_J_SABIRITY_01"
+    },
+    {
+      "NO": 140,
+      "NAME": "ICON_J_SABIRITY_02"
+    },
+    {
+      "NO": 141,
+      "NAME": "ICON_J_SABIRITY_03"
+    },
+    {
+      "NO": 142,
+      "NAME": "ICON_J_SABIRITY_04"
+    },
+    {
+      "NO": 143,
+      "NAME": "ICON_J_SABIRITY_05"
+    },
+    {
+      "NO": 144,
+      "NAME": "ICON_J_SABIRITY_06"
+    },
+    {
+      "NO": 145,
+      "NAME": "ICON_SPECIAL_00"
+    },
+    {
+      "NO": 146,
+      "NAME": "ICON_SPECIAL_01"
+    },
+    {
+      "NO": 147,
+      "NAME": "ICON_SPECIAL_02"
+    },
+    {
+      "NO": 148,
+      "NAME": "ICON_SPECIAL_03"
+    },
+    {
+      "NO": 149,
+      "NAME": "ICON_SPECIAL_04"
+    },
+    {
+      "NO": 150,
+      "NAME": "ICON_SPECIAL_05"
+    },
+    {
+      "NO": 151,
+      "NAME": "ICON_SPECIAL_06"
+    },
+    {
+      "NO": 152,
+      "NAME": "ICON_SPECIAL_07"
+    },
+    {
+      "NO": 153,
+      "NAME": "ICON_SPECIAL_08"
+    },
+    {
+      "NO": 154,
+      "NAME": "ICON_ITEM_SWORD"
+    },
+    {
+      "NO": 155,
+      "NAME": "ICON_ITEM_AXE"
+    },
+    {
+      "NO": 156,
+      "NAME": "ICON_ITEM_SPEAR"
+    },
+    {
+      "NO": 157,
+      "NAME": "ICON_ITEM_ROD"
+    },
+    {
+      "NO": 158,
+      "NAME": "ICON_ITEM_WAND"
+    },
+    {
+      "NO": 159,
+      "NAME": "ICON_ITEM_DAGGER"
+    },
+    {
+      "NO": 160,
+      "NAME": "ICON_ITEM_BOW"
+    },
+    {
+      "NO": 161,
+      "NAME": "ICON_ITEM_KNUCKLE"
+    },
+    {
+      "NO": 162,
+      "NAME": "ICON_ITEM_KATANA"
+    },
+    {
+      "NO": 163,
+      "NAME": "ICON_ITEM_SHIELD"
+    },
+    {
+      "NO": 164,
+      "NAME": "ICON_ITEM_FOREARM"
+    },
+    {
+      "NO": 165,
+      "NAME": "ICON_ITEM_BANGLE"
+    },
+    {
+      "NO": 166,
+      "NAME": "ICON_ITEM_HELM"
+    },
+    {
+      "NO": 167,
+      "NAME": "ICON_ITEM_ARMOR"
+    },
+    {
+      "NO": 168,
+      "NAME": "ICON_ITEM_PORTION"
+    },
+    {
+      "NO": 169,
+      "NAME": "ICON_ITEM_MAGIC"
+    },
+    {
+      "NO": 170,
+      "NAME": "ICON_FIGHT"
+    },
+    {
+      "NO": 171,
+      "NAME": "90_all"
+    },
+    {
+      "NO": 172,
+      "NAME": "91_new"
+    },
+    {
+      "NO": 173,
+      "NAME": "ICON_ABILITY_000"
+    },
+    {
+      "NO": 174,
+      "NAME": "ICON_ABILITY_001"
+    },
+    {
+      "NO": 175,
+      "NAME": "ICON_ABILITY_002"
+    },
+    {
+      "NO": 176,
+      "NAME": "ICON_ABILITY_003"
+    },
+    {
+      "NO": 177,
+      "NAME": "ICON_ABILITY_004"
+    },
+    {
+      "NO": 178,
+      "NAME": "ICON_ABILITY_005"
+    },
+    {
+      "NO": 179,
+      "NAME": "ICON_ABILITY_006"
+    },
+    {
+      "NO": 180,
+      "NAME": "ICON_ABILITY_007"
+    },
+    {
+      "NO": 181,
+      "NAME": "ICON_ABILITY_011"
+    },
+    {
+      "NO": 182,
+      "NAME": "ICON_ABILITY_012"
+    },
+    {
+      "NO": 183,
+      "NAME": "ICON_ABILITY_013"
+    },
+    {
+      "NO": 184,
+      "NAME": "ICON_ABILITY_014"
+    },
+    {
+      "NO": 185,
+      "NAME": "ICON_ABILITY_015"
+    },
+    {
+      "NO": 186,
+      "NAME": "ICON_ABILITY_016"
+    },
+    {
+      "NO": 187,
+      "NAME": "ICON_ABILITY_017"
+    },
+    {
+      "NO": 188,
+      "NAME": "ICON_ABILITY_018"
+    },
+    {
+      "NO": 189,
+      "NAME": "menu_ability"
+    },
+    {
+      "NO": 190,
+      "NAME": "menu_equipment"
+    },
+    {
+      "NO": 191,
+      "NAME": "menu_item"
+    },
+    {
+      "NO": 192,
+      "NAME": "menu_job"
+    },
+    {
+      "NO": 193,
+      "NAME": "menu_magic"
+    },
+    {
+      "NO": 194,
+      "NAME": "menu_special"
+    },
+    {
+      "NO": 195,
+      "NAME": "menu_strategy"
+    },
+    {
+      "NO": 196,
+      "NAME": "ICON_EQP_SUPPIN_00"
+    },
+    {
+      "NO": 197,
+      "NAME": "ICON_EQP_SUPPIN_01"
+    },
+    {
+      "NO": 198,
+      "NAME": "ICON_EQP_SUPPIN_02"
+    },
+    {
+      "NO": 199,
+      "NAME": "ICON_EQP_SUPPIN_03"
+    },
+    {
+      "NO": 200,
+      "NAME": "90_all_shop"
+    },
+    {
+      "NO": 201,
+      "NAME": "ICON_JOB_02_G"
+    },
+    {
+      "NO": 202,
+      "NAME": "ICON_JOB_03_G"
+    },
+    {
+      "NO": 203,
+      "NAME": "ICON_JOB_07_G"
+    },
+    {
+      "NO": 204,
+      "NAME": "ICON_JOB_08_G"
+    },
+    {
+      "NO": 205,
+      "NAME": "ICON_JOB_20_G"
+    },
+    {
+      "NO": 206,
+      "NAME": "icon_hotel"
+    },
+    {
+      "NO": 207,
+      "NAME": "PCM1_big"
+    },
+    {
+      "NO": 208,
+      "NAME": "PCF1_big"
+    },
+    {
+      "NO": 209,
+      "NAME": "PCM2_big"
+    },
+    {
+      "NO": 210,
+      "NAME": "PCF2_big"
+    },
+    {
+      "NO": 211,
+      "NAME": "PCM1_Face"
+    },
+    {
+      "NO": 212,
+      "NAME": "PCF1_Face"
+    },
+    {
+      "NO": 213,
+      "NAME": "PCM2_Face"
+    },
+    {
+      "NO": 214,
+      "NAME": "PCF2_Face"
+    },
+    {
+      "NO": 215,
+      "NAME": "PCM1_mini"
+    },
+    {
+      "NO": 216,
+      "NAME": "PCF1_mini"
+    },
+    {
+      "NO": 217,
+      "NAME": "PCM2_mini"
+    },
+    {
+      "NO": 218,
+      "NAME": "PCF2_mini"
+    },
+    {
+      "NO": 219,
+      "NAME": "ICON_ITEM_MANJU"
+    },
+    {
+      "NO": 220,
+      "NAME": "skill_type_icon_0"
+    },
+    {
+      "NO": 221,
+      "NAME": "skill_type_icon_1"
+    },
+    {
+      "NO": 222,
+      "NAME": "ICON_PRECIOUS_01"
+    },
+    {
+      "NO": 223,
+      "NAME": "ICON_PRECIOUS_02"
+    },
+    {
+      "NO": 224,
+      "NAME": "ICON_PRECIOUS_03"
+    },
+    {
+      "NO": 225,
+      "NAME": "ICON_PRECIOUS_04"
+    },
+    {
+      "NO": 226,
+      "NAME": "ICON_PRECIOUS_05"
+    },
+    {
+      "NO": 227,
+      "NAME": "ICON_PRECIOUS_06"
+    },
+    {
+      "NO": 228,
+      "NAME": "ICON_PRECIOUS_07"
+    },
+    {
+      "NO": 229,
+      "NAME": "ICON_PRECIOUS_08"
+    },
+    {
+      "NO": 230,
+      "NAME": "ICON_PRECIOUS_09"
+    },
+    {
+      "NO": 231,
+      "NAME": "ICON_PRECIOUS_10"
+    },
+    {
+      "NO": 232,
+      "NAME": "ICON_PRECIOUS_11"
+    },
+    {
+      "NO": 233,
+      "NAME": "ICON_PRECIOUS_12"
+    },
+    {
+      "NO": 234,
+      "NAME": "ICON_PRECIOUS_13"
+    },
+    {
+      "NO": 235,
+      "NAME": "ICON_PRECIOUS_14"
+    },
+    {
+      "NO": 236,
+      "NAME": "ICON_PRECIOUS_15"
+    },
+    {
+      "NO": 237,
+      "NAME": "ICON_PRECIOUS_16"
+    },
+    {
+      "NO": 238,
+      "NAME": "ICON_PRECIOUS_17"
+    },
+    {
+      "NO": 239,
+      "NAME": "ICON_PRECIOUS_18"
+    },
+    {
+      "NO": 240,
+      "NAME": "ICON_PRECIOUS_19"
+    },
+    {
+      "NO": 241,
+      "NAME": "PCM1_big02"
+    },
+    {
+      "NO": 242,
+      "NAME": "PCF1_big02"
+    },
+    {
+      "NO": 243,
+      "NAME": "PCM2_big02"
+    },
+    {
+      "NO": 244,
+      "NAME": "PCF2_big02"
+    },
+    {
+      "NO": 245,
+      "NAME": "PCM1_big_gray"
+    },
+    {
+      "NO": 246,
+      "NAME": "PCF1_big_gray"
+    },
+    {
+      "NO": 247,
+      "NAME": "PCM2_big_gray"
+    },
+    {
+      "NO": 248,
+      "NAME": "PCF2_big_gray"
+    },
+    {
+      "NO": 249,
+      "NAME": "PCM1_big02_gray"
+    },
+    {
+      "NO": 250,
+      "NAME": "PCF1_big02_gray"
+    },
+    {
+      "NO": 251,
+      "NAME": "PCM2_big02_gray"
+    },
+    {
+      "NO": 252,
+      "NAME": "PCF2_big02_gray"
+    },
+    {
+      "NO": 253,
+      "NAME": "PCM1_Face_gray"
+    },
+    {
+      "NO": 254,
+      "NAME": "PCF1_Face_gray"
+    },
+    {
+      "NO": 255,
+      "NAME": "PCM2_Face_gray"
+    },
+    {
+      "NO": 256,
+      "NAME": "PCF2_Face_gray"
+    },
+    {
+      "NO": 257,
+      "NAME": "PCM1_mini_gray"
+    },
+    {
+      "NO": 258,
+      "NAME": "PCF1_mini_gray"
+    },
+    {
+      "NO": 259,
+      "NAME": "PCM2_mini_gray"
+    },
+    {
+      "NO": 260,
+      "NAME": "PCF2_mini_gray"
+    },
+    {
+      "NO": 261,
+      "NAME": "icon_mini"
+    },
+    {
+      "NO": 262,
+      "NAME": "ICON_ITEM_MEDAL"
+    }
+  ]
+}

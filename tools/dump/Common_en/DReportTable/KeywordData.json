@@ -1,0 +1,331 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 22812,
+    "data_one_size": 32,
+    "data_num": 32,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "id": 1,
+      "pTitle": "クリスタル１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Crystals (Entry 1):\nThese huge\ncrystals have been\nvenerated by\nhumankind since\nancient times.\nThey are worshipped\nas sacred entities\nthat bring peace\nand blessings to\nLuxendarc.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Word/11_D_Word",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 2,
+      "pTitle": "クリスタル２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Crystals (Entry 2):\nThere are four crystals in all:\nfire, water, wind, and earth, each of which continues to grow through the accumulation of energy bestowed by the vestals’ prayers. For each of the natural forces they represent, they bring about balance and vitality, and enable all life on Luxendarc to live in peace.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 3,
+      "pTitle": "クリスタル３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Crystals (Entry 3):\nThe moment the Great Chasm appeared in the Norende region of Caldisla, the Wind Crystal was shrouded in darkness and the wind ceased to blow. The other crystals also lost their power, causing the seas to turn putrid, volcanoes to erupt with unrelenting fury, and the earth to quake and change its very shape.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 4,
+      "pTitle": "クリスタルの解放",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Awakening the Crystals:\nThe vestals’ act of exorcising the evil that has befallen a crystal is known as “awakening.” It is said that a vestal arrayed in sacred vestments can awaken a crystal and return it to its normal state by continually praying until her breathing aligns with its natural rhythm.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 5,
+      "pTitle": "巫女の祈祷衣",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Vestal Garb:\nA vestal must wear\nthese vestments\nwhen performing\nthe Rite of\nAwakening, which\nexorcises any evil\nthat has befallen\na crystal. The\ngarb is specific\nto each vestal,\nand cannot be borrowed.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Word/07_D_Word",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 6,
+      "pTitle": "祈りの虹糸",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Rainbow Thread:\nThis is the main material of the vestal garb that a vestal must wear when performing the Rite of Awakening on a crystal, and the vestal must fetch it herself.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 7,
+      "pTitle": "クリスタル４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Crystals (Entry 4):\nThe crystals existed long before the birth of Crystal Adventism (the Old Faith) and the Crystal Orthodoxy. Even before recorded history, humankind has been warned that unleashing the power of the crystals without due care can destroy the boundaries that protect this world, opening the door to the Harrowing. But ever have the power-hungry distorted such admonishments in their selfish quests.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 8,
+      "pTitle": "クリスタル５",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Crystals (Entry 5):\nThe Crystal Orthodoxy cannot train vestals to work with the crystals—it merely bestows the title of vestal upon pure-hearted maidens who have this gift. In fact, it was once thought that humankind must not interfere with the crystals in any way.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 9,
+      "pTitle": "クリスタル正教１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Crystal Orthodoxy:\nThe Orthodoxy was born of the desire to reform Crystalism, the worship of Luxendarc’s four crystals. It was 2,400 years ago that crystal temples across the world, along with their vestals and acolytes, were brought under the Orthodoxy’s central control, creating a world religion that would change the course of history.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 10,
+      "pTitle": "クリスタル正教２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Crystalist Teachings:\n\n“Dauntless seeker, offer your prayers unto the crystals. So, too, shall the vestal, in accordance with the teachings.”\n\n“Their resplendent light shall cleave a path through darkest night, and banish fear from every shadow.”",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 11,
+      "pTitle": "クリスタル正教３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Orthodoxy’s Decline:\nThough it was once a dominant world religion wielding power surpassing that of even the greatest kings, over time the Crystal Orthodoxy became ever less relevant in the face of cultural and scientific advances. And with the establishment of the Duchy of Eternia fifteen years ago under the banner of Anticrystalism, the Orthodoxy became even more irrelevant, and indeed, even forgotten among the people of most lands, save the few still friendly to the religion.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 12,
+      "pTitle": "クリスタル正教４",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Orthodoxy’s Dark Past:\nThe Crystal Orthodoxy was born 2,400 years ago as a peaceful reformation of Crystal Adventism, also known as the Old Faith. While the crystals were once held individually by kings and other powerful figures, they were brought together into the unified faith. But the need to legitimize the new institution soon led to a campaign to discredit the old, robbing Crystal Adventism of its rightful place in history.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 13,
+      "pTitle": "クリスタル神殿",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "The Crystal Temples:\nThese sacred sites dedicated to the crystals have existed long before the advent of Crystalism, and indeed, even before recorded history. Vestal and acolyte alike live in the temples, where they faithfully pray to the crystals, and the folk of the region flock there to worship. It is still a mystery why the four temples have a uniform architectural style despite being built in separate regions that developed vastly different civilizations.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 14,
+      "pTitle": "クリスタルの巫女１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Vestals (Entry 1):\nThose who bear the name Oblige serve the crystals, offering prayers and recounting their blessings to the faithful. Said to be brides to the crystals, they dedicate their lives to them. The Orthodoxy seeks out candidates at a young age, and those seen as having the requisite qualities are brought to the temple to be raised as vestalings.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 15,
+      "pTitle": "クリスタルの巫女２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Vestals (Entry 2):\nThe current vestals initially entered their respective temples as vestalings. Upon the death of a vestal, a new vestal is selected from among them. Each temple also has dozens of acolytes who care for the daily needs of the vestals and together offer their prayers to the crystals.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 16,
+      "pTitle": "エタルニア公国１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Duchy of Eternia:\nFounded fifteen years ago on the continent of Eternia, west of Caldisla, this new land has placed the crystal there under secular rather than religious control. Under the banner of Anticrystalism, the duchy has used its advanced science and military might in many ways to pressure the lands that still espouse Crystalism.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 17,
+      "pTitle": "エタルニア公国２",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Duchy Government:\nA kinsman of the kings who once ruled Eternia 2,000 years ago was chosen to rule the duchy as its archduke, but all administrative, judicial, scientific, and medical functions as well as the four divisions of Eternian forces are under the control of the Council of Six, the duchy’s highest governing body.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 18,
+      "pTitle": "エタルニア公国３",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Land of Immortality:\nThe duchy’s medical facilities all receive healing waves via the white magic cables. Dubbed the Land of Immortality, Eternia has all but banished sickness through the latest medical advances, and people in countless numbers wish to come to this seemingly enchanted land.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 19,
+      "pTitle": "アンチクリスタリズム",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Anticrystalism:\nAdvocated by the Duchy of Eternia, this philosophy holds that humankind should actively utilize the crystals, rather than relegating them to useless objects of worship or treating them as religious and doctrinal crutches upon which society is dependent. It brands the Crystal Orthodoxy as a heretic faith, and the vestals its minions. Some adherents even suspect the Great Chasm was the vestals’ doing.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 20,
+      "pTitle": "アスタリスク",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Asterisks:\nSemiprecious\nstones obtained\nafter defeating\nthe monk Barras\nLehr and white\nmage Holly Whyte.\nPossessing a\nparticular stone\nwill confer that\nstone’s job on the\nbearer.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Word/08_D_Word",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 21,
+      "pTitle": "飛空艇１（飛行石",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Skystones:\nThis special kind of stone, first discovered under the Orthodoxy’s head temple some 700 years ago, is so named for its unique ability to make objects float in the air when it is placed in a mystic enclosure and heated to a certain temperature.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 22,
+      "pTitle": "飛空艇２（歴史",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "History of Airships:\nThe first airships were lifted into the air by creating a mystic enclosure within the vessel, and then fueling a fire therein. Propulsion was by means of wind power, the same as their more primitive seafaring brethren, but the invention of the internal combustion engine allowed for faster, steadier cruising speeds. Later, airships came to fly even higher when new technology enabled increased temperatures to be applied to the skystone.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 23,
+      "pTitle": "飛空艇３（構造",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Airship Design:\nAirships are designed to enable dockage in an airborne state or by floating in suitably expansive waters, such as the sea or a large lake. Since they are built much like traditional seafaring vessels, they can navigate ocean waters even without a skystone.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 24,
+      "pTitle": "飛空艇４（種類",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Types of Airships:\nThe Duchy of Eternia currently maintains a monopoly on all airships and the skystones required to power them. The existence of as many as ten has been confirmed, including one for each member of the Council of Six and the Eschalot, the airship of the First Division’s captain, newly built in Ancheim.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 25,
+      "pTitle": "盾派と剣派１",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Shieldbearers and Swordbearers:\nBoth groups are said to have originated as militias organized to protect the fire vestal, but in time, they came to rule Eisenberg. The Shieldbearers maintained their traditional role as defenders of the Fire Temple and its vestal, while the Swordbearers evolved into a force for vanquishing enemies attacking from beyond their borders.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 26,
+      "pTitle": "盾派と剣派２（盾派",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Shieldbearers:\nDrawn primarily from the ranks of devout Crystalists, the Shieldbearers are Eisenberg’s official military force. They suffered a bitter defeat in the Swordbearers’ sudden, bloody uprising, which was aided by a powerful mercenary force, arms from foreign lands, and the use of a toxic mist weapon. The group is now commanded by Daniel Goodman, who is barely holding back the Swordbearers’ advance across the Eisen Bridge.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 27,
+      "pTitle": "盾派と剣派３（剣派",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Swordbearers:\nThe group whose bloody uprising four years ago sparked Eisenberg’s civil war. With the aid of a foreign mercenary group, they quickly took control of half of Eisenberg. Commanded by Yewmire Astrae, their ranks include many Anticrystalists. This has caused some to view Eisenberg’s internal strife as more of a religious war pitting the mostly Anticrystalist Swordbearers against the Shieldbearers, whose ranks include many devout Crystalists.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 28,
+      "pTitle": "盾派と剣派４（カナリヤ",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Canary Boys:\nForced to work in Swordbearer-occupied mines, these young boys are so named because they are used to detect poisonous gas before it can do harm to others, much like canaries in a coal mine. The Swordbearers are few in number, and have found these mostly docile young boys are easily controlled with just a few guards. They work in deplorable conditions, extracting mythril ore and the extremely rare metal orichalcum from deep within the earth.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 29,
+      "pTitle": "キーストーン",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Keystones:\nThese six\nmysterious stones\nmust be gathered\nbefore the tightly\nsealed door of\nVampire Castle\nwill open.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Word/09_D_Word",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 30,
+      "pTitle": "Ｄの手帳１",
+      "pSubTitle": "",
+      "type": 6,
+      "pText": "Mysterious\nJournal:\nThis unusual tome,\npart of which you\nare reading now,\nwas the only item\nin my possession\nwhen I was first\nfound bereft of\nmemory. I call it\n“D’s Journal” for\nthe large D on its cover, and it contains many prophecy-like writings.",
+      "pArchiveName": "Graphics/UI/Common/D_Report/D_Word/10_D_Word",
+      "pTextureName": "D_Word",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 31,
+      "pTitle": "Ｄの手帳２（アナゼル",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Alternis’s Journal:\nDropped by the dark knight Alternis Dim as he fled, it looks exactly like D’s Journal from the outside. Even inside, many of the writings are strikingly similar. It’s almost as if…",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    },
+    {
+      "id": 32,
+      "pTitle": "ホーリーピラー",
+      "pSubTitle": "",
+      "type": 4,
+      "pText": "Pillar of Light:\nIt is said that when all four crystals have been awakened, a pillar of light will appear somewhere in this world. Known as the Holy Pillar, it radiates with the First Light, divine source of life and the origin of this world and the heavens above. Airy claims that if she brings her brooch within the Holy Pillar, its divine light will sweep away all darkness and banish the Great Chasm from this world.",
+      "pArchiveName": "",
+      "pTextureName": "",
+      "pOverwrapTextureName": ""
+    }
+  ]
+}

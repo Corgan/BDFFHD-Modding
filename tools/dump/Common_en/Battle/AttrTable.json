@@ -1,0 +1,221 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 552,
+    "data_one_size": 12,
+    "data_num": 42,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "attr": 1,
+      "regi": 1,
+      "id": 300
+    },
+    {
+      "attr": 1,
+      "regi": 2,
+      "id": 301
+    },
+    {
+      "attr": 1,
+      "regi": 3,
+      "id": 302
+    },
+    {
+      "attr": 1,
+      "regi": 4,
+      "id": 303
+    },
+    {
+      "attr": 1,
+      "regi": 5,
+      "id": 304
+    },
+    {
+      "attr": 1,
+      "regi": 6,
+      "id": 305
+    },
+    {
+      "attr": 2,
+      "regi": 1,
+      "id": 310
+    },
+    {
+      "attr": 2,
+      "regi": 2,
+      "id": 311
+    },
+    {
+      "attr": 2,
+      "regi": 3,
+      "id": 312
+    },
+    {
+      "attr": 2,
+      "regi": 4,
+      "id": 313
+    },
+    {
+      "attr": 2,
+      "regi": 5,
+      "id": 314
+    },
+    {
+      "attr": 2,
+      "regi": 6,
+      "id": 315
+    },
+    {
+      "attr": 3,
+      "regi": 1,
+      "id": 320
+    },
+    {
+      "attr": 3,
+      "regi": 2,
+      "id": 321
+    },
+    {
+      "attr": 3,
+      "regi": 3,
+      "id": 322
+    },
+    {
+      "attr": 3,
+      "regi": 4,
+      "id": 323
+    },
+    {
+      "attr": 3,
+      "regi": 5,
+      "id": 324
+    },
+    {
+      "attr": 3,
+      "regi": 6,
+      "id": 325
+    },
+    {
+      "attr": 4,
+      "regi": 1,
+      "id": 330
+    },
+    {
+      "attr": 4,
+      "regi": 2,
+      "id": 331
+    },
+    {
+      "attr": 4,
+      "regi": 3,
+      "id": 332
+    },
+    {
+      "attr": 4,
+      "regi": 4,
+      "id": 333
+    },
+    {
+      "attr": 4,
+      "regi": 5,
+      "id": 334
+    },
+    {
+      "attr": 4,
+      "regi": 6,
+      "id": 335
+    },
+    {
+      "attr": 5,
+      "regi": 1,
+      "id": 340
+    },
+    {
+      "attr": 5,
+      "regi": 2,
+      "id": 341
+    },
+    {
+      "attr": 5,
+      "regi": 3,
+      "id": 342
+    },
+    {
+      "attr": 5,
+      "regi": 4,
+      "id": 343
+    },
+    {
+      "attr": 5,
+      "regi": 5,
+      "id": 344
+    },
+    {
+      "attr": 5,
+      "regi": 6,
+      "id": 345
+    },
+    {
+      "attr": 6,
+      "regi": 1,
+      "id": 350
+    },
+    {
+      "attr": 6,
+      "regi": 2,
+      "id": 351
+    },
+    {
+      "attr": 6,
+      "regi": 3,
+      "id": 352
+    },
+    {
+      "attr": 6,
+      "regi": 4,
+      "id": 353
+    },
+    {
+      "attr": 6,
+      "regi": 5,
+      "id": 354
+    },
+    {
+      "attr": 6,
+      "regi": 6,
+      "id": 355
+    },
+    {
+      "attr": 7,
+      "regi": 1,
+      "id": 360
+    },
+    {
+      "attr": 7,
+      "regi": 2,
+      "id": 361
+    },
+    {
+      "attr": 7,
+      "regi": 3,
+      "id": 362
+    },
+    {
+      "attr": 7,
+      "regi": 4,
+      "id": 363
+    },
+    {
+      "attr": 7,
+      "regi": 5,
+      "id": 364
+    },
+    {
+      "attr": 7,
+      "regi": 6,
+      "id": 365
+    }
+  ]
+}

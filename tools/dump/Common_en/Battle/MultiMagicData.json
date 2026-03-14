@@ -1,0 +1,21 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 80,
+    "data_one_size": 32,
+    "data_num": 1,
+    "ints_per_record": 8
+  },
+  "records": [
+    {
+      "rate_0": 100,
+      "rate_1": 60,
+      "rate_2": 50,
+      "rate_3": 50,
+      "rate_4": 40,
+      "rate_5": 40,
+      "rate_6": 40,
+      "rate_7": 40
+    }
+  ]
+}

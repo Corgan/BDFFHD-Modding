@@ -1,0 +1,56 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 1556,
+    "data_one_size": 12,
+    "data_num": 9,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "id": 1,
+      "message": "Try using Brave to attack twice!",
+      "dialogtag": "Dialog_18_1to2"
+    },
+    {
+      "id": 2,
+      "message": "Your BP is now -1 because you used Brave\nlast turn. That means you can’t do anything\nthis turn!",
+      "dialogtag": "Dialog_18_3to4"
+    },
+    {
+      "id": 3,
+      "message": "Try selecting Default this time.",
+      "dialogtag": "Dialog_18_1to2"
+    },
+    {
+      "id": 4,
+      "message": "Using Default adds 1 BP to your reserve.\nThat means you can use Brave once and\nstill act the next turn.",
+      "dialogtag": "Dialog_18_3to4"
+    },
+    {
+      "id": 5,
+      "message": "You can take advantage of Brave and\nDefault to minimize the damage you take\nand then unleash a flurry of attacks in a\nsingle turn!",
+      "dialogtag": "Dialog_18_3to4"
+    },
+    {
+      "id": 10,
+      "message": "Let’s try using Send. This time we’ll send\n“Attack.”",
+      "dialogtag": "Dialog_18_1to2"
+    },
+    {
+      "id": 11,
+      "message": "You’ve sent the move.",
+      "dialogtag": "Dialog_18_1to2"
+    },
+    {
+      "id": 20,
+      "message": "Okay, let’s try using a special move!",
+      "dialogtag": "Dialog_18_1to2"
+    },
+    {
+      "id": 21,
+      "message": "Notice the music is still playing after the\nspecial move ended? Your allies’ abilities\nare boosted until the music stops!",
+      "dialogtag": "Dialog_18_3to4"
+    }
+  ]
+}

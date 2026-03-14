@@ -1,0 +1,146 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 18132,
+    "data_one_size": 12,
+    "data_num": 27,
+    "ints_per_record": 3
+  },
+  "records": [
+    {
+      "itID": 1,
+      "pName": "Hack and Slash",
+      "pInfo": "Lower one enemy’s physical defense by 25%,\nthen attack five times with 0.6 times the power\nof a conventional attack. For the duration of the\nmusic, all allies’ hit count is raised by 20%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 2,
+      "pName": "Air Splitter",
+      "pInfo": "Deal double the damage of a conventional attack\nto all enemies. For the duration of the music, all\nallies’ physical attack power is raised by 35%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 3,
+      "pName": "Sonic Wave",
+      "pInfo": "Attack one enemy with wind for six times the\ndamage of a conventional attack. For the\nduration of the music, all allies’ physical attack\nis raised by 50%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 11,
+      "pName": "Grand Strike",
+      "pInfo": "Attack all enemies for 1.5 times the damage of a\nconventional attack. For the duration of the\nmusic, all allies’ physical defense is raised by\n20%.\n\n*The upper limit for physical defense is 150%.\nThis effect stacks with physical defense increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 12,
+      "pName": "Maelstrom",
+      "pInfo": "Attack one enemy five times with 0.8 times the\npower of a conventional attack. For the duration\nof the music, all allies’ hit count is raised by 35%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 13,
+      "pName": "Gigaton Swing",
+      "pInfo": "Attack one enemy with earth for six times the\ndamage of a conventional attack. For the\nduration of the music, all allies’ physical\ndefense is raised by 50%.\n\n*The upper limit for physical defense is 150%.\nThis effect stacks with physical defense increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 21,
+      "pName": "Horizon",
+      "pInfo": "Attack one enemy for three times the damage of\na conventional attack. For the duration of the\nmusic, all allies’ critical rate is raised by 300%.\n\n*The upper limit for critical rate is 1,000%.\nThis effect stacks with critical-rate increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 22,
+      "pName": "Overpower",
+      "pInfo": "Attack one enemy six times with 0.6 times the\npower of a conventional attack and a high\nchance of inflicting paralysis. For the duration\nof the music, all allies’ physical attack is raised\nby 35%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 23,
+      "pName": "Megiddo Flame",
+      "pInfo": "Attack all enemies with fire for five times the\ndamage of a conventional attack. For the\nduration of the music, all allies’ physical attack\nis raised by 50%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 31,
+      "pName": "Piercing Bolt",
+      "pInfo": "Attack one enemy for 3 times the damage of a\nconventional attack, ignoring the target’s\nphysical defense. For the duration of the music,\nall allies’ magic attack is raised by 20%.\n\n*The upper limit for magic attack is 150%.\nThis effect stacks with magic attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 32,
+      "pName": "Withering Ripple",
+      "pInfo": "Lower all enemies’ physical and magic attack\nand defense by 15% for four turns. For the\nduration of the music, all allies’ magic attack\nis raised by 35%.\n\n*The lower limit for physical defense and magic defense is 75%.\n*The upper limit for magic attack is 150%.\nThis effect stacks with magic attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 33,
+      "pName": "Holy Weapon",
+      "pInfo": "Attack all enemies for five times the damage of\na conventional attack, dealing additional damage\nto demonkind foes. For the duration of the\nmusic, all allies’ magic attack is raised by 50%.\n\n*The upper limit for magic attack is 150%.\nThis effect stacks with magic attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 41,
+      "pName": "Rejuvenation",
+      "pInfo": "Heal all allies by a massive amount. For the\nduration of the music, the effect of healing\nmagic is amplified by 100%.\n\n*The upper limit for healing magic is 200%."
+    },
+    {
+      "itID": 42,
+      "pName": "Lux",
+      "pInfo": "Raise physical and magic attack and defense of\nall allies by 25% for four turns. For the duration\nof the music, all allies’ speed is raised by 35%.\n\n*The upper limit for physical attack, magic attack,\nphysical defense, magic defense, and speed is\n150%. This effect stacks with physical attack,\nmagic attack, physical defense, magic defense,\nand speed increases from special moves, but\nnot with increases from other sources."
+    },
+    {
+      "itID": 43,
+      "pName": "Divine Light",
+      "pInfo": "Attack one enemy for seven times the damage of\na conventional attack, dealing additional damage\nto undead foes. For the duration of the music, all\nallies’ magic attack is raised by 50%.\n\n*The upper limit for magic attack is 150%.\nThis effect stacks with magic attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 51,
+      "pName": "Infinity",
+      "pInfo": "Attack one enemy five times with 0.7 times the\npower of a conventional attack. For the duration\nof the music, all allies’ hit count is raised by\n20%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 52,
+      "pName": "Blade Storm",
+      "pInfo": "Attack one enemy fifteen times with 0.3 times\nthe power of a conventional attack. For the\nduration of the music, all allies’ hit count is\nraised by 35%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 53,
+      "pName": "Cross Divide",
+      "pInfo": "Attack one enemy ten times with 0.7 times the\npower of a conventional attack. For the duration\nof the music, all allies’ hit count is raised by\n50%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 61,
+      "pName": "Maximum Draw",
+      "pInfo": "Attack one enemy for three times the damage of\na conventional attack. For the duration of the\nmusic, all allies’ critical rate is raised by 300%.\n\n*The upper limit for critical rate is 1,000%.\nThis effect stacks with critical-rate increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 62,
+      "pName": "Rapid Fire",
+      "pInfo": "Attack one enemy with fire five times with 0.8\ntimes the power of a conventional attack. For the\nduration of the music, all allies’ hit count is\nraised by 35%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 63,
+      "pName": "Angelic Pillar",
+      "pInfo": "Attack all enemies with light for three times the\ndamage of a conventional attack. For the\nduration of the music, all allies’ magic defense\nis raised by 50%.\n\n*The upper limit for magic defense is 150%.\nThis effect stacks with magic defense increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 71,
+      "pName": "Moonshadow",
+      "pInfo": "Attack one enemy for double the damage of a\nconventional attack with a high chance of\nstunning the target for several turns. For the\nduration of the music, all allies’ physical attack\nis raised by 20%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 72,
+      "pName": "Breaking Wave",
+      "pInfo": "Attack all enemies with water for double the\ndamage of a conventional attack. For the\nduration of the music, all allies’ critical rate is\nraised by 900%.\n\n*The upper limit for critical rate is 1,000%.\nThis effect stacks with critical-rate increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 73,
+      "pName": "Petal Swirl",
+      "pInfo": "Attack one enemy five times with 1.2 times the\npower of a conventional attack. For the duration\nof the music, all allies’ speed is raised by 50%.\n\n*The upper limit for speed is 150%.\nThis effect stacks with speed increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 81,
+      "pName": "Moonbeam",
+      "pInfo": "Attack one enemy for three times the damage of\na conventional attack. For the duration of the\nmusic, all allies’ physical attack is raised by 20%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 82,
+      "pName": "Ascendant Palm",
+      "pInfo": "Attack one enemy sixteen times with 0.3 times\nthe power of a conventional attack. For the\nduration of the music, all allies’ hit count is\nraised by 35%.\n\n*The upper limit for hit count is 200%.\nThis effect stacks with hit count increases\nfrom special moves, but not with increases\nfrom other sources."
+    },
+    {
+      "itID": 83,
+      "pName": "Thunderburst",
+      "pInfo": "Attack one enemy with lightning for five times\nthe damage of a conventional attack. For the\nduration of the music, all allies’ physical attack\nis raised by 50%.\n\n*The upper limit for physical attack is 150%.\nThis effect stacks with physical attack increases\nfrom special moves, but not with increases\nfrom other sources."
+    }
+  ]
+}

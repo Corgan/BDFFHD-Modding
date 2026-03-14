@@ -1,0 +1,651 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 6194,
+    "data_one_size": 24,
+    "data_num": 80,
+    "ints_per_record": 6
+  },
+  "records": [
+    {
+      "index": 1,
+      "pTitle": "Caldis Region",
+      "id": 0,
+      "pSubTitle": "カルディスラ地方１",
+      "pageDataIndex": 1,
+      "gameFlag": 7202
+    },
+    {
+      "index": 2,
+      "pTitle": "Caldis Region",
+      "id": 0,
+      "pSubTitle": "カルディスラ地方２",
+      "pageDataIndex": 2,
+      "gameFlag": 7203
+    },
+    {
+      "index": 3,
+      "pTitle": "Kingdom of Caldisla",
+      "id": 1,
+      "pSubTitle": "カルディスラ王国１…王国",
+      "pageDataIndex": 3,
+      "gameFlag": 7204
+    },
+    {
+      "index": 4,
+      "pTitle": "Kingdom of Caldisla",
+      "id": 1,
+      "pSubTitle": "カルディスラ王国２…城下町",
+      "pageDataIndex": 4,
+      "gameFlag": 7205
+    },
+    {
+      "index": 5,
+      "pTitle": "Kingdom of Caldisla",
+      "id": 1,
+      "pSubTitle": "カルディスラ王国３…王宮",
+      "pageDataIndex": 5,
+      "gameFlag": 7206
+    },
+    {
+      "index": 6,
+      "pTitle": "Kingdom of Caldisla",
+      "id": 1,
+      "pSubTitle": "カルディスラ王国４…宿屋",
+      "pageDataIndex": 6,
+      "gameFlag": 7207
+    },
+    {
+      "index": 7,
+      "pTitle": "Norende Village",
+      "id": 2,
+      "pSubTitle": "ノルエンデ村１",
+      "pageDataIndex": 7,
+      "gameFlag": 7208
+    },
+    {
+      "index": 8,
+      "pTitle": "Norende Village",
+      "id": 2,
+      "pSubTitle": "ノルエンデ村２",
+      "pageDataIndex": 8,
+      "gameFlag": 7209
+    },
+    {
+      "index": 9,
+      "pTitle": "Norende Village",
+      "id": 2,
+      "pSubTitle": "ノルエンデ村３",
+      "pageDataIndex": 9,
+      "gameFlag": 7210
+    },
+    {
+      "index": 10,
+      "pTitle": "Norende Village",
+      "id": 2,
+      "pSubTitle": "ノルエンデ村４",
+      "pageDataIndex": 10,
+      "gameFlag": 7211
+    },
+    {
+      "index": 11,
+      "pTitle": "Ruins of Centro Keep",
+      "id": 3,
+      "pSubTitle": "セントロ砦跡１",
+      "pageDataIndex": 11,
+      "gameFlag": 7212
+    },
+    {
+      "index": 12,
+      "pTitle": "Ruins of Centro Keep",
+      "id": 3,
+      "pSubTitle": "セントロ砦跡２",
+      "pageDataIndex": 12,
+      "gameFlag": 7213
+    },
+    {
+      "index": 13,
+      "pTitle": "Ruins of Centro Keep",
+      "id": 3,
+      "pSubTitle": "セントロ砦跡３",
+      "pageDataIndex": 13,
+      "gameFlag": 7214
+    },
+    {
+      "index": 14,
+      "pTitle": "Lontano Villa",
+      "id": 4,
+      "pSubTitle": "ロンターノ離宮１",
+      "pageDataIndex": 14,
+      "gameFlag": 7215
+    },
+    {
+      "index": 15,
+      "pTitle": "Lontano Villa",
+      "id": 4,
+      "pSubTitle": "ロンターノ離宮２",
+      "pageDataIndex": 15,
+      "gameFlag": 7216
+    },
+    {
+      "index": 16,
+      "pTitle": "Lake to the Southwest",
+      "id": 5,
+      "pSubTitle": "南西の湖",
+      "pageDataIndex": 16,
+      "gameFlag": 7217
+    },
+    {
+      "index": 17,
+      "pTitle": "Harena Region",
+      "id": 6,
+      "pSubTitle": "ナダラケス地方１",
+      "pageDataIndex": 17,
+      "gameFlag": 7218
+    },
+    {
+      "index": 18,
+      "pTitle": "Harena Region",
+      "id": 6,
+      "pSubTitle": "ナダラケス地方２",
+      "pageDataIndex": 18,
+      "gameFlag": 7219
+    },
+    {
+      "index": 19,
+      "pTitle": "Harena Region",
+      "id": 6,
+      "pSubTitle": "ナダラケス地方３",
+      "pageDataIndex": 19,
+      "gameFlag": 7220
+    },
+    {
+      "index": 20,
+      "pTitle": "Ancheim, the Land of Sand and Time",
+      "id": 7,
+      "pSubTitle": "ラクリーカ王国１",
+      "pageDataIndex": 20,
+      "gameFlag": 7221
+    },
+    {
+      "index": 21,
+      "pTitle": "Ancheim, the Land of Sand and Time",
+      "id": 7,
+      "pSubTitle": "ラクリーカ王国２",
+      "pageDataIndex": 21,
+      "gameFlag": 7222
+    },
+    {
+      "index": 22,
+      "pTitle": "Ancheim, the Land of Sand and Time",
+      "id": 7,
+      "pSubTitle": "ラクリーカ王国３",
+      "pageDataIndex": 22,
+      "gameFlag": 7223
+    },
+    {
+      "index": 23,
+      "pTitle": "Ancheim, the Land of Sand and Time",
+      "id": 7,
+      "pSubTitle": "ラクリーカ王国４（王宮）",
+      "pageDataIndex": 23,
+      "gameFlag": 7224
+    },
+    {
+      "index": 24,
+      "pTitle": "Ancheim, the Land of Sand and Time",
+      "id": 7,
+      "pSubTitle": "ラクリーカ王国５（商会ビル）",
+      "pageDataIndex": 24,
+      "gameFlag": 7225
+    },
+    {
+      "index": 25,
+      "pTitle": "Temple of Wind",
+      "id": 8,
+      "pSubTitle": "風の神殿１",
+      "pageDataIndex": 25,
+      "gameFlag": 7226
+    },
+    {
+      "index": 26,
+      "pTitle": "Temple of Wind",
+      "id": 8,
+      "pSubTitle": "風の神殿２",
+      "pageDataIndex": 26,
+      "gameFlag": 7227
+    },
+    {
+      "index": 27,
+      "pTitle": "Temple of Wind",
+      "id": 8,
+      "pSubTitle": "クリスタル神殿１",
+      "pageDataIndex": 27,
+      "gameFlag": 7228
+    },
+    {
+      "index": 28,
+      "pTitle": "Temple of Wind",
+      "id": 8,
+      "pSubTitle": "クリスタル神殿２",
+      "pageDataIndex": 28,
+      "gameFlag": 7229
+    },
+    {
+      "index": 29,
+      "pTitle": "Harena Desert",
+      "id": 9,
+      "pSubTitle": "オアシス",
+      "pageDataIndex": 29,
+      "gameFlag": 7230
+    },
+    {
+      "index": 30,
+      "pTitle": "Harena Desert",
+      "id": 9,
+      "pSubTitle": "盗賊のアジト",
+      "pageDataIndex": 30,
+      "gameFlag": 7231
+    },
+    {
+      "index": 31,
+      "pTitle": "Miasma Woods",
+      "id": 10,
+      "pSubTitle": "瘴気の森",
+      "pageDataIndex": 31,
+      "gameFlag": 7232
+    },
+    {
+      "index": 32,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "ユルヤナ地方１",
+      "pageDataIndex": 32,
+      "gameFlag": 7233
+    },
+    {
+      "index": 33,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "ユルヤナ地方２",
+      "pageDataIndex": 33,
+      "gameFlag": 7234
+    },
+    {
+      "index": 34,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "ユルヤナ地方３",
+      "pageDataIndex": 34,
+      "gameFlag": 7235
+    },
+    {
+      "index": 35,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "ユルヤナ地方４",
+      "pageDataIndex": 35,
+      "gameFlag": 7236
+    },
+    {
+      "index": 36,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "森の仕立屋１",
+      "pageDataIndex": 36,
+      "gameFlag": 7237
+    },
+    {
+      "index": 37,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "森の仕立屋２",
+      "pageDataIndex": 37,
+      "gameFlag": 7238
+    },
+    {
+      "index": 38,
+      "pTitle": "Yulyana Region",
+      "id": 11,
+      "pSubTitle": "祈祷衣の洞穴",
+      "pageDataIndex": 38,
+      "gameFlag": 7239
+    },
+    {
+      "index": 39,
+      "pTitle": "Florem Region",
+      "id": 12,
+      "pSubTitle": "フロウエル地方１",
+      "pageDataIndex": 39,
+      "gameFlag": 7240
+    },
+    {
+      "index": 40,
+      "pTitle": "Florem Region",
+      "id": 12,
+      "pSubTitle": "フロウエル地方２",
+      "pageDataIndex": 40,
+      "gameFlag": 7241
+    },
+    {
+      "index": 41,
+      "pTitle": "Florem Region",
+      "id": 12,
+      "pSubTitle": "フロウエル地方３",
+      "pageDataIndex": 41,
+      "gameFlag": 7242
+    },
+    {
+      "index": 42,
+      "pTitle": "Florem, Land of Radiant Flowers",
+      "id": 13,
+      "pSubTitle": "フロウエル１",
+      "pageDataIndex": 42,
+      "gameFlag": 7243
+    },
+    {
+      "index": 43,
+      "pTitle": "Florem, Land of Radiant Flowers",
+      "id": 13,
+      "pSubTitle": "フロウエル２",
+      "pageDataIndex": 43,
+      "gameFlag": 7244
+    },
+    {
+      "index": 44,
+      "pTitle": "Florem, Land of Radiant Flowers",
+      "id": 13,
+      "pSubTitle": "フロウエル３",
+      "pageDataIndex": 44,
+      "gameFlag": 7245
+    },
+    {
+      "index": 45,
+      "pTitle": "Florem, Land of Radiant Flowers",
+      "id": 13,
+      "pSubTitle": "フロウエル４",
+      "pageDataIndex": 45,
+      "gameFlag": 7246
+    },
+    {
+      "index": 46,
+      "pTitle": "Temple of Water",
+      "id": 14,
+      "pSubTitle": "水の神殿",
+      "pageDataIndex": 46,
+      "gameFlag": 7247
+    },
+    {
+      "index": 47,
+      "pTitle": "Temple of Water",
+      "id": 14,
+      "pSubTitle": "水のクリスタル祭壇",
+      "pageDataIndex": 47,
+      "gameFlag": 7248
+    },
+    {
+      "index": 48,
+      "pTitle": "Mount Fragmentum",
+      "id": 15,
+      "pSubTitle": "キレート山１",
+      "pageDataIndex": 48,
+      "gameFlag": 7249
+    },
+    {
+      "index": 49,
+      "pTitle": "Mount Fragmentum",
+      "id": 15,
+      "pSubTitle": "キレート山２",
+      "pageDataIndex": 49,
+      "gameFlag": 7250
+    },
+    {
+      "index": 50,
+      "pTitle": "Witherwood",
+      "id": 16,
+      "pSubTitle": "カレーダの森",
+      "pageDataIndex": 50,
+      "gameFlag": 7251
+    },
+    {
+      "index": 51,
+      "pTitle": "Twisted Treetop",
+      "id": 17,
+      "pSubTitle": "不気味な樹上",
+      "pageDataIndex": 51,
+      "gameFlag": 7252
+    },
+    {
+      "index": 52,
+      "pTitle": "Florem Gardens",
+      "id": 18,
+      "pSubTitle": "フロウエルの花園",
+      "pageDataIndex": 52,
+      "gameFlag": 7253
+    },
+    {
+      "index": 53,
+      "pTitle": "Twilight Ruins",
+      "id": 19,
+      "pSubTitle": "ダスク遺跡",
+      "pageDataIndex": 53,
+      "gameFlag": 7254
+    },
+    {
+      "index": 54,
+      "pTitle": "Eisen Region",
+      "id": 20,
+      "pSubTitle": "エイゼン地方",
+      "pageDataIndex": 54,
+      "gameFlag": 7255
+    },
+    {
+      "index": 55,
+      "pTitle": "Sea of Corsairs",
+      "id": 21,
+      "pSubTitle": "パイレーツ・オーシャン",
+      "pageDataIndex": 55,
+      "gameFlag": 7256
+    },
+    {
+      "index": 56,
+      "pTitle": "The Sinking State, Grandship",
+      "id": 22,
+      "pSubTitle": "沈みかけた国グランシップ１",
+      "pageDataIndex": 56,
+      "gameFlag": 7257
+    },
+    {
+      "index": 57,
+      "pTitle": "The Sinking State, Grandship",
+      "id": 22,
+      "pSubTitle": "沈みかけた国グランシップ２",
+      "pageDataIndex": 57,
+      "gameFlag": 7258
+    },
+    {
+      "index": 58,
+      "pTitle": "The Sinking State, Grandship",
+      "id": 22,
+      "pSubTitle": "沈みかけた国グランシップ３",
+      "pageDataIndex": 58,
+      "gameFlag": 7259
+    },
+    {
+      "index": 59,
+      "pTitle": "The Sinking State, Grandship",
+      "id": 22,
+      "pSubTitle": "沈みかけた国グランシップ４",
+      "pageDataIndex": 59,
+      "gameFlag": 7260
+    },
+    {
+      "index": 60,
+      "pTitle": "Eisenberg Region",
+      "id": 23,
+      "pSubTitle": "エイゼンベルグ地方",
+      "pageDataIndex": 60,
+      "gameFlag": 7261
+    },
+    {
+      "index": 61,
+      "pTitle": "Town of Hartschild",
+      "id": 24,
+      "pSubTitle": "ハルトシルトの街",
+      "pageDataIndex": 61,
+      "gameFlag": 7262
+    },
+    {
+      "index": 62,
+      "pTitle": "Eisen Bridge",
+      "id": 25,
+      "pSubTitle": "エイゼン大橋",
+      "pageDataIndex": 62,
+      "gameFlag": 7263
+    },
+    {
+      "index": 63,
+      "pTitle": "Mythril Mines",
+      "id": 26,
+      "pSubTitle": "ミスリル鉱山１",
+      "pageDataIndex": 63,
+      "gameFlag": 7264
+    },
+    {
+      "index": 64,
+      "pTitle": "Mythril Mines",
+      "id": 26,
+      "pSubTitle": "ミスリル鉱山２",
+      "pageDataIndex": 64,
+      "gameFlag": 7265
+    },
+    {
+      "index": 65,
+      "pTitle": "Grapp Keep",
+      "id": 27,
+      "pSubTitle": "グラ―プ砦",
+      "pageDataIndex": 65,
+      "gameFlag": 7266
+    },
+    {
+      "index": 66,
+      "pTitle": "Temple of Fire",
+      "id": 28,
+      "pSubTitle": "火の神殿",
+      "pageDataIndex": 66,
+      "gameFlag": 7267
+    },
+    {
+      "index": 67,
+      "pTitle": "Temple of Fire",
+      "id": 28,
+      "pSubTitle": "火のクリスタル祭壇",
+      "pageDataIndex": 67,
+      "gameFlag": 7268
+    },
+    {
+      "index": 68,
+      "pTitle": "Starkfort",
+      "id": 29,
+      "pSubTitle": "シュタルクフォート",
+      "pageDataIndex": 68,
+      "gameFlag": 7269
+    },
+    {
+      "index": 69,
+      "pTitle": "House by the Sea",
+      "id": 30,
+      "pSubTitle": "海岸の廃屋",
+      "pageDataIndex": 69,
+      "gameFlag": 7270
+    },
+    {
+      "index": 70,
+      "pTitle": "Eternia Region",
+      "id": 31,
+      "pSubTitle": "エタルニア地方",
+      "pageDataIndex": 70,
+      "gameFlag": 7271
+    },
+    {
+      "index": 71,
+      "pTitle": "City of Eternia",
+      "id": 32,
+      "pSubTitle": "エタルニアの街",
+      "pageDataIndex": 71,
+      "gameFlag": 7272
+    },
+    {
+      "index": 72,
+      "pTitle": "Gravemark Village",
+      "id": 33,
+      "pSubTitle": "墓標の村",
+      "pageDataIndex": 72,
+      "gameFlag": 7273
+    },
+    {
+      "index": 73,
+      "pTitle": "Eternian Central Command",
+      "id": 34,
+      "pSubTitle": "総司令本部１",
+      "pageDataIndex": 73,
+      "gameFlag": 7274
+    },
+    {
+      "index": 74,
+      "pTitle": "Eternian Central Command",
+      "id": 34,
+      "pSubTitle": "総司令本部２",
+      "pageDataIndex": 74,
+      "gameFlag": 7275
+    },
+    {
+      "index": 75,
+      "pTitle": "Everlast Tower",
+      "id": 35,
+      "pSubTitle": "不死の塔１",
+      "pageDataIndex": 75,
+      "gameFlag": 7276
+    },
+    {
+      "index": 76,
+      "pTitle": "Everlast Tower",
+      "id": 35,
+      "pSubTitle": "不死の塔２",
+      "pageDataIndex": 76,
+      "gameFlag": 7277
+    },
+    {
+      "index": 77,
+      "pTitle": "Everlast Tower",
+      "id": 35,
+      "pSubTitle": "不死の塔３",
+      "pageDataIndex": 77,
+      "gameFlag": 7278
+    },
+    {
+      "index": 78,
+      "pTitle": "Vampire Castle",
+      "id": 36,
+      "pSubTitle": "吸血鬼城",
+      "pageDataIndex": 78,
+      "gameFlag": 7279
+    },
+    {
+      "index": 79,
+      "pTitle": "Kustra Archipelago",
+      "id": 37,
+      "pSubTitle": "クストラ島",
+      "pageDataIndex": 79,
+      "gameFlag": 7280
+    },
+    {
+      "index": 80,
+      "pTitle": "Dark Aurora",
+      "id": 38,
+      "pSubTitle": "闇のオーロラ",
+      "pageDataIndex": 80,
+      "gameFlag": 7281
+    }
+  ]
+}

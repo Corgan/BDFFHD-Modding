@@ -1,0 +1,67 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 240,
+    "data_one_size": 48,
+    "data_num": 4,
+    "ints_per_record": 12
+  },
+  "records": [
+    {
+      "SCRIPT_ID": 219,
+      "PRI": 37,
+      "TABLEINDEX": 9,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 220,
+      "PRI": 36,
+      "TABLEINDEX": 9,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 221,
+      "PRI": 35,
+      "TABLEINDEX": 9,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    },
+    {
+      "SCRIPT_ID": 222,
+      "PRI": 34,
+      "TABLEINDEX": 9,
+      "ENABLE_DIRECT": 1,
+      "ENABLE_GAMEFLG_ID": 0,
+      "ENABLE_WORLD_NO": 0,
+      "ENABLE_ROCATION_ID": 0,
+      "ENABLE_ROCATION_TYPE": 0,
+      "DISABLE_DIRECT": 0,
+      "DISABLE_GAMEFLG_ID": 0,
+      "DISABLE_ROCATION_ID": 1,
+      "DISABLE_ROCATION_TYPE": 1
+    }
+  ]
+}

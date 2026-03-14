@@ -1,0 +1,35 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 96,
+    "data_one_size": 8,
+    "data_num": 6,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "minutes": 120,
+      "sortKey": 4
+    },
+    {
+      "minutes": 600,
+      "sortKey": 2
+    },
+    {
+      "minutes": 1800,
+      "sortKey": 5
+    },
+    {
+      "minutes": 5940,
+      "sortKey": 8
+    },
+    {
+      "minutes": 4200,
+      "sortKey": 7
+    },
+    {
+      "minutes": 3000,
+      "sortKey": 14
+    }
+  ]
+}

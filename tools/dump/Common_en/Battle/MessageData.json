@@ -1,0 +1,1039 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 10370,
+    "data_one_size": 8,
+    "data_num": 257,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 1,
+      "pMessage": "Allies get first strike!"
+    },
+    {
+      "id": 2,
+      "pMessage": ""
+    },
+    {
+      "id": 3,
+      "pMessage": "Enemy gets first strike!"
+    },
+    {
+      "id": 3,
+      "pMessage": ""
+    },
+    {
+      "id": 100,
+      "pMessage": "Run"
+    },
+    {
+      "id": 101,
+      "pMessage": "You couldn’t get away."
+    },
+    {
+      "id": 102,
+      "pMessage": "The party was wiped out…"
+    },
+    {
+      "id": 103,
+      "pMessage": "%d hits!"
+    },
+    {
+      "id": 111,
+      "pMessage": "They weren’t carrying anything."
+    },
+    {
+      "id": 112,
+      "pMessage": "%s stolen!"
+    },
+    {
+      "id": 113,
+      "pMessage": "You couldn’t steal anything."
+    },
+    {
+      "id": 114,
+      "pMessage": "%s × 2 stolen!"
+    },
+    {
+      "id": 115,
+      "pMessage": "%s obtained."
+    },
+    {
+      "id": 200,
+      "pMessage": "%s gained a level!"
+    },
+    {
+      "id": 201,
+      "pMessage": "%s gained a job level!"
+    },
+    {
+      "id": 202,
+      "pMessage": "You learned %s."
+    },
+    {
+      "id": 203,
+      "pMessage": "You learned the %s support ability."
+    },
+    {
+      "id": 300,
+      "pMessage": "Attack with the equipped weapon."
+    },
+    {
+      "id": 301,
+      "pMessage": "Use the %ls ability."
+    },
+    {
+      "id": 302,
+      "pMessage": "Use the %ls ability."
+    },
+    {
+      "id": 303,
+      "pMessage": "Use an item."
+    },
+    {
+      "id": 304,
+      "pMessage": ""
+    },
+    {
+      "id": 305,
+      "pMessage": ""
+    },
+    {
+      "id": 306,
+      "pMessage": "Try to run away."
+    },
+    {
+      "id": 307,
+      "pMessage": "End command phase."
+    },
+    {
+      "id": 308,
+      "pMessage": ""
+    },
+    {
+      "id": 309,
+      "pMessage": "Spend BP to increase your actions."
+    },
+    {
+      "id": 310,
+      "pMessage": "Go on the defensive and increase your BP."
+    },
+    {
+      "id": 311,
+      "pMessage": "Use an ability."
+    },
+    {
+      "id": 312,
+      "pMessage": "Summon or send to a friend."
+    },
+    {
+      "id": 313,
+      "pMessage": "Stop sending action."
+    },
+    {
+      "id": 314,
+      "pMessage": "Summon a friend."
+    },
+    {
+      "id": 315,
+      "pMessage": "Send an action."
+    },
+    {
+      "id": 316,
+      "pMessage": "Use a special move."
+    },
+    {
+      "id": 317,
+      "pMessage": ""
+    },
+    {
+      "id": 318,
+      "pMessage": "Stop sending action."
+    },
+    {
+      "id": 319,
+      "pMessage": "Start battle."
+    },
+    {
+      "id": 324,
+      "pMessage": "Revise Commands"
+    },
+    {
+      "id": 320,
+      "pMessage": "Select a character to take action."
+    },
+    {
+      "id": 321,
+      "pMessage": "Edit commands for %ls."
+    },
+    {
+      "id": 322,
+      "pMessage": "View details for %ls."
+    },
+    {
+      "id": 323,
+      "pMessage": "View details for %ls."
+    },
+    {
+      "id": 400,
+      "pMessage": "Attack"
+    },
+    {
+      "id": 401,
+      "pMessage": "Brave"
+    },
+    {
+      "id": 402,
+      "pMessage": "Default"
+    },
+    {
+      "id": 403,
+      "pMessage": "Abilities"
+    },
+    {
+      "id": 404,
+      "pMessage": "Skills"
+    },
+    {
+      "id": 405,
+      "pMessage": "Magic"
+    },
+    {
+      "id": 406,
+      "pMessage": "Items"
+    },
+    {
+      "id": 407,
+      "pMessage": "Summon Friend"
+    },
+    {
+      "id": 408,
+      "pMessage": "Summon"
+    },
+    {
+      "id": 409,
+      "pMessage": "Send"
+    },
+    {
+      "id": 410,
+      "pMessage": "Special"
+    },
+    {
+      "id": 411,
+      "pMessage": "Run"
+    },
+    {
+      "id": 412,
+      "pMessage": "End"
+    },
+    {
+      "id": 413,
+      "pMessage": "Job Commands"
+    },
+    {
+      "id": 414,
+      "pMessage": "Physical Attack"
+    },
+    {
+      "id": 415,
+      "pMessage": "Physical Defense"
+    },
+    {
+      "id": 416,
+      "pMessage": "Magic Attack"
+    },
+    {
+      "id": 417,
+      "pMessage": "Magic Defense"
+    },
+    {
+      "id": 500,
+      "pMessage": "Display Details"
+    },
+    {
+      "id": 501,
+      "pMessage": "Toggle Auto"
+    },
+    {
+      "id": 502,
+      "pMessage": "Ally Information"
+    },
+    {
+      "id": 503,
+      "pMessage": "Enemy Information"
+    },
+    {
+      "id": 504,
+      "pMessage": "Brave"
+    },
+    {
+      "id": 505,
+      "pMessage": "Default"
+    },
+    {
+      "id": 506,
+      "pMessage": "Change Playback Speed"
+    },
+    {
+      "id": 507,
+      "pMessage": "Activate/Deactivate Bravely Second"
+    },
+    {
+      "id": 600,
+      "pMessage": "Phy ATK"
+    },
+    {
+      "id": 601,
+      "pMessage": "Phy DEF"
+    },
+    {
+      "id": 602,
+      "pMessage": "Mag ATK"
+    },
+    {
+      "id": 603,
+      "pMessage": "Mag DEF"
+    },
+    {
+      "id": 604,
+      "pMessage": "AIM"
+    },
+    {
+      "id": 605,
+      "pMessage": "EVD"
+    },
+    {
+      "id": 606,
+      "pMessage": "HP"
+    },
+    {
+      "id": 607,
+      "pMessage": "MP"
+    },
+    {
+      "id": 608,
+      "pMessage": "STR"
+    },
+    {
+      "id": 609,
+      "pMessage": "VIT"
+    },
+    {
+      "id": 610,
+      "pMessage": "INT"
+    },
+    {
+      "id": 611,
+      "pMessage": "MND"
+    },
+    {
+      "id": 612,
+      "pMessage": "DEX"
+    },
+    {
+      "id": 613,
+      "pMessage": "AGI"
+    },
+    {
+      "id": 614,
+      "pMessage": "HP: "
+    },
+    {
+      "id": 615,
+      "pMessage": "FAM: "
+    },
+    {
+      "id": 616,
+      "pMessage": "WEAK: "
+    },
+    {
+      "id": 617,
+      "pMessage": "Human"
+    },
+    {
+      "id": 618,
+      "pMessage": "Beast"
+    },
+    {
+      "id": 619,
+      "pMessage": "Aerial"
+    },
+    {
+      "id": 620,
+      "pMessage": "Aquatic"
+    },
+    {
+      "id": 621,
+      "pMessage": "Bug"
+    },
+    {
+      "id": 622,
+      "pMessage": "Plant"
+    },
+    {
+      "id": 623,
+      "pMessage": "Undead"
+    },
+    {
+      "id": 624,
+      "pMessage": "Demonkind"
+    },
+    {
+      "id": 625,
+      "pMessage": "Dragon"
+    },
+    {
+      "id": 626,
+      "pMessage": "Inorganic"
+    },
+    {
+      "id": 627,
+      "pMessage": "<sprite=\"w_icn_weak\" index=5>"
+    },
+    {
+      "id": 628,
+      "pMessage": "<sprite=\"w_icn_weak\" index=6>"
+    },
+    {
+      "id": 629,
+      "pMessage": "<sprite=\"w_icn_weak\" index=4>"
+    },
+    {
+      "id": 630,
+      "pMessage": "<sprite=\"w_icn_weak\" index=3>"
+    },
+    {
+      "id": 631,
+      "pMessage": "<sprite=\"w_icn_weak\" index=2>"
+    },
+    {
+      "id": 632,
+      "pMessage": "<sprite=\"w_icn_weak\" index=1>"
+    },
+    {
+      "id": 633,
+      "pMessage": "<sprite=\"w_icn_weak\" index=0>"
+    },
+    {
+      "id": 700,
+      "pMessage": "Select a sword."
+    },
+    {
+      "id": 701,
+      "pMessage": "Select an axe."
+    },
+    {
+      "id": 702,
+      "pMessage": "Select a spear."
+    },
+    {
+      "id": 703,
+      "pMessage": "Select a rod."
+    },
+    {
+      "id": 704,
+      "pMessage": "Select a staff."
+    },
+    {
+      "id": 705,
+      "pMessage": "Select a dagger."
+    },
+    {
+      "id": 706,
+      "pMessage": "Select a bow."
+    },
+    {
+      "id": 707,
+      "pMessage": "Select a katana."
+    },
+    {
+      "id": 708,
+      "pMessage": "Select knuckles."
+    },
+    {
+      "id": 709,
+      "pMessage": "Select a shield."
+    },
+    {
+      "id": 710,
+      "pMessage": "Unarmed"
+    },
+    {
+      "id": 711,
+      "pMessage": "No weapon equipped."
+    },
+    {
+      "id": 800,
+      "pMessage": "Your affinity with %ls increased!"
+    },
+    {
+      "id": 801,
+      "pMessage": "Stop Send"
+    },
+    {
+      "id": 802,
+      "pMessage": "The party was wiped out."
+    },
+    {
+      "id": 803,
+      "pMessage": "Protect Ally"
+    },
+    {
+      "id": 804,
+      "pMessage": "White Knight"
+    },
+    {
+      "id": 805,
+      "pMessage": "Time Slip"
+    },
+    {
+      "id": 806,
+      "pMessage": "Allies get +1 BP!"
+    },
+    {
+      "id": 807,
+      "pMessage": "Enemy gets +1 BP!"
+    },
+    {
+      "id": 10001,
+      "pMessage": "%s"
+    },
+    {
+      "id": 10002,
+      "pMessage": "Not enough HP!"
+    },
+    {
+      "id": 10003,
+      "pMessage": "Not enough MP!"
+    },
+    {
+      "id": 10004,
+      "pMessage": "Not enough BP!"
+    },
+    {
+      "id": 10005,
+      "pMessage": "Not enough pg!"
+    },
+    {
+      "id": 10006,
+      "pMessage": "Use prevented by silence!"
+    },
+    {
+      "id": 10007,
+      "pMessage": "Not enough SP!"
+    },
+    {
+      "id": 10008,
+      "pMessage": "You don’t have that item!"
+    },
+    {
+      "id": 20001,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20002,
+      "pMessage": "Defense up!"
+    },
+    {
+      "id": 20003,
+      "pMessage": "You got away!"
+    },
+    {
+      "id": 20004,
+      "pMessage": "Mimic failed."
+    },
+    {
+      "id": 20005,
+      "pMessage": "Physical defense up!"
+    },
+    {
+      "id": 20006,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20007,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20008,
+      "pMessage": "Magic attack up!"
+    },
+    {
+      "id": 20009,
+      "pMessage": "BP up!"
+    },
+    {
+      "id": 20010,
+      "pMessage": "Hi-Potion stolen!"
+    },
+    {
+      "id": 20011,
+      "pMessage": "They didn’t buy it."
+    },
+    {
+      "id": 20012,
+      "pMessage": "Damage and cost 50%!"
+    },
+    {
+      "id": 20013,
+      "pMessage": "You bought them off!"
+    },
+    {
+      "id": 20014,
+      "pMessage": "You couldn’t buy them off."
+    },
+    {
+      "id": 20015,
+      "pMessage": "You couldn’t get away!"
+    },
+    {
+      "id": 20016,
+      "pMessage": "You couldn’t get away!"
+    },
+    {
+      "id": 20017,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20018,
+      "pMessage": "Physical defense up!"
+    },
+    {
+      "id": 20019,
+      "pMessage": "You were imprisoned in the Infernal Realm!"
+    },
+    {
+      "id": 20020,
+      "pMessage": "Physical defense up!"
+    },
+    {
+      "id": 20021,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20022,
+      "pMessage": "You got away!"
+    },
+    {
+      "id": 20023,
+      "pMessage": "You couldn’t get away!"
+    },
+    {
+      "id": 20024,
+      "pMessage": "Physical attack up!"
+    },
+    {
+      "id": 20025,
+      "pMessage": "Run"
+    },
+    {
+      "id": 20026,
+      "pMessage": "Absorbed HP/BP/status effects!"
+    },
+    {
+      "id": 20027,
+      "pMessage": "Fell head over heels in love!"
+    },
+    {
+      "id": 20028,
+      "pMessage": "Major damage to besotted targets!"
+    },
+    {
+      "id": 20029,
+      "pMessage": "Two compete for the object of their love!"
+    },
+    {
+      "id": 20030,
+      "pMessage": "Evasion up!"
+    },
+    {
+      "id": 20031,
+      "pMessage": "You are less likely to be targeted!"
+    },
+    {
+      "id": 20032,
+      "pMessage": "Eternian forces are bombarding us!"
+    },
+    {
+      "id": 20033,
+      "pMessage": "Physical attack up and physical defense down!"
+    },
+    {
+      "id": 20034,
+      "pMessage": "Magic defense down!"
+    },
+    {
+      "id": 20035,
+      "pMessage": "Physical defense down!"
+    },
+    {
+      "id": 20036,
+      "pMessage": "Rise from the Dead"
+    },
+    {
+      "id": 20037,
+      "pMessage": "Genome absorbed!"
+    },
+    {
+      "id": 20038,
+      "pMessage": "Slaughter"
+    },
+    {
+      "id": 43000,
+      "pMessage": ""
+    },
+    {
+      "id": 43001,
+      "pMessage": ""
+    },
+    {
+      "id": 43002,
+      "pMessage": ""
+    },
+    {
+      "id": 43003,
+      "pMessage": ""
+    },
+    {
+      "id": 43004,
+      "pMessage": ""
+    },
+    {
+      "id": 43005,
+      "pMessage": ""
+    },
+    {
+      "id": 43006,
+      "pMessage": ""
+    },
+    {
+      "id": 30000,
+      "pMessage": "Special"
+    },
+    {
+      "id": 30001,
+      "pMessage": "Profile"
+    },
+    {
+      "id": 30002,
+      "pMessage": "Summon Info"
+    },
+    {
+      "id": 30003,
+      "pMessage": "Affinity"
+    },
+    {
+      "id": 30004,
+      "pMessage": "Updated"
+    },
+    {
+      "id": 30005,
+      "pMessage": "’s"
+    },
+    {
+      "id": 30006,
+      "pMessage": "Foe List"
+    },
+    {
+      "id": 30007,
+      "pMessage": "All Foes"
+    },
+    {
+      "id": 30008,
+      "pMessage": "Ally List"
+    },
+    {
+      "id": 30009,
+      "pMessage": "All Allies"
+    },
+    {
+      "id": 30010,
+      "pMessage": "Raise Amt"
+    },
+    {
+      "id": 30011,
+      "pMessage": "Lower Amt"
+    },
+    {
+      "id": 30012,
+      "pMessage": "OK"
+    },
+    {
+      "id": 30013,
+      "pMessage": "Cancel"
+    },
+    {
+      "id": 30014,
+      "pMessage": "AUTO"
+    },
+    {
+      "id": 30015,
+      "pMessage": "Weak"
+    },
+    {
+      "id": 30016,
+      "pMessage": "Use"
+    },
+    {
+      "id": 30017,
+      "pMessage": "Equip"
+    },
+    {
+      "id": 30018,
+      "pMessage": "Remove"
+    },
+    {
+      "id": 30019,
+      "pMessage": "Controls Help"
+    },
+    {
+      "id": 30020,
+      "pMessage": "Revise Commands"
+    },
+    {
+      "id": 30021,
+      "pMessage": "GO!"
+    },
+    {
+      "id": 30022,
+      "pMessage": "AGI"
+    },
+    {
+      "id": 30023,
+      "pMessage": "HELP"
+    },
+    {
+      "id": 30024,
+      "pMessage": "Guide"
+    },
+    {
+      "id": 30025,
+      "pMessage": "Controls"
+    },
+    {
+      "id": 30026,
+      "pMessage": ""
+    },
+    {
+      "id": 30027,
+      "pMessage": ""
+    },
+    {
+      "id": 30028,
+      "pMessage": ""
+    },
+    {
+      "id": 30029,
+      "pMessage": "Commands"
+    },
+    {
+      "id": 30030,
+      "pMessage": "Brave"
+    },
+    {
+      "id": 30031,
+      "pMessage": "Tactics"
+    },
+    {
+      "id": 30032,
+      "pMessage": "Tactics Menu"
+    },
+    {
+      "id": 30033,
+      "pMessage": "Select Copy Destination"
+    },
+    {
+      "id": 30034,
+      "pMessage": "Repeat"
+    },
+    {
+      "id": 30035,
+      "pMessage": "Tactic "
+    },
+    {
+      "id": 30036,
+      "pMessage": "Off"
+    },
+    {
+      "id": 30037,
+      "pMessage": "Use"
+    },
+    {
+      "id": 30038,
+      "pMessage": "Copy"
+    },
+    {
+      "id": 30039,
+      "pMessage": "Set to Commands"
+    },
+    {
+      "id": 30040,
+      "pMessage": "Save Commands"
+    },
+    {
+      "id": 30041,
+      "pMessage": "Change Name"
+    },
+    {
+      "id": 30042,
+      "pMessage": "Save commands?"
+    },
+    {
+      "id": 30043,
+      "pMessage": "Yes"
+    },
+    {
+      "id": 30044,
+      "pMessage": "No"
+    },
+    {
+      "id": 30045,
+      "pMessage": "Certain actions cannot be repeated.\n“Attack” will automatically be selected."
+    },
+    {
+      "id": 30046,
+      "pMessage": "Set the details of the last command selected."
+    },
+    {
+      "id": 30047,
+      "pMessage": "Set the details of this command."
+    },
+    {
+      "id": 30048,
+      "pMessage": "Repeat the battle with these commands."
+    },
+    {
+      "id": 30049,
+      "pMessage": "Copy these commands to another tactic."
+    },
+    {
+      "id": 30050,
+      "pMessage": "Reflect this command in command input."
+    },
+    {
+      "id": 30051,
+      "pMessage": "Can only be saved to tactics when cursor is on the GO! button."
+    },
+    {
+      "id": 30052,
+      "pMessage": "Change tactic name."
+    },
+    {
+      "id": 30053,
+      "pMessage": "Auto has been stopped as certain actions cannot be repeated."
+    },
+    {
+      "id": 30054,
+      "pMessage": "Mastered<i>!"
+    },
+    {
+      "id": 30055,
+      "pMessage": "EXP"
+    },
+    {
+      "id": 30056,
+      "pMessage": "JP"
+    },
+    {
+      "id": 30057,
+      "pMessage": "+10%"
+    },
+    {
+      "id": 30058,
+      "pMessage": "+20%"
+    },
+    {
+      "id": 30059,
+      "pMessage": "+50%"
+    },
+    {
+      "id": 30060,
+      "pMessage": "Show Guide"
+    },
+    {
+      "id": 30061,
+      "pMessage": "Auto Menu"
+    },
+    {
+      "id": 30062,
+      "pMessage": "Ally Information (press <sprite name=\"button_A\"> for details)"
+    },
+    {
+      "id": 30063,
+      "pMessage": "Enemy Information (press <sprite name=\"button_A\"> for details)"
+    },
+    {
+      "id": 30064,
+      "pMessage": "Brave"
+    },
+    {
+      "id": 30065,
+      "pMessage": "Default"
+    },
+    {
+      "id": 30066,
+      "pMessage": "Increase Playback Speed"
+    },
+    {
+      "id": 30067,
+      "pMessage": "Decrease Playback Speed/Stop"
+    },
+    {
+      "id": 30068,
+      "pMessage": "Equipment"
+    },
+    {
+      "id": 30069,
+      "pMessage": "% up"
+    },
+    {
+      "id": 30070,
+      "pMessage": "Set the details of the last command selected."
+    },
+    {
+      "id": 30071,
+      "pMessage": "Set the details of this command."
+    },
+    {
+      "id": 30072,
+      "pMessage": "Repeat the battle with these commands."
+    },
+    {
+      "id": 30073,
+      "pMessage": "Copy these commands to another tactic."
+    },
+    {
+      "id": 30074,
+      "pMessage": "Reflect this command in command input."
+    },
+    {
+      "id": 30075,
+      "pMessage": "Can only be saved to tactics when cursor is on the GO! button."
+    },
+    {
+      "id": 30076,
+      "pMessage": "Change tactic name."
+    },
+    {
+      "id": 30077,
+      "pMessage": "Copied."
+    },
+    {
+      "id": 30078,
+      "pMessage": "None"
+    },
+    {
+      "id": 30079,
+      "pMessage": "Disable autobattle."
+    },
+    {
+      "id": 30080,
+      "pMessage": "Go to GO!"
+    },
+    {
+      "id": 30081,
+      "pMessage": "Save set commands."
+    }
+  ]
+}

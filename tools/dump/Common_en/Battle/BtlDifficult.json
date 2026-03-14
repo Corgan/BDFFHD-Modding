@@ -1,0 +1,41 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 152,
+    "data_one_size": 52,
+    "data_num": 2,
+    "ints_per_record": 13
+  },
+  "records": [
+    {
+      "ATK": 75,
+      "MATK": 75,
+      "DEF": 75,
+      "MDEF": 75,
+      "ACC": 75,
+      "DOD": 75,
+      "CR": 75,
+      "SPD": 75,
+      "RENKI": 75,
+      "TEPPEKI": 100,
+      "SUCCESS": 100,
+      "HIT": 75,
+      "RECOVER": 75
+    },
+    {
+      "ATK": 135,
+      "MATK": 125,
+      "DEF": 100,
+      "MDEF": 125,
+      "ACC": 100,
+      "DOD": 100,
+      "CR": 125,
+      "SPD": 125,
+      "RENKI": 125,
+      "TEPPEKI": 100,
+      "SUCCESS": 100,
+      "HIT": 100,
+      "RECOVER": 125
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 3450,
+    "data_one_size": 8,
+    "data_num": 93,
+    "ints_per_record": 2
+  },
+  "records": [
+    {
+      "id": 0,
+      "pMessage": "Mysterious text that seems to detail future events."
+    },
+    {
+      "id": 1,
+      "pMessage": "Information you have obtained during your travels."
+    },
+    {
+      "id": 2,
+      "pMessage": "Check your progress and view explanations."
+    },
+    {
+      "id": 3,
+      "pMessage": "View tutorials you have already seen once."
+    },
+    {
+      "id": 4,
+      "pMessage": "View job characteristics and equipment aptitude."
+    },
+    {
+      "id": 5,
+      "pMessage": "The journal of the dark knight Alternis Dim."
+    },
+    {
+      "id": 6,
+      "pMessage": "View events that have occurred in the past."
+    },
+    {
+      "id": 7,
+      "pMessage": "Turn pages using the Touch Screen (or the L/R Buttons)."
+    },
+    {
+      "id": 8,
+      "pMessage": "Enigmatic Writings"
+    },
+    {
+      "id": 9,
+      "pMessage": "Help"
+    },
+    {
+      "id": 10,
+      "pMessage": "Job Descriptions"
+    },
+    {
+      "id": 11,
+      "pMessage": "Alternis’s Journal"
+    },
+    {
+      "id": 12,
+      "pMessage": "Event Viewer"
+    },
+    {
+      "id": 13,
+      "pMessage": "People"
+    },
+    {
+      "id": 14,
+      "pMessage": "Locations"
+    },
+    {
+      "id": 15,
+      "pMessage": "Notes"
+    },
+    {
+      "id": 16,
+      "pMessage": "Terms"
+    },
+    {
+      "id": 17,
+      "pMessage": "Items"
+    },
+    {
+      "id": 18,
+      "pMessage": "Bestiary"
+    },
+    {
+      "id": 19,
+      "pMessage": "Cmbt. Bonuses"
+    },
+    {
+      "id": 20,
+      "pMessage": "Abilities"
+    },
+    {
+      "id": 21,
+      "pMessage": "Consumables"
+    },
+    {
+      "id": 22,
+      "pMessage": "Weapons"
+    },
+    {
+      "id": 23,
+      "pMessage": "Shields"
+    },
+    {
+      "id": 24,
+      "pMessage": "Head Armor"
+    },
+    {
+      "id": 25,
+      "pMessage": "Torso Armor"
+    },
+    {
+      "id": 26,
+      "pMessage": "Accessories"
+    },
+    {
+      "id": 27,
+      "pMessage": "Swords"
+    },
+    {
+      "id": 28,
+      "pMessage": "Axes"
+    },
+    {
+      "id": 29,
+      "pMessage": "Spears"
+    },
+    {
+      "id": 30,
+      "pMessage": "Rods"
+    },
+    {
+      "id": 31,
+      "pMessage": "Staves"
+    },
+    {
+      "id": 32,
+      "pMessage": "Daggers"
+    },
+    {
+      "id": 33,
+      "pMessage": "Bows"
+    },
+    {
+      "id": 34,
+      "pMessage": "Katanas"
+    },
+    {
+      "id": 35,
+      "pMessage": "Knuckles"
+    },
+    {
+      "id": 36,
+      "pMessage": "Humanoids"
+    },
+    {
+      "id": 37,
+      "pMessage": "Beasts"
+    },
+    {
+      "id": 38,
+      "pMessage": "Aerial"
+    },
+    {
+      "id": 39,
+      "pMessage": "Aquatic"
+    },
+    {
+      "id": 40,
+      "pMessage": "Bugs"
+    },
+    {
+      "id": 41,
+      "pMessage": "Plants"
+    },
+    {
+      "id": 42,
+      "pMessage": "Undead"
+    },
+    {
+      "id": 43,
+      "pMessage": "Demonkind"
+    },
+    {
+      "id": 44,
+      "pMessage": "Dragonkind"
+    },
+    {
+      "id": 45,
+      "pMessage": "Inorganic"
+    },
+    {
+      "id": 46,
+      "pMessage": "Bosses"
+    },
+    {
+      "id": 47,
+      "pMessage": "1-turn Victor"
+    },
+    {
+      "id": 48,
+      "pMessage": "1-turn Ace"
+    },
+    {
+      "id": 49,
+      "pMessage": "1-turn Hero"
+    },
+    {
+      "id": 50,
+      "pMessage": "Unscathed"
+    },
+    {
+      "id": 51,
+      "pMessage": "Unscathed Ace"
+    },
+    {
+      "id": 52,
+      "pMessage": "Unscathed Hero"
+    },
+    {
+      "id": 53,
+      "pMessage": "Sweeper"
+    },
+    {
+      "id": 54,
+      "pMessage": "Sweeper Ace"
+    },
+    {
+      "id": 55,
+      "pMessage": "Sweeper Hero"
+    },
+    {
+      "id": 56,
+      "pMessage": "?????"
+    },
+    {
+      "id": 57,
+      "pMessage": "????????"
+    },
+    {
+      "id": 58,
+      "pMessage": "/"
+    },
+    {
+      "id": 59,
+      "pMessage": "%d Times"
+    },
+    {
+      "id": 60,
+      "pMessage": "%d%"
+    },
+    {
+      "id": 61,
+      "pMessage": "Outfits"
+    },
+    {
+      "id": 62,
+      "pMessage": "Genome Abilities"
+    },
+    {
+      "id": 63,
+      "pMessage": "Compounding"
+    },
+    {
+      "id": 64,
+      "pMessage": "...................................."
+    },
+    {
+      "id": 65,
+      "pMessage": "%ls + %ls"
+    },
+    {
+      "id": 66,
+      "pMessage": "Notes"
+    },
+    {
+      "id": 67,
+      "pMessage": "Encyclopedia"
+    },
+    {
+      "id": 68,
+      "pMessage": "Items"
+    },
+    {
+      "id": 69,
+      "pMessage": "Bestiary"
+    },
+    {
+      "id": 70,
+      "pMessage": "Abilities"
+    },
+    {
+      "id": 71,
+      "pMessage": "Element"
+    },
+    {
+      "id": 72,
+      "pMessage": "Stats"
+    },
+    {
+      "id": 73,
+      "pMessage": "Immunities"
+    },
+    {
+      "id": 74,
+      "pMessage": "Resistances"
+    },
+    {
+      "id": 75,
+      "pMessage": "Specialty"
+    },
+    {
+      "id": 76,
+      "pMessage": "Job Command"
+    },
+    {
+      "id": 77,
+      "pMessage": "Stat Affinities"
+    },
+    {
+      "id": 78,
+      "pMessage": "Arms Aptitude"
+    },
+    {
+      "id": 79,
+      "pMessage": "Armor Aptitude"
+    },
+    {
+      "id": 80,
+      "pMessage": "times"
+    },
+    {
+      "id": 81,
+      "pMessage": "Conditions"
+    },
+    {
+      "id": 82,
+      "pMessage": "Bonus"
+    },
+    {
+      "id": 83,
+      "pMessage": "Check D’s Journal."
+    },
+    {
+      "id": 84,
+      "pMessage": "Battle Bonuses"
+    },
+    {
+      "id": 85,
+      "pMessage": "Jobs"
+    },
+    {
+      "id": 86,
+      "pMessage": "Travel Notes"
+    },
+    {
+      "id": 87,
+      "pMessage": "In the Shadows of the Uprising"
+    },
+    {
+      "id": 88,
+      "pMessage": "The Life and Times of the Grand Marshal’s Daughter"
+    },
+    {
+      "id": 89,
+      "pMessage": "Check newly found notes."
+    },
+    {
+      "id": 90,
+      "pMessage": "New Notes"
+    },
+    {
+      "id": 91,
+      "pMessage": "Turn page"
+    },
+    {
+      "id": 92,
+      "pMessage": "Resume viewing all"
+    }
+  ]
+}

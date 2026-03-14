@@ -1,0 +1,1390 @@
+{
+  "header": {
+    "magic": "BTBF",
+    "file_size": 8036,
+    "data_one_size": 20,
+    "data_num": 197,
+    "ints_per_record": 5
+  },
+  "records": [
+    {
+      "ECID": 52500,
+      "NAME": "Goblin",
+      "INDEX": 0,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52600,
+      "NAME": "Goblin Slasher",
+      "INDEX": 1,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52700,
+      "NAME": "Goblin Archer",
+      "INDEX": 2,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52510,
+      "NAME": "Kobold",
+      "INDEX": 3,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52610,
+      "NAME": "Kobold Slasher",
+      "INDEX": 4,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52710,
+      "NAME": "Kobold Archer",
+      "INDEX": 5,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50100,
+      "NAME": "Orc",
+      "INDEX": 6,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50110,
+      "NAME": "Orc Leader",
+      "INDEX": 7,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50120,
+      "NAME": "Orc Zombie",
+      "INDEX": 8,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50130,
+      "NAME": "Orc Lord",
+      "INDEX": 9,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90000,
+      "NAME": "Sky Dueler",
+      "INDEX": 10,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90100,
+      "NAME": "Sky Pikeman",
+      "INDEX": 11,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90200,
+      "NAME": "Sky Archer",
+      "INDEX": 12,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90300,
+      "NAME": "Merchantry Blade",
+      "INDEX": 13,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90400,
+      "NAME": "Merchantry Thug",
+      "INDEX": 14,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90500,
+      "NAME": "Merchantry Mage",
+      "INDEX": 15,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90600,
+      "NAME": "Legion Impaler",
+      "INDEX": 16,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90700,
+      "NAME": "Legion Archer",
+      "INDEX": 17,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90800,
+      "NAME": "Legion Mage",
+      "INDEX": 18,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 90900,
+      "NAME": "Black Blade",
+      "INDEX": 19,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91000,
+      "NAME": "Black Pikeman",
+      "INDEX": 20,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91100,
+      "NAME": "Black Axefighter",
+      "INDEX": 21,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91200,
+      "NAME": "Duchy Guardsman",
+      "INDEX": 22,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91300,
+      "NAME": "Duchy Pike Guard",
+      "INDEX": 23,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91400,
+      "NAME": "Duchy Mage Guard",
+      "INDEX": 24,
+      "CATEGORY": 0,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52000,
+      "NAME": "Wolf",
+      "INDEX": 25,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52020,
+      "NAME": "Zombie Wolf",
+      "INDEX": 26,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52010,
+      "NAME": "Silver Wolf",
+      "INDEX": 27,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52030,
+      "NAME": "Hellhound",
+      "INDEX": 28,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52040,
+      "NAME": "Cerberus",
+      "INDEX": 29,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51200,
+      "NAME": "Panther",
+      "INDEX": 30,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51210,
+      "NAME": "Catamount",
+      "INDEX": 31,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51220,
+      "NAME": "Valtora",
+      "INDEX": 32,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51230,
+      "NAME": "Zwart",
+      "INDEX": 33,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50300,
+      "NAME": "Ratatoskr",
+      "INDEX": 34,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50310,
+      "NAME": "Carbuncle",
+      "INDEX": 35,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50320,
+      "NAME": "Frosti",
+      "INDEX": 36,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51300,
+      "NAME": "Cait Sith",
+      "INDEX": 37,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51310,
+      "NAME": "Greater Cait",
+      "INDEX": 38,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51330,
+      "NAME": "White Cait",
+      "INDEX": 39,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51320,
+      "NAME": "Black Cait",
+      "INDEX": 40,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51600,
+      "NAME": "Grizzly",
+      "INDEX": 41,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51610,
+      "NAME": "Hybrid",
+      "INDEX": 42,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51620,
+      "NAME": "Red Helm",
+      "INDEX": 43,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51800,
+      "NAME": "Minotaur",
+      "INDEX": 44,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51820,
+      "NAME": "Minotaur Zombie",
+      "INDEX": 45,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51830,
+      "NAME": "Daedalus",
+      "INDEX": 46,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51810,
+      "NAME": "Amber Horn",
+      "INDEX": 47,
+      "CATEGORY": 1,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51900,
+      "NAME": "Great Bat",
+      "INDEX": 48,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51910,
+      "NAME": "Blood Bat",
+      "INDEX": 49,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51920,
+      "NAME": "Magnus Bat",
+      "INDEX": 50,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51000,
+      "NAME": "Vulture",
+      "INDEX": 51,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51010,
+      "NAME": "Helldiver",
+      "INDEX": 52,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51020,
+      "NAME": "Rukh",
+      "INDEX": 53,
+      "CATEGORY": 2,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50400,
+      "NAME": "Deathfish",
+      "INDEX": 54,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50410,
+      "NAME": "Remora",
+      "INDEX": 55,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50420,
+      "NAME": "Marine Devil",
+      "INDEX": 56,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53100,
+      "NAME": "Venomous Snake",
+      "INDEX": 57,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53120,
+      "NAME": "Sea Serpent",
+      "INDEX": 58,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53130,
+      "NAME": "Hell Viper",
+      "INDEX": 59,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53110,
+      "NAME": "Kaiser Cobra",
+      "INDEX": 60,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53600,
+      "NAME": "Chomper",
+      "INDEX": 61,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53610,
+      "NAME": "Gobbler",
+      "INDEX": 62,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53620,
+      "NAME": "Guzzler",
+      "INDEX": 63,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50500,
+      "NAME": "Monoceros",
+      "INDEX": 64,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50510,
+      "NAME": "Monodon",
+      "INDEX": 65,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50520,
+      "NAME": "Candiru",
+      "INDEX": 66,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52900,
+      "NAME": "Mad Shark",
+      "INDEX": 67,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52920,
+      "NAME": "Zombie Shark",
+      "INDEX": 69,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52910,
+      "NAME": "Megalodon",
+      "INDEX": 68,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91600,
+      "NAME": "Land Turtle",
+      "INDEX": 70,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91610,
+      "NAME": "Mythril Shell",
+      "INDEX": 71,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91620,
+      "NAME": "Adamantite Shell",
+      "INDEX": 72,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60000,
+      "NAME": "Behemoth",
+      "INDEX": 73,
+      "CATEGORY": 3,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52810,
+      "NAME": "Sand Worm",
+      "INDEX": 74,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52800,
+      "NAME": "Soil Eater",
+      "INDEX": 75,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52820,
+      "NAME": "Gastric Worm",
+      "INDEX": 76,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52830,
+      "NAME": "Megascolides",
+      "INDEX": 77,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50800,
+      "NAME": "Great Moth",
+      "INDEX": 78,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50810,
+      "NAME": "Poison Moth",
+      "INDEX": 79,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50820,
+      "NAME": "Flame Moth",
+      "INDEX": 80,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53300,
+      "NAME": "Scorpion",
+      "INDEX": 81,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53400,
+      "NAME": "Killer Scorpion",
+      "INDEX": 82,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53310,
+      "NAME": "Deathstalker",
+      "INDEX": 83,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53410,
+      "NAME": "Giraffabularis",
+      "INDEX": 84,
+      "CATEGORY": 4,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51400,
+      "NAME": "Alraune",
+      "INDEX": 85,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51420,
+      "NAME": "Mandragora",
+      "INDEX": 86,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51410,
+      "NAME": "Rafflesia",
+      "INDEX": 87,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51500,
+      "NAME": "Myconid",
+      "INDEX": 88,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51510,
+      "NAME": "Fungus",
+      "INDEX": 89,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51520,
+      "NAME": "Ghost Fungus",
+      "INDEX": 90,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53700,
+      "NAME": "Treant",
+      "INDEX": 91,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53710,
+      "NAME": "Dryad",
+      "INDEX": 92,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53720,
+      "NAME": "Hamadryad",
+      "INDEX": 93,
+      "CATEGORY": 5,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52400,
+      "NAME": "Zombie",
+      "INDEX": 94,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52430,
+      "NAME": "Death Pirate",
+      "INDEX": 95,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52420,
+      "NAME": "Zombie Knight",
+      "INDEX": 96,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52410,
+      "NAME": "Samurai Zombie",
+      "INDEX": 97,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50600,
+      "NAME": "Wraith",
+      "INDEX": 98,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50610,
+      "NAME": "Ghost",
+      "INDEX": 99,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50620,
+      "NAME": "Specter",
+      "INDEX": 100,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52100,
+      "NAME": "Bone Knight",
+      "INDEX": 101,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52200,
+      "NAME": "Bone Lancer",
+      "INDEX": 102,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52300,
+      "NAME": "Bone Hunter",
+      "INDEX": 103,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52110,
+      "NAME": "Skull Knight",
+      "INDEX": 104,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52210,
+      "NAME": "Skull Lancer",
+      "INDEX": 105,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 52310,
+      "NAME": "Skull Hunter",
+      "INDEX": 106,
+      "CATEGORY": 6,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50200,
+      "NAME": "Imp",
+      "INDEX": 107,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50210,
+      "NAME": "Teufel",
+      "INDEX": 108,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50220,
+      "NAME": "Nightmare",
+      "INDEX": 109,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53800,
+      "NAME": "Succubus",
+      "INDEX": 110,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53810,
+      "NAME": "Lilith",
+      "INDEX": 111,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53820,
+      "NAME": "Melusine",
+      "INDEX": 112,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53000,
+      "NAME": "Magician",
+      "INDEX": 113,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53010,
+      "NAME": "Zauberer",
+      "INDEX": 114,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53020,
+      "NAME": "Mephisto",
+      "INDEX": 115,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53200,
+      "NAME": "Demon",
+      "INDEX": 116,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53210,
+      "NAME": "Archdemon",
+      "INDEX": 117,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53220,
+      "NAME": "Diabolos",
+      "INDEX": 118,
+      "CATEGORY": 7,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51700,
+      "NAME": "D'gon",
+      "INDEX": 119,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51710,
+      "NAME": "Fire D'gon",
+      "INDEX": 120,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51720,
+      "NAME": "Ice D'gon",
+      "INDEX": 121,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53900,
+      "NAME": "Mailed Dragon",
+      "INDEX": 122,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53910,
+      "NAME": "Shield Dragon",
+      "INDEX": 123,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53920,
+      "NAME": "Knight Dragon",
+      "INDEX": 124,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91700,
+      "NAME": "Dragon",
+      "INDEX": 125,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91770,
+      "NAME": "Dragon Zombie",
+      "INDEX": 126,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91710,
+      "NAME": "Salamander",
+      "INDEX": 127,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91720,
+      "NAME": "Mizuchi",
+      "INDEX": 128,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91730,
+      "NAME": "Wyvern",
+      "INDEX": 129,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91740,
+      "NAME": "Ladon",
+      "INDEX": 130,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91750,
+      "NAME": "Shinryu",
+      "INDEX": 131,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91760,
+      "NAME": "Jabberwock",
+      "INDEX": 132,
+      "CATEGORY": 8,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50700,
+      "NAME": "Slime",
+      "INDEX": 133,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50710,
+      "NAME": "Red Flan",
+      "INDEX": 134,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50720,
+      "NAME": "Black Pudding",
+      "INDEX": 135,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53500,
+      "NAME": "Flare Lantern",
+      "INDEX": 136,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53510,
+      "NAME": "Aqua Lantern",
+      "INDEX": 137,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53520,
+      "NAME": "Aero Lantern",
+      "INDEX": 138,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53530,
+      "NAME": "Earth Lantern",
+      "INDEX": 139,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53540,
+      "NAME": "Electro Lantern",
+      "INDEX": 140,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53550,
+      "NAME": "Lux Lantern",
+      "INDEX": 141,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 53560,
+      "NAME": "Dark Lantern",
+      "INDEX": 142,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50900,
+      "NAME": "Gargoyle",
+      "INDEX": 143,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50910,
+      "NAME": "Dark Stomper",
+      "INDEX": 144,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 50920,
+      "NAME": "Evil Idol",
+      "INDEX": 145,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51100,
+      "NAME": "Golem",
+      "INDEX": 146,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51110,
+      "NAME": "Inferno Golem",
+      "INDEX": 147,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 51120,
+      "NAME": "Ice Golem",
+      "INDEX": 148,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91500,
+      "NAME": "Automaton",
+      "INDEX": 149,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91510,
+      "NAME": "Guardian",
+      "INDEX": 150,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 91520,
+      "NAME": "Spriggan",
+      "INDEX": 151,
+      "CATEGORY": 9,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65300,
+      "NAME": "Barras",
+      "INDEX": 152,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65200,
+      "NAME": "Holly",
+      "INDEX": 153,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65100,
+      "NAME": "Ominas",
+      "INDEX": 154,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65000,
+      "NAME": "Heinkel",
+      "INDEX": 155,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 67000,
+      "NAME": "The Jackal",
+      "INDEX": 156,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 67100,
+      "NAME": "Chairman Profiteur",
+      "INDEX": 157,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65700,
+      "NAME": "Khint",
+      "INDEX": 158,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65600,
+      "NAME": "Khamer",
+      "INDEX": 159,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65400,
+      "NAME": "Artemia",
+      "INDEX": 160,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66400,
+      "NAME": "Mephilia",
+      "INDEX": 161,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66600,
+      "NAME": "Einheria",
+      "INDEX": 162,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66900,
+      "NAME": "DeRosa",
+      "INDEX": 163,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66800,
+      "NAME": "Qada",
+      "INDEX": 164,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 67200,
+      "NAME": "Praline",
+      "INDEX": 165,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65900,
+      "NAME": "Barbarossa",
+      "INDEX": 166,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65500,
+      "NAME": "Kikyo",
+      "INDEX": 167,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 65800,
+      "NAME": "Kamiizumi",
+      "INDEX": 168,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66300,
+      "NAME": "Victoria",
+      "INDEX": 169,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66700,
+      "NAME": "Victor",
+      "INDEX": 170,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66100,
+      "NAME": "Braev",
+      "INDEX": 171,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66000,
+      "NAME": "Alternis",
+      "INDEX": 172,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66200,
+      "NAME": "Lord DeRosso",
+      "INDEX": 173,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 66500,
+      "NAME": "Yulyana",
+      "INDEX": 174,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60100,
+      "NAME": "Orthros",
+      "INDEX": 178,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60200,
+      "NAME": "Rusalka",
+      "INDEX": 179,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60300,
+      "NAME": "Chaugmar",
+      "INDEX": 180,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60400,
+      "NAME": "Gigas Lich",
+      "INDEX": 181,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60500,
+      "NAME": "Airy",
+      "INDEX": 175,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60600,
+      "NAME": "Airy",
+      "INDEX": 176,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60700,
+      "NAME": "Airy",
+      "INDEX": 177,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60800,
+      "NAME": "Ouroboros",
+      "INDEX": 182,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 60900,
+      "NAME": "Ouroboros",
+      "INDEX": 183,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61000,
+      "NAME": "Beelzebub",
+      "INDEX": 184,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61100,
+      "NAME": "Lucifer",
+      "INDEX": 185,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61200,
+      "NAME": "Satan",
+      "INDEX": 186,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61300,
+      "NAME": "Asmodeus",
+      "INDEX": 187,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61400,
+      "NAME": "Mammon",
+      "INDEX": 188,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61500,
+      "NAME": "Belphegor",
+      "INDEX": 189,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 61510,
+      "NAME": "Sphere",
+      "INDEX": 195,
+      "CATEGORY": 11,
+      "NOENTRY": 1
+    },
+    {
+      "ECID": 61600,
+      "NAME": "Leviathan",
+      "INDEX": 190,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 62100,
+      "NAME": "Wedding Ceremony",
+      "INDEX": 191,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 62000,
+      "NAME": "Summer Vacation",
+      "INDEX": 192,
+      "CATEGORY": 10,
+      "NOENTRY": 0
+    },
+    {
+      "ECID": 62300,
+      "NAME": "Young Fish",
+      "INDEX": 196,
+      "CATEGORY": 11,
+      "NOENTRY": 1
+    },
+    {
+      "ECID": 91800,
+      "NAME": "Adventurer",
+      "INDEX": 193,
+      "CATEGORY": 11,
+      "NOENTRY": 1
+    },
+    {
+      "ECID": 91900,
+      "NAME": "Comrade",
+      "INDEX": 194,
+      "CATEGORY": 11,
+      "NOENTRY": 1
+    }
+  ]
+}
