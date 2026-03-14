@@ -1,22 +1,55 @@
 {
   "name": "ColonyPlantParameter",
-  "description": "46 int32s, 184 bytes per record",
+  "description": "Colony plant growth parameters. 11 detail levels x (minutes + 3 itemIds) + presentInterval + sortKey = 46 int32s, 184 bytes per record",
   "files": [
     "PlantParameter.btb"
   ],
   "fields": [
-    {
-      "name": "details",
-      "index": 0,
-      "count": 2
-    },
-    {
-      "name": "presentInterval",
-      "index": 2
-    },
-    {
-      "name": "sortKey",
-      "index": 3
-    }
+    { "name": "MINUTES_0", "index": 0 },
+    { "name": "ITEM_A_0", "index": 1 },
+    { "name": "ITEM_B_0", "index": 2 },
+    { "name": "ITEM_C_0", "index": 3 },
+    { "name": "MINUTES_1", "index": 4 },
+    { "name": "ITEM_A_1", "index": 5 },
+    { "name": "ITEM_B_1", "index": 6 },
+    { "name": "ITEM_C_1", "index": 7 },
+    { "name": "MINUTES_2", "index": 8 },
+    { "name": "ITEM_A_2", "index": 9 },
+    { "name": "ITEM_B_2", "index": 10 },
+    { "name": "ITEM_C_2", "index": 11 },
+    { "name": "MINUTES_3", "index": 12 },
+    { "name": "ITEM_A_3", "index": 13 },
+    { "name": "ITEM_B_3", "index": 14 },
+    { "name": "ITEM_C_3", "index": 15 },
+    { "name": "MINUTES_4", "index": 16 },
+    { "name": "ITEM_A_4", "index": 17 },
+    { "name": "ITEM_B_4", "index": 18 },
+    { "name": "ITEM_C_4", "index": 19 },
+    { "name": "MINUTES_5", "index": 20 },
+    { "name": "ITEM_A_5", "index": 21 },
+    { "name": "ITEM_B_5", "index": 22 },
+    { "name": "ITEM_C_5", "index": 23 },
+    { "name": "MINUTES_6", "index": 24 },
+    { "name": "ITEM_A_6", "index": 25 },
+    { "name": "ITEM_B_6", "index": 26 },
+    { "name": "ITEM_C_6", "index": 27 },
+    { "name": "MINUTES_7", "index": 28 },
+    { "name": "ITEM_A_7", "index": 29 },
+    { "name": "ITEM_B_7", "index": 30 },
+    { "name": "ITEM_C_7", "index": 31 },
+    { "name": "MINUTES_8", "index": 32 },
+    { "name": "ITEM_A_8", "index": 33 },
+    { "name": "ITEM_B_8", "index": 34 },
+    { "name": "ITEM_C_8", "index": 35 },
+    { "name": "MINUTES_9", "index": 36 },
+    { "name": "ITEM_A_9", "index": 37 },
+    { "name": "ITEM_B_9", "index": 38 },
+    { "name": "ITEM_C_9", "index": 39 },
+    { "name": "MINUTES_10", "index": 40 },
+    { "name": "ITEM_A_10", "index": 41 },
+    { "name": "ITEM_B_10", "index": 42 },
+    { "name": "ITEM_C_10", "index": 43 },
+    { "name": "PRESENT_INTERVAL", "index": 44 },
+    { "name": "SORT_KEY", "index": 45 }
   ]
 }

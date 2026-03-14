@@ -1,75 +1,44 @@
 {
   "name": "GuestPlayerTable",
-  "description": "35 int32s, 140 bytes per record, 2 string fields",
+  "description": "Guest/StreetPass player table (35 int32s, 140 bytes per record)",
   "files": [
     "GuestPlayerTable.btb"
   ],
   "fields": [
-    {
-      "name": "NO",
-      "index": 0
-    },
-    {
-      "name": "PATTERN",
-      "index": 1
-    },
-    {
-      "name": "MII",
-      "index": 2
-    },
-    {
-      "name": "NAME_USER",
-      "index": 3,
-      "string": "utf16"
-    },
-    {
-      "name": "DECORATION_ID",
-      "index": 4
-    },
-    {
-      "name": "COMMENT",
-      "index": 5,
-      "string": "utf16"
-    },
-    {
-      "name": "PLAYTIME",
-      "index": 6
-    },
-    {
-      "name": "MAXPOWER",
-      "index": 7
-    },
-    {
-      "name": "JOB_COUNT",
-      "index": 8
-    },
-    {
-      "name": "ABILITY_COUNT",
-      "index": 9
-    },
-    {
-      "name": "VILLAGER_COUNT",
-      "index": 10
-    },
-    {
-      "name": "CHARACTER",
-      "index": 12,
-      "count": 2
-    },
-    {
-      "name": "CHARACTER",
-      "index": 14,
-      "count": 2
-    },
-    {
-      "name": "FRIEND_SOMMONER",
-      "index": 16,
-      "count": 10
-    },
-    {
-      "name": "PARAM",
-      "index": 26,
-      "count": 9
-    }
+    { "name": "NO", "index": 0 },
+    { "name": "PATTERN", "index": 1 },
+    { "name": "MII", "index": 2 },
+    { "name": "NAME_USER", "index": 3, "string": "utf16" },
+    { "name": "DECORATION_ID", "index": 4 },
+    { "name": "COMMENT", "index": 5, "string": "utf16" },
+    { "name": "PLAYTIME", "index": 6 },
+    { "name": "MAXPOWER", "index": 7 },
+    { "name": "JOB_COUNT", "index": 8 },
+    { "name": "ABILITY_COUNT", "index": 9 },
+    { "name": "VILLAGER_COUNT", "index": 10 },
+    { "name": "LEVEL_CHR_0", "index": 11 },
+    { "name": "LEVEL_CHR_1", "index": 12 },
+    { "name": "LEVEL_CHR_2", "index": 13 },
+    { "name": "LEVEL_CHR_3", "index": 14 },
+    { "name": "JOB_TABLEID_CHR_0", "index": 15 },
+    { "name": "JOB_TABLEID_CHR_1", "index": 16 },
+    { "name": "JOB_TABLEID_CHR_2", "index": 17 },
+    { "name": "JOB_TABLEID_CHR_3", "index": 18 },
+    { "name": "SOMMONER_CHRID", "index": 19 },
+    { "name": "SOMMONER_JOBID", "index": 20 },
+    { "name": "SOMMONER_CMDTYPE", "index": 21 },
+    { "name": "SOMMONER_CMDID", "index": 22 },
+    { "name": "SOMMONER_POWER", "index": 23 },
+    { "name": "EQUIP_RHAND", "index": 24 },
+    { "name": "EQUIP_LHAND", "index": 25 },
+    { "name": "EQUIP_HEAD", "index": 26 },
+    { "name": "EQUIP_BODY", "index": 27 },
+    { "name": "EQUIP_ACC", "index": 28 },
+    { "name": "PARAM_ATK", "index": 29 },
+    { "name": "PARAM_MATK", "index": 30 },
+    { "name": "PARAM_DEF", "index": 31 },
+    { "name": "PARAM_MDEF", "index": 32 },
+    { "name": "PARAM_HIT", "index": 33 },
+    { "name": "PARAM_DOD", "index": 34 }
   ]
 }

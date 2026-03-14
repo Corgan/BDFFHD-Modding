@@ -6,103 +6,103 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "JOBID",
       "index": 0
     },
     {
-      "name": "PARAM_1",
+      "name": "JOB_SPN",
       "index": 1
     },
     {
-      "name": "PARAM_2",
+      "name": "JOB_KNT",
       "index": 2
     },
     {
-      "name": "PARAM_3",
+      "name": "JOB_BLM",
       "index": 3
     },
     {
-      "name": "PARAM_4",
+      "name": "JOB_WHM",
       "index": 4
     },
     {
-      "name": "PARAM_5",
+      "name": "JOB_MNK",
       "index": 5
     },
     {
-      "name": "PARAM_6",
+      "name": "JOB_RNG",
       "index": 6
     },
     {
-      "name": "PARAM_7",
+      "name": "JOB_NIN",
       "index": 7
     },
     {
-      "name": "PARAM_8",
+      "name": "JOB_TMM",
       "index": 8
     },
     {
-      "name": "PARAM_9",
+      "name": "JOB_MSW",
       "index": 9
     },
     {
-      "name": "PARAM_10",
+      "name": "JOB_SWM",
       "index": 10
     },
     {
-      "name": "PARAM_11",
+      "name": "JOB_NAV",
       "index": 11
     },
     {
-      "name": "PARAM_12",
+      "name": "JOB_DKN",
       "index": 12
     },
     {
-      "name": "PARAM_13",
+      "name": "JOB_PLD",
       "index": 13
     },
     {
-      "name": "PARAM_14",
+      "name": "JOB_VAN",
       "index": 14
     },
     {
-      "name": "PARAM_15",
+      "name": "JOB_MGK",
       "index": 15
     },
     {
-      "name": "PARAM_16",
+      "name": "JOB_SMN",
       "index": 16
     },
     {
-      "name": "PARAM_17",
+      "name": "JOB_MSM",
       "index": 17
     },
     {
-      "name": "PARAM_18",
+      "name": "JOB_VAL",
       "index": 18
     },
     {
-      "name": "PARAM_19",
+      "name": "JOB_MST",
       "index": 19
     },
     {
-      "name": "PARAM_20",
+      "name": "JOB_MED",
       "index": 20
     },
     {
-      "name": "PARAM_21",
+      "name": "JOB_RDM",
       "index": 21
     },
     {
-      "name": "PARAM_22",
+      "name": "JOB_THF",
       "index": 22
     },
     {
-      "name": "PARAM_23",
+      "name": "JOB_TRD",
       "index": 23
     },
     {
-      "name": "PARAM_24",
+      "name": "JOB_SPS",
       "index": 24
     }
   ]

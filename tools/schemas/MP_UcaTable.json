@@ -6,113 +6,113 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "pCharacter",
       "index": 0,
       "string": "ascii"
     },
     {
-      "name": "PARAM_1",
+      "name": "slot0_pCharacter",
       "index": 1
     },
     {
-      "name": "PARAM_2",
+      "name": "slot0_animType",
       "index": 2
     },
     {
-      "name": "PARAM_3",
+      "name": "slot1_pCharacter",
       "index": 3
     },
     {
-      "name": "PARAM_4",
+      "name": "slot1_animType",
       "index": 4
     },
     {
-      "name": "PARAM_5",
+      "name": "slot2_pCharacter",
       "index": 5
     },
     {
-      "name": "PARAM_6",
+      "name": "slot2_animType",
       "index": 6
     },
     {
-      "name": "PARAM_7",
+      "name": "slot3_pCharacter",
       "index": 7
     },
     {
-      "name": "PARAM_8",
+      "name": "slot3_animType",
       "index": 8
     },
     {
-      "name": "PARAM_9",
+      "name": "slot4_pCharacter",
       "index": 9
     },
     {
-      "name": "PARAM_10",
+      "name": "slot4_animType",
       "index": 10
     },
     {
-      "name": "PARAM_11",
+      "name": "slot5_pCharacter",
       "index": 11,
       "string": "ascii"
     },
     {
-      "name": "PARAM_12",
+      "name": "slot5_animType",
       "index": 12
     },
     {
-      "name": "PARAM_13",
+      "name": "slot6_pCharacter",
       "index": 13
     },
     {
-      "name": "PARAM_14",
+      "name": "slot6_animType",
       "index": 14
     },
     {
-      "name": "PARAM_15",
+      "name": "slot7_pCharacter",
       "index": 15
     },
     {
-      "name": "PARAM_16",
+      "name": "slot7_animType",
       "index": 16
     },
     {
-      "name": "PARAM_17",
+      "name": "slot8_pCharacter",
       "index": 17
     },
     {
-      "name": "PARAM_18",
+      "name": "slot8_animType",
       "index": 18
     },
     {
-      "name": "PARAM_19",
+      "name": "slot9_pCharacter",
       "index": 19
     },
     {
-      "name": "PARAM_20",
+      "name": "slot9_animType",
       "index": 20
     },
     {
-      "name": "PARAM_21",
+      "name": "slot10_pCharacter",
       "index": 21
     },
     {
-      "name": "PARAM_22",
+      "name": "slot10_animType",
       "index": 22
     },
     {
-      "name": "PARAM_23",
+      "name": "slot11_pCharacter",
       "index": 23
     },
     {
-      "name": "PARAM_24",
+      "name": "slot11_animType",
       "index": 24
     },
     {
-      "name": "PARAM_25",
+      "name": "slot12_pCharacter",
       "index": 25
     },
     {
-      "name": "PARAM_26",
+      "name": "slot12_animType",
       "index": 26
     }
   ]

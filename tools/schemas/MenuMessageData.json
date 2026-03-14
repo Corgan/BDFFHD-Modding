@@ -9,8 +9,13 @@
   ],
   "fields": [
     {
-      "name": "pMessage",
+      "name": "ID",
       "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
     }
   ]
 }

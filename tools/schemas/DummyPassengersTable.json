@@ -6,145 +6,145 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "NO",
       "index": 0
     },
     {
-      "name": "PARAM_1",
+      "name": "PATTERN",
       "index": 1
     },
     {
-      "name": "PARAM_2",
+      "name": "MII",
       "index": 2
     },
     {
-      "name": "PARAM_3",
+      "name": "NAME_USER",
       "index": 3,
       "string": "utf16"
     },
     {
-      "name": "PARAM_4",
+      "name": "DECORATION_ID",
       "index": 4
     },
     {
-      "name": "PARAM_5",
+      "name": "COMMENT",
       "index": 5,
       "string": "utf16"
     },
     {
-      "name": "PARAM_6",
+      "name": "PLAYTIME",
       "index": 6
     },
     {
-      "name": "PARAM_7",
+      "name": "MAXPOWER",
       "index": 7
     },
     {
-      "name": "PARAM_8",
+      "name": "JOB_COUNT",
       "index": 8
     },
     {
-      "name": "PARAM_9",
+      "name": "ABILITY_COUNT",
       "index": 9
     },
     {
-      "name": "PARAM_10",
+      "name": "VILLAGER_COUNT",
       "index": 10
     },
     {
-      "name": "PARAM_11",
+      "name": "LEVEL_CHR_0",
       "index": 11
     },
     {
-      "name": "PARAM_12",
+      "name": "LEVEL_CHR_1",
       "index": 12
     },
     {
-      "name": "PARAM_13",
+      "name": "LEVEL_CHR_2",
       "index": 13
     },
     {
-      "name": "PARAM_14",
+      "name": "LEVEL_CHR_3",
       "index": 14
     },
     {
-      "name": "PARAM_15",
+      "name": "JOB_TABLEID_CHR_0",
       "index": 15
     },
     {
-      "name": "PARAM_16",
+      "name": "JOB_TABLEID_CHR_1",
       "index": 16
     },
     {
-      "name": "PARAM_17",
+      "name": "JOB_TABLEID_CHR_2",
       "index": 17
     },
     {
-      "name": "PARAM_18",
+      "name": "JOB_TABLEID_CHR_3",
       "index": 18
     },
     {
-      "name": "PARAM_19",
+      "name": "SOMMONER_CHRID",
       "index": 19
     },
     {
-      "name": "PARAM_20",
+      "name": "SOMMONER_JOBID",
       "index": 20
     },
     {
-      "name": "PARAM_21",
+      "name": "SOMMONER_CMDTYPE",
       "index": 21
     },
     {
-      "name": "PARAM_22",
+      "name": "SOMMONER_CMDID",
       "index": 22
     },
     {
-      "name": "PARAM_23",
+      "name": "SOMMONER_POWER",
       "index": 23
     },
     {
-      "name": "PARAM_24",
+      "name": "EQUIP_RHAND",
       "index": 24
     },
     {
-      "name": "PARAM_25",
+      "name": "EQUIP_LHAND",
       "index": 25
     },
     {
-      "name": "PARAM_26",
+      "name": "EQUIP_HEAD",
       "index": 26
     },
     {
-      "name": "PARAM_27",
+      "name": "EQUIP_BODY",
       "index": 27
     },
     {
-      "name": "PARAM_28",
+      "name": "EQUIP_ACC",
       "index": 28
     },
     {
-      "name": "PARAM_29",
+      "name": "PARAM_ATK",
       "index": 29
     },
     {
-      "name": "PARAM_30",
+      "name": "PARAM_MATK",
       "index": 30
     },
     {
-      "name": "PARAM_31",
+      "name": "PARAM_DEF",
       "index": 31
     },
     {
-      "name": "PARAM_32",
+      "name": "PARAM_MDEF",
       "index": 32
     },
     {
-      "name": "PARAM_33",
+      "name": "PARAM_HIT",
       "index": 33
     },
     {
-      "name": "PARAM_34",
+      "name": "PARAM_DOD",
       "index": 34
     }
   ]

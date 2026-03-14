@@ -6,37 +6,37 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "id",
       "index": 0,
       "string": "ascii"
     },
     {
-      "name": "PARAM_1",
+      "name": "pTitle",
       "index": 1,
       "string": "utf16"
     },
     {
-      "name": "PARAM_2",
+      "name": "pSubTitle",
       "index": 2,
       "string": "utf16"
     },
     {
-      "name": "PARAM_3",
+      "name": "type",
       "index": 3,
       "string": "ascii"
     },
     {
-      "name": "PARAM_4",
+      "name": "pText",
       "index": 4,
       "string": "utf16"
     },
     {
-      "name": "PARAM_5",
+      "name": "pArchiveName",
       "index": 5,
       "string": "ascii"
     },
     {
-      "name": "PARAM_6",
+      "name": "pTextureName",
       "index": 6,
       "string": "ascii"
     }

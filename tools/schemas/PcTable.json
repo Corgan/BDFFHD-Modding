@@ -40,11 +40,13 @@
     },
     {
       "name": "ROLE_ID",
-      "index": 8
+      "index": 8,
+      "string": "ascii"
     },
     {
       "name": "MODEL_ID",
-      "index": 9
+      "index": 9,
+      "string": "ascii"
     },
     {
       "name": "CR",
@@ -94,7 +96,8 @@
     {
       "name": "SERIF",
       "index": 44,
-      "count": 4
+      "count": 4,
+      "string": "utf16"
     }
   ]
 }

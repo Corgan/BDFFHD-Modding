@@ -6,16 +6,16 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "index",
       "index": 0
     },
     {
-      "name": "PARAM_1",
+      "name": "pText",
       "index": 1,
       "string": "utf16"
     },
     {
-      "name": "PARAM_2",
+      "name": "category",
       "index": 2
     }
   ]

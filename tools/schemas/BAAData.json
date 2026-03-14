@@ -6,109 +6,109 @@
   ],
   "fields": [
     {
-      "name": "PARAM_0",
+      "name": "index",
       "index": 0
     },
     {
-      "name": "PARAM_1",
+      "name": "attackCamera",
       "index": 1
     },
     {
-      "name": "PARAM_2",
+      "name": "hitCamera",
       "index": 2
     },
     {
-      "name": "PARAM_3",
+      "name": "atk0_animIndex",
       "index": 3
     },
     {
-      "name": "PARAM_4",
+      "name": "atk0_pEffectName",
       "index": 4,
       "string": "ascii"
     },
     {
-      "name": "PARAM_5",
+      "name": "atk0_effectDelay",
       "index": 5
     },
     {
-      "name": "PARAM_6",
+      "name": "atk0_pEffectNodeName",
       "index": 6,
       "string": "ascii"
     },
     {
-      "name": "PARAM_7",
+      "name": "atk0_pSEName",
       "index": 7,
       "string": "ascii"
     },
     {
-      "name": "PARAM_8",
+      "name": "atk0_seDelay",
       "index": 8
     },
     {
-      "name": "PARAM_9",
+      "name": "atk0_hitDelay",
       "index": 9
     },
     {
-      "name": "PARAM_10",
+      "name": "atk0_hitEffectRotX",
       "index": 10
     },
     {
-      "name": "PARAM_11",
+      "name": "atk0_hitEffectRotY",
       "index": 11
     },
     {
-      "name": "PARAM_12",
+      "name": "atk0_hitEffectRotZ",
       "index": 12
     },
     {
-      "name": "PARAM_13",
+      "name": "atk1_animIndex",
       "index": 13
     },
     {
-      "name": "PARAM_14",
+      "name": "atk1_pEffectName",
       "index": 14,
       "string": "ascii"
     },
     {
-      "name": "PARAM_15",
+      "name": "atk1_effectDelay",
       "index": 15
     },
     {
-      "name": "PARAM_16",
+      "name": "atk1_pEffectNodeName",
       "index": 16,
       "string": "ascii"
     },
     {
-      "name": "PARAM_17",
+      "name": "atk1_pSEName",
       "index": 17,
       "string": "ascii"
     },
     {
-      "name": "PARAM_18",
+      "name": "atk1_seDelay",
       "index": 18
     },
     {
-      "name": "PARAM_19",
+      "name": "atk1_hitDelay",
       "index": 19
     },
     {
-      "name": "PARAM_20",
+      "name": "atk1_hitEffectRotX",
       "index": 20
     },
     {
-      "name": "PARAM_21",
+      "name": "atk1_hitEffectRotY",
       "index": 21
     },
     {
-      "name": "PARAM_22",
+      "name": "atk1_hitEffectRotZ",
       "index": 22
     },
     {
-      "name": "PARAM_23",
+      "name": "endWait",
       "index": 23
     },
     {
-      "name": "PARAM_24",
+      "name": "multiHitType",
       "index": 24
     }
   ]
