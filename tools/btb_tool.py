@@ -198,6 +198,8 @@ def btb_to_json(btb: BTBFile, schema: dict | None = None) -> dict:
         "records": [],
     }
 
+    ints_per_record = btb.header.data_one_size // 4
+
     for i, record in enumerate(btb.records):
         if schema:
             row = {}
@@ -206,6 +208,10 @@ def btb_to_json(btb: BTBFile, schema: dict | None = None) -> dict:
                 idx = field_def["index"]
                 count = field_def.get("count", 1)
                 str_type = field_def.get("string", None)
+
+                # Skip fields beyond this file's actual record size
+                if idx >= ints_per_record:
+                    continue
 
                 if count == 1:
                     val = record[idx]
@@ -216,7 +222,12 @@ def btb_to_json(btb: BTBFile, schema: dict | None = None) -> dict:
                     else:
                         row[name] = val
                 else:
-                    row[name] = record[idx : idx + count]
+                    if str_type == "ascii":
+                        row[name] = [btb.get_ascii(record[idx + j]) for j in range(count)]
+                    elif str_type == "utf16":
+                        row[name] = [btb.get_utf16(record[idx + j]) for j in range(count)]
+                    else:
+                        row[name] = record[idx : idx + count]
             result["records"].append(row)
         else:
             result["records"].append({"_index": i, "values": record})
@@ -463,7 +474,7 @@ def cmd_import(args):
                 if name not in json_rec:
                     continue
 
-                if str_type:
+                if str_type and count == 1:
                     str_val = json_rec[name]
                     orig_offset = record[idx]
                     get_fn = btb.get_ascii if str_type == "ascii" else btb.get_utf16
@@ -475,6 +486,17 @@ def cmd_import(args):
                         new_offset = resolver(str_val)
                         record[idx] = new_offset
                         changes += 1
+                elif str_type and count > 1:
+                    arr = json_rec[name]
+                    get_fn = btb.get_ascii if str_type == "ascii" else btb.get_utf16
+                    resolver = resolve_ascii if str_type == "ascii" else resolve_utf16
+                    for j in range(min(count, len(arr))):
+                        orig_offset = record[idx + j]
+                        if get_fn(orig_offset) == arr[j]:
+                            pass
+                        else:
+                            record[idx + j] = resolver(arr[j])
+                            changes += 1
                 elif count == 1:
                     new_val = json_rec[name]
                     if record[idx] != new_val:
