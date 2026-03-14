@@ -1,0 +1,82 @@
+{
+  "name": "PcLevelTable",
+  "description": "Player character level-up stat growth",
+  "fields": [
+    {
+      "name": "LV",
+      "index": 0
+    },
+    {
+      "name": "TARGET_EXP",
+      "index": 1
+    },
+    {
+      "name": "DIFF_EXP",
+      "index": 2
+    },
+    {
+      "name": "ADD_HP",
+      "index": 3
+    },
+    {
+      "name": "DIF_HP",
+      "index": 4
+    },
+    {
+      "name": "ADD_MP",
+      "index": 5
+    },
+    {
+      "name": "DIF_MP",
+      "index": 6
+    },
+    {
+      "name": "ADD_STR",
+      "index": 7
+    },
+    {
+      "name": "DIF_STR",
+      "index": 8
+    },
+    {
+      "name": "ADD_VIT",
+      "index": 9
+    },
+    {
+      "name": "DIF_VIT",
+      "index": 10
+    },
+    {
+      "name": "ADD_INT",
+      "index": 11
+    },
+    {
+      "name": "DIF_INT",
+      "index": 12
+    },
+    {
+      "name": "ADD_MND",
+      "index": 13
+    },
+    {
+      "name": "DIF_MND",
+      "index": 14
+    },
+    {
+      "name": "ADD_AGI",
+      "index": 15
+    },
+    {
+      "name": "DIF_AGI",
+      "index": 16
+    },
+    {
+      "name": "ADD_DEX",
+      "index": 17
+    },
+    {
+      "name": "DIF_DEX",
+      "index": 18
+    }
+  ]
+}

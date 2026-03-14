@@ -1,0 +1,433 @@
+{
+  "name": "CommandAbility",
+  "description": "Command ability definitions (106 int32s, 424 bytes)",
+  "fields": [
+    {
+      "name": "ABILITY_ID",
+      "index": 0
+    },
+    {
+      "name": "SUB_ID",
+      "index": 1
+    },
+    {
+      "name": "JOBCMD_ID",
+      "index": 2
+    },
+    {
+      "name": "SORT_ID",
+      "index": 3
+    },
+    {
+      "name": "NAME",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "DOC",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "DELIVERY_DISABLE",
+      "index": 6
+    },
+    {
+      "name": "MAGIC",
+      "index": 7
+    },
+    {
+      "name": "SCRIPT_ID",
+      "index": 8
+    },
+    {
+      "name": "TABLE_NUM",
+      "index": 9
+    },
+    {
+      "name": "REPEAT_ID",
+      "index": 10
+    },
+    {
+      "name": "BTL_EFFECT",
+      "index": 11
+    },
+    {
+      "name": "DEFAULT_OBJ",
+      "index": 12
+    },
+    {
+      "name": "CONSUME_CATEGORY",
+      "index": 13
+    },
+    {
+      "name": "MP",
+      "index": 14
+    },
+    {
+      "name": "HP",
+      "index": 15
+    },
+    {
+      "name": "BP",
+      "index": 16
+    },
+    {
+      "name": "MONEY",
+      "index": 17
+    },
+    {
+      "name": "HATE",
+      "index": 18
+    },
+    {
+      "name": "USE_BATTLE",
+      "index": 19
+    },
+    {
+      "name": "USE_WORLD",
+      "index": 20
+    },
+    {
+      "name": "USE_TOWN",
+      "index": 21
+    },
+    {
+      "name": "USE_DUNGEON",
+      "index": 22
+    },
+    {
+      "name": "USE_SILENCE",
+      "index": 23
+    },
+    {
+      "name": "USE_CONFUSE",
+      "index": 24
+    },
+    {
+      "name": "USE_CHARM",
+      "index": 25
+    },
+    {
+      "name": "USE_MONOMANE",
+      "index": 26
+    },
+    {
+      "name": "USE_SHADOW",
+      "index": 27
+    },
+    {
+      "name": "EFF_PARTY",
+      "index": 28
+    },
+    {
+      "name": "EFF_ENEMY",
+      "index": 29
+    },
+    {
+      "name": "EFF_TYPE",
+      "index": 30
+    },
+    {
+      "name": "EFF_CATEGORY",
+      "index": 31
+    },
+    {
+      "name": "EFF_TARGET",
+      "index": 32
+    },
+    {
+      "name": "EFF_SPCALC",
+      "index": 33
+    },
+    {
+      "name": "EFF_ELEMENTAL",
+      "index": 34
+    },
+    {
+      "name": "EFF_POWER",
+      "index": 35
+    },
+    {
+      "name": "EFF_POWER_RATIO",
+      "index": 36
+    },
+    {
+      "name": "FLAG_MULTIRATE",
+      "index": 37
+    },
+    {
+      "name": "EFF_MULTIHIT",
+      "index": 38
+    },
+    {
+      "name": "EFF_SUPPORT",
+      "index": 39
+    },
+    {
+      "name": "EFF_NUM",
+      "index": 40
+    },
+    {
+      "name": "EFF_TURN",
+      "index": 41
+    },
+    {
+      "name": "FLAG_SUCCESS",
+      "index": 42
+    },
+    {
+      "name": "FLAG_IGNOREDEF",
+      "index": 43
+    },
+    {
+      "name": "FLAG_REFRECT",
+      "index": 44
+    },
+    {
+      "name": "FLAG_AVOID",
+      "index": 45
+    },
+    {
+      "name": "CHANGE_ATK",
+      "index": 46
+    },
+    {
+      "name": "CHANGE_MATK",
+      "index": 47
+    },
+    {
+      "name": "CHANGE_DEF",
+      "index": 48
+    },
+    {
+      "name": "CHANGE_MDEF",
+      "index": 49
+    },
+    {
+      "name": "CHANGE_ACC",
+      "index": 50
+    },
+    {
+      "name": "CHANGE_DOD",
+      "index": 51
+    },
+    {
+      "name": "CHANGE_CR",
+      "index": 52
+    },
+    {
+      "name": "CHANGE_ACTSPEED",
+      "index": 53
+    },
+    {
+      "name": "CHANGE_BOOSTATK",
+      "index": 54
+    },
+    {
+      "name": "CHANGE_BOOSTDEF",
+      "index": 55
+    },
+    {
+      "name": "CHANGE_SUCCESS",
+      "index": 56
+    },
+    {
+      "name": "CHANGE_HITCOUNT",
+      "index": 57
+    },
+    {
+      "name": "CHANGE_MAGRECOVERY",
+      "index": 58
+    },
+    {
+      "name": "EFF_TIMING",
+      "index": 59
+    },
+    {
+      "name": "EFF_ATK",
+      "index": 60
+    },
+    {
+      "name": "EFF_MATK",
+      "index": 61
+    },
+    {
+      "name": "EFF_DEF",
+      "index": 62
+    },
+    {
+      "name": "EFF_MDEF",
+      "index": 63
+    },
+    {
+      "name": "EFF_ACC",
+      "index": 64
+    },
+    {
+      "name": "EFF_DOD",
+      "index": 65
+    },
+    {
+      "name": "EFF_CR",
+      "index": 66
+    },
+    {
+      "name": "EFF_ACTSPEED",
+      "index": 67
+    },
+    {
+      "name": "EFF_BOOSTATK",
+      "index": 68
+    },
+    {
+      "name": "EFF_BOOSTDEF",
+      "index": 69
+    },
+    {
+      "name": "EFF_SUCCESS",
+      "index": 70
+    },
+    {
+      "name": "EFF_HITCOUNT",
+      "index": 71
+    },
+    {
+      "name": "EFF_MAGRECOVERY",
+      "index": 72
+    },
+    {
+      "name": "SELF_ADD_STATUS",
+      "index": 73
+    },
+    {
+      "name": "STATE_POI",
+      "index": 74
+    },
+    {
+      "name": "STATE_BLD",
+      "index": 75
+    },
+    {
+      "name": "STATE_SLC",
+      "index": 76
+    },
+    {
+      "name": "STATE_SLP",
+      "index": 77
+    },
+    {
+      "name": "STATE_PRL",
+      "index": 78
+    },
+    {
+      "name": "STATE_STN",
+      "index": 79
+    },
+    {
+      "name": "STATE_BSK",
+      "index": 80
+    },
+    {
+      "name": "STATE_COF",
+      "index": 81
+    },
+    {
+      "name": "STATE_CHR",
+      "index": 82
+    },
+    {
+      "name": "STATE_SEN",
+      "index": 83
+    },
+    {
+      "name": "STATE_REV",
+      "index": 84
+    },
+    {
+      "name": "STATE_DTH",
+      "index": 85
+    },
+    {
+      "name": "STATE_STP",
+      "index": 86
+    },
+    {
+      "name": "STATE_LOV",
+      "index": 87
+    },
+    {
+      "name": "STATE_FRZ",
+      "index": 88
+    },
+    {
+      "name": "STATE_RGN",
+      "index": 89
+    },
+    {
+      "name": "STATE_RFC",
+      "index": 90
+    },
+    {
+      "name": "STATE_RRS",
+      "index": 91
+    },
+    {
+      "name": "ADD_ELEMENT_TYPE",
+      "index": 92
+    },
+    {
+      "name": "ADD_ELEMENT_FIRE",
+      "index": 93
+    },
+    {
+      "name": "ADD_ELEMENT_WATER",
+      "index": 94
+    },
+    {
+      "name": "ADD_ELEMENT_THUNDER",
+      "index": 95
+    },
+    {
+      "name": "ADD_ELEMENT_WIND",
+      "index": 96
+    },
+    {
+      "name": "ADD_ELEMENT_EARTH",
+      "index": 97
+    },
+    {
+      "name": "ADD_ELEMENT_LIGHT",
+      "index": 98
+    },
+    {
+      "name": "ADD_ELEMENT_DARK",
+      "index": 99
+    },
+    {
+      "name": "MAGIC_TYPE",
+      "index": 100
+    },
+    {
+      "name": "MAGIC_LV",
+      "index": 101
+    },
+    {
+      "name": "SUCCESS_RATE",
+      "index": 102
+    },
+    {
+      "name": "SPE_TARGET",
+      "index": 103
+    },
+    {
+      "name": "SPE_EFFECTIVE_LV",
+      "index": 104
+    },
+    {
+      "name": "NAME_ICON",
+      "index": 105,
+      "string": "ascii"
+    }
+  ]
+}

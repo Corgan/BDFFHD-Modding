@@ -1,0 +1,250 @@
+{
+  "name": "SupportAbility",
+  "description": "Support ability definitions (67 int32s, 268 bytes)",
+  "fields": [
+    {
+      "name": "ABILITY_ID",
+      "index": 0
+    },
+    {
+      "name": "SUB_ID",
+      "index": 1
+    },
+    {
+      "name": "JOBCMD_ID",
+      "index": 2
+    },
+    {
+      "name": "NAME",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "DOC",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "COST",
+      "index": 5
+    },
+    {
+      "name": "COUNT",
+      "index": 6
+    },
+    {
+      "name": "TURN",
+      "index": 7
+    },
+    {
+      "name": "EFF_SUBJECT",
+      "index": 8
+    },
+    {
+      "name": "TARGET_CATEGORY",
+      "index": 9
+    },
+    {
+      "name": "TARGET_HP",
+      "index": 10
+    },
+    {
+      "name": "TARGET_MP",
+      "index": 11
+    },
+    {
+      "name": "CHANGE_TURN",
+      "index": 12
+    },
+    {
+      "name": "CHANGE_ATK",
+      "index": 13
+    },
+    {
+      "name": "CHANGE_DEF",
+      "index": 14
+    },
+    {
+      "name": "CHANGE_MATK",
+      "index": 15
+    },
+    {
+      "name": "CHANGE_MDEF",
+      "index": 16
+    },
+    {
+      "name": "CHANGE_ACC",
+      "index": 17
+    },
+    {
+      "name": "CHANGE_DOD",
+      "index": 18
+    },
+    {
+      "name": "CHANGE_CR",
+      "index": 19
+    },
+    {
+      "name": "CHANGE_ACTSPEED",
+      "index": 20
+    },
+    {
+      "name": "CHANGE_BOOSTATK",
+      "index": 21
+    },
+    {
+      "name": "CHANGE_BOOSTDEF",
+      "index": 22
+    },
+    {
+      "name": "CHANGE_SUCCESS",
+      "index": 23
+    },
+    {
+      "name": "CHANGE_HITCOUNT",
+      "index": 24
+    },
+    {
+      "name": "CHANGE_MAGRECOVERY",
+      "index": 25
+    },
+    {
+      "name": "FLAG_MAGICCR",
+      "index": 26
+    },
+    {
+      "name": "ENCOUNT",
+      "index": 27
+    },
+    {
+      "name": "ENCOUNT_PARTY_FIRSTATTACK",
+      "index": 28
+    },
+    {
+      "name": "ENCOUNT_ENEMY_FIRSTATTACK",
+      "index": 29
+    },
+    {
+      "name": "ENCOUNT_PARTY_BACKATTACK",
+      "index": 30
+    },
+    {
+      "name": "ENCOUNT_ENEMY_BACKATTACK",
+      "index": 31
+    },
+    {
+      "name": "CALC_ACC",
+      "index": 32
+    },
+    {
+      "name": "POI_INV",
+      "index": 33
+    },
+    {
+      "name": "BLD_INV",
+      "index": 34
+    },
+    {
+      "name": "SLC_INV",
+      "index": 35
+    },
+    {
+      "name": "SLP_INV",
+      "index": 36
+    },
+    {
+      "name": "PRL_INV",
+      "index": 37
+    },
+    {
+      "name": "FEA_INV",
+      "index": 38
+    },
+    {
+      "name": "BSK_INV",
+      "index": 39
+    },
+    {
+      "name": "COF_INV",
+      "index": 40
+    },
+    {
+      "name": "CHR_INV",
+      "index": 41
+    },
+    {
+      "name": "SEN_INV",
+      "index": 42
+    },
+    {
+      "name": "REV_INV",
+      "index": 43
+    },
+    {
+      "name": "DTH_INV",
+      "index": 44
+    },
+    {
+      "name": "STP_INV",
+      "index": 45
+    },
+    {
+      "name": "LOV_INV",
+      "index": 46
+    },
+    {
+      "name": "FRZ_INV",
+      "index": 47
+    },
+    {
+      "name": "REGENE_INV",
+      "index": 48
+    },
+    {
+      "name": "REFLEC_INV",
+      "index": 49
+    },
+    {
+      "name": "RERAISE_INV",
+      "index": 50
+    },
+    {
+      "name": "BUFF_DARK",
+      "index": 51
+    },
+    {
+      "name": "ATK_VARIES",
+      "index": 52
+    },
+    {
+      "name": "DEF_VARIES",
+      "index": 53
+    },
+    {
+      "name": "MDEF_VARIES",
+      "index": 54
+    },
+    {
+      "name": "ELEM_RESIST",
+      "index": 55,
+      "count": 8
+    },
+    {
+      "name": "CHANCE",
+      "index": 63
+    },
+    {
+      "name": "MPCOST_RATE",
+      "index": 64
+    },
+    {
+      "name": "DAMAGE_RATE",
+      "index": 65
+    },
+    {
+      "name": "NAME_ICON",
+      "index": 66,
+      "string": "ascii"
+    }
+  ]
+}

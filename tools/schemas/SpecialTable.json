@@ -1,0 +1,234 @@
+{
+  "name": "SpecialTable",
+  "description": "Special move definitions (81 int32s, 324 bytes)",
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "WEAPON_ID",
+      "index": 1
+    },
+    {
+      "name": "LV",
+      "index": 2
+    },
+    {
+      "name": "SORT_PRI",
+      "index": 3
+    },
+    {
+      "name": "DEBUG_NAME",
+      "index": 4,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "DOC",
+      "index": 6,
+      "string": "utf16"
+    },
+    {
+      "name": "SCRIPT_ID",
+      "index": 7
+    },
+    {
+      "name": "COST",
+      "index": 8
+    },
+    {
+      "name": "HATE",
+      "index": 9
+    },
+    {
+      "name": "DEFAULT_PT",
+      "index": 10
+    },
+    {
+      "name": "EFF_PT",
+      "index": 11
+    },
+    {
+      "name": "EFF_EM",
+      "index": 12
+    },
+    {
+      "name": "EFF_TYPE",
+      "index": 13
+    },
+    {
+      "name": "EFF_CATEGORY",
+      "index": 14
+    },
+    {
+      "name": "ELEM",
+      "index": 15
+    },
+    {
+      "name": "DAMAGE_TARGET",
+      "index": 16
+    },
+    {
+      "name": "POW",
+      "index": 17
+    },
+    {
+      "name": "POW_RATE",
+      "index": 18
+    },
+    {
+      "name": "ATKCOUNT",
+      "index": 19
+    },
+    {
+      "name": "TURN",
+      "index": 20
+    },
+    {
+      "name": "AILMENT_DATA",
+      "index": 21,
+      "count": 12
+    },
+    {
+      "name": "SP_AILMENT_DATA",
+      "index": 33,
+      "count": 6
+    },
+    {
+      "name": "DIS_DEF",
+      "index": 39
+    },
+    {
+      "name": "DIS_FLY",
+      "index": 40
+    },
+    {
+      "name": "ATK",
+      "index": 41
+    },
+    {
+      "name": "MATK",
+      "index": 42
+    },
+    {
+      "name": "DEF",
+      "index": 43
+    },
+    {
+      "name": "MDEF",
+      "index": 44
+    },
+    {
+      "name": "ACC",
+      "index": 45
+    },
+    {
+      "name": "DOD",
+      "index": 46
+    },
+    {
+      "name": "CR",
+      "index": 47
+    },
+    {
+      "name": "ACTSPEED",
+      "index": 48
+    },
+    {
+      "name": "BOOSTATK",
+      "index": 49
+    },
+    {
+      "name": "BOOSTDEF",
+      "index": 50
+    },
+    {
+      "name": "SUCCESS",
+      "index": 51
+    },
+    {
+      "name": "HITCOUNT",
+      "index": 52
+    },
+    {
+      "name": "MAGRECOVERY",
+      "index": 53
+    },
+    {
+      "name": "PARTS",
+      "index": 54,
+      "count": 11
+    },
+    {
+      "name": "EFF_ATK",
+      "index": 65
+    },
+    {
+      "name": "EFF_MATK",
+      "index": 66
+    },
+    {
+      "name": "EFF_DEF",
+      "index": 67
+    },
+    {
+      "name": "EFF_MDEF",
+      "index": 68
+    },
+    {
+      "name": "EFF_ACC",
+      "index": 69
+    },
+    {
+      "name": "EFF_DOD",
+      "index": 70
+    },
+    {
+      "name": "EFF_CR",
+      "index": 71
+    },
+    {
+      "name": "EFF_ACTSPEED",
+      "index": 72
+    },
+    {
+      "name": "EFF_BOOSTATK",
+      "index": 73
+    },
+    {
+      "name": "EFF_BOOSTDEF",
+      "index": 74
+    },
+    {
+      "name": "EFF_SUCCESS",
+      "index": 75
+    },
+    {
+      "name": "EFF_HITCOUNT",
+      "index": 76
+    },
+    {
+      "name": "EFF_MAGRECOVERY",
+      "index": 77
+    },
+    {
+      "name": "SERIF_TYPE",
+      "index": 78
+    },
+    {
+      "name": "NAME_ICON",
+      "index": 79,
+      "string": "ascii"
+    },
+    {
+      "name": "USED_DOC",
+      "index": 80,
+      "string": "utf16"
+    }
+  ]
+}

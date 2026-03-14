@@ -1,0 +1,11 @@
+{
+  "name": "WorldmapEntrance",
+  "description": "Worldmap entrance name table (1 int32, 4 bytes)",
+  "fields": [
+    {
+      "name": "ENTRANCE_NAME",
+      "index": 0,
+      "string": "ascii"
+    }
+  ]
+}

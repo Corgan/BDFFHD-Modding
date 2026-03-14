@@ -1,0 +1,86 @@
+{
+  "name": "MonsterParty",
+  "description": "Monster encounter party formations (37 int32s, 148 bytes)",
+  "fields": [
+    {
+      "name": "ECPT_ID",
+      "index": 0
+    },
+    {
+      "name": "MAP_ID",
+      "index": 1
+    },
+    {
+      "name": "EVENT_ID",
+      "index": 2
+    },
+    {
+      "name": "NAME_BGM",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_PINCH",
+      "index": 4,
+      "string": "ascii"
+    },
+    {
+      "name": "INCIDENCE",
+      "index": 5
+    },
+    {
+      "name": "ESCAPE",
+      "index": 6
+    },
+    {
+      "name": "PARTY_BACKATTACK",
+      "index": 7
+    },
+    {
+      "name": "PARTY_FIRSTATTACK",
+      "index": 8
+    },
+    {
+      "name": "ENEMY_BACKATTACK",
+      "index": 9
+    },
+    {
+      "name": "ENEMY_FIRSTATTACK",
+      "index": 10
+    },
+    {
+      "name": "ENEMY_PARTY",
+      "index": 11,
+      "count": 16
+    },
+    {
+      "name": "AVE_AGI",
+      "index": 27
+    },
+    {
+      "name": "AVE_DEX",
+      "index": 28
+    },
+    {
+      "name": "TUTORIAL_NUM",
+      "index": 29
+    },
+    {
+      "name": "TUTORIAL_PARTY",
+      "index": 30
+    },
+    {
+      "name": "TUTORIAL_MEMBER",
+      "index": 31,
+      "count": 4
+    },
+    {
+      "name": "EFFECT_TYPE",
+      "index": 35
+    },
+    {
+      "name": "CANCEL_AUTO",
+      "index": 36
+    }
+  ]
+}

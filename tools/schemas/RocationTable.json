@@ -1,0 +1,24 @@
+{
+  "name": "RocationTable",
+  "description": "Location rotation/cycle table (13 int32s, 52 bytes)",
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "COUNT",
+      "index": 1
+    },
+    {
+      "name": "MAPID",
+      "index": 2,
+      "count": 10
+    },
+    {
+      "name": "NAME_MSG",
+      "index": 12,
+      "string": "ascii"
+    }
+  ]
+}

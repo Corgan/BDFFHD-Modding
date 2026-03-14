@@ -1,0 +1,41 @@
+{
+  "name": "JobTable",
+  "description": "Job class definitions",
+  "fields": [
+    {
+      "name": "NO",
+      "index": 0
+    },
+    {
+      "name": "ID",
+      "index": 1
+    },
+    {
+      "name": "NAME_JOB",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "NAME_JOBCMD",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "JCID",
+      "index": 4
+    },
+    {
+      "name": "DOC",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "TABLE_LVID",
+      "index": 6
+    },
+    {
+      "name": "ATK_NUM_CON",
+      "index": 7
+    }
+  ]
+}

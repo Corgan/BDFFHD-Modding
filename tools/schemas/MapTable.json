@@ -1,0 +1,51 @@
+{
+  "name": "MapTable",
+  "description": "Map/area definitions (10 int32s, 40 bytes)",
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "NAME_TOWN",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "NAME_BASE",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_BGM",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_LFOOT",
+      "index": 4,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_RFOOT",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "TELEPO",
+      "index": 6
+    },
+    {
+      "name": "MESSAGE_DEPTH",
+      "index": 7
+    },
+    {
+      "name": "EF_NUM",
+      "index": 8
+    },
+    {
+      "name": "ENCOUNTID",
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "StatusTable",
+  "description": "Status effect name table (2 int32s, 8 bytes)",
+  "fields": [
+    {
+      "name": "NO",
+      "index": 0
+    },
+    {
+      "name": "NAME",
+      "index": 1,
+      "string": "ascii"
+    }
+  ]
+}

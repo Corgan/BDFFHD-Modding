@@ -1,0 +1,20 @@
+{
+  "name": "SyogoIconTable",
+  "description": "Job title icon table (3 int32s, 12 bytes)",
+  "fields": [
+    {
+      "name": "NO",
+      "index": 0
+    },
+    {
+      "name": "NAME",
+      "index": 1,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_UTF16",
+      "index": 2,
+      "string": "utf16"
+    }
+  ]
+}

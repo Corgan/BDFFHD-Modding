@@ -1,0 +1,29 @@
+{
+  "name": "JobCommand",
+  "description": "Job command ability links (5 int32s, 20 bytes)",
+  "fields": [
+    {
+      "name": "ABILITY_ID",
+      "index": 0
+    },
+    {
+      "name": "NAME",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "LV",
+      "index": 2
+    },
+    {
+      "name": "DOC",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "NAME_ICON",
+      "index": 4,
+      "string": "ascii"
+    }
+  ]
+}

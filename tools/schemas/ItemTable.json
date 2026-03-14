@@ -1,0 +1,429 @@
+{
+  "name": "ItemTable",
+  "description": "Equipment and consumable items (163 int32s, 652 bytes)",
+  "fields": [
+    {
+      "name": "ITEM_ID",
+      "index": 0
+    },
+    {
+      "name": "TYPE",
+      "index": 1
+    },
+    {
+      "name": "ENABLE",
+      "index": 2
+    },
+    {
+      "name": "SORT",
+      "index": 3
+    },
+    {
+      "name": "NAME",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "DOC",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "NAME_GRA",
+      "index": 6,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_HIT",
+      "index": 7,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_CRT",
+      "index": 8,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_HITSEID",
+      "index": 9,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_CRTSEID",
+      "index": 10,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_ICONID",
+      "index": 11,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_COSTUME",
+      "index": 12,
+      "string": "ascii"
+    },
+    {
+      "name": "COS_PC",
+      "index": 13,
+      "count": 4
+    },
+    {
+      "name": "BUY",
+      "index": 17
+    },
+    {
+      "name": "SALE",
+      "index": 18
+    },
+    {
+      "name": "NOTSELL",
+      "index": 19
+    },
+    {
+      "name": "HP",
+      "index": 20
+    },
+    {
+      "name": "MP",
+      "index": 21
+    },
+    {
+      "name": "HATE",
+      "index": 22
+    },
+    {
+      "name": "ATK",
+      "index": 23
+    },
+    {
+      "name": "DEF",
+      "index": 24
+    },
+    {
+      "name": "MATK",
+      "index": 25
+    },
+    {
+      "name": "MDEF",
+      "index": 26
+    },
+    {
+      "name": "STR",
+      "index": 27
+    },
+    {
+      "name": "VIT",
+      "index": 28
+    },
+    {
+      "name": "INT",
+      "index": 29
+    },
+    {
+      "name": "MND",
+      "index": 30
+    },
+    {
+      "name": "AGI",
+      "index": 31
+    },
+    {
+      "name": "DEX",
+      "index": 32
+    },
+    {
+      "name": "ACC",
+      "index": 33
+    },
+    {
+      "name": "DOD",
+      "index": 34
+    },
+    {
+      "name": "CR",
+      "index": 35
+    },
+    {
+      "name": "ATK_ELEM",
+      "index": 36
+    },
+    {
+      "name": "EQUIP_HAND",
+      "index": 37
+    },
+    {
+      "name": "EQUIP_HEAD",
+      "index": 38
+    },
+    {
+      "name": "EQUIP_BODY",
+      "index": 39
+    },
+    {
+      "name": "EQUIP_AC",
+      "index": 40
+    },
+    {
+      "name": "EQUIP_BOTH",
+      "index": 41
+    },
+    {
+      "name": "JOB_CORRECT",
+      "index": 42,
+      "count": 24
+    },
+    {
+      "name": "GRP_REV",
+      "index": 66
+    },
+    {
+      "name": "JUM_REV",
+      "index": 67
+    },
+    {
+      "name": "STL_REV",
+      "index": 68
+    },
+    {
+      "name": "MP_REV",
+      "index": 69
+    },
+    {
+      "name": "BP_REV",
+      "index": 70
+    },
+    {
+      "name": "_pad71",
+      "index": 71
+    },
+    {
+      "name": "ELEM_RESIST",
+      "index": 72,
+      "count": 7
+    },
+    {
+      "name": "BUFF_ENHANCE",
+      "index": 79,
+      "count": 7
+    },
+    {
+      "name": "ADD_RESIST",
+      "index": 86
+    },
+    {
+      "name": "AILMENT_DATA",
+      "index": 87,
+      "count": 12
+    },
+    {
+      "name": "BUFF_REFRECT",
+      "index": 99
+    },
+    {
+      "name": "SPECIES_ELEM",
+      "index": 100,
+      "count": 13
+    },
+    {
+      "name": "ATK_ABI",
+      "index": 113
+    },
+    {
+      "name": "ATK_ABI_RATE",
+      "index": 114
+    },
+    {
+      "name": "ESCAPE",
+      "index": 115
+    },
+    {
+      "name": "PARTY_FIRSTATTACK",
+      "index": 116
+    },
+    {
+      "name": "ENEMY_FIRSTATTACK",
+      "index": 117
+    },
+    {
+      "name": "PARTY_BACKATTACK",
+      "index": 118
+    },
+    {
+      "name": "ENEMY_BACKATTACK",
+      "index": 119
+    },
+    {
+      "name": "ESC_RATE",
+      "index": 120
+    },
+    {
+      "name": "RESULT_EXP",
+      "index": 121
+    },
+    {
+      "name": "RESULT_JOB",
+      "index": 122
+    },
+    {
+      "name": "RESULT_GIL",
+      "index": 123
+    },
+    {
+      "name": "USE_BATTLE",
+      "index": 124
+    },
+    {
+      "name": "USE_WORLD",
+      "index": 125
+    },
+    {
+      "name": "USE_TOWN",
+      "index": 126
+    },
+    {
+      "name": "USE_DUNGEON",
+      "index": 127
+    },
+    {
+      "name": "CAT_BATTLE",
+      "index": 128
+    },
+    {
+      "name": "USE_MIX",
+      "index": 129
+    },
+    {
+      "name": "GEN_MIX",
+      "index": 130
+    },
+    {
+      "name": "CAT_MIX",
+      "index": 131
+    },
+    {
+      "name": "CAT_RES",
+      "index": 132
+    },
+    {
+      "name": "CAT_INV",
+      "index": 133
+    },
+    {
+      "name": "CAT_DDEL",
+      "index": 134
+    },
+    {
+      "name": "CAT_BDEL",
+      "index": 135
+    },
+    {
+      "name": "DEFAULT_PT",
+      "index": 136
+    },
+    {
+      "name": "USE_PARTY",
+      "index": 137
+    },
+    {
+      "name": "USE_ENEMY",
+      "index": 138
+    },
+    {
+      "name": "USE_CATEGORY",
+      "index": 139
+    },
+    {
+      "name": "USE_EFF",
+      "index": 140
+    },
+    {
+      "name": "USE_HP",
+      "index": 141
+    },
+    {
+      "name": "USE_MP",
+      "index": 142
+    },
+    {
+      "name": "USE_BP",
+      "index": 143
+    },
+    {
+      "name": "USE_POI",
+      "index": 144
+    },
+    {
+      "name": "USE_BLD",
+      "index": 145
+    },
+    {
+      "name": "USE_SLC",
+      "index": 146
+    },
+    {
+      "name": "USE_SLP",
+      "index": 147
+    },
+    {
+      "name": "USE_PRL",
+      "index": 148
+    },
+    {
+      "name": "USE_STN",
+      "index": 149
+    },
+    {
+      "name": "USE_BSK",
+      "index": 150
+    },
+    {
+      "name": "USE_COF",
+      "index": 151
+    },
+    {
+      "name": "USE_CHR",
+      "index": 152
+    },
+    {
+      "name": "USE_SEN",
+      "index": 153
+    },
+    {
+      "name": "USE_REV",
+      "index": 154
+    },
+    {
+      "name": "USE_DTH",
+      "index": 155
+    },
+    {
+      "name": "USE_TABLENUM",
+      "index": 156
+    },
+    {
+      "name": "USE_ABI",
+      "index": 157
+    },
+    {
+      "name": "USE_MAG",
+      "index": 158
+    },
+    {
+      "name": "RIPOFF_SUCCESS",
+      "index": 159
+    },
+    {
+      "name": "USE_EFFID_GROUND",
+      "index": 160
+    },
+    {
+      "name": "USE_EFFID_CHARA",
+      "index": 161
+    },
+    {
+      "name": "USE_EFFID_MENU",
+      "index": 162
+    }
+  ]
+}

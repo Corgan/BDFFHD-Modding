@@ -1,0 +1,30 @@
+{
+  "name": "SyogoTable",
+  "description": "Job title/epithet table (5 int32s, 20 bytes)",
+  "fields": [
+    {
+      "name": "jobID",
+      "index": 0
+    },
+    {
+      "name": "syogo0",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "syogo1",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "syogo2",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "syogo3",
+      "index": 4,
+      "string": "utf16"
+    }
+  ]
+}

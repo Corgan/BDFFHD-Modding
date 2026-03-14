@@ -1,0 +1,18 @@
+{
+  "name": "DrugCombine",
+  "description": "Drug/compounding recipe combinations (3 int32s, 12 bytes)",
+  "fields": [
+    {
+      "name": "ITEM1_ID",
+      "index": 0
+    },
+    {
+      "name": "ITEM2_ID",
+      "index": 1
+    },
+    {
+      "name": "RESULT_ID",
+      "index": 2
+    }
+  ]
+}

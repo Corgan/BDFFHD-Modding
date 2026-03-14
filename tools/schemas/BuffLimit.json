@@ -1,0 +1,58 @@
+{
+  "name": "BuffLimit",
+  "description": "Buff/debuff stat cap limits (13 int32s, 52 bytes)",
+  "fields": [
+    {
+      "name": "ATK",
+      "index": 0
+    },
+    {
+      "name": "MATK",
+      "index": 1
+    },
+    {
+      "name": "DEF",
+      "index": 2
+    },
+    {
+      "name": "MDEF",
+      "index": 3
+    },
+    {
+      "name": "ACC",
+      "index": 4
+    },
+    {
+      "name": "DOD",
+      "index": 5
+    },
+    {
+      "name": "CR",
+      "index": 6
+    },
+    {
+      "name": "SPD",
+      "index": 7
+    },
+    {
+      "name": "RENKI",
+      "index": 8
+    },
+    {
+      "name": "TEPPEKI",
+      "index": 9
+    },
+    {
+      "name": "SUCCESS",
+      "index": 10
+    },
+    {
+      "name": "HIT",
+      "index": 11
+    },
+    {
+      "name": "RECOVER",
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "EncountWorldmapTable",
+  "description": "Worldmap encounter revision table with day/night (21 int32s, 84 bytes)",
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "RIVISION",
+      "index": 1,
+      "count": 20
+    }
+  ]
+}

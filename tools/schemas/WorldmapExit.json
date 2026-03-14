@@ -1,0 +1,28 @@
+{
+  "name": "WorldmapExit",
+  "description": "Worldmap exit definitions (8 int32s, 32 bytes)",
+  "fields": [
+    {
+      "name": "COLLISION_NUM",
+      "index": 0
+    },
+    {
+      "name": "CMPTABLE",
+      "index": 1,
+      "count": 4
+    },
+    {
+      "name": "SCENE_NAME",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "SCENE_ENTRANCE_NUM",
+      "index": 6
+    },
+    {
+      "name": "GUID_BUTTON",
+      "index": 7
+    }
+  ]
+}

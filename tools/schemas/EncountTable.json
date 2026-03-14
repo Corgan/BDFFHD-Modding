@@ -1,0 +1,19 @@
+{
+  "name": "EncountTable",
+  "description": "Encounter rate tables",
+  "fields": [
+    {
+      "name": "EC_ID",
+      "index": 0
+    },
+    {
+      "name": "INTERVAL",
+      "index": 1
+    },
+    {
+      "name": "JUDGE_TBL",
+      "index": 2,
+      "count": 15
+    }
+  ]
+}

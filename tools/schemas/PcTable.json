@@ -1,0 +1,97 @@
+{
+  "name": "PcTable",
+  "description": "Player character base parameters (48 int32s, 192 bytes)",
+  "fields": [
+    {
+      "name": "NO",
+      "index": 0
+    },
+    {
+      "name": "CHARA_ID",
+      "index": 1
+    },
+    {
+      "name": "NAME",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "JOBID",
+      "index": 3
+    },
+    {
+      "name": "TABLE_LVID",
+      "index": 4
+    },
+    {
+      "name": "SEX",
+      "index": 5
+    },
+    {
+      "name": "LV",
+      "index": 6
+    },
+    {
+      "name": "PHYSIQUE",
+      "index": 7
+    },
+    {
+      "name": "ROLE_ID",
+      "index": 8
+    },
+    {
+      "name": "MODEL_ID",
+      "index": 9
+    },
+    {
+      "name": "CR",
+      "index": 10
+    },
+    {
+      "name": "EF_OFFSET",
+      "index": 11
+    },
+    {
+      "name": "EF_SCALE",
+      "index": 12
+    },
+    {
+      "name": "WP_SCALE",
+      "index": 13
+    },
+    {
+      "name": "ATK_NUM",
+      "index": 14
+    },
+    {
+      "name": "RHAND",
+      "index": 15
+    },
+    {
+      "name": "LHAND",
+      "index": 16
+    },
+    {
+      "name": "HEAD",
+      "index": 17
+    },
+    {
+      "name": "BODY",
+      "index": 18
+    },
+    {
+      "name": "AC",
+      "index": 19
+    },
+    {
+      "name": "JOB",
+      "index": 20,
+      "count": 24
+    },
+    {
+      "name": "SERIF",
+      "index": 44,
+      "count": 4
+    }
+  ]
+}

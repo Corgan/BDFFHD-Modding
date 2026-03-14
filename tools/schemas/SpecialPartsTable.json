@@ -1,0 +1,234 @@
+{
+  "name": "SpecialPartsTable",
+  "description": "Special move part definitions (56 int32s, 224 bytes)",
+  "fields": [
+    {
+      "name": "ID",
+      "index": 0
+    },
+    {
+      "name": "TYPE",
+      "index": 1
+    },
+    {
+      "name": "SORT_PRI",
+      "index": 2
+    },
+    {
+      "name": "DEBUG_NAME",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "NAME_PARTS",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "NAME_DOC",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "SCRIPT_ID",
+      "index": 6
+    },
+    {
+      "name": "TABLE_ID",
+      "index": 7
+    },
+    {
+      "name": "POW",
+      "index": 8
+    },
+    {
+      "name": "POW_RATE",
+      "index": 9
+    },
+    {
+      "name": "TURN",
+      "index": 10
+    },
+    {
+      "name": "MP",
+      "index": 11
+    },
+    {
+      "name": "SPIRIT",
+      "index": 12
+    },
+    {
+      "name": "AGI",
+      "index": 13
+    },
+    {
+      "name": "DEX",
+      "index": 14
+    },
+    {
+      "name": "ACC",
+      "index": 15
+    },
+    {
+      "name": "DOD",
+      "index": 16
+    },
+    {
+      "name": "CR",
+      "index": 17
+    },
+    {
+      "name": "STATE_POI",
+      "index": 18
+    },
+    {
+      "name": "STATE_BLD",
+      "index": 19
+    },
+    {
+      "name": "STATE_SLC",
+      "index": 20
+    },
+    {
+      "name": "STATE_SLP",
+      "index": 21
+    },
+    {
+      "name": "STATE_PRL",
+      "index": 22
+    },
+    {
+      "name": "STATE_STN",
+      "index": 23
+    },
+    {
+      "name": "STATE_BSK",
+      "index": 24
+    },
+    {
+      "name": "STATE_COF",
+      "index": 25
+    },
+    {
+      "name": "STATE_CHR",
+      "index": 26
+    },
+    {
+      "name": "STATE_SEN",
+      "index": 27
+    },
+    {
+      "name": "STATE_REV",
+      "index": 28
+    },
+    {
+      "name": "STATE_DTH",
+      "index": 29
+    },
+    {
+      "name": "STATE_STP",
+      "index": 30
+    },
+    {
+      "name": "STATE_LOV",
+      "index": 31
+    },
+    {
+      "name": "STATE_FRZ",
+      "index": 32
+    },
+    {
+      "name": "VALUE_ATK",
+      "index": 33
+    },
+    {
+      "name": "VALUE_MATK",
+      "index": 34
+    },
+    {
+      "name": "VALUE_DEF",
+      "index": 35
+    },
+    {
+      "name": "VALUE_MDEF",
+      "index": 36
+    },
+    {
+      "name": "VALUE_ACC",
+      "index": 37
+    },
+    {
+      "name": "VALUE_DOD",
+      "index": 38
+    },
+    {
+      "name": "VALUE_CR",
+      "index": 39
+    },
+    {
+      "name": "VALUE_SPD",
+      "index": 40
+    },
+    {
+      "name": "VALUE_RENKI",
+      "index": 41
+    },
+    {
+      "name": "VALUE_TEPPEKI",
+      "index": 42
+    },
+    {
+      "name": "VALUE_SUCCESS",
+      "index": 43
+    },
+    {
+      "name": "VALUE_HIT",
+      "index": 44
+    },
+    {
+      "name": "VALUE_RECOVER",
+      "index": 45
+    },
+    {
+      "name": "ELEM_ATK",
+      "index": 46
+    },
+    {
+      "name": "ELEM_MU",
+      "index": 47
+    },
+    {
+      "name": "ELEM_FIRE",
+      "index": 48
+    },
+    {
+      "name": "ELEM_WATER",
+      "index": 49
+    },
+    {
+      "name": "ELEM_THUNDER",
+      "index": 50
+    },
+    {
+      "name": "ELEM_WIND",
+      "index": 51
+    },
+    {
+      "name": "ELEM_SOIL",
+      "index": 52
+    },
+    {
+      "name": "ELEM_LIGHT",
+      "index": 53
+    },
+    {
+      "name": "ELEM_DARK",
+      "index": 54
+    },
+    {
+      "name": "NAME_ICON",
+      "index": 55,
+      "string": "ascii"
+    }
+  ]
+}
