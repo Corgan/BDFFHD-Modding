@@ -1,0 +1,11 @@
+{
+  "name": "ShopMasterTableMedal",
+  "description": "Medal shop NPC config: id, image, 7 messages (9 int32s, 36 bytes)",
+  "files": ["ShopMasterTable_Medal.spb"],
+  "sort_by_id": true,
+  "fields": [
+    {"name": "id", "index": 0},
+    {"name": "pImageFile", "index": 1, "string": "ascii"},
+    {"name": "pMessage", "index": 2, "string": "utf16", "count": 7}
+  ]
+}

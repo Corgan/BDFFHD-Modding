@@ -1,6 +1,7 @@
 {
   "name": "MenuItemInfoData",
   "description": "3 int32s, 12 bytes per record, 2 string fields",
+  "sort_by_id": true,
   "files": [
     "DetailInfoItemTable.btb"
   ],

@@ -1,0 +1,57 @@
+{
+  "name": "EventViewerData",
+  "description": "18 int32s, 72 bytes per record — event viewer entries",
+  "files": [
+    "EventViewer.mtb"
+  ],
+  "fields": [
+    {
+      "name": "mViewerID",
+      "index": 0
+    },
+    {
+      "name": "mDispID",
+      "index": 1
+    },
+    {
+      "name": "pScriptName",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "mEventName",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "mDispEnableFlag",
+      "index": 4
+    },
+    {
+      "name": "mWorldCount",
+      "index": 5
+    },
+    {
+      "name": "mProgressID",
+      "index": 6
+    },
+    {
+      "name": "mGameFlag",
+      "index": 7,
+      "count": 4
+    },
+    {
+      "name": "mGameInteger",
+      "index": 11
+    },
+    {
+      "name": "mSetInteger",
+      "index": 12
+    },
+    {
+      "name": "mItemID",
+      "index": 13,
+      "count": 5
+    }
+  ]
+}

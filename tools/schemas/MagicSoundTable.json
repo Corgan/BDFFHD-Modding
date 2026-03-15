@@ -1,0 +1,18 @@
+{
+  "name": "MagicSoundTable",
+  "description": "2 int32s, 8 bytes per record — magic sound labels",
+  "files": [
+    "SEMagicTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pSoundLabel",
+      "index": 1,
+      "string": "ascii"
+    }
+  ]
+}

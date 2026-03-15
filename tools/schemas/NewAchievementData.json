@@ -1,0 +1,39 @@
+{
+  "name": "NewAchievementData",
+  "description": "7 int32s, 28 bytes per record — achievement definitions",
+  "files": [
+    "NewAchievementTable.tbl"
+  ],
+  "fields": [
+    {
+      "name": "itID",
+      "index": 0
+    },
+    {
+      "name": "pictureID",
+      "index": 1
+    },
+    {
+      "name": "pTitle",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "pInfo",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "itItemID",
+      "index": 4
+    },
+    {
+      "name": "itItemNum",
+      "index": 5
+    },
+    {
+      "name": "hide",
+      "index": 6
+    }
+  ]
+}

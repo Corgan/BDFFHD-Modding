@@ -1,0 +1,12 @@
+{
+  "name": "ShopProgressTable",
+  "description": "Item progress/availability by chapter (5 int32s, 20 bytes)",
+  "files": ["ShopProgressTable.spb"],
+  "fields": [
+    {"name": "ITEM_ID", "index": 0},
+    {"name": "WORLD_0", "index": 1},
+    {"name": "WORLD_1", "index": 2},
+    {"name": "WORLD_2", "index": 3},
+    {"name": "WORLD_3", "index": 4}
+  ]
+}

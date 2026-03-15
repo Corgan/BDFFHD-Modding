@@ -1,0 +1,8 @@
+{
+  "name": "ShopMaster",
+  "description": "Shop master reference list (1 int32, 4 bytes)",
+  "file_patterns": ["TW_*_Master.spb"],
+  "fields": [
+    {"name": "SHOP_MASTER_ID", "index": 0}
+  ]
+}

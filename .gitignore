@@ -3,3 +3,4 @@ mod_project/
 __pycache__
 Il2CppDumper/
 obj/
+staging/

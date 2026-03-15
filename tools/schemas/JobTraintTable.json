@@ -1,0 +1,28 @@
+{
+  "name": "JobTraintTable",
+  "description": "4 int32s, 16 bytes per record — job training display",
+  "files": [
+    "JobTraintTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "jobId",
+      "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pArcFileName",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "pTextureName",
+      "index": 3,
+      "string": "ascii"
+    }
+  ]
+}

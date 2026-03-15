@@ -1,0 +1,43 @@
+{
+  "name": "BtlTutorialPageData",
+  "description": "7 int32s, 28 bytes per record — tutorial page content",
+  "files": [
+    "Tutorial_Data.tbl",
+    "Tutorial_Data_CATLEXS.tbl"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pSubTitle",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "type",
+      "index": 3
+    },
+    {
+      "name": "pText",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "pArchiveName",
+      "index": 5,
+      "string": "ascii"
+    },
+    {
+      "name": "pImageName",
+      "index": 6,
+      "string": "ascii"
+    }
+  ]
+}

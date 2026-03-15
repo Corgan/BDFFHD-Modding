@@ -1,0 +1,17 @@
+{
+  "name": "EquipMenuMotionTable",
+  "description": "2 int32s, 8 bytes per record — equip menu motion IDs",
+  "files": [
+    "EquipMotionTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "Id",
+      "index": 0
+    },
+    {
+      "name": "MotionId",
+      "index": 1
+    }
+  ]
+}

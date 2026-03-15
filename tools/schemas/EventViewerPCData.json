@@ -1,0 +1,26 @@
+{
+  "name": "EventViewerPCData",
+  "description": "4 int32s, 16 bytes per record — party chat event viewer",
+  "files": [
+    "EventViewerPartyChat.mtb"
+  ],
+  "fields": [
+    {
+      "name": "nViewerID",
+      "index": 0
+    },
+    {
+      "name": "mScriptID",
+      "index": 1
+    },
+    {
+      "name": "mEventName",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "mDispEnableFlag",
+      "index": 3
+    }
+  ]
+}

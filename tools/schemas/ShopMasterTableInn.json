@@ -1,0 +1,12 @@
+{
+  "name": "ShopMasterTableInn",
+  "description": "Inn NPC config: id, image, 6 messages, 3 ecpt_ids (11 int32s, 44 bytes)",
+  "files": ["ShopMasterTable_Inn.spb"],
+  "sort_by_id": true,
+  "fields": [
+    {"name": "id", "index": 0},
+    {"name": "pImageFile", "index": 1, "string": "ascii"},
+    {"name": "pMessage", "index": 2, "string": "utf16", "count": 6},
+    {"name": "ecpt_ids", "index": 8, "count": 3}
+  ]
+}

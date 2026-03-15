@@ -1,0 +1,24 @@
+{
+  "name": "TutorialIndexInfo",
+  "description": "12 int32s, 48 bytes per record — tutorial index with page array",
+  "files": [
+    "Tutorial_Index.tbl",
+    "Tutorial_Index_CATLEXS.tbl"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pageArray",
+      "index": 2,
+      "count": 10
+    }
+  ]
+}

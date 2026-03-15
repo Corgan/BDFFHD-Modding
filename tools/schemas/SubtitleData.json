@@ -1,0 +1,38 @@
+{
+  "name": "SubtitleData",
+  "description": "5 int32s, 20 bytes per record — movie/AR subtitles (timers stored as float bits)",
+  "files": [
+    "BDFF_AR_AGNES.subtitles",
+    "BDFF_AR_AIRY.subtitles",
+    "BDFF_AR_IDEA.subtitles",
+    "BDFF_AR_OPENING.subtitles",
+    "BDFF_AR_RINGABEL.subtitles",
+    "BDFF_AR_TIZ.subtitles",
+    "BDFF_BEGIN.subtitles",
+    "BDFF_END.subtitles",
+    "BDFF_PROLOGUE.subtitles"
+  ],
+  "fields": [
+    {
+      "name": "timer0ja",
+      "index": 0
+    },
+    {
+      "name": "timer1ja",
+      "index": 1
+    },
+    {
+      "name": "timer0en",
+      "index": 2
+    },
+    {
+      "name": "timer1en",
+      "index": 3
+    },
+    {
+      "name": "m_pSubtitles",
+      "index": 4,
+      "string": "utf16"
+    }
+  ]
+}

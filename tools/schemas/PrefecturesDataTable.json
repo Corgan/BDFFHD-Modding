@@ -1,0 +1,18 @@
+{
+  "name": "PrefecturesDataTable",
+  "description": "2 int32s, 8 bytes per record — prefecture names",
+  "files": [
+    "PrefecturesTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "m_PrefecturesCode",
+      "index": 0
+    },
+    {
+      "name": "m_pName",
+      "index": 1,
+      "string": "utf16"
+    }
+  ]
+}

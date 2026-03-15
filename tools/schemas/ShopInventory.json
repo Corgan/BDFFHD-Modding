@@ -1,0 +1,9 @@
+{
+  "name": "ShopInventory",
+  "description": "Shop inventory list: item ID + unlock chapter (2 int32s, 8 bytes)",
+  "file_patterns": ["TW_*_Equip.spb", "TW_*_Item.spb", "TW_*_Magic.spb", "TW_*_Inn.spb"],
+  "fields": [
+    {"name": "ITEM_ID", "index": 0},
+    {"name": "WORLD_NUM", "index": 1}
+  ]
+}

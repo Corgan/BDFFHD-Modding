@@ -1,0 +1,45 @@
+{
+  "name": "ImportTable",
+  "description": "9 int32s, 36 bytes per record — import/network data",
+  "files": [
+    "ImportTable.tbl"
+  ],
+  "fields": [
+    {
+      "name": "PARAM_00",
+      "index": 0
+    },
+    {
+      "name": "PARAM_01",
+      "index": 1
+    },
+    {
+      "name": "PARAM_02",
+      "index": 2
+    },
+    {
+      "name": "PARAM_03",
+      "index": 3
+    },
+    {
+      "name": "PARAM_04",
+      "index": 4
+    },
+    {
+      "name": "PARAM_05",
+      "index": 5
+    },
+    {
+      "name": "PARAM_06",
+      "index": 6
+    },
+    {
+      "name": "PARAM_07",
+      "index": 7
+    },
+    {
+      "name": "PARAM_08",
+      "index": 8
+    }
+  ]
+}

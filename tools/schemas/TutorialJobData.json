@@ -1,0 +1,48 @@
+{
+  "name": "TutorialJobData",
+  "description": "26 int32s, 104 bytes per record — job tutorial data with ratings",
+  "files": [
+    "TutorialJob_Data.tbl"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pArchiveName",
+      "index": 1,
+      "string": "ascii"
+    },
+    {
+      "name": "pImageName",
+      "index": 2,
+      "string": "ascii"
+    },
+    {
+      "name": "pDescription",
+      "index": 3,
+      "string": "utf16"
+    },
+    {
+      "name": "equipRating",
+      "index": 4,
+      "count": 8
+    },
+    {
+      "name": "abilityRating",
+      "index": 12,
+      "count": 12
+    },
+    {
+      "name": "pMotionArchive",
+      "index": 24,
+      "string": "ascii"
+    },
+    {
+      "name": "pMotionName",
+      "index": 25,
+      "string": "ascii"
+    }
+  ]
+}

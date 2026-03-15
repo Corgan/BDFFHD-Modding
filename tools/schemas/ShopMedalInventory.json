@@ -1,0 +1,10 @@
+{
+  "name": "ShopMedalInventory",
+  "description": "Medal shop inventory: item ID, unlock chapter, stock (3 int32s, 12 bytes)",
+  "file_patterns": ["TW_*_Medal.spb"],
+  "fields": [
+    {"name": "ITEM_ID", "index": 0},
+    {"name": "WORLD_NUM", "index": 1},
+    {"name": "STOCK", "index": 2}
+  ]
+}

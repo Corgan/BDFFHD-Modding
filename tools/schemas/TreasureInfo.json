@@ -1,0 +1,60 @@
+{
+  "name": "TreasureInfo",
+  "description": "4 int32s, 16 bytes per record — treasure chest contents",
+  "files": [
+    "EV_10.trb",
+    "EV_15.trb",
+    "ND_10.trb",
+    "ND_11.trb",
+    "ND_12.trb",
+    "ND_13.trb",
+    "ND_14.trb",
+    "ND_15.trb",
+    "ND_16.trb",
+    "ND_17.trb",
+    "ND_18.trb",
+    "ND_19.trb",
+    "ND_20.trb",
+    "ND_21.trb",
+    "ND_22.trb",
+    "ND_23.trb",
+    "ND_24.trb",
+    "ND_25.trb",
+    "ND_26.trb",
+    "ND_27.trb",
+    "ND_28.trb",
+    "ND_29.trb",
+    "ND_30.trb",
+    "ND_31.trb",
+    "ND_32.trb",
+    "ND_33.trb",
+    "TW_10.trb",
+    "TW_11.trb",
+    "TW_12.trb",
+    "TW_13.trb",
+    "TW_14.trb",
+    "TW_16.trb",
+    "TW_17.trb",
+    "TW_18.trb",
+    "TW_19.trb",
+    "TW_20.trb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "ItemId",
+      "index": 1
+    },
+    {
+      "name": "Gil",
+      "index": 2
+    },
+    {
+      "name": "Num",
+      "index": 3
+    }
+  ]
+}

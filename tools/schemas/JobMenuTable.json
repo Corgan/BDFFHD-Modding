@@ -1,0 +1,17 @@
+{
+  "name": "JobMenuTable",
+  "description": "2 int32s, 8 bytes per record — job menu data",
+  "files": [
+    "JobMenuTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "value",
+      "index": 1
+    }
+  ]
+}

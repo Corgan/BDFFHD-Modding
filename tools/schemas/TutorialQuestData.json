@@ -1,0 +1,36 @@
+{
+  "name": "TutorialQuestData",
+  "description": "6 int32s, 24 bytes per record — tutorial quest definitions",
+  "files": [
+    "TutorialQuestTable.tbl",
+    "TutorialQuestTable_CATLEXS.tbl"
+  ],
+  "fields": [
+    {
+      "name": "itID",
+      "index": 0
+    },
+    {
+      "name": "pTitle",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pInfo",
+      "index": 2,
+      "string": "utf16"
+    },
+    {
+      "name": "itItemID",
+      "index": 3
+    },
+    {
+      "name": "itItemNum",
+      "index": 4
+    },
+    {
+      "name": "itIndex",
+      "index": 5
+    }
+  ]
+}

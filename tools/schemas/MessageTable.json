@@ -1,0 +1,84 @@
+{
+  "name": "MessageTable",
+  "description": "7 int32s, 28 bytes per record — event/location dialog text",
+  "files": [
+    "EV_10.txb",
+    "EV_11.txb",
+    "EV_13.txb",
+    "EV_14.txb",
+    "EV_15.txb",
+    "EV_20.txb",
+    "EV_30.txb",
+    "EV_40.txb",
+    "ND_10.txb",
+    "ND_11.txb",
+    "ND_12.txb",
+    "ND_13.txb",
+    "ND_14.txb",
+    "ND_15.txb",
+    "ND_16.txb",
+    "ND_17.txb",
+    "ND_18.txb",
+    "ND_19.txb",
+    "ND_20.txb",
+    "ND_21.txb",
+    "ND_22.txb",
+    "ND_23.txb",
+    "ND_24.txb",
+    "ND_25.txb",
+    "ND_26.txb",
+    "ND_27.txb",
+    "ND_28.txb",
+    "ND_29.txb",
+    "ND_30.txb",
+    "ND_31.txb",
+    "ND_32.txb",
+    "ND_33.txb",
+    "TW_10.txb",
+    "TW_11.txb",
+    "TW_12.txb",
+    "TW_13.txb",
+    "TW_14.txb",
+    "TW_15.txb",
+    "TW_16.txb",
+    "TW_17.txb",
+    "TW_18.txb",
+    "TW_19.txb",
+    "TW_20.txb",
+    "WD_00.txb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "noChange",
+      "index": 1
+    },
+    {
+      "name": "windowType",
+      "index": 2
+    },
+    {
+      "name": "pPostName",
+      "index": 3,
+      "string": "ascii"
+    },
+    {
+      "name": "pCharaName",
+      "index": 4,
+      "string": "utf16"
+    },
+    {
+      "name": "pMessage",
+      "index": 5,
+      "string": "utf16"
+    },
+    {
+      "name": "pVoice",
+      "index": 6,
+      "string": "ascii"
+    }
+  ]
+}

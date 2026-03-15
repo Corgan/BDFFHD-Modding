@@ -1,0 +1,23 @@
+{
+  "name": "AiryMotion",
+  "description": "5 int32s, 20 bytes per record — Airy animation motion files",
+  "files": [
+    "AiryMotionTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "touchEnable",
+      "index": 1
+    },
+    {
+      "name": "pMotionFile",
+      "index": 2,
+      "count": 3,
+      "string": "ascii"
+    }
+  ]
+}

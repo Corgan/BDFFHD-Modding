@@ -138,8 +138,12 @@ def read_btb(filepath: str) -> BTBFile:
     return BTBFile(header, records, ascii_strings, utf16_strings)
 
 
-def write_btb(btb: BTBFile, filepath: str):
-    """Write a BTBFile back to a .btb binary file."""
+def write_btb(btb: BTBFile, filepath: str, schema: dict = None):
+    """Write a BTBFile back to a .btb binary file.
+    If schema has sort_by_id=true, records are sorted by their first field (ID)
+    to preserve binary search compatibility used by the game engine."""
+    if schema and schema.get("sort_by_id"):
+        btb.records.sort(key=lambda r: r[0])
     ints_per_record = btb.header.data_one_size // 4
 
     # Rebuild data section
@@ -263,11 +267,25 @@ for _schema in SCHEMAS.values():
     for _fname in _schema.get("files", []):
         _FILE_TO_SCHEMA[_fname] = _schema
 
+# Build pattern list for schemas with file_patterns (glob-style)
+import fnmatch
+_PATTERN_SCHEMAS = []
+for _schema in SCHEMAS.values():
+    for _pat in _schema.get("file_patterns", []):
+        _PATTERN_SCHEMAS.append((_pat, _schema))
+
 
 def auto_detect_schema(filepath: str) -> dict | None:
-    """Try to detect the schema from the filename."""
+    """Try to detect the schema from the filename (exact match or glob pattern)."""
     name = Path(filepath).name
-    return _FILE_TO_SCHEMA.get(name)
+    if name.endswith(".bak"):
+        name = name[:-4]
+    if name in _FILE_TO_SCHEMA:
+        return _FILE_TO_SCHEMA[name]
+    for pat, schema in _PATTERN_SCHEMAS:
+        if fnmatch.fnmatch(name, pat):
+            return schema
+    return None
 
 
 def cmd_info(args):
@@ -368,15 +386,21 @@ def cmd_schemas(args):
         print(f"  {'':20s}   {len(schema['fields'])} field definitions")
 
 
+BTBF_EXTENSIONS = {".btb", ".spb", ".txb", ".trb", ".mtb", ".tbl", ".subtitles"}
+
+
 def cmd_batch_dump(args):
-    """Dump all .btb files in a directory."""
+    """Dump all BTBF files in a directory (.btb, .spb, .txb, .trb, .mtb, .tbl, .subtitles)."""
     input_dir = Path(args.input_dir)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    btb_files = sorted(input_dir.rglob("*.btb"))
-    print(f"Found {len(btb_files)} .btb files")
+    exts = set(args.extensions.split(",")) if args.extensions else BTBF_EXTENSIONS
+    btb_files = sorted(f for f in input_dir.rglob("*") if f.suffix in exts and f.is_file())
+    print(f"Found {len(btb_files)} BTBF files ({', '.join(sorted(exts))})")
 
+    ok = 0
+    fail = 0
     for btb_path in btb_files:
         try:
             btb = read_btb(str(btb_path))
@@ -390,8 +414,12 @@ def cmd_batch_dump(args):
 
             tag = f" [{schema['name']}]" if schema else ""
             print(f"  ✓ {rel}{tag} → {out_path.name} ({btb.header.data_num} records)")
+            ok += 1
         except Exception as e:
             print(f"  ✗ {btb_path.name}: {e}")
+            fail += 1
+
+    print(f"\nDone: {ok} dumped, {fail} failed")
 
 
 def cmd_import(args):
@@ -532,7 +560,7 @@ def cmd_import(args):
                 return
 
     output = args.output or args.original
-    write_btb(btb, output)
+    write_btb(btb, output, schema=schema)
     print(f"Imported {len(json_records)} records, {changes} field(s) changed.", file=sys.stderr)
     print(f"Written to {output}", file=sys.stderr)
 
@@ -571,11 +599,12 @@ def main():
     sub.add_parser("schemas", help="List available schemas")
 
     # batch-dump
-    p_bd = sub.add_parser("batch-dump", help="Dump all .btb files in directory")
+    p_bd = sub.add_parser("batch-dump", help="Dump all BTBF files in directory")
     p_bd.add_argument("input_dir", help="Input directory")
     p_bd.add_argument("output_dir", help="Output directory")
     p_bd.add_argument("--auto-schema", action="store_true", default=True)
     p_bd.add_argument("--no-auto-schema", dest="auto_schema", action="store_false")
+    p_bd.add_argument("-e", "--extensions", help="Comma-separated extensions (default: all BTBF types)")
 
     # import
     p_imp = sub.add_parser("import", help="Import modified JSON dump back into a BTB file")

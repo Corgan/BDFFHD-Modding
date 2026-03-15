@@ -1,0 +1,22 @@
+{
+  "name": "GraphicTextMessage",
+  "description": "2 int32s, 8 bytes per record — graphic text list messages",
+  "files": [
+    "Battle.mtb",
+    "MainMenu.mtb",
+    "MapMenu.mtb",
+    "Others.mtb",
+    "Title.mtb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
+    }
+  ]
+}

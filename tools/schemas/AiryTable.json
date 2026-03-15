@@ -1,0 +1,39 @@
+{
+  "name": "AiryTable",
+  "description": "7 int32s, 28 bytes per record — Airy dialog menu entries",
+  "files": [
+    "AiryMenuTable.mtb"
+  ],
+  "fields": [
+    {
+      "name": "index",
+      "index": 0
+    },
+    {
+      "name": "progress",
+      "index": 1
+    },
+    {
+      "name": "wingNo",
+      "index": 2
+    },
+    {
+      "name": "exist",
+      "index": 3
+    },
+    {
+      "name": "pMapName",
+      "index": 4,
+      "string": "ascii"
+    },
+    {
+      "name": "motionTable",
+      "index": 5
+    },
+    {
+      "name": "pText",
+      "index": 6,
+      "string": "utf16"
+    }
+  ]
+}

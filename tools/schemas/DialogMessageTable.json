@@ -1,0 +1,23 @@
+{
+  "name": "DialogMessageTable",
+  "description": "3 int32s, 12 bytes per record — UI dialog messages",
+  "files": [
+    "DialogMessage.txb"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "index": 0
+    },
+    {
+      "name": "pMessage",
+      "index": 1,
+      "string": "utf16"
+    },
+    {
+      "name": "pLytName",
+      "index": 2,
+      "string": "ascii"
+    }
+  ]
+}

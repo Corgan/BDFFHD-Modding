@@ -1,0 +1,11 @@
+{
+  "name": "ShopMasterTableEquip",
+  "description": "Equipment shop NPC config: id, image, 14 messages (16 int32s, 64 bytes)",
+  "files": ["ShopMasterTable_Equip.spb"],
+  "sort_by_id": true,
+  "fields": [
+    {"name": "id", "index": 0},
+    {"name": "pImageFile", "index": 1, "string": "ascii"},
+    {"name": "pMessage", "index": 2, "string": "utf16", "count": 14}
+  ]
+}
